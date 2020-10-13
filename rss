@@ -2,11 +2,11 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:audioboom="https://audioboom.com/rss/1.0" version="2.0" xml:base="https://audioboom.com/">
 <!--
 
-      ****************************************************************
-      * Hi!  You're looking at an RSS feed.  If you're not sure what *
-      * to do here, you can visit our help center to find out more:  *
-      *                https://support.audioboom.com                 *
-      ****************************************************************
+      ***************************************************************
+      * Hi! You're looking at an RSS feed. If you're not sure what  *
+      * to do here, you can visit our help center to find out more: *
+      *                https://support.audioboom.com                *
+      ***************************************************************
 
 -->
 <channel>
@@ -15,7 +15,7 @@
 <link>https://audioboom.com/channel/Blank-Check</link>
 <atom:link href="https://audioboom.com/channels/4278829.rss" rel="self" type="application/rss+xml" />
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
-<pubDate>Sun, 16 Aug 2020 04:00:19 +0000</pubDate>
+<pubDate>Sun, 11 Oct 2020 04:00:42 +0000</pubDate>
 <language>en</language>
 <image>
   <url>https://images.theabcdn.com/i/34844137.jpg</url>
@@ -38,10 +38,303 @@
 <itunes:type>episodic</itunes:type>
 
 <item>
+  <title>Back to the Future Part II with Nicole Byer</title>
+  <link>https://audioboom.com/posts/7702916</link>
+  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7702916.mp3?modified=1602383133&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7702916.mp3?modified=1602383133&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="7271" lang="en-US" />
+  <itunes:image href="https://images.theabcdn.com/i/36987789.jpg" />
+  <media:content url="https://images.theabcdn.com/i/36987789.jpg" type="image/jpg" medium="image" />
+  <itunes:duration>7271</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>Man wouldn't it be weird to have a future controlled by a rich blond bully who hates women, steals things and is awful to everyone? Robert Zemeckis predicts a wild, kooky, and somewhat accurate 2015 with Back to the Future Part II. Comedian Nicole Byer (Nailed It, Newcomers (https://podcasts.apple.com/us/podcast/newcomers-lord-rings-lauren-lapkus-nicole-byer/id1494534953) , Why Won't You Date Me (https://headgum.com/why-wont-you-date-me-with-nicole-byer) ) helps us make sense of the different timelines, unpack the connection to Trump, analyze the film’s strategic approach to the sequel and the ultimate disappointment that hoverboards continue to not exist.
+
+This week is sponsored by:
+
+Theragun (http://theragun.com/check)
+
+Stamps.com (stamps.com (http://stamps.com/) CODE: check)
+
+Ritual (http://ritual.com/blankcheck)
+
+Subscribe to our patreon at https://www.patreon.com/blankcheck
+
+Follow us @blankcheckpod onTwitter (https://twitter.com/blankcheckpod) and Instagram (https://www.instagram.com/blankcheckpod/)
+
+Merch is available at shopblankcheckpod.myshopify.com (http://shopblankcheckpod.myshopify.com/)</description>
+  
+  <content:encoded>&lt;div&gt;Man wouldn't it be weird to have a future controlled by a rich blond bully who hates women, steals things and is awful to everyone? Robert Zemeckis predicts a wild, kooky, and somewhat accurate 2015 with Back to the Future Part II. Comedian Nicole Byer (Nailed It, &lt;a href=&quot;https://podcasts.apple.com/us/podcast/newcomers-lord-rings-lauren-lapkus-nicole-byer/id1494534953&quot;&gt;Newcomers&lt;/a&gt;, &lt;a href=&quot;https://headgum.com/why-wont-you-date-me-with-nicole-byer&quot;&gt;Why Won't You Date Me&lt;/a&gt;) helps us make sense of the different timelines, unpack the connection to Trump, analyze the film’s strategic approach to the sequel and the ultimate disappointment that hoverboards continue to not exist.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;This week is sponsored by:&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;Theragun (&lt;a href=&quot;http://theragun.com/check&quot;&gt;theragun.com/check&lt;/a&gt;)&lt;/div&gt;&lt;div&gt;
+&lt;a href=&quot;http://Stamps.com&quot;&gt;Stamps.com&lt;/a&gt; (&lt;a href=&quot;http://stamps.com/&quot;&gt;stamps.com&lt;/a&gt; CODE: check)&lt;/div&gt;&lt;div&gt;Ritual (&lt;a href=&quot;http://ritual.com/blankcheck&quot;&gt;ritual.com/blankcheck&lt;/a&gt;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Subscribe to our patreon at &lt;a href=&quot;https://www.patreon.com/blankcheck&quot;&gt;patreon.com/blankcheck&lt;/a&gt;
+&lt;/div&gt;&lt;div&gt;Follow us @blankcheckpod on&lt;a href=&quot;https://twitter.com/blankcheckpod&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.instagram.com/blankcheckpod/&quot;&gt;Instagram&lt;/a&gt;
+&lt;/div&gt;&lt;div&gt;Merch is available at &lt;a href=&quot;http://shopblankcheckpod.myshopify.com/&quot;&gt;shopblankcheckpod.myshopify.com&lt;/a&gt;
+&lt;/div&gt;</content:encoded>
+  <pubDate>Sun, 11 Oct 2020 04:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2020-10-11:/posts/7702916</guid>
+  <itunes:author>Audioboom</itunes:author>
+  <dc:creator>Audioboom</dc:creator>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Who Framed Roger Rabbit with Mike Mitchell &amp; Nick Wiger</title>
+  <link>https://audioboom.com/posts/7697423</link>
+  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7697423.mp3?modified=1601802985&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7697423.mp3?modified=1601802985&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="9171" lang="en-US" />
+  <itunes:image href="https://images.theabcdn.com/i/36987789.jpg" />
+  <media:content url="https://images.theabcdn.com/i/36987789.jpg" type="image/jpg" medium="image" />
+  <itunes:duration>9171</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>A noir for kids. Disney and Warner Bros characters together for the first and last time. Live action drama with kooky Tex Avery-style animation. There's really no movie quite like Who Framed Roger Rabbit. How long did &quot;bumping the lamp&quot; take? What's a contemporary take on Jessica and Roger Rabbit's relationship dynamics? How does the film's story mirror Hollywood? We invited the Doughboys themselves, Mike Mitchell and Nick Wiger to help us find out!
+
+This week is sponsored by:
+
+Hims (http://forhims.com/blank)
+
+Bruush (bruush.com (http://bruush.com/) CODE: Check)
+
+Noom (http://noom.com/check)
+
+Subscribe to our patreon at https://www.patreon.com/blankcheck
+
+Follow us @blankcheckpod on Twitter (https://twitter.com/blankcheckpod) and Instagram (https://www.instagram.com/blankcheckpod/)
+
+Merch is available at shopblankcheckpod.myshopify.com (http://shopblankcheckpod.myshopify.com/)</description>
+  
+  <content:encoded>&lt;div&gt;A noir for kids. Disney and Warner Bros characters together for the first and last time. Live action drama with kooky Tex Avery-style animation. There's really no movie quite like Who Framed Roger Rabbit. How long did &quot;bumping the lamp&quot; take? What's a contemporary take on Jessica and Roger Rabbit's relationship dynamics? How does the film's story mirror Hollywood? We invited the Doughboys themselves, Mike Mitchell and Nick Wiger to help us find out!&lt;br&gt;&lt;br&gt;
+&lt;/div&gt;&lt;div&gt;&lt;strong&gt;This week is sponsored by:&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;Hims (&lt;a href=&quot;http://forhims.com/blank&quot;&gt;forhims.com/blank&lt;/a&gt;)&lt;/div&gt;&lt;div&gt;Bruush (&lt;a href=&quot;http://bruush.com/&quot;&gt;bruush.com&lt;/a&gt; CODE: Check)&lt;/div&gt;&lt;div&gt;Noom (&lt;a href=&quot;http://noom.com/check&quot;&gt;noom.com/check&lt;/a&gt;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Subscribe to our patreon at &lt;a href=&quot;https://www.patreon.com/blankcheck&quot;&gt;patreon.com/blankcheck&lt;/a&gt;
+&lt;/div&gt;&lt;div&gt;Follow us &lt;strong&gt;@blankcheckpod&lt;/strong&gt; on &lt;a href=&quot;https://twitter.com/blankcheckpod&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.instagram.com/blankcheckpod/&quot;&gt;Instagram&lt;/a&gt;
+&lt;/div&gt;&lt;div&gt;Merch is available at &lt;a href=&quot;http://shopblankcheckpod.myshopify.com/&quot;&gt;shopblankcheckpod.myshopify.com&lt;/a&gt;
+&lt;/div&gt;</content:encoded>
+  <pubDate>Sun, 04 Oct 2020 09:10:32 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2020-10-04:/posts/7697423</guid>
+  <itunes:author>Audioboom</itunes:author>
+  <dc:creator>Audioboom</dc:creator>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Back to the Future</title>
+  <link>https://audioboom.com/posts/7692151</link>
+  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7692151.mp3?modified=1601250457&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7692151.mp3?modified=1601250457&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="10900" lang="en-US" />
+  <itunes:image href="https://images.theabcdn.com/i/36987789.jpg" />
+  <media:content url="https://images.theabcdn.com/i/36987789.jpg" type="image/jpg" medium="image" />
+  <itunes:duration>10900</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>It was the #1 film of 1985. It’s a theme park ride. An animated series. It spawned video games. Comic books. Musicals. It’s in the goddamn Library of Congress! And key to this series, it guaranteed Robert Zemeckis big crazy budgets for decades. Has there ever been a bigger “blank check&quot; than Back to the Future? Now make like a tree and start the episode already!
+
+This episode is sponsored by:
+
+Ritual (http://ritual.com/blankcheck)
+
+Theragun (http://theragun.com/check)
+
+Hello Fresh (HelloFresh.com/80Check (http://hellofresh.com/80Check) CODE: 80Check) 
+
+Join our Patreon at https://www.patreon.com/blankcheck
+
+Follow us @blankcheckpod on Twitter (https://twitter.com/blankcheckpod) and Instagram (https://www.instagram.com/blankcheckpod/) !
+
+Buy some real nerdy merch @ shopblankcheckpod.myshopify.com (https://shopblankcheckpod.myshopify.com/)</description>
+  
+  <content:encoded>&lt;div&gt;It was the #1 film of 1985. It’s a theme park ride. An animated series. It spawned video games. Comic books. Musicals. It’s in the goddamn Library of Congress! And key to this series, it guaranteed Robert Zemeckis big crazy budgets for decades. Has there ever been a bigger “blank check&quot; than Back to the Future? Now make like a tree and start the episode already!&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;/div&gt;&lt;div&gt;&lt;strong&gt;This episode is sponsored by:&lt;/strong&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Ritual (&lt;a href=&quot;http://ritual.com/blankcheck&quot;&gt;ritual.com/blankcheck&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Theragun (&lt;a href=&quot;http://theragun.com/check&quot;&gt;theragun.com/check&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Hello Fresh (&lt;a href=&quot;http://hellofresh.com/80Check&quot;&gt;HelloFresh.com/80Check&lt;/a&gt; CODE: 80Check) &lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;/div&gt;&lt;div&gt;Join our Patreon at &lt;a href=&quot;https://www.patreon.com/blankcheck&quot;&gt;patreon.com/blankcheck&lt;/a&gt;
+&lt;/div&gt;&lt;div&gt;Follow us &lt;strong&gt;@blankcheckpod&lt;/strong&gt; on &lt;a href=&quot;https://twitter.com/blankcheckpod&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.instagram.com/blankcheckpod/&quot;&gt;Instagram&lt;/a&gt;!&lt;/div&gt;&lt;div&gt;Buy some real nerdy merch @ &lt;a href=&quot;https://shopblankcheckpod.myshopify.com/&quot;&gt;shopblankcheckpod.myshopify.com&lt;/a&gt;
+&lt;/div&gt;</content:encoded>
+  <pubDate>Sun, 27 Sep 2020 05:04:08 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2020-09-27:/posts/7692151</guid>
+  <itunes:author>Audioboom</itunes:author>
+  <dc:creator>Audioboom</dc:creator>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Romancing the Stone with Adam Kempenaar &amp; Josh Larsen</title>
+  <link>https://audioboom.com/posts/7686732</link>
+  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7686732.mp3?modified=1600573337&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7686732.mp3?modified=1600573337&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="8394" lang="en-US" />
+  <itunes:image href="https://images.theabcdn.com/i/36987789.jpg" />
+  <media:content url="https://images.theabcdn.com/i/36987789.jpg" type="image/jpg" medium="image" />
+  <itunes:duration>8394</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>How did Robert Zemeckis go from commercial flops to a career-defining time-travelling trilogy of blank checks? It’s all thanks to his “guarantor” from 1984 - Romancing The Stone, starring Michael Douglas and Kathleen Turner. We invited Filmspotting (https://www.filmspotting.net/) ’s Adam Kempenaar and Josh Larsen to dive into Zemeckis’ first commercial success and how it set the tone for a decade of hits.
+
+This episode is sponsored by:
+
+Master Class (http://masterclass.com/check)
+
+Bombas (http://bombas.com/check)
+
+Brooklinen (brooklinen.com (http://brooklinen.com/) CODE: check)
+
+ 
+
+Join our Patreon at https://www.patreon.com/blankcheck
+
+Follow us @blankcheckpod on Twitter (https://twitter.com/blankcheckpod) and Instagram (https://www.instagram.com/blankcheckpod/) !
+
+Buy some real nerdy merch @ shopblankcheckpod.myshopify.com (https://shopblankcheckpod.myshopify.com/)</description>
+  
+  <content:encoded>&lt;div&gt;How did Robert Zemeckis go from commercial flops to a career-defining time-travelling trilogy of blank checks? It’s all thanks to his “guarantor” from 1984 - Romancing The Stone, starring Michael Douglas and Kathleen Turner. We invited &lt;a href=&quot;https://www.filmspotting.net/&quot;&gt;Filmspotting&lt;/a&gt;’s Adam Kempenaar and Josh Larsen to dive into Zemeckis’ first commercial success and how it set the tone for a decade of hits.&lt;/div&gt;&lt;div&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;/div&gt;&lt;div&gt;&lt;strong&gt;This episode is sponsored by:&lt;/strong&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Master Class (&lt;a href=&quot;http://masterclass.com/check&quot;&gt;masterclass.com/check&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Bombas (&lt;a href=&quot;http://bombas.com/check&quot;&gt;bombas.com/check&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Brooklinen (&lt;a href=&quot;http://brooklinen.com/&quot;&gt;brooklinen.com&lt;/a&gt; CODE: check)&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;Join our Patreon at &lt;a href=&quot;https://www.patreon.com/blankcheck&quot;&gt;patreon.com/blankcheck&lt;/a&gt;
+&lt;/div&gt;&lt;div&gt;Follow us &lt;strong&gt;@blankcheckpod&lt;/strong&gt; on &lt;a href=&quot;https://twitter.com/blankcheckpod&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.instagram.com/blankcheckpod/&quot;&gt;Instagram&lt;/a&gt;!&lt;/div&gt;&lt;div&gt;Buy some real nerdy merch @ &lt;a href=&quot;https://shopblankcheckpod.myshopify.com/&quot;&gt;shopblankcheckpod.myshopify.com&lt;/a&gt;
+&lt;/div&gt;</content:encoded>
+  <pubDate>Sun, 20 Sep 2020 04:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2020-09-20:/posts/7686732</guid>
+  <itunes:author>Audioboom</itunes:author>
+  <dc:creator>Audioboom</dc:creator>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Used Cars with Jason Mantzoukas &amp; Paul Scheer</title>
+  <link>https://audioboom.com/posts/7681347</link>
+  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7681347.mp3?modified=1600120013&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7681347.mp3?modified=1600120013&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="11151" lang="en-US" />
+  <itunes:image href="https://images.theabcdn.com/i/36987789.jpg" />
+  <media:content url="https://images.theabcdn.com/i/36987789.jpg" type="image/jpg" medium="image" />
+  <itunes:duration>11151</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>How Did This Get Made’s Paul Scheer (https://twitter.com/paulscheer?lang=en) (Black Monday, The League) returns with Jason Mantzoukas (Big Mouth, Brooklyn Nine-Nine) for a rare-Rated R Zemeckis – Used Cars (1980). Topics in this episode include the unique star power of Kurt Russell throughout his career, unpacking the bad luck sequence, and a general look at the state of major studio comedies.
+
+This episode is sponsored by:
+
+Better Help (http://betterhelp.com/check)
+
+Mack Weldon (http://mackweldon.com/check CODE: Check) 
+
+Hawthorne (hawthorne.co (http://hawthorne.co/) CODE: Check)
+
+ 
+
+Join our Patreon at https://www.patreon.com/blankcheck
+
+Follow us @blankcheckpod on Twitter (https://twitter.com/blankcheckpod) and Instagram (https://www.instagram.com/blankcheckpod/) !
+Merch is available at shopblankcheckpod.myshopify.com (http://shopblankcheckpod.myshopify.com/)</description>
+  
+  <content:encoded>&lt;div&gt;How Did This Get Made’s &lt;a href=&quot;https://twitter.com/paulscheer?lang=en&quot;&gt;Paul Scheer&lt;/a&gt; (Black Monday, The League) returns with Jason Mantzoukas (Big Mouth, Brooklyn Nine-Nine) for a rare-Rated R Zemeckis – Used Cars (1980). Topics in this episode include the unique star power of Kurt Russell throughout his career, unpacking the bad luck sequence, and a general look at the state of major studio comedies.&lt;/div&gt;&lt;div&gt;
+&lt;br&gt;&lt;br&gt;
+&lt;/div&gt;&lt;div&gt;&lt;strong&gt;This episode is sponsored by:&lt;/strong&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Better Help (&lt;a href=&quot;http://betterhelp.com/check&quot;&gt;betterhelp.com/check&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Mack Weldon (&lt;a href=&quot;http://mackweldon.com/check&quot;&gt;mackweldon.com/check&lt;/a&gt; CODE: Check) &lt;/li&gt;
+&lt;li&gt;Hawthorne (&lt;a href=&quot;http://hawthorne.co/&quot;&gt;hawthorne.co&lt;/a&gt; CODE: Check)&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt; &lt;/div&gt;&lt;div&gt;Join our Patreon at &lt;a href=&quot;https://www.patreon.com/blankcheck&quot;&gt;patreon.com/blankcheck&lt;/a&gt;
+&lt;/div&gt;&lt;div&gt;Follow us &lt;strong&gt;@blankcheckpod&lt;/strong&gt; on &lt;a href=&quot;https://twitter.com/blankcheckpod&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.instagram.com/blankcheckpod/&quot;&gt;Instagram&lt;/a&gt;!&lt;br&gt;Merch is available at &lt;a href=&quot;http://shopblankcheckpod.myshopify.com/&quot;&gt;shopblankcheckpod.myshopify.com&lt;/a&gt;
+&lt;/div&gt;</content:encoded>
+  <pubDate>Sun, 13 Sep 2020 05:05:47 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2020-09-13:/posts/7681347</guid>
+  <itunes:author>Audioboom</itunes:author>
+  <dc:creator>Audioboom</dc:creator>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>I Wanna Hold Your Hand with Patrick Willems</title>
+  <link>https://audioboom.com/posts/7675865</link>
+  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7675865.mp3?modified=1600120177&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7675865.mp3?modified=1600120177&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="8236" lang="en-US" />
+  <itunes:image href="https://images.theabcdn.com/i/36987789.jpg" />
+  <media:content url="https://images.theabcdn.com/i/36987789.jpg" type="image/jpg" medium="image" />
+  <itunes:duration>8236</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>Your March Madness winner series has arrived! Chosen by the listeners, our latest subject is Robert Zemeckis, a Hollywood hitmaker who gives us plenty to cover. But before we get to Forrest Gump and Back To The Future, we're starting with 1978's I Wanna Hold Your Hand, which centers on a group of girls sneaking into the Beatles games Ed Sullivan show performance.
+
+Patrick Willems (@patrickhwillems) helps us kick it all off as we talk iconic dork performances, the best Beatles movies, and the confidence in this directorial debut.
+
+This week is sponsored by:
+
+Stamps (stamps.com (http://stamps.com/) Code: CHECK)
+
+Noom (http://noom.com/check)
+
+Hims (http://forhims.com/blank)
+
+Subscribe to our patreon at https://www.patreon.com/blankcheck
+Follow us @blankcheckpod on Twitter (https://twitter.com/blankcheckpod) and Instagram (https://www.instagram.com/blankcheckpod/)
+Merch is available at shopblankcheckpod.myshopify.com (http://shopblankcheckpod.myshopify.com/)</description>
+  
+  <content:encoded>&lt;div&gt;Your March Madness winner series has arrived! Chosen by the listeners, our latest subject is Robert Zemeckis, a Hollywood hitmaker who gives us plenty to cover. But before we get to Forrest Gump and Back To The Future, we're starting with 1978's I Wanna Hold Your Hand, which centers on a group of girls sneaking into the Beatles games Ed Sullivan show performance.&lt;br&gt;&lt;br&gt;Patrick Willems (@patrickhwillems) helps us kick it all off as we talk iconic dork performances, the best Beatles movies, and the confidence in this directorial debut.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;strong&gt;This week is sponsored by:&lt;/strong&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;Stamps (&lt;a href=&quot;http://stamps.com/&quot;&gt;stamps.com&lt;/a&gt; Code: CHECK)&lt;/li&gt;
+&lt;li&gt;Noom (&lt;a href=&quot;http://noom.com/check&quot;&gt;noom.com/check&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Hims (&lt;a href=&quot;http://forhims.com/blank&quot;&gt;forhims.com/blank&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;div&gt;
+&lt;br&gt;Subscribe to our patreon at &lt;a href=&quot;https://www.patreon.com/blankcheck&quot;&gt;patreon.com/blankcheck&lt;/a&gt;&lt;br&gt;Follow us &lt;strong&gt;@blankcheckpod&lt;/strong&gt; on &lt;a href=&quot;https://twitter.com/blankcheckpod&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.instagram.com/blankcheckpod/&quot;&gt;Instagram&lt;/a&gt;&lt;br&gt;Merch is available at &lt;a href=&quot;http://shopblankcheckpod.myshopify.com/&quot;&gt;shopblankcheckpod.myshopify.com&lt;/a&gt;
+&lt;/div&gt;</content:encoded>
+  <pubDate>Sun, 06 Sep 2020 04:07:19 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2020-09-06:/posts/7675865</guid>
+  <itunes:author>Audioboom</itunes:author>
+  <dc:creator>Audioboom</dc:creator>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>The Old Guard </title>
+  <link>https://audioboom.com/posts/7670610</link>
+  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7670610.mp3?modified=1600120225&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7670610.mp3?modified=1600120225&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="7775" lang="en-US" />
+  <itunes:image href="https://images.theabcdn.com/i/37022667.jpg" />
+  <media:content url="https://images.theabcdn.com/i/37022667.jpg" type="image/jpg" medium="image" />
+  <itunes:duration>7775</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>In The Old Guard (2020), Charlize Theron, Kiki Layne, and a group of immortal warriors define why it's worth living to fight another day. Plus they look extremely cool doing it. This week, we wrap up Gina Prince-Bythewood's series with her most recent film, released on Netflix mid-pandemic. How has 2020 affected the release and how we watch it (preferably from a porch)? What do we want to see out of a sequel? What's the best Netflix movie formula? Join Griffin, David and Ben as we list our favorite Prince-Blythwood movies and what blank checks we're looking forward to in the future.
+
+This episode is sponsored by:
+MUBI (http://mubi.com/check)
+Raycon (https://rayconglobal.com/check)
+Ritual (https://ritual.com/check)
+
+Our new store is officially live! Buy the latest Blank Check merch at shopblankcheckpod.myshopify.com (https://shopblankcheckpod.myshopify.com/)</description>
+  
+  <content:encoded>&lt;div&gt;In The Old Guard (2020), Charlize Theron, Kiki Layne, and a group of immortal warriors define why it's worth living to fight another day. Plus they look extremely cool doing it. This week, we wrap up Gina Prince-Bythewood's series with her most recent film, released on Netflix mid-pandemic. How has 2020 affected the release and how we watch it (preferably from a porch)? What do we want to see out of a sequel? What's the best Netflix movie formula? Join Griffin, David and Ben as we list our favorite Prince-Blythwood movies and what blank checks we're looking forward to in the future.&lt;br&gt;&lt;br&gt;This episode is sponsored by:&lt;br&gt;&lt;a href=&quot;http://mubi.com/check&quot;&gt;MUBI&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://rayconglobal.com/check&quot;&gt;Raycon&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://ritual.com/check&quot;&gt;Ritual&lt;/a&gt;&lt;br&gt;&lt;br&gt;Our new store is officially live! Buy the latest Blank Check merch at &lt;a href=&quot;https://shopblankcheckpod.myshopify.com/&quot;&gt;shopblankcheckpod.myshopify.com&lt;/a&gt;
+&lt;/div&gt;</content:encoded>
+  <pubDate>Sun, 30 Aug 2020 04:07:10 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2020-08-30:/posts/7670610</guid>
+  <itunes:author>Audioboom</itunes:author>
+  <dc:creator>Audioboom</dc:creator>
+  <media:rights status="userCreated" />
+</item>
+<item>
+  <title>Beyond the Lights with Ayo Edebiri</title>
+  <link>https://audioboom.com/posts/7664423</link>
+  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7664423.mp3?modified=1600120198&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7664423.mp3?modified=1600120198&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="8399" lang="en-US" />
+  <itunes:image href="https://images.theabcdn.com/i/36866324.jpg" />
+  <media:content url="https://images.theabcdn.com/i/36866324.jpg" type="image/jpg" medium="image" />
+  <itunes:duration>8399</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description>The pressures of fame as a young pop star navigating the music industry. An overbearing, success driven mother. A quote loving cop with a big heart. Beyond the Lights is an epic film packed with drama, comedy, music and romance. This week, comedian Ayo Edebiri (Iconography podcast (https://foreverdogpodcasts.com/podcasts/iconography/) ) returns to discuss Gugu Mbatha-Raw’s career trajectory, viral realism, wearing the Larry Crowne and Ayo's work as the unofficial showrunner for The Kominsky Method.
+
+This episode is sponsored by:
+MUBI (http://mubi.com/check)
+Brooklinen (http://brooklinen.com/) (CODE: Check)
+Better Help (http://betterhelp.com/check)</description>
+  
+  <content:encoded>&lt;div&gt;The pressures of fame as a young pop star navigating the music industry. An overbearing, success driven mother. A quote loving cop with a big heart. Beyond the Lights is an epic film packed with drama, comedy, music and romance. This week, comedian Ayo Edebiri (&lt;a href=&quot;https://foreverdogpodcasts.com/podcasts/iconography/&quot;&gt;Iconography podcast&lt;/a&gt;) returns to discuss Gugu Mbatha-Raw’s career trajectory, viral realism, wearing the Larry Crowne and Ayo's work as the unofficial showrunner for The Kominsky Method.&lt;br&gt;&lt;br&gt;This episode is sponsored by:&lt;br&gt;&lt;a href=&quot;http://mubi.com/check&quot;&gt;MUBI&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://brooklinen.com/&quot;&gt;Brooklinen&lt;/a&gt; (CODE: Check)&lt;br&gt;&lt;a href=&quot;http://betterhelp.com/check&quot;&gt;Better Help&lt;/a&gt;
+&lt;/div&gt;</content:encoded>
+  <pubDate>Sun, 23 Aug 2020 05:02:13 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2020-08-23:/posts/7664423</guid>
+  <itunes:author>Audioboom</itunes:author>
+  <dc:creator>Audioboom</dc:creator>
+  <media:rights status="userCreated" />
+</item>
+<item>
   <title>The Secret Life of Bees with Jourdain Searles</title>
   <link>https://audioboom.com/posts/7658751</link>
-  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7658751.mp3?modified=1597554706&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
-  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7658751.mp3?modified=1597554706&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="9145" lang="en-US" />
+  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7658751.mp3?modified=1598206779&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7658751.mp3?modified=1598206779&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="9145" lang="en-US" />
   <itunes:image href="https://images.theabcdn.com/i/36866324.jpg" />
   <media:content url="https://images.theabcdn.com/i/36866324.jpg" type="image/jpg" medium="image" />
   <itunes:duration>9145</itunes:duration>
@@ -50,29 +343,12 @@
   <description>A coming-of age story. Racism in America. Complex connections to motherhood. The Secret Life of Bees adaptation had a lot of themes to tackle. This week we look back to 2008 and compare the strengths and weaknesses of Prince-Bythewood’s biggest commercial success.  Critic, comedian and co-host (Bad Romance Podcast (https://podcasts.apple.com/us/podcast/bad-romance-podcast/id1261207802) ) Jourdain Searles (https://jourdainsearles.com/) returns to talk meeting celebrities at the worst moments, Hollywood’s attempts to depict the south, and underrated Queen Latifah performances.
 
 This episode is sponsored by:
-
 Keeps (http://keeps.com/check)
-
-Hawthorne (hawthorne.co (http://hawthorne.co/) CODE: Check) 
-
-Master Class (http://masterclass.com/check)
-
-Producer: Angela Ferraguto
-
-Editor: Rachel Jacobs
-
-Subscribe to our Patreon @ https://www.patreon.com/blankcheck
-
-Follow us @blankcheckpod on Twitter (https://twitter.com/blankcheckpod) and Instagram (https://www.instagram.com/blankcheckpod/) !</description>
+Hawthorne (http://hawthorne.co/) (CODE: Check)
+Master Class (http://masterclass.com/check)</description>
   
-  <content:encoded>&lt;div&gt;A coming-of age story. Racism in America. Complex connections to motherhood. The Secret Life of Bees adaptation had a lot of themes to tackle. This week we look back to 2008 and compare the strengths and weaknesses of Prince-Bythewood’s biggest commercial success.  Critic, comedian and co-host (&lt;a href=&quot;https://podcasts.apple.com/us/podcast/bad-romance-podcast/id1261207802&quot;&gt;Bad Romance Podcast&lt;/a&gt;) &lt;a href=&quot;https://jourdainsearles.com/&quot;&gt;Jourdain Searles&lt;/a&gt; returns to talk meeting celebrities at the worst moments, Hollywood’s attempts to depict the south, and underrated Queen Latifah performances.&lt;/div&gt;&lt;div&gt;
-&lt;br&gt;&lt;br&gt;
-&lt;/div&gt;&lt;div&gt;&lt;strong&gt;This episode is sponsored by:&lt;/strong&gt;&lt;/div&gt;&lt;ul&gt;
-&lt;li&gt;Keeps (&lt;a href=&quot;http://keeps.com/check&quot;&gt;keeps.com/check&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Hawthorne (&lt;a href=&quot;http://hawthorne.co/&quot;&gt;hawthorne.co&lt;/a&gt; CODE: Check) &lt;/li&gt;
-&lt;li&gt;Master Class (&lt;a href=&quot;http://masterclass.com/check&quot;&gt;masterclass.com/check&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Producer: Angela Ferraguto&lt;/div&gt;&lt;div&gt;Editor: Rachel Jacobs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Subscribe to our Patreon @ &lt;a href=&quot;https://www.patreon.com/blankcheck&quot;&gt;patreon.com/blankcheck&lt;/a&gt;
-&lt;/div&gt;&lt;div&gt;Follow us &lt;strong&gt;@blankcheckpod&lt;/strong&gt; on &lt;a href=&quot;https://twitter.com/blankcheckpod&quot;&gt;Twitter&lt;/a&gt; and &lt;a href=&quot;https://www.instagram.com/blankcheckpod/&quot;&gt;Instagram&lt;/a&gt;!&lt;/div&gt;</content:encoded>
+  <content:encoded>&lt;div&gt;A coming-of age story. Racism in America. Complex connections to motherhood. The Secret Life of Bees adaptation had a lot of themes to tackle. This week we look back to 2008 and compare the strengths and weaknesses of Prince-Bythewood’s biggest commercial success.  Critic, comedian and co-host (&lt;a href=&quot;https://podcasts.apple.com/us/podcast/bad-romance-podcast/id1261207802&quot;&gt;Bad Romance Podcast&lt;/a&gt;) &lt;a href=&quot;https://jourdainsearles.com/&quot;&gt;Jourdain Searles&lt;/a&gt; returns to talk meeting celebrities at the worst moments, Hollywood’s attempts to depict the south, and underrated Queen Latifah performances.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;This episode is sponsored by:&lt;br&gt;&lt;a href=&quot;http://keeps.com/check&quot;&gt;Keeps&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://hawthorne.co/&quot;&gt;Hawthorne&lt;/a&gt; (CODE: Check)&lt;br&gt;&lt;a href=&quot;http://masterclass.com/check&quot;&gt;Master Class&lt;/a&gt;
+&lt;/div&gt;</content:encoded>
   <pubDate>Sun, 16 Aug 2020 04:00:00 +0000</pubDate>
   <guid isPermaLink="false">tag:audioboom.com,2020-08-15:/posts/7658751</guid>
   <itunes:author>Audioboom</itunes:author>
@@ -233,8 +509,8 @@ The Truth vs Hollywood Podcast  (https://audioboom.com/channels/5017114)</descr
 <item>
   <title>Mixed Nuts with Charles Rogers </title>
   <link>https://audioboom.com/posts/7616633</link>
-  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7616633.mp3?modified=1593186966&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
-  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7616633.mp3?modified=1593186966&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="7136" lang="en-US" />
+  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7616633.mp3?modified=1600120274&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
+  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7616633.mp3?modified=1600120274&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="7136" lang="en-US" />
   <itunes:image href="https://images.theabcdn.com/i/36684316.png" />
   <media:content url="https://images.theabcdn.com/i/36684316.png" type="image/png" medium="image" />
   <itunes:duration>7136</itunes:duration>
@@ -262,7 +538,7 @@ Brooklinen (https://www.brooklinen.com/) (CODE: Check) </description>
   
   <content:encoded>&lt;div&gt;The friends are joined by Search Party director Charles Rogers to discuss this mixed bag of mixed messages of a Christmas movie that shows maybe Norah Ephron can't do black comedies. Don't worry if you haven't seen it, because this is mostly an extensive discussion about Steve Martin's career, Liev Schreiber being great in drag, and the Sondheim musical Assassins. &lt;br&gt;&lt;br&gt;Check out&lt;a href=&quot;https://www.hbomax.com/sp?utm_id=sa%7c71700000068498215%7c58700006069882428%7cp54907110273&amp;amp;gclid=EAIaIQobChMI4u_squmd6gIVoAiICR1kswrFEAAYASAAEgIwpfD_BwE&amp;amp;gclsrc=aw.ds&quot;&gt;  Search Party Season 3&lt;/a&gt; on HBO Max, RIGHT NOW! &lt;br&gt;&lt;br&gt;&lt;strong&gt;&lt;em&gt;For the month of June we will be spotlighting groups dedicated to and run by Black trans and non-binary people who need our help.&lt;/em&gt;&lt;/strong&gt;
 &lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;This week's organization is:&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;The Marsha P. Johnson Institute&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://marshap.org/donate/&quot;&gt;marshap.org/donate/&lt;/a&gt;&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://twitter.com/MPJInstitute&quot;&gt;twitter.com/MPJInstitute&lt;/a&gt;&lt;/div&gt;&lt;div&gt;
-&lt;br&gt;&lt;br&gt;This episode is sponsored by:&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://www.theragun.com/us/en-us/4th-generation-devices/?src=check&quot;&gt;Theragun&lt;/a&gt;&lt;/div&gt;&lt;div&gt;
+&lt;br&gt;This episode is sponsored by:&lt;/div&gt;&lt;div&gt;&lt;a href=&quot;https://www.theragun.com/us/en-us/4th-generation-devices/?src=check&quot;&gt;Theragun&lt;/a&gt;&lt;/div&gt;&lt;div&gt;
 &lt;a href=&quot;https://www.brooklinen.com/&quot;&gt;Brooklinen&lt;/a&gt; (CODE: Check) &lt;/div&gt;</content:encoded>
   <pubDate>Sun, 28 Jun 2020 04:00:00 +0000</pubDate>
   <guid isPermaLink="false">tag:audioboom.com,2020-06-25:/posts/7616633</guid>
@@ -440,23 +716,6 @@ The Shivering Truth on Adult Swim (https://www.adultswim.com/videos/the-shiverin
   <dc:creator>Audioboom</dc:creator>
   <itunes:keywords>thetwofriends</itunes:keywords>
   <media:keywords>thetwofriends</media:keywords>
-  <media:rights status="userCreated" />
-</item>
-<item>
-  <title>Paramount Presents: Wayne’s World Live Watch Party</title>
-  <link>https://audioboom.com/posts/7580611</link>
-  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7580611.mp3?modified=1589490060&amp;source=rss&amp;stitched=1" length="0" type="audio/mpeg" />
-  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7580611.mp3?modified=1589490060&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="331" lang="en-US" />
-  <itunes:duration>331</itunes:duration>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:episodeType>full</itunes:episodeType>
-  <description>Griffin Newman joined by guest co-host Ben Hosley invite you to join them for a screening of Wayne's World this Friday, May 15th at 8pm ET / 5pm PT on www.cya.live!</description>
-  
-  <content:encoded>&lt;div&gt;Griffin Newman joined by guest co-host Ben Hosley invite you to join them for a screening of Wayne's World this Friday, May 15th at 8pm ET / 5pm PT on &lt;a href=&quot;http://www.cya.live&quot;&gt;www.cya.live&lt;/a&gt;!&lt;/div&gt;</content:encoded>
-  <pubDate>Wed, 13 May 2020 04:00:00 +0000</pubDate>
-  <guid isPermaLink="false">tag:audioboom.com,2020-05-13:/posts/7580611</guid>
-  <itunes:author>Audioboom</itunes:author>
-  <dc:creator>Audioboom</dc:creator>
   <media:rights status="userCreated" />
 </item>
 <item>
