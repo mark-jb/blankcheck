@@ -1,10 +1,12 @@
+#!/usr/bin/python3
+
 import json
 import requests
 import csv
 import urllib.parse as ul
 import sys
 
-def get_movie_id(title):
+def get_movie_id_from_title(title):
     """ Get a movie id from the title"""
     print("getting movie id for " + title)
     enc_title = ul.quote_plus(title)
@@ -15,13 +17,26 @@ def get_movie_id(title):
     responsedict = response.json()
     if len(responsedict['results']) > 0:
         print('got results')
-        print(f"{responsedict['results'][0]['original_title']} has ID: {responsedict['results'][0]['id']}")
+        print('{:s} has ID: {:d}'.format(responsedict['results'][0]['original_title'],responsedict['results'][0]['id']))
         return str(responsedict['results'][0]['id'])
     return None
+
+def clean_cast_response(cast_list)
+    for cast_member in cast_list
+        
 
 def get_cast_from_id(movie_id):
     """ Get the cast of a movie in a dict from the movie id"""
     print("searching for cast of movie id " + movie_id)
+    url = 'https://api.themoviedb.org/3/movie/' + movie_id + '/credits?api_key=' + key
+    response = requests.get(url)
+    responsedict = response.json()
+    print(responsedict['cast'])
+#    if len(responsedict['results']) > 0:
+#        print('got results')
+#        print(responsedict['results'])
+#        return str(responsedict['results'][0])
+    return None
 
 def get_cast_from_title(title):
     """ Get the cast of a movie in a dict from the movie title"""
@@ -44,16 +59,20 @@ with open('episodes.csv', mode='r') as csv_file:
     line_count = 0
     for row in csv_reader:
         if line_count == 0:
-            print(f'Column names are {", ".join(row)}')
+            print('Column names are {:s}'.format(", ".join(row)))
             line_count += 1
-        print(f'\t{row["movie"]} is episode {row["ep_num"]}.')
+        print('\t{:s} is episode {:s}.'.format(row["movie"],row["ep_num"]))
 
-        # search IDs of movies
-        get_cast_from_title(row["movie"])
+        # search IDs of movie
+        movie_id = get_movie_id_from_title(row["movie"])
+        if movie_id:
+            print("Getting cast for movie ID {:s}".format(movie_id))
+            cast = get_cast_from_id(movie_id)
+        # get_cast_from_title(row["movie"])
 
 
         line_count += 1
-    print(f'Processed {line_count} movies.')
+    print('Processed {:d} movies.'.format(line_count))
 
 
 # for each movie, pull cast list
