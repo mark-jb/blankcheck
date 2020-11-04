@@ -6,9 +6,9 @@ ep_num,movie
 23,Fant4stic
 24,Revenge Of The Sith
 30,The Clone Wars (2005)
-34,Star Wars: A New Hope
-35,Star Wars: The Empire Strikes Back
-36,Star Wars: Return of the Jedi
+34,Star Wars
+35,The Empire Strikes Back
+36,Return of the Jedi
 37,Star Wars: The Force Awakens
 38,The Star Wars Holiday Special
 40,Praying with Anger
