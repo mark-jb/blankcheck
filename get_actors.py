@@ -102,7 +102,7 @@ actorfile.close()
 
 outfile = open("MetaActorSeries", "w")
 
-printing_threshold = 5
+printing_threshold = 1
 for actor in all_actors:
     if len(master_cast_list[actor]) < printing_threshold:
         continue
