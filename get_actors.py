@@ -61,11 +61,18 @@ key = f.readline()
 key = key.strip()
 print(key)
 
+out_meta = 'MetaActorSeries.main'
+out_actors = 'actors.main.json'
+in_csv = 'episodes.csv'
+out_meta = 'MetaActorSeries.patreon'
+out_actors = 'actors.patreon.json'
+in_csv = 'episodes.patreon.csv'
+
 master_cast_list = {}
 master_movie_list = {}
 # Read list of movies
 
-with open('episodes.csv', mode='r') as csv_file:
+with open(in_csv, mode='r') as csv_file:
     csv_reader = csv.DictReader(csv_file)
     line_count = 0
     for row in csv_reader:
@@ -95,12 +102,12 @@ all_actors = list(master_cast_list.keys())
 all_actors.sort()
 #print(all_actors)
 
-actorfile = open("actors.json", "w")
+actorfile = open(out_actors, "w")
 actorjson = json.dumps(master_cast_list)
 actorfile.write(actorjson)
 actorfile.close()
 
-outfile = open("MetaActorSeries", "w")
+outfile = open(out_meta, "w")
 
 printing_threshold = 1
 for actor in all_actors:

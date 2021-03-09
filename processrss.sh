@@ -1,11 +1,21 @@
 epnum=1
+feed="BC"
+if [[ ! -z "$1" ]]
+then
+  feed=$1
+fi
+
 grep "<title>" | tail --lines=+3 | sed 's/^ *//' | sed 's/<\/*title>//g' | tac | while read line;
 do
 #  echo $line
   echo $line | sed 's, */ *,\n,g' | while read title;
   do
     cleantitle=$(echo $title | sed 's/ with.*//;s/^Praying$/Praying with Anger/')
-    echo $epnum,$cleantitle
+    cleantitle=$(echo $title | sed 's/Mission: Impossible$/Mission: Impossible 1/')
+    cleantitle=$(echo $title | sed 's/Mission: Impossible 2$/Mission: Impossible ii/')
+    cleantitle=$(echo $title | sed 's/Mission: Impossible 3$/Mission: Impossible iii/')
+    cleantitle=$(echo $title | sed 's/Thor$/Thor 1/')
+    echo $feed,$epnum,$cleantitle
   done
   epnum=$((epnum+1))
 done
