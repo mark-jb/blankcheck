@@ -1,11 +1,16 @@
 epnum=1
 feed="BC"
-if [[ ! -z "$1" ]]
+if [[ -z "$1" ]]
 then
-  feed=$1
+  echo "Need file name as first arg"
+  exit 1
+fi
+if [[ ! -z "$2" ]]
+then
+  feed=$2
 fi
 
-grep "<title>" | tail --lines=+3 | sed 's/^ *//' | sed 's/<\/*title>//g' | tac | while read line;
+grep "<title>" $1 | tail --lines=+3 | sed 's/^ *//' | sed 's/<\/*title>//g' | tac | while read line;
 do
 #  echo $line
   echo $line | sed 's, */ *,\n,g' | while read title;
