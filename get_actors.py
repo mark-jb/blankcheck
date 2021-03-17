@@ -72,8 +72,8 @@ master_cast_list = {}
 master_movie_list = {}
 # Read list of movies
 
-with open(in_csv, mode='r') as csv_file:
-    csv_reader = csv.DictReader(csv_file)
+with open(in_csv, mode='r') as csv_movielist:
+    csv_reader = csv.DictReader(csv_movielist)
     line_count = 0
     for row in csv_reader:
         if line_count == 0:
@@ -85,13 +85,14 @@ with open(in_csv, mode='r') as csv_file:
         # search IDs of movie
         movie_id = get_movie_id_from_title(movie)
         if movie_id:
+            
             #print("Getting cast for movie ID {:s}".format(movie_id))
-            movie_cast = get_cast_from_id(movie_id)
-            for actor in movie_cast:
+            #movie_cast = get_cast_from_id(movie_id)
+            #for actor in movie_cast:
                 #print('Adding movie {:s} to actor {:s}'.format(movie, actor))
-                if not actor in master_cast_list:
-                    master_cast_list[actor] = []
-                master_cast_list[actor].append(movie)
+                #if not actor in master_cast_list:
+                #    master_cast_list[actor] = []
+                #master_cast_list[actor].append(movie)
         # get_cast_from_title(row["movie"])
 
 

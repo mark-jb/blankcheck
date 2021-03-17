@@ -23,12 +23,12 @@ def add_feed(filename, shortform, dateformat):
         #print(date.text, title.text)
         date = datetime.datetime.strptime(date.text, dateformat)
         date = date.replace(tzinfo=timezone.utc)
-        print(date)
+        #print(date)
         ep = {}
-        ep["date"] = date
-        ep["title"] = title.text
-        ep["num"] = ep_num
+        ep["date"] = date.isoformat()
         ep["feed"] = shortform
+        ep["ep_num"] = str(ep_num)
+        ep["title"] = title.text
         ep_num += 1
         #print(ep)
         episodes.append(ep)
@@ -37,11 +37,16 @@ def getDate(e):
     return e["date"]
     
 def main():
-    add_feed("rss", "EP", '%a, %d %b %Y %H:%M:%S %z')
-    add_feed("rsspatreon", "BCSF", '%a, %d %b %Y %H:%M:%S %Z')
+    add_feed("rss", "main", '%a, %d %b %Y %H:%M:%S %z')
+    add_feed("rsspatreon", "patreon", '%a, %d %b %Y %H:%M:%S %Z')
     episodes.sort(key=getDate)
-    for episode in episodes:
-        print(episode["feed"], episode["num"], episode["title"])
+    with open('feed.processed', 'w') as f:
+        writer = csv.writer(f, episodes[0].keys())
+        writer.writerow(episodes[0].keys())
+        for e in episodes:
+          #  print(e["date"].isoformat() + ',' + e["feed"] + ',' + str(e["num"]) + ',' + e["title"])
+            print(e)
+            writer.writerow(e.values())
 
 
 if __name__ == "__main__":
