@@ -32,7 +32,7 @@ main_replacements = {
         "244": ["Caged Heat","Crazy Mama","Fighting Mad"],
         "245": ["Citizens Band","Last Embrace"],
         "246": ["Melvin and Howard"],
-        "246": ["A Master Builder", "Playmobil: The Movie"]
+        "260": ["A Master Builder", "Playmobil: The Movie"]
         }
 patreon_replacements = {
         "53": ["THX-1138", "American Graffiti"],
