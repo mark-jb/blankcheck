@@ -1,0 +1,344 @@
+date,feed,ep_num,title,movie,guest
+2015-03-23T19:14:01+00:00,main,1,In A Galaxy Far Far Away… - The Phantom Podcast,The Phantom Menace,
+2015-06-08T17:56:52+00:00,main,12,Judging The Judge,The Judge,
+2015-06-22T18:43:50+00:00,main,13,Unrest In The Galactic Senate - Attack Of The Podcast,Attack of the Clones,
+2015-09-14T18:21:55+00:00,main,23,The Podcastic Two,The Fantastic Four,
+2015-09-14T18:21:55+00:00,main,23,The Podcastic Two,Fant4stic,
+2015-09-21T20:23:38+00:00,main,24,The Beginning of The End - Revenge Of The Podcast,Revenge of the Sith,
+2015-12-07T07:15:24+00:00,main,34,A New Podcast,Star Wars: A New Hope,
+2015-12-14T20:59:35+00:00,main,35,The Podcast Strikes Back,The Empire Strikes Back,
+2015-12-17T05:00:00+00:00,main,36,Return of the Podcast,Return of the Jedi,
+2015-12-21T05:00:00+00:00,main,37,The Podcast Awakens,The Force Awakens,
+2015-12-24T05:00:00+00:00,main,38,The Podcast Holiday Special with Pilot Viruet,The Star Wars Holiday Special,Pilot Viruet
+2016-01-26T04:46:10+00:00,main,40,Praying with Anger/Wide Awake,Praying with Anger,
+2016-01-26T04:46:10+00:00,main,40,Praying with Anger/Wide Awake,Wide Awake,
+2016-02-01T22:53:22+00:00,main,41,The Sixth Sense with Katey Rich,The Sixth Sense,Katey Rich
+2016-02-08T17:13:15+00:00,main,42,Unbreakable with Matt Patches,Unbreakable,Matt Patches
+2016-02-15T05:00:00+00:00,main,43,Signs with Murf Meyer and Diana Kolsky,Signs,Murf Meyer and Diana Kolsky
+2016-02-29T05:00:00+00:00,main,45,The Village with David Ehrlich,The Village,David Ehrlich
+2016-03-07T07:00:00+00:00,main,46,Lady in the Water with Richard Lawson,Lady in the Water,Richard Lawson
+2016-03-14T16:45:19+00:00,main,47,The Happening,The Happening,
+2016-03-18T22:25:54+00:00,main,48,The Last Airbender with Seaton Smith,The Last Airbender,Seaton Smith
+2016-03-25T20:05:48+00:00,main,49,After Earth with James III,After Earth,James III
+2016-04-01T17:29:33+00:00,main,50,The Visit with Louis Peitzman,The Visit,Louis Peitzman
+2016-04-12T17:06:17+00:00,main,51,The Buried Secret of M. Night Shyamalan,The Buried Secret of M. Night Shyamalan,
+2016-04-18T17:31:15+00:00,main,52,Bound,Bound,
+2016-04-22T16:18:45+00:00,main,53,Batman v Superman: Dawn of Justice - The Lost Episode,Batman v Superman: Dawn of Justice,
+2016-04-25T16:22:01+00:00,main,54,The Matrix,The Matrix,
+2016-04-28T22:44:21+00:00,main,55,The Matrix Reloaded,The Matrix Reloaded,
+2016-05-05T20:25:09+00:00,main,56,The Matrix Revolutions,The Matrix Revolutions,
+2016-05-16T16:59:37+00:00,main,57,Speed Racer with Emily Yoshida and J.D. Amato,Speed Racer,Emily Yoshida and J.D. Amato
+2016-05-20T00:00:00+00:00,main,58,Cloud Atlas with Bobby Finger,Cloud Atlas,Bobby Finger
+2016-05-27T22:45:02+00:00,main,59,Jupiter Ascending,Jupiter Ascending,
+2016-06-03T23:19:16+00:00,main,60,Sense8,Sense8,
+2016-06-10T18:46:53+00:00,main,61,The Animatrix,The Animatrix,
+2016-06-17T20:09:34+00:00,main,62,Fletch,Fletch,
+2016-06-23T15:41:18+00:00,main,63,Say Anything…,Say Anything…,
+2016-06-30T18:40:52+00:00,main,64,Singles,Singles,
+2016-07-07T17:33:40+00:00,main,65,Jerry Maguire,Jerry Maguire,
+2016-07-15T19:18:49+00:00,main,66,Almost Famous,Almost Famous,
+2016-07-22T23:01:51+00:00,main,67,Vanilla Sky with Richard Lawson,Vanilla Sky,Richard Lawson
+2016-07-26T20:59:32+00:00,main,68,Denim Invasion Live @ DCM18 with John Trowbridge,Denim Invasion Live @ DCM18,John Trowbridge
+2016-08-06T22:42:43+00:00,main,69,Suicide Squad,Suicide Squad,
+2016-08-11T19:54:10+00:00,main,70,Elizabethtown,Elizabethtown,
+2016-08-22T00:22:05+00:00,main,71,We Bought a Zoo,We Bought a Zoo,
+2016-08-26T22:38:02+00:00,main,72,Aloha with Esther Zuckerman,Aloha,Esther Zuckerman
+2016-09-04T21:16:18+00:00,main,73,Roadies with Layne Montgomery,Roadies,Layne Montgomery
+2016-09-07T17:11:30+00:00,main,74,Under Siege 2: Dark Territory,Under Siege 2: Dark Territory,
+2016-09-18T22:00:00+00:00,main,75,Piranha II: The Spawning,Piranha II: The Spawning,
+2016-09-25T22:00:00+00:00,main,76,The Terminator with Rachel Sanders,The Terminator,Rachel Sanders
+2016-10-01T23:39:58+00:00,main,77,Aliens with Fran Hoepfner,Aliens,Fran Hoepfner
+2016-10-07T21:54:22+00:00,main,78,The Abyss with Josh Ruben,The Abyss,Josh Ruben
+2016-10-16T23:21:06+00:00,main,79,Terminator 2: Judgement Day with Sam Rogal,Terminator 2: Judgement Day,Sam Rogal
+2016-10-23T23:29:58+00:00,main,80,Jack Reacher: Never Go Back,Jack Reacher,
+2016-10-23T23:29:58+00:00,main,80,Jack Reacher: Never Go Back,Jack Reacher: Never Go Back,
+2016-10-29T00:00:00+00:00,main,81,True Lies,True Lies,
+2016-11-04T00:00:00+00:00,main,82,Titanic with Emily Yoshida and Katey Rich - Part One,Titanic,Emily Yoshida and Katey Rich - Part One
+2016-11-19T00:00:00+00:00,main,84,Aliens of the Deep/Ghosts of the Abyss,Aliens of the Deep,
+2016-11-19T00:00:00+00:00,main,84,Aliens of the Deep/Ghosts of the Abyss,Ghosts of the Abyss,
+2016-11-27T00:00:00+00:00,main,85,Avatar,Avatar,
+2016-12-10T00:00:00+00:00,main,87,The Man Who Knew Too Little,The Man Who Knew Too Little,
+2016-12-17T00:00:00+00:00,main,88,Rogue One: A Star Wars Story,Rogue One: A Star Wars Story,
+2017-01-22T00:00:00+00:00,main,92,Split,Split,
+2017-01-29T00:00:00+00:00,main,93,The Lost World: Jurassic Park,The Lost World: Jurassic Park,
+2017-02-05T00:00:00+00:00,main,94,Amistad,Amistad,
+2017-02-12T00:00:00+00:00,main,95,Saving Private Ryan with Richard Lawson,Saving Private Ryan,Richard Lawson
+2017-02-26T00:00:00+00:00,main,97,A.I. Artificial Intelligence with David Rees,A.I. Artificial Intelligence,David Rees
+2017-03-06T10:54:34+00:00,main,98,Minority Report with Joanna Robinson,Minority Report,Joanna Robinson
+2017-03-11T00:00:00+00:00,main,99,Catch Me If You Can,Catch Me If You Can,
+2017-03-18T00:00:00+00:00,main,100,Blank Check,Blank Check,
+2017-03-26T00:00:00+00:00,main,101,The Terminal with Jerah Milligan,The Terminal,Jerah Milligan
+2017-04-03T00:00:00+00:00,main,102,War of the Worlds with J.D. Amato,War of the Worlds,J.D. Amato
+2017-04-10T00:00:00+00:00,main,103,Munich with Todd VanDerWerff,Munich,Todd VanDerWerff
+2017-04-16T00:00:00+00:00,main,104,Indiana Jones and the Kingdom of the Crystal Skull with David Ehrlich,Indiana Jones and the Kingdom of the Crystal Skull,David Ehrlich
+2017-04-23T00:00:00+00:00,main,105,The Adventures of Tintin with Joe Garden,The Adventures of Tintin,Joe Garden
+2017-04-30T00:00:00+00:00,main,106,War Horse with Pilot Viruet,War Horse,Pilot Viruet
+2017-05-08T00:00:00+00:00,main,107,Lincoln,Lincoln,
+2017-05-14T00:00:00+00:00,main,108,Bridge of Spies,Bridge of Spies,
+2017-05-21T00:00:00+00:00,main,109,The BFG,The BFG,
+2017-05-29T00:00:00+00:00,main,110,Clifford,Clifford,
+2017-06-05T00:00:00+00:00,main,111,Wonder Woman,Wonder Woman,
+2017-06-18T21:00:00+00:00,main,113,The Book of Henry,The Book of Henry,
+2017-06-25T21:00:00+00:00,main,114,Following,Following,
+2017-07-02T21:00:00+00:00,main,115,Memento with Amy Nicholson,Memento,Amy Nicholson
+2017-07-09T21:00:00+00:00,main,116,Insomnia with Alex Ross Perry,Insomnia,Alex Ross Perry
+2017-07-16T21:00:00+00:00,main,117,Batman Begins,Batman Begins,
+2017-07-23T21:00:00+00:00,main,118,The Prestige with Alison Willmore,The Prestige,Alison Willmore
+2017-07-30T21:00:00+00:00,main,119,The Dark Knight,The Dark Knight,
+2017-08-06T22:02:29+00:00,main,120,Inception,Inception,
+2017-08-13T21:00:00+00:00,main,121,The Dark Knight Rises,The Dark Knight Rises,
+2017-08-27T21:00:00+00:00,main,123,Interstellar,Interstellar,
+2017-09-03T21:00:00+00:00,main,124,Dunkirk with Bilge Ebiri,Dunkirk,Bilge Ebiri
+2017-09-10T21:05:56+00:00,main,126,The Devil Wears Prada with Romilly Newman,The Devil Wears Prada,Romilly Newman
+2017-09-17T21:00:00+00:00,main,127,The Loveless,The Loveless,
+2017-09-24T21:00:00+00:00,main,128,Near Dark with Mani Lazic,Near Dark,Mani Lazic
+2017-10-01T21:00:00+00:00,main,129,Blue Steel with Jordan Hoffman,Blue Steel,Jordan Hoffman
+2017-10-08T21:00:00+00:00,main,130,Point Break with Lux Alptraum,Point Break,Lux Alptraum
+2017-10-15T21:00:00+00:00,main,131,Strange Days with Emily Yoshida,Strange Days,Emily Yoshida
+2017-10-22T21:00:00+00:00,main,132,The Weight of Water with Karen Han and Emma Stefansky,The Weight of Water,Karen Han and Emma Stefansky
+2017-10-29T21:00:00+00:00,main,133,K-19: The Widowmaker with Richard Lawson,K-19: The Widowmaker,Richard Lawson
+2017-11-05T22:00:00+00:00,main,134,The Hurt Locker with Sonia Saraiya,The Hurt Locker,Sonia Saraiya
+2017-11-12T22:00:00+00:00,main,135,Zero Dark Thirty with Demi Adejuyigbe,Zero Dark Thirty,Demi Adejuyigbe
+2017-11-19T22:00:00+00:00,main,136,Detroit with Black Men Can’t Jump In Hollywood,Detroit,Black Men Can’t Jump In Hollywood
+2017-11-26T22:20:03+00:00,main,137,Justice League,Justice League,
+2017-12-03T22:00:00+00:00,main,138,Lost in Space with Joey Sims,Lost in Space,Joey Sims
+2017-12-18T05:01:00+00:00,main,140,The Last Jedi,The Last Jedi,
+2017-12-31T22:00:00+00:00,main,141,The Post,The Post,
+2018-01-07T22:00:00+00:00,main,142,Flesh+Blood,Flesh+Blood,
+2018-01-14T22:00:00+00:00,main,143,RoboCop,RoboCop,
+2018-01-21T22:00:00+00:00,main,144,Total Recall with Andrew Jupin and Stephen Sajdak,Total Recall,Andrew Jupin and Stephen Sajdak
+2018-01-28T22:36:45+00:00,main,145,Basic Instinct with Miriam Bale,Basic Instinct,Miriam Bale
+2018-02-12T00:28:14+00:00,main,147,Showgirls with Caroline Framke,Showgirls,Caroline Framke
+2018-02-18T23:15:15+00:00,main,148,Starship Troopers with J.D. Amato,Starship Troopers,J.D. Amato
+2018-02-25T22:00:00+00:00,main,149,Hollow Man with Alex Ross Perry,Hollow Man,Alex Ross Perry
+2018-03-04T22:00:00+00:00,main,150,Elle with Emily Yoshida,Elle,Emily Yoshida
+2018-03-11T21:00:00+00:00,main,151,Running Scared with Paul Scheer,Running Scared,Paul Scheer
+2018-03-18T21:00:00+00:00,main,153,Terms of Endearment with Valorie Curry,Terms of Endearment,Valorie Curry
+2018-03-25T22:44:57+00:00,main,154,Broadcast News with Katey Rich,Broadcast News,Katey Rich
+2018-04-01T21:00:00+00:00,main,156,Ready Player One,Ready Player One,
+2018-04-08T21:00:00+00:00,main,157,I'll Do Anything with Esther Zuckerman,I'll Do Anything,Esther Zuckerman
+2018-04-15T21:00:00+00:00,main,159,As Good as It Gets with Chris Gethard,As Good as It Gets,Chris Gethard
+2018-04-22T21:00:00+00:00,main,160,Spanglish with Richard Lawson,Spanglish,Richard Lawson
+2018-04-29T21:00:00+00:00,main,161,How Do You Know,How Do You Know,
+2018-05-06T21:00:00+00:00,main,162,Josie and the Pussycats with Angela Ferraguto,Josie and the Pussycats,Angela Ferraguto
+2018-05-13T21:00:00+00:00,main,163,The Iron Giant,The Iron Giant,
+2018-05-20T21:00:00+00:00,main,164,The Incredibles with Rebecca Drysdale,The Incredibles,Rebecca Drysdale
+2018-05-27T19:00:00+00:00,main,165,Solo: A Star Wars Story,Solo: A Star Wars Story,
+2018-06-03T21:00:00+00:00,main,166,Ratatouille with Romilly Newman and Joey Sims,Ratatouille,Romilly Newman and Joey Sims
+2018-06-10T21:00:00+00:00,main,167,Mission: Impossible – Ghost Protocol,Mission: Impossible – Ghost Protocol,
+2018-06-17T21:00:00+00:00,main,168,Tomorrowland,Tomorrowland,
+2018-06-24T21:00:00+00:00,main,169,Incredibles 2,Incredibles 2,
+2018-07-01T21:00:00+00:00,main,171,Pushing Hands/The Wedding Banquet,Pushing Hands,
+2018-07-01T21:00:00+00:00,main,171,Pushing Hands/The Wedding Banquet,The Wedding Banquet,
+2018-07-08T21:00:00+00:00,main,172,Eat Drink Man Woman with Alison Willmore,Eat Drink Man Woman,Alison Willmore
+2018-07-15T21:00:00+00:00,main,173,Sense and Sensibility with Shirley Li,Sense and Sensibility,Shirley Li
+2018-07-22T21:10:13+00:00,main,174,Hotel Transylvania Trilogy,Hotel Transylvania,
+2018-07-22T21:10:13+00:00,main,174,Hotel Transylvania Trilogy,Hotel Transylvania 2,
+2018-07-22T21:10:13+00:00,main,174,Hotel Transylvania Trilogy,Hotel Transylvania 3,
+2018-07-29T21:00:00+00:00,main,175,The Ice Storm with Emily Yoshida,The Ice Storm,Emily Yoshida
+2018-08-05T21:01:19+00:00,main,176,Ride with the Devil with Peter Labuza,Ride,the Devil
+2018-08-12T21:54:54+00:00,main,177,"Crouching Tiger, Hidden Dragon with David Ehrlich","Crouching Tiger, Hidden Dragon",David Ehrlich
+2018-08-19T21:00:00+00:00,main,178,Hulk,Hulk,
+2018-08-26T21:00:00+00:00,main,179,Brokeback Mountain with Las Culturistas,Brokeback Mountain,Las Culturistas
+2018-09-02T21:00:00+00:00,main,180,"Lust, Caution with Chris Weitz","Lust, Caution",Chris Weitz
+2018-09-09T21:00:00+00:00,main,181,Taking Woodstock with Alex Ross Perry,Taking Woodstock,Alex Ross Perry
+2018-09-16T21:00:00+00:00,main,182,Life of Pi with Ray Tintori,Life of Pi,Ray Tintori
+2018-09-23T21:00:00+00:00,main,183,Billy Lynn's Long Halftime Walk with J.D. Amato,Billy Lynn's Long Halftime Walk,J.D. Amato
+2018-09-27T08:00:00+00:00,main,184,Chosen - The Hire,Chosen - The Hire,
+2018-09-30T21:00:00+00:00,main,185,Space Jam with James Newman,Space Jam,James Newman
+2018-10-08T01:07:51+00:00,main,186,A Star Is Born,A Star Is Born,
+2018-10-14T21:00:00+00:00,main,187,The Parent Trap with Elena Lazic and Mani Lazic,The Parent Trap,Elena Lazic and Mani Lazic
+2018-10-21T21:00:00+00:00,main,188,What Women Want with Lola Kirke,What Women Want,Lola Kirke
+2018-10-28T21:00:00+00:00,main,189,Something's Gotta Give with Bobby Finger,Something's Gotta Give,Bobby Finger
+2018-11-04T22:00:00+00:00,main,190,The Holiday with Fran Hoepfner,The Holiday,Fran Hoepfner
+2018-11-11T22:00:00+00:00,main,191,It's Complicated with Sarah-Violet Bliss,It's Complicated,Sarah-Violet Bliss
+2018-11-18T22:00:00+00:00,main,192,The Intern with Jamie Lee,The Intern,Jamie Lee
+2018-11-25T22:00:00+00:00,main,193,Home Again with Richard Lawson,Home Again,Richard Lawson
+2018-12-02T22:00:00+00:00,main,194,Ralph Breaks the Internet,Wreck-it Ralph,
+2018-12-02T22:00:00+00:00,main,194,Ralph Breaks the Internet,Ralph Breaks the Internet,
+2018-12-09T22:00:00+00:00,main,195,Pee-wee's Big Adventure,Pee-wee's Big Adventure,
+2018-12-16T22:00:00+00:00,main,196,Beetlejuice with Rebecca Bulnes,Beetlejuice,Rebecca Bulnes
+2018-12-23T22:00:00+00:00,main,197,Aquaman,Aquaman,
+2019-01-01T05:00:02+00:00,patreon,2,Iron Man,Iron Man,
+2019-01-06T09:00:00+00:00,main,198,Batman with K. Austin Collins,Batman,K. Austin Collins
+2019-01-13T09:00:00+00:00,main,199,Edward Scissorhands with Julio Torres,Edward Scissorhands,Julio Torres
+2019-01-21T00:06:57+00:00,main,200,Glass,Glass,
+2019-01-21T05:01:00+00:00,patreon,4,The Incredible Hulk,The Incredible Hulk,
+2019-01-27T05:00:00+00:00,main,201,Batman Returns with Emily Yoshida,Batman Returns,Emily Yoshida
+2019-02-01T05:01:00+00:00,patreon,6,Iron Man 2,Iron Man 2,
+2019-02-03T05:00:00+00:00,main,202,Ed Wood with John Hodgman,Ed Wood,John Hodgman
+2019-02-10T05:00:00+00:00,main,203,Mars Attacks! with Paul F. Tompkins,Mars Attacks!,Paul F. Tompkins
+2019-02-11T05:00:01+00:00,patreon,7,What Men Want with Angela Ferraguto,What Men Want,Angela Ferraguto
+2019-02-21T05:08:18+00:00,patreon,8,Thor,Thor,
+2019-02-24T17:00:00+00:00,main,205,Sleepy Hollow with David Lowery,Sleepy Hollow,David Lowery
+2019-03-01T05:01:01+00:00,patreon,9,Captain America: The First Avenger,Captain America: The First Avenger,
+2019-03-03T05:00:00+00:00,main,206,Planet of the Apes with Matt Singer,Planet of the Apes,Matt Singer
+2019-03-10T05:00:00+00:00,main,207,Big Fish with Chris Gethard,Big Fish,Chris Gethard
+2019-03-11T04:00:02+00:00,patreon,11,Corpse Bride with J.D. Amato,Corpse Bride,J.D. Amato
+2019-03-17T08:00:00+00:00,main,208,Charlie and the Chocolate Factory with Pilot Viruet,Charlie and the Chocolate Factory,Pilot Viruet
+2019-03-21T04:00:01+00:00,patreon,13,The Avengers,The Avengers,
+2019-03-24T04:00:00+00:00,main,209,Sweeney Todd: The Demon Barber of Fleet Street with Michael Cerveris,Sweeney Todd: The Demon Barber of Fleet Street,Michael Cerveris
+2019-03-31T05:44:15+00:00,main,210,Alice in Wonderland with Todd VanDerWerff,Alice in Wonderland,Todd VanDerWerff
+2019-04-01T04:01:00+00:00,patreon,16,Iron Man 3,Iron Man 3,
+2019-04-07T04:00:00+00:00,main,211,Dark Shadows with Jamie Loftus,Dark Shadows,Jamie Loftus
+2019-04-11T21:01:00+00:00,patreon,17,Frankenweenie with Jordan Fish,Frankenweenie,Jordan Fish
+2019-04-14T04:00:00+00:00,main,212,Big Eyes with Richard Lawson,Big Eyes,Richard Lawson
+2019-04-21T04:00:00+00:00,main,213,Miss Peregrine's Home for Peculiar Children with Emma Stefansky,Miss Peregrine's Home for Peculiar Children,Emma Stefansky
+2019-04-21T04:00:01+00:00,patreon,18,Thor: The Dark World,Thor: The Dark World,
+2019-04-28T04:00:00+00:00,main,214,Dumbo with Karen Han,Dumbo,Karen Han
+2019-05-01T04:01:00+00:00,patreon,19,Captain America: The Winter Soldier,Captain America: The Winter Soldier,
+2019-05-05T04:00:00+00:00,main,215,Assassin's Creed,Assassin's Creed,
+2019-05-12T04:00:00+00:00,main,216,Pokémon: Detective Pikachu with Dan Hernandez & Benji Samit,Pokémon: Detective Pikachu,Dan Hernandez & Benji Samit
+2019-05-19T04:00:00+00:00,main,217,Thief,Thief,
+2019-05-21T13:53:01+00:00,patreon,22,Guardians of the Galaxy,Guardians of the Galaxy,
+2019-05-26T04:00:00+00:00,main,218,The Keep with Alex Ross Perry,The Keep,Alex Ross Perry
+2019-06-01T17:55:43+00:00,patreon,23,Avengers: Age of Ultron,Avengers: Age of Ultron,
+2019-06-02T04:00:00+00:00,main,219,Manhunter with Chris Cabin and Eric Szyszka,Manhunter,Chris Cabin and Eric Szyszka
+2019-06-09T04:00:00+00:00,main,220,The Last of the Mohicans with Dana Stevens,The Last of the Mohicans,Dana Stevens
+2019-06-16T04:00:00+00:00,main,221,Heat with Jon Gabrus,Heat,Jon Gabrus
+2019-06-21T04:01:00+00:00,patreon,25,Ant-Man,Ant-Man,
+2019-06-23T04:00:00+00:00,main,222,The Insider with Andy Levy,The Insider,Andy Levy
+2019-06-30T04:00:00+00:00,main,223,Ali with Jamelle Bouie,Ali,Jamelle Bouie
+2019-07-01T04:00:02+00:00,patreon,26,Captain America: Civil War with Alejandro Kolleeny,Captain America: Civil War,Alejandro Kolleeny
+2019-07-07T04:00:00+00:00,main,224,Collateral with Katey Rich,Collateral,Katey Rich
+2019-07-14T04:00:00+00:00,main,225,Miami Vice,Miami Vice,
+2019-07-21T04:00:00+00:00,main,226,The Lion King,The Lion King,
+2019-07-21T04:01:00+00:00,patreon,28,Doctor Strange,Doctor Strange,
+2019-07-28T05:00:00+00:00,main,227,Public Enemies with Fran Hoepfner,Public Enemies,Fran Hoepfner
+2019-08-01T04:00:02+00:00,patreon,29,Guardians of the Galaxy Vol. 2 with David Ehrlich,Guardians of the Galaxy Vol. 2,David Ehrlich
+2019-08-04T04:00:00+00:00,main,229,Blackhat with Bilge Ebiri,Blackhat,Bilge Ebiri
+2019-08-11T04:00:00+00:00,main,230,The Castle of Cagliostro,The Castle of Cagliostro,
+2019-08-18T04:00:00+00:00,main,231,Nausicaä of the Valley of the Wind with Lulu Wang,Nausicaä of the Valley of the Wind,Lulu Wang
+2019-08-21T04:03:32+00:00,patreon,31,Spider-Man: Homecoming with Alex Ross Perry,Spider-Man: Homecoming,Alex Ross Perry
+2019-08-25T04:00:00+00:00,main,232,Castle in the Sky with Emily Yoshida,Castle in the Sky,Emily Yoshida
+2019-09-01T04:00:00+00:00,main,233,My Neighbor Totoro with J.D. Amato,My Neighbor Totoro,J.D. Amato
+2019-09-01T04:00:02+00:00,patreon,32,Thor: Ragnarok with Emma Stefansky,Thor: Ragnarok,Emma Stefansky
+2019-09-08T04:00:00+00:00,main,234,Kiki's Delivery Service with Caroline Framke,Kiki's Delivery Service,Caroline Framke
+2019-09-15T04:00:00+00:00,main,235,Porco Rosso with Justin Charity,Porco Rosso,Justin Charity
+2019-09-21T04:00:01+00:00,patreon,34,Black Panther with Jamelle Bouie,Black Panther,Jamelle Bouie
+2019-09-22T04:00:00+00:00,main,236,Princess Mononoke with Griffin McElroy,Princess Mononoke,Griffin McElroy
+2019-09-29T04:00:00+00:00,main,237,Spirited Away with David Rees,Spirited Away,David Rees
+2019-10-01T04:01:00+00:00,patreon,35,Avengers: Infinity War with John Hodgman,Avengers: Infinity War,John Hodgman
+2019-10-06T04:00:00+00:00,main,238,Howl's Moving Castle with David Ehrlich,Howl's Moving Castle,David Ehrlich
+2019-10-11T04:01:00+00:00,patreon,36,Whisper of the Heart with Ramona Head,Whisper of the Heart,Ramona Head
+2019-10-13T04:00:00+00:00,main,239,Joker,Joker,
+2019-10-20T04:00:00+00:00,main,240,Gemini Man,Gemini Man,
+2019-10-21T04:00:01+00:00,patreon,37,Ant-Man and the Wasp,Ant-Man and the Wasp,
+2019-10-27T04:00:00+00:00,main,241,Ponyo on the Cliff with Shirley Li,Ponyo on the Cliff,Shirley Li
+2019-11-01T04:00:02+00:00,patreon,38,Captain Marvel with Esther Zuckerman,Captain Marvel,Esther Zuckerman
+2019-11-03T04:00:00+00:00,main,242,The Wind Rises,The Wind Rises,
+2019-11-07T05:00:00+00:00,main,243,The Kingdom of Dreams and Madness,The Kingdom of Dreams and Madness,
+2019-11-10T05:00:00+00:00,main,244,Caged Heat/ Crazy Mama/ Fighting Mad,Caged Heat,
+2019-11-10T05:00:00+00:00,main,244,Caged Heat/ Crazy Mama/ Fighting Mad,Crazy Mama,
+2019-11-10T05:00:00+00:00,main,244,Caged Heat/ Crazy Mama/ Fighting Mad,Fighting Mad,
+2019-11-17T05:00:00+00:00,main,245,Citizens Band/ Last Embrace with Justin McElroy ,Citizens Band,Justin McElroy 
+2019-11-17T05:00:00+00:00,main,245,Citizens Band/ Last Embrace with Justin McElroy ,Last Embrace,Justin McElroy 
+2019-11-21T05:00:01+00:00,patreon,40,Avengers: Endgame,Avengers: Endgame,
+2019-11-24T05:00:00+00:00,main,246,Melvin and Howard (and Jordan Hoffman),Melvin and Howard,
+2019-12-01T05:00:00+00:00,main,247,Swing Shift,Swing Shift,
+2019-12-01T05:01:01+00:00,patreon,41,Spider-Man: Far From Home,Spider-Man: Far From Home,
+2019-12-08T05:00:00+00:00,main,248,Stop Making Sense with Demi Adejuyigbe,Stop Making Sense,Demi Adejuyigbe
+2019-12-11T05:00:01+00:00,patreon,42,Swimming to Cambodia with Peter Newman,Swimming to Cambodia,Peter Newman
+2019-12-15T05:00:00+00:00,main,249,Something Wild with Scott Aukerman ,Something Wild,Scott Aukerman 
+2019-12-22T05:00:00+00:00,main,250,The Rise of Skywalker ,The Rise of Skywalker ,
+2020-01-01T05:01:00+00:00,patreon,44,Solo,Solo,
+2020-01-05T05:00:00+00:00,main,251,Married to the Mob with Ang Ferraguto,Married to the Mob,Ang Ferraguto
+2020-01-12T05:00:00+00:00,main,252,Silence of the Lambs with Emily Vanderwerff,Silence of the Lambs,Emily Vanderwerff
+2020-01-19T05:00:00+00:00,main,253,Philadelphia with Richard Lawson,Philadelphia,Richard Lawson
+2020-01-21T05:01:04+00:00,patreon,46,Rogue One with Chris Weitz,Rogue One,Chris Weitz
+2020-01-26T05:00:00+00:00,main,254,Beloved with Jourdain Searles ,Beloved,Jourdain Searles 
+2020-02-01T05:00:04+00:00,patreon,48,Star Wars,Star Wars,
+2020-02-09T05:00:00+00:00,main,256,The Truth About Charlie with David Lowery,The Truth About Charlie,David Lowery
+2020-02-16T05:00:00+00:00,main,257,"Birds of Prey with Ang Ferraguto, Emma Stefansky, Ashleigh Heaton, and Preeti Chhibber",Birds of Prey,"Ang Ferraguto, Emma Stefansky, Ashleigh Heaton, and Preeti Chhibber"
+2020-02-21T05:00:02+00:00,patreon,50,The Empire Strikes Back,The Empire Strikes Back,
+2020-02-23T05:00:00+00:00,main,258,"The Manchurian Candidate with the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",The Manchurian Candidate,"the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan"
+2020-03-01T05:00:00+00:00,main,259,Rachel Getting Married with Ayo Edibiri and Olivia Craighead,Rachel Getting Married,Ayo Edibiri and Olivia Craighead
+2020-03-01T05:00:03+00:00,patreon,51,Return of the Jedi,Return of the Jedi,
+2020-03-08T05:00:00+00:00,main,260,A Master Builder with John Hodgman,A Master Builder,John Hodgman
+2020-03-11T11:33:08+00:00,patreon,53,THX 1138/American Graffiti,THX-1138,
+2020-03-11T11:33:08+00:00,patreon,53,THX 1138/American Graffiti,American Graffiti,
+2020-03-15T16:00:00+00:00,main,261,Ricki and the Flash with Bobby Finger & Lindsey Weber,Ricki and the Flash,Bobby Finger & Lindsey Weber
+2020-03-19T04:00:00+00:00,main,262,Justin Timberlake + The Tennessee Kids ,Justin Timberlake + The Tennessee Kids ,
+2020-03-21T04:00:02+00:00,patreon,55,The Force Awakens,The Force Awakens,
+2020-03-29T15:42:54+00:00,main,264,Mad Max,Mad Max,
+2020-04-01T04:00:03+00:00,patreon,57,The Last Jedi,The Last Jedi,
+2020-04-05T04:00:00+00:00,main,265,Mad Max 2: The Road Warrior with Jon Gabrus,Mad Max 2: The Road Warrior,Jon Gabrus
+2020-04-12T04:00:00+00:00,main,266,Mad Max Beyond Thunderdome with David Ehrlich,Mad Max Beyond Thunderdome,David Ehrlich
+2020-04-19T16:00:00+00:00,main,267,The Witches of Eastwick with K. Austin Collins,The Witches of Eastwick,K. Austin Collins
+2020-04-21T04:00:01+00:00,patreon,60,The Rise of Skywalker,The Rise of Skywalker,
+2020-04-26T04:00:00+00:00,main,268,Lorenzo's Oil with Bilge Ebiri,Lorenzo's Oil,Bilge Ebiri
+2020-05-01T04:16:00+00:00,patreon,61,Babe with Emily Yoshida,Babe,Emily Yoshida
+2020-05-03T14:29:51+00:00,main,269,Babe: Pig in the City with Travis McElroy,Babe: Pig in the City,Travis McElroy
+2020-05-10T04:00:00+00:00,main,270,Happy Feet with Caitlin Durante,Happy Feet,Caitlin Durante
+2020-05-11T04:01:00+00:00,patreon,62,Toy Story,Toy Story,
+2020-05-17T16:38:03+00:00,main,271,Happy Feet Two with Sara Rubin,Happy Feet Two,Sara Rubin
+2020-05-21T04:00:03+00:00,patreon,63,Toy Story 2,Toy Story 2,
+2020-05-24T04:48:02+00:00,main,272,Mad Max: Fury Road with Emily Yoshida,Mad Max: Fury Road,Emily Yoshida
+2020-05-28T08:00:00+00:00,main,273,"Twilight Zone: Nightmare at 20,000 Feet","Twilight Zone: Nightmare at 20,000 Feet",
+2020-05-31T03:30:00+00:00,main,274,Stargate,Stargate,
+2020-06-01T04:01:01+00:00,patreon,64,Toy Story 3,Toy Story 3,
+2020-06-07T04:21:50+00:00,main,275,When Harry Met Sally... with Dana Stevens,When Harry Met Sally...,Dana Stevens
+2020-06-14T04:00:00+00:00,main,276,This Is My Life with Michelle Collins,This Is My Life,Michelle Collins
+2020-06-21T04:00:00+00:00,main,277,Sleepless in Seattle with Katey Rich,Sleepless in Seattle,Katey Rich
+2020-06-21T04:00:01+00:00,patreon,66,Toy Story 4,Toy Story 4,
+2020-06-28T04:00:00+00:00,main,278,Mixed Nuts with Charles Rogers ,Mixed Nuts,Charles Rogers 
+2020-07-01T04:01:01+00:00,patreon,67,Mission: Impossible,Mission: Impossible,
+2020-07-05T04:00:00+00:00,main,279,Michael with Kevin Porter,Michael,Kevin Porter
+2020-07-11T04:00:01+00:00,patreon,68,Hanging Up with Sonia Sarayia,Hanging Up,Sonia Sarayia
+2020-07-12T04:00:00+00:00,main,280,You've Got Mail with Bobby Finger & Lindsey Weber,You've Got Mail,Bobby Finger & Lindsey Weber
+2020-07-19T04:00:00+00:00,main,281,Lucky Numbers with Alex Ross Perry,Lucky Numbers,Alex Ross Perry
+2020-07-21T04:01:00+00:00,patreon,69,Mission: Impossible 2,Mission: Impossible 2,
+2020-07-26T04:00:00+00:00,main,282,Bewitched with Dana Schwartz,Bewitched,Dana Schwartz
+2020-08-01T04:01:03+00:00,patreon,70,Mission: Impossible 3,Mission: Impossible 3,
+2020-08-02T04:00:00+00:00,main,283,Julie & Julia with Romilly Newman ,Julie & Julia,Romilly Newman 
+2020-08-09T04:00:00+00:00,main,284,Love & Basketball with Carl Tart,Love & Basketball,Carl Tart
+2020-08-11T04:15:04+00:00,patreon,71,Disappearing Acts,Disappearing Acts,
+2020-08-16T04:00:00+00:00,main,285,The Secret Life of Bees with Jourdain Searles,The Secret Life of Bees,Jourdain Searles
+2020-08-20T05:44:24+00:00,patreon,72,Mission: Impossible - Ghost Protocol,Mission: Impossible - Ghost Protocol,
+2020-08-23T05:02:13+00:00,main,286,Beyond the Lights with Ayo Edebiri,Beyond the Lights,Ayo Edebiri
+2020-08-30T04:07:10+00:00,main,287,The Old Guard ,The Old Guard ,
+2020-09-01T04:18:57+00:00,patreon,73,Mission: Impossible - Rogue Nation,Mission: Impossible - Rogue Nation,
+2020-09-06T04:07:19+00:00,main,288,I Wanna Hold Your Hand with Patrick Willems,I Wanna Hold Your Hand,Patrick Willems
+2020-09-11T04:30:16+00:00,patreon,74,The Way of the Gun,The Way of the Gun,
+2020-09-13T05:05:47+00:00,main,289,Used Cars with Jason Mantzoukas & Paul Scheer,Used Cars,Jason Mantzoukas & Paul Scheer
+2020-09-20T04:00:00+00:00,main,290,Romancing the Stone with Adam Kempenaar & Josh Larsen,Romancing the Stone,Adam Kempenaar & Josh Larsen
+2020-09-21T04:01:00+00:00,patreon,75,Mission: Impossible - Fallout,Mission: Impossible - Fallout,
+2020-09-27T05:04:08+00:00,main,291,Back to the Future,Back to the Future,
+2020-10-01T04:00:04+00:00,patreon,76,Alien,Alien,
+2020-10-04T09:10:32+00:00,main,292,Who Framed Roger Rabbit with Mike Mitchell & Nick Wiger,Who Framed Roger Rabbit,Mike Mitchell & Nick Wiger
+2020-10-11T04:00:00+00:00,main,293,Back to the Future Part II with Nicole Byer,Back to the Future Part II,Nicole Byer
+2020-10-18T04:00:00+00:00,main,294,Back to the Future Part III with Josh Gondelman,Back to the Future Part III,Josh Gondelman
+2020-10-21T04:02:09+00:00,patreon,78,Aliens,Aliens,
+2020-10-25T06:03:30+00:00,main,295,Death Becomes Her with Katey Rich,Death Becomes Her,Katey Rich
+2020-11-01T04:00:00+00:00,main,296,Forrest Gump with Jamelle Bouie,Forrest Gump,Jamelle Bouie
+2020-11-01T04:00:03+00:00,patreon,79,Alien 3,Alien 3,
+2020-11-08T14:11:49+00:00,main,297,Contact with Jamie Bell,Contact,Jamie Bell
+2020-11-15T04:45:00+00:00,main,298,What Lies Beneath with Starlee Kine,What Lies Beneath,Starlee Kine
+2020-11-21T17:01:01+00:00,patreon,81,Alien: Resurrection,Alien: Resurrection,
+2020-11-22T05:01:38+00:00,main,299,Cast Away with Nia DaCosta,Cast Away,Nia DaCosta
+2020-11-29T05:00:00+00:00,main,300,The Polar Express with Joey Sims,The Polar Express,Joey Sims
+2020-12-01T05:01:01+00:00,patreon,82,Prometheus,Prometheus,
+2020-12-06T05:00:00+00:00,main,301,Beowulf with Jordan Hoffman,Beowulf,Jordan Hoffman
+2020-12-11T05:16:20+00:00,patreon,83,Drive-In Special,Drive-In Special,
+2020-12-13T05:34:10+00:00,main,302,A Christmas Carol with Emily VanDerWerff,A Christmas Carol,Emily VanDerWerff
+2020-12-20T05:00:00+00:00,main,303,Flight with Olivia Craighead,Flight,Olivia Craighead
+2020-12-21T05:00:02+00:00,patreon,84,Alien: Covenant,Alien: Covenant,
+2020-12-27T05:30:00+00:00,main,304,The Walk with J.D. Amato,The Walk,J.D. Amato
+2021-01-01T05:00:05+00:00,patreon,85,Crocodile Dundee,Crocodile Dundee,
+2021-01-03T05:45:02+00:00,main,305,Wonder Woman 1984,Wonder Woman 1984,
+2021-01-10T05:00:00+00:00,main,306,teneT,teneT,
+2021-01-17T05:00:00+00:00,main,307,Allied with Chris Weitz,Allied,Chris Weitz
+2021-01-21T05:01:00+00:00,patreon,87,Crocodile Dundee II,Crocodile Dundee II,
+2021-01-24T10:00:00+00:00,main,308,Welcome to Marwen with Emily Yoshida,Welcome to Marwen,Emily Yoshida
+2021-01-31T04:59:00+00:00,main,309,The Witches with Richard Lawson,The Witches,Richard Lawson
+2021-02-01T05:00:04+00:00,patreon,88,Crocodile Dundee in Los Angeles,Crocodile Dundee in Los Angeles,
+2021-02-07T05:00:00+00:00,main,310,The Great Mouse Detective with Fran Hoepfner,The Great Mouse Detective,Fran Hoepfner
+2021-02-14T06:00:00+00:00,main,311,The Little Mermaid with Esther Zuckerman,The Little Mermaid,Esther Zuckerman
+2021-02-21T05:00:00+00:00,main,312,Aladdin with Jerah Milligan,Aladdin,Jerah Milligan
+2021-02-21T12:00:02+00:00,patreon,90,Star Trek: The Motion Picture,Star Trek: The Motion Picture,
+2021-02-28T04:58:00+00:00,main,313,Hercules with Larry Owens,Hercules,Larry Owens
+2021-03-01T04:58:00+00:00,patreon,91,Star Trek II: The Wrath of Khan,Star Trek II: The Wrath of Khan,
+2021-03-07T05:00:00+00:00,main,314,Treasure Planet with Emma Stefansky,Treasure Planet,Emma Stefansky
+2021-03-11T05:00:03+00:00,patreon,93,The Return of Jafar + Aladdin and the King of Thieves,The Return of Jafar,
+2021-03-11T05:00:03+00:00,patreon,93,The Return of Jafar + Aladdin and the King of Thieves,Aladdin and the King of Thieves,
+2021-03-14T05:00:00+00:00,main,315,The Princess and the Frog with James III,The Princess and the Frog,James III

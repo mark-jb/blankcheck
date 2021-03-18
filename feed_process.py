@@ -40,7 +40,7 @@ def main():
     add_feed("rss", "main", '%a, %d %b %Y %H:%M:%S %z')
     add_feed("rsspatreon", "patreon", '%a, %d %b %Y %H:%M:%S %Z')
     episodes.sort(key=getDate)
-    with open('feed.processed', 'w') as f:
+    with open('feed.processed.csv', 'w') as f:
         writer = csv.writer(f, episodes[0].keys())
         writer.writerow(episodes[0].keys())
         for e in episodes:
