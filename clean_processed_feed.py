@@ -36,6 +36,7 @@ main_replacements = {
         }
 patreon_replacements = {
         "53": ["THX-1138", "American Graffiti"],
+        "83": ["Armageddon"],
         "93": ["The Return of Jafar","Aladdin and the King of Thieves"]
         }
 
