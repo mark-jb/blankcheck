@@ -28,6 +28,7 @@ main_replacements = {
         "84": ["Aliens of the Deep", "Ghosts of the Abyss"],
         "171": ["Pushing Hands", "The Wedding Banquet"],
         "174": ["Hotel Transylvania", "Hotel Transylvania 2", "Hotel Transylvania 3"],
+        "176": ["Ride with the Devil"],
         "194": ["Wreck-it Ralph", "Ralph Breaks the Internet"],
         "244": ["Caged Heat","Crazy Mama","Fighting Mad"],
         "245": ["Citizens Band","Last Embrace"],
@@ -36,6 +37,9 @@ main_replacements = {
         }
 patreon_replacements = {
         "53": ["THX-1138", "American Graffiti"],
+        "69": ["Mission: Impossible II"],
+        "70": ["Mission: Impossible III"],
+        "79": ["Alien3"],
         "83": ["Armageddon"],
         "93": ["The Return of Jafar","Aladdin and the King of Thieves"]
         }
@@ -77,7 +81,7 @@ def clean_patreon(episode):
 
 def title_clean(episode):
     split_title = re.split('( with )', episode["title"])
-    episode["movie"] = split_title[0]
+    episode["movie"] = split_title[0].strip()
     episode["guest"] = split_title[2] if len(split_title) > 1 else ""
     if episode["feed"] == "main":
         for e in clean_main(episode):

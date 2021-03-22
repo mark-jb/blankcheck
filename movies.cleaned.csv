@@ -136,7 +136,7 @@ date,feed,ep_num,title,movie,guest
 2018-07-22T21:10:13+00:00,main,174,Hotel Transylvania Trilogy,Hotel Transylvania 2,
 2018-07-22T21:10:13+00:00,main,174,Hotel Transylvania Trilogy,Hotel Transylvania 3,
 2018-07-29T21:00:00+00:00,main,175,The Ice Storm with Emily Yoshida,The Ice Storm,Emily Yoshida
-2018-08-05T21:01:19+00:00,main,176,Ride with the Devil with Peter Labuza,Ride,the Devil
+2018-08-05T21:01:19+00:00,main,176,Ride with the Devil with Peter Labuza,Ride with the Devil,the Devil
 2018-08-12T21:54:54+00:00,main,177,"Crouching Tiger, Hidden Dragon with David Ehrlich","Crouching Tiger, Hidden Dragon",David Ehrlich
 2018-08-19T21:00:00+00:00,main,178,Hulk,Hulk,
 2018-08-26T21:00:00+00:00,main,179,Brokeback Mountain with Las Culturistas,Brokeback Mountain,Las Culturistas
@@ -240,7 +240,7 @@ date,feed,ep_num,title,movie,guest
 2019-12-08T05:00:00+00:00,main,248,Stop Making Sense with Demi Adejuyigbe,Stop Making Sense,Demi Adejuyigbe
 2019-12-11T05:00:01+00:00,patreon,42,Swimming to Cambodia with Peter Newman,Swimming to Cambodia,Peter Newman
 2019-12-15T05:00:00+00:00,main,249,Something Wild with Scott Aukerman ,Something Wild,Scott Aukerman 
-2019-12-22T05:00:00+00:00,main,250,The Rise of Skywalker ,The Rise of Skywalker ,
+2019-12-22T05:00:00+00:00,main,250,The Rise of Skywalker ,The Rise of Skywalker,
 2020-01-01T05:01:00+00:00,patreon,44,Solo,Solo,
 2020-01-05T05:00:00+00:00,main,251,Married to the Mob with Ang Ferraguto,Married to the Mob,Ang Ferraguto
 2020-01-12T05:00:00+00:00,main,252,Silence of the Lambs with Emily Vanderwerff,Silence of the Lambs,Emily Vanderwerff
@@ -259,7 +259,7 @@ date,feed,ep_num,title,movie,guest
 2020-03-11T11:33:08+00:00,patreon,53,THX 1138/American Graffiti,THX-1138,
 2020-03-11T11:33:08+00:00,patreon,53,THX 1138/American Graffiti,American Graffiti,
 2020-03-15T16:00:00+00:00,main,261,Ricki and the Flash with Bobby Finger & Lindsey Weber,Ricki and the Flash,Bobby Finger & Lindsey Weber
-2020-03-19T04:00:00+00:00,main,262,Justin Timberlake + The Tennessee Kids ,Justin Timberlake + The Tennessee Kids ,
+2020-03-19T04:00:00+00:00,main,262,Justin Timberlake + The Tennessee Kids ,Justin Timberlake + The Tennessee Kids,
 2020-03-21T04:00:02+00:00,patreon,55,The Force Awakens,The Force Awakens,
 2020-03-29T15:42:54+00:00,main,264,Mad Max,Mad Max,
 2020-04-01T04:00:03+00:00,patreon,57,The Last Jedi,The Last Jedi,
@@ -288,16 +288,16 @@ date,feed,ep_num,title,movie,guest
 2020-07-11T04:00:01+00:00,patreon,68,Hanging Up with Sonia Sarayia,Hanging Up,Sonia Sarayia
 2020-07-12T04:00:00+00:00,main,280,You've Got Mail with Bobby Finger & Lindsey Weber,You've Got Mail,Bobby Finger & Lindsey Weber
 2020-07-19T04:00:00+00:00,main,281,Lucky Numbers with Alex Ross Perry,Lucky Numbers,Alex Ross Perry
-2020-07-21T04:01:00+00:00,patreon,69,Mission: Impossible 2,Mission: Impossible 2,
+2020-07-21T04:01:00+00:00,patreon,69,Mission: Impossible 2,Mission: Impossible II,
 2020-07-26T04:00:00+00:00,main,282,Bewitched with Dana Schwartz,Bewitched,Dana Schwartz
-2020-08-01T04:01:03+00:00,patreon,70,Mission: Impossible 3,Mission: Impossible 3,
+2020-08-01T04:01:03+00:00,patreon,70,Mission: Impossible 3,Mission: Impossible III,
 2020-08-02T04:00:00+00:00,main,283,Julie & Julia with Romilly Newman ,Julie & Julia,Romilly Newman 
 2020-08-09T04:00:00+00:00,main,284,Love & Basketball with Carl Tart,Love & Basketball,Carl Tart
 2020-08-11T04:15:04+00:00,patreon,71,Disappearing Acts,Disappearing Acts,
 2020-08-16T04:00:00+00:00,main,285,The Secret Life of Bees with Jourdain Searles,The Secret Life of Bees,Jourdain Searles
 2020-08-20T05:44:24+00:00,patreon,72,Mission: Impossible - Ghost Protocol,Mission: Impossible - Ghost Protocol,
 2020-08-23T05:02:13+00:00,main,286,Beyond the Lights with Ayo Edebiri,Beyond the Lights,Ayo Edebiri
-2020-08-30T04:07:10+00:00,main,287,The Old Guard ,The Old Guard ,
+2020-08-30T04:07:10+00:00,main,287,The Old Guard ,The Old Guard,
 2020-09-01T04:18:57+00:00,patreon,73,Mission: Impossible - Rogue Nation,Mission: Impossible - Rogue Nation,
 2020-09-06T04:07:19+00:00,main,288,I Wanna Hold Your Hand with Patrick Willems,I Wanna Hold Your Hand,Patrick Willems
 2020-09-11T04:30:16+00:00,patreon,74,The Way of the Gun,The Way of the Gun,
@@ -312,7 +312,7 @@ date,feed,ep_num,title,movie,guest
 2020-10-21T04:02:09+00:00,patreon,78,Aliens,Aliens,
 2020-10-25T06:03:30+00:00,main,295,Death Becomes Her with Katey Rich,Death Becomes Her,Katey Rich
 2020-11-01T04:00:00+00:00,main,296,Forrest Gump with Jamelle Bouie,Forrest Gump,Jamelle Bouie
-2020-11-01T04:00:03+00:00,patreon,79,Alien 3,Alien 3,
+2020-11-01T04:00:03+00:00,patreon,79,Alien 3,Alien3,
 2020-11-08T14:11:49+00:00,main,297,Contact with Jamie Bell,Contact,Jamie Bell
 2020-11-15T04:45:00+00:00,main,298,What Lies Beneath with Starlee Kine,What Lies Beneath,Starlee Kine
 2020-11-21T17:01:01+00:00,patreon,81,Alien: Resurrection,Alien: Resurrection,
