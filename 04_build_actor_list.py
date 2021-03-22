@@ -60,9 +60,9 @@ with open(in_csv, mode='r') as csv_movielist:
         movie = row["movie"]
         ep_num = row["ep_num"]
         if row["feed"] == "main":
-            master_movie_list[movie] = "BC" + ep_num
+            master_movie_list[movie] = ep_num
         else:
-            master_movie_list[movie] = "BCSF" + ep_num
+            master_movie_list[movie] = "SF-" + ep_num
         #print('\t{:s} is episode {:s}.'.format(movie, ep_num))
         # search IDs of movie
         movie_id = row["movie_id"]
@@ -71,8 +71,9 @@ with open(in_csv, mode='r') as csv_movielist:
         for actor in movie_cast:
             print('Adding movie {:s} to actor {:s}'.format(movie, actor))
             if not actor in master_cast_list:
-                master_cast_list[actor] = []
-            master_cast_list[actor].append(movie)
+                master_cast_list[actor] = {}
+                master_cast_list[actor]["movies"] = []
+            master_cast_list[actor]["movies"].append(movie)
         line_count += 1
     print('Processed {:d} movies.'.format(line_count))
 
@@ -87,13 +88,13 @@ actorfile.close()
 
 outfile = open(out_meta, "w")
 
-printing_threshold = 1
+printing_threshold = 3
 for actor in all_actors:
-    if len(master_cast_list[actor]) < printing_threshold:
+    if len(master_cast_list[actor]["movies"]) < printing_threshold:
         continue
     outfile.write("\n==== " + actor + " ====\n")
-    for movie in master_cast_list[actor]:
-        outfile.write("Episode " + master_movie_list[movie] + ": " + movie + "\n")
+    for movie in master_cast_list[actor]["movies"]:
+        outfile.write(master_movie_list[movie] + ": " + movie + "\n")
 
 outfile.close()
 # for each movie, pull cast list
