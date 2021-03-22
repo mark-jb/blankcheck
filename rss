@@ -15,7 +15,7 @@
 <link>https://audioboom.com/channel/Blank-Check</link>
 <atom:link href="https://audioboom.com/channels/4278829.rss" rel="self" type="application/rss+xml" />
 <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
-<pubDate>Tue, 16 Mar 2021 14:29:54 +0000</pubDate>
+<pubDate>Sun, 21 Mar 2021 04:00:32 +0000</pubDate>
 <language>en</language>
 <image>
   <url>https://images.theabcdn.com/i/37475286.jpg</url>
@@ -37,6 +37,28 @@
 <itunes:new-feed-url>https://audioboom.com/channels/4278829.rss</itunes:new-feed-url>
 <itunes:type>episodic</itunes:type>
 
+<item>
+  <title>Moana with Lenika Cruz</title>
+  <link>https://audioboom.com/posts/7826674</link>
+  <enclosure url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7826674.mp3?modified=1616262085&amp;source=rss&amp;stitched=1" length="129500690" type="audio/mpeg" />
+  <media:content url="https://pdst.fm/e/chtbl.com/track/4E942/audioboom.com/posts/7826674.mp3?modified=1616262085&amp;source=rss&amp;stitched=1" type="audio/mpeg" medium="audio" duration="8089" lang="en-US" fileSize="129500690" />
+  <itunes:image href="https://images.theabcdn.com/i/37668544.jpg" />
+  <media:content url="https://images.theabcdn.com/i/37668544.jpg" type="image/jpg" medium="image" />
+  <itunes:duration>8089</itunes:duration>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:episodeType>full</itunes:episodeType>
+  <description><![CDATA[<div>Griffin and David are finally doing it! They are CONSIDERING THE COCONUT! In addition to the coconut they also have an in-depth conversation about Musker and Clements’ final (and best?) film together, 2016's Moana. A departure from their typical 2D animation style, and a shift from Disney’s typical Princess / Prince structure, their first fully CG film delves into a Polynesian mythology AND makes everyone cry. </div><div><br></div><div>They are joined this week by Lenika Cruz (<a href="https://www.theatlantic.com/author/lenika-cruz/">The Atlantic</a>) and discuss heavy topics like parental relationships and leaving home, as well as topics on the lighter side such as; what is the best use of The Rock, and will we be over Lin Manuel Miranda again this coming year. </div><div><br></div><div><strong>This episode is sponsored by:</strong></div><div>Noom - <a href="http://noom.com/check">noom.com/check</a>
+</div><div>
+<a href="http://mackweldon.com">Mack Weldon</a> - (CODE: CHECK)</div><div>
+<a href="https://www.3chi.com/">3CHI</a> -  (CODE: BC2021)</div><div><br></div><div>Join our Patreon at <a href="https://www.patreon.com/blankcheck">patreon.com/blankcheck</a>
+</div><div>Follow us <strong>@blankcheckpod</strong> on <a href="https://twitter.com/blankcheckpod">Twitter</a> and <a href="https://www.instagram.com/blankcheckpod/">Instagram</a>!</div><div>Buy some real nerdy merch at <a href="https://shopblankcheckpod.myshopify.com/">shopblankcheckpod.myshopify.com</a>
+</div><div><br></div>]]></description>
+  <pubDate>Sun, 21 Mar 2021 04:00:00 +0000</pubDate>
+  <guid isPermaLink="false">tag:audioboom.com,2021-03-20:/posts/7826674</guid>
+  <itunes:author>Audioboom</itunes:author>
+  <dc:creator>Audioboom</dc:creator>
+  <media:rights status="userCreated" />
+</item>
 <item>
   <title>The Princess and the Frog with James III</title>
   <link>https://audioboom.com/posts/7821905</link>
