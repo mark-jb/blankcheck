@@ -201,7 +201,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2019-07-14T04:00:00+00:00,main,225,Miami Vice,Miami Vice,,82,2006-07-27,Miami Vice
 2019-07-21T04:00:00+00:00,main,226,The Lion King,The Lion King,,420818,,The Lion King
 2019-07-21T04:01:00+00:00,patreon,28,Doctor Strange,Doctor Strange,,284052,2016-10-25,Doctor Strange
-2019-07-28T05:00:00+00:00,main,227,Public Enemies with Fran Hoepfner,Public Enemies,Fran Hoepfner,11322,2009-07-01,Public Enemies
+2019-07-28T05:00:00+00:00,main,227,Public Enemies with Fran Hoepfner,Public Enemies,Fran Hoepfner,11322,,Public Enemies
 2019-08-01T04:00:02+00:00,patreon,29,Guardians of the Galaxy Vol. 2 with David Ehrlich,Guardians of the Galaxy Vol. 2,David Ehrlich,283995,2017-04-19,Guardians of the Galaxy Vol. 2
 2019-08-04T04:00:00+00:00,main,229,Blackhat with Bilge Ebiri,Blackhat,Bilge Ebiri,201088,2015-01-13,Blackhat
 2019-08-11T04:00:00+00:00,main,230,The Castle of Cagliostro,The Castle of Cagliostro,,15371,1979-12-15,ルパン三世 カリオストロの城
@@ -243,7 +243,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2020-01-12T05:00:00+00:00,main,252,Silence of the Lambs with Emily Vanderwerff,Silence of the Lambs,Emily Vanderwerff,274,1991-02-01,The Silence of the Lambs
 2020-01-19T05:00:00+00:00,main,253,Philadelphia with Richard Lawson,Philadelphia,Richard Lawson,9800,1993-12-22,Philadelphia
 2020-01-21T05:01:04+00:00,patreon,46,Rogue One with Chris Weitz,Rogue One,Chris Weitz,330459,2016-12-14,Rogue One: A Star Wars Story
-2020-01-26T05:00:00+00:00,main,254,Beloved with Jourdain Searles ,Beloved,Jourdain Searles ,39437,1998-10-16,Beloved
+2020-01-26T05:00:00+00:00,main,254,Beloved with Jourdain Searles ,Beloved,Jourdain Searles ,39437,,Beloved
 2020-02-01T05:00:04+00:00,patreon,48,Star Wars,Star Wars,,11,1977-05-25,Star Wars
 2020-02-09T05:00:00+00:00,main,256,The Truth About Charlie with David Lowery,The Truth About Charlie,David Lowery,13440,2002-10-25,The Truth About Charlie
 2020-02-16T05:00:00+00:00,main,257,"Birds of Prey with Ang Ferraguto, Emma Stefansky, Ashleigh Heaton, and Preeti Chhibber",Birds of Prey,"Ang Ferraguto, Emma Stefansky, Ashleigh Heaton, and Preeti Chhibber",495764,2020-02-05,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
@@ -265,7 +265,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2020-04-19T16:00:00+00:00,main,267,The Witches of Eastwick with K. Austin Collins,The Witches of Eastwick,K. Austin Collins,6069,1987-06-12,The Witches of Eastwick
 2020-04-21T04:00:01+00:00,patreon,60,The Rise of Skywalker,The Rise of Skywalker,,181812,2019-12-18,Star Wars: The Rise of Skywalker
 2020-04-26T04:00:00+00:00,main,268,Lorenzo's Oil with Bilge Ebiri,Lorenzo's Oil,Bilge Ebiri,2007,1992-12-30,Lorenzo's Oil
-2020-05-01T04:16:00+00:00,patreon,61,Babe with Emily Yoshida,Babe,Emily Yoshida,9598,1995-07-18,Babe
+2020-05-01T04:16:00+00:00,patreon,61,Babe with Emily Yoshida,Babe,Emily Yoshida,9598,,Babe
 2020-05-03T14:29:51+00:00,main,269,Babe: Pig in the City with Travis McElroy,Babe: Pig in the City,Travis McElroy,9447,1998-11-25,Babe: Pig in the City
 2020-05-10T04:00:00+00:00,main,270,Happy Feet with Caitlin Durante,Happy Feet,Caitlin Durante,9836,2006-11-16,Happy Feet
 2020-05-11T04:01:00+00:00,patreon,62,Toy Story,Toy Story,,862,1995-10-30,Toy Story
@@ -331,7 +331,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2021-02-01T05:00:04+00:00,patreon,88,Crocodile Dundee in Los Angeles,Crocodile Dundee in Los Angeles,,9290,2001-04-12,Crocodile Dundee in Los Angeles
 2021-02-07T05:00:00+00:00,main,310,The Great Mouse Detective with Fran Hoepfner,The Great Mouse Detective,Fran Hoepfner,9994,1986-07-02,The Great Mouse Detective
 2021-02-14T06:00:00+00:00,main,311,The Little Mermaid with Esther Zuckerman,The Little Mermaid,Esther Zuckerman,10144,1989-11-17,The Little Mermaid
-2021-02-21T05:00:00+00:00,main,312,Aladdin with Jerah Milligan,Aladdin,Jerah Milligan,420817,2019-05-22,Aladdin
+2021-02-21T05:00:00+00:00,main,312,Aladdin with Jerah Milligan,Aladdin,Jerah Milligan,812,,Aladdin
 2021-02-21T12:00:02+00:00,patreon,90,Star Trek: The Motion Picture,Star Trek: The Motion Picture,,152,1979-12-07,Star Trek: The Motion Picture
 2021-02-28T04:58:00+00:00,main,313,Hercules with Larry Owens,Hercules,Larry Owens,11970,1997-06-20,Hercules
 2021-03-01T04:58:00+00:00,patreon,91,Star Trek II: The Wrath of Khan,Star Trek II: The Wrath of Khan,,154,1982-06-04,Star Trek II: The Wrath of Khan
@@ -339,3 +339,12 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2021-03-11T05:00:03+00:00,patreon,93,The Return of Jafar + Aladdin and the King of Thieves,The Return of Jafar,,15969,1994-12-15,The Return of Jafar
 2021-03-11T05:00:03+00:00,patreon,93,The Return of Jafar + Aladdin and the King of Thieves,Aladdin and the King of Thieves,,11238,1996-05-20,Aladdin and the King of Thieves
 2021-03-14T05:00:00+00:00,main,315,The Princess and the Frog with James III,The Princess and the Frog,James III,10198,2009-12-08,The Princess and the Frog
+2021-03-21T04:00:00+00:00,main,316,Moana with Lenika Cruz,Moana,Lenika Cruz,277834,2016-11-23,Moana
+2021-03-21T04:01:00+00:00,patreon,95,Star Trek III: The Search for Spock,Star Trek III: The Search for Spock,,157,1984-06-01,Star Trek III: The Search for Spock
+2021-04-01T04:01:00+00:00,patreon,96,Star Trek IV: The Voyage Home,Star Trek IV: The Voyage Home,,168,1986-11-26,Star Trek IV: The Voyage Home
+2021-04-03T04:01:00+00:00,main,317,A New Leaf,A New Leaf,,36850,1971-03-11,A New Leaf
+2021-04-10T04:01:00+00:00,main,318,The Heartbreak Kid,The Heartbreak Kid,,40687,,The Heartbreak Kid
+2021-04-17T04:01:00+00:00,main,319,Mikey and Nicky,Mikey and Nicky,,59143,1976-12-21,Mikey and Nicky
+2021-04-21T04:01:00+00:00,patreon,98,Star Trek V: The Final Frontier,Star Trek V: The Final Frontier,,172,1989-06-09,Star Trek V: The Final Frontier
+2021-04-24T04:01:00+00:00,main,320,Ishtar,Ishtar,,12704,1987-05-15,Ishtar
+2021-05-01T04:01:00+00:00,patreon,99,Star Trek VI: The Undiscovered Country,Star Trek VI: The Undiscovered Country,,174,1991-12-06,Star Trek VI: The Undiscovered Country
