@@ -25,14 +25,19 @@ replacements = { "main": {
         "217": "11524",
         "224": "1538",
         "226": "420818",
+        "227": "11322", # Public Enemies
         "237": "129",
+        "254": "39437", # Beloved
         "264": "9659",
         "279": "2928",
         "303": "87502",
+        "312": "812", # Aladdin
+        "318": "40687", # Heartbreak Kid
     },
     "patreon": {
         "8": "10195",
         "22": "118340",
+        "61": "9598", # Babe
         "67": "954",
         "76": "348"
     }
@@ -82,7 +87,7 @@ with open(in_csv, mode='r') as csv_movielist:
             row["movie_id"] = replacements[row["feed"]][row["ep_num"]]
             row["release_date"] = ""
             row["movie_original_title"] = movie
-            print("OVERRIDE for {:s}".format(movie))
+            print("  OVERRIDE for {:s}".format(movie))
             new_master_list.append(row)
         else:
             # search IDs of movie
@@ -91,9 +96,9 @@ with open(in_csv, mode='r') as csv_movielist:
                 row["movie_id"] = movie_data['id']
                 row["release_date"] = movie_data['release_date']
                 row["movie_original_title"] = movie_data['original_title']
+                print('{:s} ({:s}) has ID: {:d}'.format(movie_data['original_title'],movie_data['release_date'],movie_data['id']))
                 if (movie != movie_data['original_title']):
                     print("\tWARNING: '{:s}' does not match ({:s} {:s})".format(movie,row["feed"],row["ep_num"]))
-                print('{:s} ({:s}) has ID: {:d}'.format(movie_data['original_title'],movie_data['release_date'],movie_data['id']))
                 new_master_list.append(row)
             else:
                 print("\tWARNING: Movie '{:s}' not found".format(movie))
