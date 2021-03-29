@@ -6,35 +6,32 @@ import csv
 import urllib.parse as ul
 import sys
 
-out_meta = 'MetaActorSeries.combined'
+out_dir = 'output'
+out_meta = 'MetaActorSeries'
 in_actors = 'actors.combined.json'
 
 actorfile = open(in_actors, "r")
 actorjson = json.load(actorfile)
 actorfile.close()
 
-#actors = sorted(actorjson.values(), key=lambda k: k["name"]) 
-actors = sorted(actorjson.values(), key=lambda k: k["popularity"]) 
+actors = sorted(actorjson.values(), key=lambda k: k["name"]) 
+actors = sorted(actors, key=lambda k: k["popularity"]) 
 #print(actors)
 
-
-outfile = open(out_meta, "w")
-
-printing_threshold = 3
-for actor in actors:
-    if len(actor["movies"]) < printing_threshold:
-        continue
-    outfile.write("\n==== " + actor["name"] + " == " + str(actor["popularity"]) + "====\n")
-    for movie in actor["movies"]:
-        outfile.write(movie + "\n")
-
-outfile.close()
-# for each movie, pull cast list
-# for each cast member, insert movie title and episode # into a list
-
-
-# response = requests.get(url)
-
-# print(response.text)
+max_file = 21
+for threshold in range(max_file):
+    the_filename = out_dir + "/" + out_meta + "." + str(threshold)
+    outfile = open(the_filename, "w")
+    print(threshold)
+    for actor in actors:
+        if len(actor["movies"]) != threshold:
+            if threshold != max_file - 1:
+                continue
+            elif len(actor["movies"]) < threshold:
+                continue
+        outfile.write("\n==== " + actor["name"] + " ==== " + str(actor["popularity"]) + "\n")
+        for movie in actor["movies"]:
+            outfile.write(movie + "\n")
+    outfile.close()
 
 
