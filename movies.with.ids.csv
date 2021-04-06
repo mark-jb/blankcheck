@@ -236,7 +236,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2019-12-01T05:01:01+00:00,patreon,41,Spider-Man: Far From Home,Spider-Man: Far From Home,,429617,2019-06-28,Spider-Man: Far from Home
 2019-12-08T05:00:00+00:00,main,248,Stop Making Sense with Demi Adejuyigbe,Stop Making Sense,Demi Adejuyigbe,24128,1984-11-16,Stop Making Sense
 2019-12-11T05:00:01+00:00,patreon,42,Swimming to Cambodia with Peter Newman,Swimming to Cambodia,Peter Newman,42015,1987-03-13,Swimming to Cambodia
-2019-12-15T05:00:00+00:00,main,249,Something Wild with Scott Aukerman ,Something Wild,Scott Aukerman ,11300,1986-11-07,Something Wild
+2019-12-15T05:00:00+00:00,main,249,Something Wild with Scott Aukerman ,Something Wild,Scott Aukerman ,11300,,Something Wild
 2019-12-22T05:00:00+00:00,main,250,The Rise of Skywalker ,The Rise of Skywalker,,181812,2019-12-18,Star Wars: The Rise of Skywalker
 2020-01-01T05:01:00+00:00,patreon,44,Solo,Solo,,348350,2018-05-15,Solo: A Star Wars Story
 2020-01-05T05:00:00+00:00,main,251,Married to the Mob with Ang Ferraguto,Married to the Mob,Ang Ferraguto,2321,1988-08-19,Married to the Mob
@@ -248,7 +248,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2020-02-09T05:00:00+00:00,main,256,The Truth About Charlie with David Lowery,The Truth About Charlie,David Lowery,13440,2002-10-25,The Truth About Charlie
 2020-02-16T05:00:00+00:00,main,257,"Birds of Prey with Ang Ferraguto, Emma Stefansky, Ashleigh Heaton, and Preeti Chhibber",Birds of Prey,"Ang Ferraguto, Emma Stefansky, Ashleigh Heaton, and Preeti Chhibber",495764,2020-02-05,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)
 2020-02-21T05:00:02+00:00,patreon,50,The Empire Strikes Back,The Empire Strikes Back,,1891,1980-05-20,The Empire Strikes Back
-2020-02-23T05:00:00+00:00,main,258,"The Manchurian Candidate with the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",The Manchurian Candidate,"the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",14462,2004-07-30,The Manchurian Candidate
+2020-02-23T05:00:00+00:00,main,258,"The Manchurian Candidate with the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",The Manchurian Candidate,"the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",14462,,The Manchurian Candidate
 2020-03-01T05:00:00+00:00,main,259,Rachel Getting Married with Ayo Edibiri and Olivia Craighead,Rachel Getting Married,Ayo Edibiri and Olivia Craighead,14976,2008-10-03,Rachel Getting Married
 2020-03-01T05:00:03+00:00,patreon,51,Return of the Jedi,Return of the Jedi,,1892,1983-05-25,Return of the Jedi
 2020-03-08T05:00:00+00:00,main,260,A Master Builder with John Hodgman,A Master Builder,John Hodgman,268536,2013-11-11,A Master Builder
@@ -348,3 +348,26 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2021-04-21T04:01:00+00:00,patreon,98,Star Trek V: The Final Frontier,Star Trek V: The Final Frontier,,172,1989-06-09,Star Trek V: The Final Frontier
 2021-04-24T04:01:00+00:00,main,320,Ishtar,Ishtar,,12704,1987-05-15,Ishtar
 2021-05-01T04:01:00+00:00,patreon,99,Star Trek VI: The Undiscovered Country,Star Trek VI: The Undiscovered Country,,174,1991-12-06,Star Trek VI: The Undiscovered Country
+2021-05-01T04:01:00+00:00,main,400,Captain Voyeur,Captain Voyeur,,445054,1969-12-31,Captain Voyeur
+2021-05-02T04:01:00+00:00,main,401,Dark Star,Dark Star,,1410,1974-04-01,Dark Star
+2021-05-03T04:01:00+00:00,main,402,Assault on Precinct 13,Assault on Precinct 13,,8978,2005-01-19,Assault on Precinct 13
+2021-05-04T04:01:00+00:00,main,403,Halloween,Halloween,,721656,2020-10-06,"Happy Halloween, Scooby-Doo!"
+2021-05-05T04:01:00+00:00,main,404,The Fog,The Fog,,791,2005-10-14,The Fog
+2021-05-06T04:01:00+00:00,main,405,Escape from New York,Escape from New York,,1103,1981-05-23,Escape from New York
+2021-05-07T04:01:00+00:00,main,406,The Thing,The Thing,,1091,1982-06-25,The Thing
+2021-05-08T04:01:00+00:00,main,407,Christine,Christine,,8769,1983-05-11,Christine
+2021-05-09T04:01:00+00:00,main,408,Starman,Starman,,9663,1984-12-13,Starman
+2021-05-11T04:01:00+00:00,main,409,Big Trouble in Little China,Big Trouble in Little China,,6978,1986-05-30,Big Trouble in Little China
+2021-05-12T04:01:00+00:00,main,410,Prince of Darkness,Prince of Darkness,,8852,1987-10-23,Prince of Darkness
+2021-05-01T04:01:00+00:01,main,411,They Live,They Live,,733491,2020-10-06,They Live Inside Us
+2021-05-02T04:01:00+00:01,main,412,Memoirs of an Invisible Man,Memoirs of an Invisible Man,,2687,1992-02-28,Memoirs of an Invisible Man
+2021-05-03T04:01:00+00:01,main,413,In the Mouth of Madness,In the Mouth of Madness,,2654,1995-02-03,In the Mouth of Madness
+2021-05-04T04:01:00+00:01,main,414,Village of the Damned,Village of the Damned,,12122,1995-04-28,Village of the Damned
+2021-05-05T04:01:00+00:01,main,415,Escape from L.A.,Escape from L.A.,,10061,1996-08-09,Escape from L.A.
+2021-05-06T04:01:00+00:01,main,416,Vampires,John Carpenter's Vampires,,9945,1998-10-30,Vampires
+2021-05-07T04:01:00+00:01,main,417,Ghosts of Mars,Ghosts of Mars,,10016,2001-08-24,Ghosts of Mars
+2021-05-08T04:01:00+00:01,main,418,The Ward,The Ward,,45657,2010-09-13,The Ward
+2021-05-22T04:01:00+00:00,patreon,100,Twilight,Twilight,,8966,2008-11-20,Twilight
+2021-06-01T04:01:00+00:00,patreon,100,Twilight: New Moon,Twilight: New Moon,Chris Weitz,18239,2009-11-18,The Twilight Saga: New Moon
+2021-06-22T04:01:00+00:00,patreon,100,Twilight: Breaking Dawn Part 1,Twilight: Breaking Dawn Part 1,,50619,2011-11-16,The Twilight Saga: Breaking Dawn - Part 1
+2021-07-01T04:01:00+00:00,patreon,100,Twilight: Breaking Dawn Part 2,Twilight: Breaking Dawn Part 2,,50620,2012-11-13,The Twilight Saga: Breaking Dawn - Part 2
