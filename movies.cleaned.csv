@@ -2,16 +2,18 @@ date,feed,ep_num,title,movie,guest
 2015-03-23T19:14:01+00:00,main,1,In A Galaxy Far Far Away… - The Phantom Podcast,The Phantom Menace,
 2015-06-08T17:56:52+00:00,main,12,Judging The Judge,The Judge,
 2015-06-22T18:43:50+00:00,main,13,Unrest In The Galactic Senate - Attack Of The Podcast,Attack of the Clones,
-2015-09-14T18:21:55+00:00,main,23,The Podcastic Two,The Fantastic Four,
-2015-09-14T18:21:55+00:00,main,23,The Podcastic Two,Fant4stic,
+2015-09-14T18:21:55+00:00,main,23a,The Podcastic Two,The Fantastic Four,
+2015-09-14T18:21:55+00:00,main,23b,The Podcastic Two,Fantastic Four,
+2015-09-14T18:21:55+00:00,main,23c,The Podcastic Two,Fantastic Four: Rise of the Silver Surfer,
+2015-09-14T18:21:55+00:00,main,23d,The Podcastic Two,Fant4stic,
 2015-09-21T20:23:38+00:00,main,24,The Beginning of The End - Revenge Of The Podcast,Revenge of the Sith,
 2015-12-07T07:15:24+00:00,main,34,A New Podcast,Star Wars: A New Hope,
 2015-12-14T20:59:35+00:00,main,35,The Podcast Strikes Back,The Empire Strikes Back,
 2015-12-17T05:00:00+00:00,main,36,Return of the Podcast,Return of the Jedi,
 2015-12-21T05:00:00+00:00,main,37,The Podcast Awakens,The Force Awakens,
 2015-12-24T05:00:00+00:00,main,38,The Podcast Holiday Special with Pilot Viruet,The Star Wars Holiday Special,Pilot Viruet
-2016-01-26T04:46:10+00:00,main,40,Praying with Anger/Wide Awake,Praying with Anger,
-2016-01-26T04:46:10+00:00,main,40,Praying with Anger/Wide Awake,Wide Awake,
+2016-01-26T04:46:10+00:00,main,40a,Praying with Anger/Wide Awake,Praying with Anger,
+2016-01-26T04:46:10+00:00,main,40b,Praying with Anger/Wide Awake,Wide Awake,
 2016-02-01T22:53:22+00:00,main,41,The Sixth Sense with Katey Rich,The Sixth Sense,Katey Rich
 2016-02-08T17:13:15+00:00,main,42,Unbreakable with Matt Patches,Unbreakable,Matt Patches
 2016-02-15T05:00:00+00:00,main,43,Signs with Murf Meyer and Diana Kolsky,Signs,Murf Meyer and Diana Kolsky
@@ -50,12 +52,12 @@ date,feed,ep_num,title,movie,guest
 2016-10-01T23:39:58+00:00,main,77,Aliens with Fran Hoepfner,Aliens,Fran Hoepfner
 2016-10-07T21:54:22+00:00,main,78,The Abyss with Josh Ruben,The Abyss,Josh Ruben
 2016-10-16T23:21:06+00:00,main,79,Terminator 2: Judgement Day with Sam Rogal,Terminator 2: Judgement Day,Sam Rogal
-2016-10-23T23:29:58+00:00,main,80,Jack Reacher: Never Go Back,Jack Reacher,
-2016-10-23T23:29:58+00:00,main,80,Jack Reacher: Never Go Back,Jack Reacher: Never Go Back,
+2016-10-23T23:29:58+00:00,main,80a,Jack Reacher: Never Go Back,Jack Reacher,
+2016-10-23T23:29:58+00:00,main,80b,Jack Reacher: Never Go Back,Jack Reacher: Never Go Back,
 2016-10-29T00:00:00+00:00,main,81,True Lies,True Lies,
 2016-11-04T00:00:00+00:00,main,82,Titanic with Emily Yoshida and Katey Rich - Part One,Titanic,Emily Yoshida and Katey Rich - Part One
-2016-11-19T00:00:00+00:00,main,84,Aliens of the Deep/Ghosts of the Abyss,Aliens of the Deep,
-2016-11-19T00:00:00+00:00,main,84,Aliens of the Deep/Ghosts of the Abyss,Ghosts of the Abyss,
+2016-11-19T00:00:00+00:00,main,84a,Aliens of the Deep/Ghosts of the Abyss,Aliens of the Deep,
+2016-11-19T00:00:00+00:00,main,84b,Aliens of the Deep/Ghosts of the Abyss,Ghosts of the Abyss,
 2016-11-27T00:00:00+00:00,main,85,Avatar,Avatar,
 2016-12-10T00:00:00+00:00,main,87,The Man Who Knew Too Little,The Man Who Knew Too Little,
 2016-12-17T00:00:00+00:00,main,88,Rogue One: A Star Wars Story,Rogue One: A Star Wars Story,
@@ -128,13 +130,13 @@ date,feed,ep_num,title,movie,guest
 2018-06-10T21:00:00+00:00,main,167,Mission: Impossible – Ghost Protocol,Mission: Impossible – Ghost Protocol,
 2018-06-17T21:00:00+00:00,main,168,Tomorrowland,Tomorrowland,
 2018-06-24T21:00:00+00:00,main,169,Incredibles 2,Incredibles 2,
-2018-07-01T21:00:00+00:00,main,171,Pushing Hands/The Wedding Banquet,Pushing Hands,
-2018-07-01T21:00:00+00:00,main,171,Pushing Hands/The Wedding Banquet,The Wedding Banquet,
+2018-07-01T21:00:00+00:00,main,171a,Pushing Hands/The Wedding Banquet,Pushing Hands,
+2018-07-01T21:00:00+00:00,main,171b,Pushing Hands/The Wedding Banquet,The Wedding Banquet,
 2018-07-08T21:00:00+00:00,main,172,Eat Drink Man Woman with Alison Willmore,Eat Drink Man Woman,Alison Willmore
 2018-07-15T21:00:00+00:00,main,173,Sense and Sensibility with Shirley Li,Sense and Sensibility,Shirley Li
-2018-07-22T21:10:13+00:00,main,174,Hotel Transylvania Trilogy,Hotel Transylvania,
-2018-07-22T21:10:13+00:00,main,174,Hotel Transylvania Trilogy,Hotel Transylvania 2,
-2018-07-22T21:10:13+00:00,main,174,Hotel Transylvania Trilogy,Hotel Transylvania 3,
+2018-07-22T21:10:13+00:00,main,174a,Hotel Transylvania Trilogy,Hotel Transylvania,
+2018-07-22T21:10:13+00:00,main,174b,Hotel Transylvania Trilogy,Hotel Transylvania 2,
+2018-07-22T21:10:13+00:00,main,174c,Hotel Transylvania Trilogy,Hotel Transylvania 3,
 2018-07-29T21:00:00+00:00,main,175,The Ice Storm with Emily Yoshida,The Ice Storm,Emily Yoshida
 2018-08-05T21:01:19+00:00,main,176,Ride with the Devil with Peter Labuza,Ride with the Devil,the Devil
 2018-08-12T21:54:54+00:00,main,177,"Crouching Tiger, Hidden Dragon with David Ehrlich","Crouching Tiger, Hidden Dragon",David Ehrlich
@@ -154,8 +156,8 @@ date,feed,ep_num,title,movie,guest
 2018-11-11T22:00:00+00:00,main,191,It's Complicated with Sarah-Violet Bliss,It's Complicated,Sarah-Violet Bliss
 2018-11-18T22:00:00+00:00,main,192,The Intern with Jamie Lee,The Intern,Jamie Lee
 2018-11-25T22:00:00+00:00,main,193,Home Again with Richard Lawson,Home Again,Richard Lawson
-2018-12-02T22:00:00+00:00,main,194,Ralph Breaks the Internet,Wreck-it Ralph,
-2018-12-02T22:00:00+00:00,main,194,Ralph Breaks the Internet,Ralph Breaks the Internet,
+2018-12-02T22:00:00+00:00,main,194a,Ralph Breaks the Internet,Wreck-it Ralph,
+2018-12-02T22:00:00+00:00,main,194b,Ralph Breaks the Internet,Ralph Breaks the Internet,
 2018-12-09T22:00:00+00:00,main,195,Pee-wee's Big Adventure,Pee-wee's Big Adventure,
 2018-12-16T22:00:00+00:00,main,196,Beetlejuice with Rebecca Bulnes,Beetlejuice,Rebecca Bulnes
 2018-12-23T22:00:00+00:00,main,197,Aquaman,Aquaman,
@@ -202,7 +204,8 @@ date,feed,ep_num,title,movie,guest
 2019-07-01T04:00:02+00:00,patreon,26,Captain America: Civil War with Alejandro Kolleeny,Captain America: Civil War,Alejandro Kolleeny
 2019-07-07T04:00:00+00:00,main,224,Collateral with Katey Rich,Collateral,Katey Rich
 2019-07-14T04:00:00+00:00,main,225,Miami Vice,Miami Vice,
-2019-07-21T04:00:00+00:00,main,226,The Lion King,The Lion King,
+2019-07-21T04:00:00+00:00,main,226a,The Lion King,Lion King,
+2019-07-21T04:00:00+00:00,main,226b,The Lion King,Cats,
 2019-07-21T04:01:00+00:00,patreon,28,Doctor Strange,Doctor Strange,
 2019-07-28T05:00:00+00:00,main,227,Public Enemies with Fran Hoepfner,Public Enemies,Fran Hoepfner
 2019-08-01T04:00:02+00:00,patreon,29,Guardians of the Galaxy Vol. 2 with David Ehrlich,Guardians of the Galaxy Vol. 2,David Ehrlich
@@ -228,11 +231,11 @@ date,feed,ep_num,title,movie,guest
 2019-11-01T04:00:02+00:00,patreon,38,Captain Marvel with Esther Zuckerman,Captain Marvel,Esther Zuckerman
 2019-11-03T04:00:00+00:00,main,242,The Wind Rises,The Wind Rises,
 2019-11-07T05:00:00+00:00,main,243,The Kingdom of Dreams and Madness,The Kingdom of Dreams and Madness,
-2019-11-10T05:00:00+00:00,main,244,Caged Heat/ Crazy Mama/ Fighting Mad,Caged Heat,
-2019-11-10T05:00:00+00:00,main,244,Caged Heat/ Crazy Mama/ Fighting Mad,Crazy Mama,
-2019-11-10T05:00:00+00:00,main,244,Caged Heat/ Crazy Mama/ Fighting Mad,Fighting Mad,
-2019-11-17T05:00:00+00:00,main,245,Citizens Band/ Last Embrace with Justin McElroy ,Citizens Band,Justin McElroy 
-2019-11-17T05:00:00+00:00,main,245,Citizens Band/ Last Embrace with Justin McElroy ,Last Embrace,Justin McElroy 
+2019-11-10T05:00:00+00:00,main,244a,Caged Heat/ Crazy Mama/ Fighting Mad,Caged Heat,
+2019-11-10T05:00:00+00:00,main,244b,Caged Heat/ Crazy Mama/ Fighting Mad,Crazy Mama,
+2019-11-10T05:00:00+00:00,main,244c,Caged Heat/ Crazy Mama/ Fighting Mad,Fighting Mad,
+2019-11-17T05:00:00+00:00,main,245a,Citizens Band/ Last Embrace with Justin McElroy ,Citizens Band,Justin McElroy 
+2019-11-17T05:00:00+00:00,main,245b,Citizens Band/ Last Embrace with Justin McElroy ,Last Embrace,Justin McElroy 
 2019-11-21T05:00:01+00:00,patreon,40,Avengers: Endgame,Avengers: Endgame,
 2019-11-24T05:00:00+00:00,main,246,Melvin and Howard (and Jordan Hoffman),Melvin and Howard,
 2019-12-01T05:00:00+00:00,main,247,Swing Shift,Swing Shift,
@@ -254,10 +257,10 @@ date,feed,ep_num,title,movie,guest
 2020-02-23T05:00:00+00:00,main,258,"The Manchurian Candidate with the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",The Manchurian Candidate,"the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan"
 2020-03-01T05:00:00+00:00,main,259,Rachel Getting Married with Ayo Edibiri and Olivia Craighead,Rachel Getting Married,Ayo Edibiri and Olivia Craighead
 2020-03-01T05:00:03+00:00,patreon,51,Return of the Jedi,Return of the Jedi,
-2020-03-08T05:00:00+00:00,main,260,A Master Builder with John Hodgman,A Master Builder,John Hodgman
-2020-03-08T05:00:00+00:00,main,260,A Master Builder with John Hodgman,Playmobil: The Movie,John Hodgman
-2020-03-11T11:33:08+00:00,patreon,53,THX 1138/American Graffiti,THX-1138,
-2020-03-11T11:33:08+00:00,patreon,53,THX 1138/American Graffiti,American Graffiti,
+2020-03-08T05:00:00+00:00,main,260a,A Master Builder with John Hodgman,A Master Builder,John Hodgman
+2020-03-08T05:00:00+00:00,main,260b,A Master Builder with John Hodgman,Playmobil: The Movie,John Hodgman
+2020-03-11T11:33:08+00:00,patreon,53a,THX 1138/American Graffiti,THX-1138,
+2020-03-11T11:33:08+00:00,patreon,53b,THX 1138/American Graffiti,American Graffiti,
 2020-03-15T16:00:00+00:00,main,261,Ricki and the Flash with Bobby Finger & Lindsey Weber,Ricki and the Flash,Bobby Finger & Lindsey Weber
 2020-03-19T04:00:00+00:00,main,262,Justin Timberlake + The Tennessee Kids ,Justin Timberlake + The Tennessee Kids,
 2020-03-21T04:00:02+00:00,patreon,55,The Force Awakens,The Force Awakens,
@@ -288,9 +291,9 @@ date,feed,ep_num,title,movie,guest
 2020-07-11T04:00:01+00:00,patreon,68,Hanging Up with Sonia Sarayia,Hanging Up,Sonia Sarayia
 2020-07-12T04:00:00+00:00,main,280,You've Got Mail with Bobby Finger & Lindsey Weber,You've Got Mail,Bobby Finger & Lindsey Weber
 2020-07-19T04:00:00+00:00,main,281,Lucky Numbers with Alex Ross Perry,Lucky Numbers,Alex Ross Perry
-2020-07-21T04:01:00+00:00,patreon,69,Mission: Impossible 2,Mission: Impossible II,
+2020-07-21T04:01:00+00:00,patreon,69a,Mission: Impossible 2,Mission: Impossible II,
 2020-07-26T04:00:00+00:00,main,282,Bewitched with Dana Schwartz,Bewitched,Dana Schwartz
-2020-08-01T04:01:03+00:00,patreon,70,Mission: Impossible 3,Mission: Impossible III,
+2020-08-01T04:01:03+00:00,patreon,70a,Mission: Impossible 3,Mission: Impossible III,
 2020-08-02T04:00:00+00:00,main,283,Julie & Julia with Romilly Newman ,Julie & Julia,Romilly Newman 
 2020-08-09T04:00:00+00:00,main,284,Love & Basketball with Carl Tart,Love & Basketball,Carl Tart
 2020-08-11T04:15:04+00:00,patreon,71,Disappearing Acts,Disappearing Acts,
@@ -312,7 +315,7 @@ date,feed,ep_num,title,movie,guest
 2020-10-21T04:02:09+00:00,patreon,78,Aliens,Aliens,
 2020-10-25T06:03:30+00:00,main,295,Death Becomes Her with Katey Rich,Death Becomes Her,Katey Rich
 2020-11-01T04:00:00+00:00,main,296,Forrest Gump with Jamelle Bouie,Forrest Gump,Jamelle Bouie
-2020-11-01T04:00:03+00:00,patreon,79,Alien 3,Alien3,
+2020-11-01T04:00:03+00:00,patreon,79a,Alien 3,Alien3,
 2020-11-08T14:11:49+00:00,main,297,Contact with Jamie Bell,Contact,Jamie Bell
 2020-11-15T04:45:00+00:00,main,298,What Lies Beneath with Starlee Kine,What Lies Beneath,Starlee Kine
 2020-11-21T17:01:01+00:00,patreon,81,Alien: Resurrection,Alien: Resurrection,
@@ -320,7 +323,7 @@ date,feed,ep_num,title,movie,guest
 2020-11-29T05:00:00+00:00,main,300,The Polar Express with Joey Sims,The Polar Express,Joey Sims
 2020-12-01T05:01:01+00:00,patreon,82,Prometheus,Prometheus,
 2020-12-06T05:00:00+00:00,main,301,Beowulf with Jordan Hoffman,Beowulf,Jordan Hoffman
-2020-12-11T05:16:20+00:00,patreon,83,Drive-In Special,Armageddon,
+2020-12-11T05:16:20+00:00,patreon,83a,Drive-In Special,Armageddon,
 2020-12-13T05:34:10+00:00,main,302,A Christmas Carol with Emily VanDerWerff,A Christmas Carol,Emily VanDerWerff
 2020-12-20T05:00:00+00:00,main,303,Flight with Olivia Craighead,Flight,Olivia Craighead
 2020-12-21T05:00:02+00:00,patreon,84,Alien: Covenant,Alien: Covenant,
@@ -340,8 +343,8 @@ date,feed,ep_num,title,movie,guest
 2021-02-28T04:58:00+00:00,main,313,Hercules with Larry Owens,Hercules,Larry Owens
 2021-03-01T04:58:00+00:00,patreon,91,Star Trek II: The Wrath of Khan,Star Trek II: The Wrath of Khan,
 2021-03-07T05:00:00+00:00,main,314,Treasure Planet with Emma Stefansky,Treasure Planet,Emma Stefansky
-2021-03-11T05:00:03+00:00,patreon,93,The Return of Jafar + Aladdin and the King of Thieves,The Return of Jafar,
-2021-03-11T05:00:03+00:00,patreon,93,The Return of Jafar + Aladdin and the King of Thieves,Aladdin and the King of Thieves,
+2021-03-11T05:00:03+00:00,patreon,93a,The Return of Jafar + Aladdin and the King of Thieves,The Return of Jafar,
+2021-03-11T05:00:03+00:00,patreon,93b,The Return of Jafar + Aladdin and the King of Thieves,Aladdin and the King of Thieves,
 2021-03-14T05:00:00+00:00,main,315,The Princess and the Frog with James III,The Princess and the Frog,James III
 2021-03-21T04:00:00+00:00,main,316,Moana with Lenika Cruz,Moana,Lenika Cruz
 2021-03-21T04:01:00+00:00,patreon,95,Star Trek III: The Search for Spock,Star Trek III: The Search for Spock,
@@ -352,26 +355,36 @@ date,feed,ep_num,title,movie,guest
 2021-04-21T04:01:00+00:00,patreon,98,Star Trek V: The Final Frontier,Star Trek V: The Final Frontier,
 2021-04-24T04:01:00+00:00,main,320,Ishtar,Ishtar,
 2021-05-01T04:01:00+00:00,patreon,99,Star Trek VI: The Undiscovered Country,Star Trek VI: The Undiscovered Country,
-2021-05-01T04:01:00+00:00,main,400,Captain Voyeur,Captain Voyeur
-2021-05-02T04:01:00+00:00,main,401,Dark Star,Dark Star
-2021-05-03T04:01:00+00:00,main,402,Assault on Precinct 13,Assault on Precinct 13
-2021-05-04T04:01:00+00:00,main,403,Halloween,Halloween
-2021-05-05T04:01:00+00:00,main,404,The Fog,The Fog
-2021-05-06T04:01:00+00:00,main,405,Escape from New York,Escape from New York
-2021-05-07T04:01:00+00:00,main,406,The Thing,The Thing
-2021-05-08T04:01:00+00:00,main,407,Christine,Christine
-2021-05-09T04:01:00+00:00,main,408,Starman,Starman
-2021-05-11T04:01:00+00:00,main,409,Big Trouble in Little China,Big Trouble in Little China
-2021-05-12T04:01:00+00:00,main,410,Prince of Darkness,Prince of Darkness
-2021-05-01T04:01:00+00:01,main,411,They Live,They Live
-2021-05-02T04:01:00+00:01,main,412,Memoirs of an Invisible Man,Memoirs of an Invisible Man
-2021-05-03T04:01:00+00:01,main,413,In the Mouth of Madness,In the Mouth of Madness
-2021-05-04T04:01:00+00:01,main,414,Village of the Damned,Village of the Damned
-2021-05-05T04:01:00+00:01,main,415,Escape from L.A.,Escape from L.A.
-2021-05-06T04:01:00+00:01,main,416,Vampires,John Carpenter's Vampires
-2021-05-07T04:01:00+00:01,main,417,Ghosts of Mars,Ghosts of Mars
-2021-05-08T04:01:00+00:01,main,418,The Ward,The Ward
-2021-05-22T04:01:00+00:00,patreon,100,Twilight,Twilight
-2021-06-01T04:01:00+00:00,patreon,100,Twilight: New Moon,Twilight: New Moon,Chris Weitz
-2021-06-22T04:01:00+00:00,patreon,100,Twilight: Breaking Dawn Part 1,Twilight: Breaking Dawn Part 1
-2021-07-01T04:01:00+00:00,patreon,100,Twilight: Breaking Dawn Part 2,Twilight: Breaking Dawn Part 2
+2021-05-01T04:01:00+00:00,main,320,Don Jon,Don Jon,
+2021-05-08T04:01:00+00:00,main,321,Boyz n the Hood,Boyz n the Hood,
+2021-05-15T04:01:00+00:00,main,322,Poetic Justice,Poetic Justice,
+2021-05-22T04:01:00+00:00,main,323,Higher Learning,Higher Learning,
+2021-05-29T04:01:00+00:00,main,324,Rosewood,Rosewood,
+2021-06-06T04:01:00+00:00,main,325,Shaft,Shaft,
+2021-06-13T04:01:00+00:00,main,326,Baby Boy,Baby Boy,
+2021-06-20T04:01:00+00:00,main,327,2 Fast 2 Furious,2 Fast 2 Furious,
+2021-06-27T04:01:00+00:00,main,328,Four Brothers,Four Brothers,
+2021-07-04T04:01:00+00:00,main,329,Abduction,Abduction,
+2021-05-01T04:01:00+00:00,main,400,Captain Voyeur,Captain Voyeur,
+2021-05-02T04:01:00+00:00,main,401,Dark Star,Dark Star,
+2021-05-03T04:01:00+00:00,main,402,Assault on Precinct 13,Assault on Precinct 13,
+2021-05-04T04:01:00+00:00,main,403,Halloween,Halloween,
+2021-05-05T04:01:00+00:00,main,404,The Fog,The Fog,
+2021-05-06T04:01:00+00:00,main,405,Escape from New York,Escape from New York,
+2021-05-07T04:01:00+00:00,main,406,The Thing,The Thing,
+2021-05-08T04:01:00+00:00,main,407,Christine,Christine,
+2021-05-09T04:01:00+00:00,main,408,Starman,Starman,
+2021-05-11T04:01:00+00:00,main,409,Big Trouble in Little China,Big Trouble in Little China,
+2021-05-12T04:01:00+00:00,main,410,Prince of Darkness,Prince of Darkness,
+2021-05-01T04:01:00+00:01,main,411,They Live,They Live,
+2021-05-02T04:01:00+00:01,main,412,Memoirs of an Invisible Man,Memoirs of an Invisible Man,
+2021-05-03T04:01:00+00:01,main,413,In the Mouth of Madness,In the Mouth of Madness,
+2021-05-04T04:01:00+00:01,main,414,Village of the Damned,Village of the Damned,
+2021-05-05T04:01:00+00:01,main,415,Escape from L.A.,Escape from L.A.,
+2021-05-06T04:01:00+00:01,main,416,John Carpenter's Vampires,John Carpenter's Vampires,
+2021-05-07T04:01:00+00:01,main,417,Ghosts of Mars,Ghosts of Mars,
+2021-05-08T04:01:00+00:01,main,418,The Ward,The Ward,
+2021-05-22T04:01:00+00:00,patreon,101,Twilight,Twilight,
+2021-06-01T04:01:00+00:00,patreon,102,Twilight: New Moon with Chris Weitz,Twilight: New Moon,Chris Weitz
+2021-06-22T04:01:00+00:00,patreon,104,Twilight: Breaking Dawn Part 1,Twilight: Breaking Dawn Part 1,
+2021-07-01T04:01:00+00:00,patreon,105,Twilight: Breaking Dawn Part 2,Twilight: Breaking Dawn Part 2,
