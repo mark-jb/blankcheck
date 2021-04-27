@@ -6,6 +6,7 @@ import csv
 import urllib.parse as ul
 import sys
 import re
+import string
 
 new_list = []
 main_ep_nums_delete = [2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,33,39,83,86,89,90,91,122,125,158,170,228,263]
@@ -15,7 +16,7 @@ main_replacements = {
         "1": ["The Phantom Menace"],
         "12": ["The Judge"],
         "13": ["Attack of the Clones"],
-        "23": ["The Fantastic Four", "Fant4stic"],
+        "23": ["The Fantastic Four", "Fantastic Four", "Fantastic Four: Rise of the Silver Surfer", "Fant4stic"],
         "24": ["Revenge of the Sith"],
         "34": ["Star Wars: A New Hope"],
         "35": ["The Empire Strikes Back"],
@@ -30,6 +31,7 @@ main_replacements = {
         "174": ["Hotel Transylvania", "Hotel Transylvania 2", "Hotel Transylvania 3"],
         "176": ["Ride with the Devil"],
         "194": ["Wreck-it Ralph", "Ralph Breaks the Internet"],
+        "226": ["Lion King", "Cats"],
         "244": ["Caged Heat","Crazy Mama","Fighting Mad"],
         "245": ["Citizens Band","Last Embrace"],
         "246": ["Melvin and Howard"],
@@ -41,7 +43,8 @@ patreon_replacements = {
         "70": ["Mission: Impossible III"],
         "79": ["Alien3"],
         "83": ["Armageddon"],
-        "93": ["The Return of Jafar","Aladdin and the King of Thieves"]
+        "93": ["The Return of Jafar","Aladdin and the King of Thieves"],
+        "97": ["Ömer the Tourist in Star Trek"]
         }
 
 def clean_main(episode):
@@ -53,8 +56,10 @@ def clean_main(episode):
 
     episodes = []
     if episode["ep_num"] in main_replacements.keys():
-        for title in main_replacements[episode["ep_num"]]:
+        for title, letter in zip(main_replacements[episode["ep_num"]], string.ascii_lowercase):
             e = episode.copy()
+            if len(main_replacements[episode["ep_num"]]) > 1:
+                e["ep_num"] = e["ep_num"] + letter
             e["movie"] = title
             episodes.append(e)
     else:
@@ -70,8 +75,9 @@ def clean_patreon(episode):
     if "March Madness" in episode["movie"]: return []
     episodes = []
     if episode["ep_num"] in patreon_replacements.keys():
-        for title in patreon_replacements[episode["ep_num"]]:
+        for title, letter in zip(patreon_replacements[episode["ep_num"]], string.ascii_lowercase):
             e = episode.copy()
+            e["ep_num"] = e["ep_num"] + letter
             e["movie"] = title
             episodes.append(e)
     else:

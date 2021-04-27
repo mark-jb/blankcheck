@@ -9,37 +9,48 @@ import sys
 
 
 replacements = { "main": {
-        "52": "9303",
-        "72": "222936",
-        "107": "72976",
-        "111": "297762",
-        "130": "1089",
-        "137": "141052",
-        "143": "5548",
-        "144": "861",
-        "177": "73344",
-        "198": "268",
-        "206": "869",
-        "210": "12155",
-        "214": "329996",
-        "217": "11524",
-        "224": "1538",
-        "226": "420818",
+        "23b": "9738",  # Fantastic Four 2004
+        "23d": "166424",  # Fantastic Four 2015
+        "52": "9303",   # Bound
+        "72": "222936", # Aloha
+        "107": "72976", # Lincoln
+        "111": "297762", # Wonder Woman
+        "130": "1089",   # Point Break
+        "137": "141052", # Justice League
+        "143": "5548",  # Robert Cop
+        "144": "861",   # Total Recall
+        "177": "73344", # Crouching Tiger Hidden Dragon
+        "198": "268",   # Batman
+        "206": "869",   # Planet of the Apes
+        "210": "12155", # Alice in Wonderland
+        "214": "329996", # Dumbo
+        "217": "11524",  # Thief
+        "224": "1538",   # Collateral
+        "226a": "420818", # Lion King
+        "226b": "536869", # Cats
         "227": "11322", # Public Enemies
-        "237": "129",
+        "237": "129",   # Spirited Away
+        "249": "11300", # Something Wild
         "254": "39437", # Beloved
-        "264": "9659",
-        "279": "2928",
-        "303": "87502",
-        "312": "812", # Aladdin
+        "258": "14462", # Manchurian Candidate
+        "264": "9659", # Mad Max
+        "279": "2928", # Michael
+        "303": "87502", # Flight
+        "312": "812",   # Aladdin
         "318": "40687", # Heartbreak Kid
+
+        "411": "8337",  # They Live
+        "402": "17814", # Assault on Precinct 13
+        "403": "948",  # Halloween
+        "406": "1091", # The Thing
+        "404": "790"  # The Fog
     },
     "patreon": {
-        "8": "10195",
-        "22": "118340",
+        "8": "10195",   # Thor
+        "22": "118340", # Guardians Vol 1
         "61": "9598", # Babe
-        "67": "954",
-        "76": "348"
+        "67": "954", # Mission Impossible 1
+        "76": "348"   # Alien
     }
 }
 
