@@ -10,6 +10,7 @@ out_dir = 'output'
 out_meta = 'MetaActorSeries'
 in_actors = 'actors.combined.json'
 split_files = True
+print_metadata = False
 actorfile = open(in_actors, "r")
 actorjson = json.load(actorfile)
 actorfile.close()
@@ -19,7 +20,8 @@ for actor in actors:
     combo_importance = actor["popularity"] * len(actor["movies"])
     actor["importance"] = combo_importance
 #actors = sorted(actors, key=lambda k: k["importance"]) 
-actors = sorted(actors, key=lambda k: k["popularity"]) 
+#actors = sorted(actors, key=lambda k: k["popularity"]) 
+#actors = sorted(actors, key=lambda k: k["popularity"]) 
 #print(actors)
 
 
@@ -37,8 +39,10 @@ if split_files:
                 elif len(actor["movies"]) < threshold:
                     continue
 #            outfile.write("\n==== " + actor["name"] + " ==== " + str(actor["popularity"]) + "\n")
-            outfile.write("\n==== " + actor["name"] + " ==== " + str(actor["importance"]) + "\n")
-#            outfile.write("\n==== " + actor["name"] + " ====" + "\n")
+            if print_metadata:
+                outfile.write("\n==== " + actor["name"] + " ==== " + str(actor["importance"]) + "\n")
+            else:
+                outfile.write("\n==== " + actor["name"] + " ====" + "\n")
             for movie in actor["movies"]:
                 outfile.write(movie + "\n")
         outfile.close()

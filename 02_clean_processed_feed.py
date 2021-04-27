@@ -77,7 +77,8 @@ def clean_patreon(episode):
     if episode["ep_num"] in patreon_replacements.keys():
         for title, letter in zip(patreon_replacements[episode["ep_num"]], string.ascii_lowercase):
             e = episode.copy()
-            e["ep_num"] = e["ep_num"] + letter
+            if len(main_replacements[episode["ep_num"]]) > 1:
+                e["ep_num"] = e["ep_num"] + letter
             e["movie"] = title
             episodes.append(e)
     else:

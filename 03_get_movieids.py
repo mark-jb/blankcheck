@@ -17,8 +17,10 @@ replacements = { "main": {
         "111": "297762", # Wonder Woman
         "130": "1089",   # Point Break
         "137": "141052", # Justice League
+        "142": "12775",  # Flesh + Blood
         "143": "5548",  # Robert Cop
         "144": "861",   # Total Recall
+        "151": "15698", # Running Scared
         "177": "73344", # Crouching Tiger Hidden Dragon
         "198": "268",   # Batman
         "206": "869",   # Planet of the Apes
@@ -38,7 +40,7 @@ replacements = { "main": {
         "303": "87502", # Flight
         "312": "812",   # Aladdin
         "318": "40687", # Heartbreak Kid
-
+        "325": "479",    # Shaft
         "411": "8337",  # They Live
         "402": "17814", # Assault on Precinct 13
         "403": "948",  # Halloween
