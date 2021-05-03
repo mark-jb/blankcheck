@@ -29,7 +29,7 @@ for actor in actors:
 if split_files:
     max_file = 21
     for threshold in range(max_file):
-        the_filename = out_dir + "/" + out_meta + "." + str(threshold)
+        the_filename = out_dir + "/" + out_meta + "." + str(threshold).zfill(2)
         outfile = open(the_filename, "w")
         print(threshold)
         for actor in actors:
