@@ -9,6 +9,7 @@ import sys
 out_dir = 'output'
 out_meta = 'MetaActorSeries'
 in_actors = 'actors.combined.json'
+ignore = 'ignore.list'
 split_files = True
 print_metadata = False
 actorfile = open(in_actors, "r")
@@ -24,6 +25,7 @@ for actor in actors:
 #actors = sorted(actors, key=lambda k: k["popularity"]) 
 #print(actors)
 
+ignorefile = open(ignore, "r")
 
 
 if split_files:
