@@ -10,7 +10,7 @@ import argparse
 
 def print_out(text):
     if args.screen:
-        print(text)
+        print(text.strip())
     else:
         outfile.write(text)
 
@@ -68,7 +68,7 @@ if split_files:
                 elif len(actor["movies"]) < threshold:
                     continue
             if args.episode:
-                if len(list(filter(lambda ep_filter: fil['ep'] == args.episode, actor["movies"]))) == 0:
+                if len(list(filter(lambda ep_filter: ep_filter.keys() == args.episode, actor["movies_dict"]))) == 0:
                     continue
 #            outfile.write("\n==== " + actor["name"] + " ==== " + str(actor["popularity"]) + "\n")
             actor_title = "\n==== " + actor["name"] + " ====" + "\n"
