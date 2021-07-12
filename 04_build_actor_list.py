@@ -58,10 +58,13 @@ with open(in_csv, mode='r') as csv_movielist:
         movie = row["movie"]
         ep_num = row["ep_num"]
         master_movie_list[movie] = ep_num
+        movie_dict = {}
         if row["feed"] == "main":
             movie_with_ep = ep_num + ": " + movie
+            movie_dict[ep_num] = movie
         else:
             movie_with_ep = "SF-" + ep_num + ": " + movie
+            movie_dict["SF-" + ep_num] = movie
         #print('\t{:s} is episode {:s}.'.format(movie, ep_num))
         # search IDs of movie
         movie_id = row["movie_id"]
@@ -76,7 +79,9 @@ with open(in_csv, mode='r') as csv_movielist:
                 master_cast_list[actor_id]["name"] = actor["original_name"]
                 master_cast_list[actor_id]["popularity"] = actor["popularity"]
                 master_cast_list[actor_id]["movies"] = []
+                master_cast_list[actor_id]["movies_dict"] = []
             master_cast_list[actor_id]["movies"].append(movie_with_ep)
+            master_cast_list[actor_id]["movies_dict"].append(movie_dict)
         line_count += 1
     print('Processed {:d} movies.'.format(line_count))
 
