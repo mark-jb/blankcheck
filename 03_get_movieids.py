@@ -14,6 +14,7 @@ replacements = { "main": {
         "52": "9303",   # Bound
         "72": "222936", # Aloha
         "107": "72976", # Lincoln
+        "110": "2778",  # Clifford
         "111": "297762", # Wonder Woman
         "130": "1089",   # Point Break
         "137": "141052", # Justice League
@@ -27,6 +28,8 @@ replacements = { "main": {
         "210": "12155", # Alice in Wonderland
         "214": "329996", # Dumbo
         "217": "11524",  # Thief
+        "219": "11454",  # Manhunter
+        "223": "8489",   # Ali
         "224": "1538",   # Collateral
         "226a": "420818", # Lion King
         "226b": "536869", # Cats
@@ -40,16 +43,20 @@ replacements = { "main": {
         "303": "87502", # Flight
         "312": "812",   # Aladdin
         "318": "40687", # Heartbreak Kid
-        "325": "479",    # Shaft
-        "411": "8337",  # They Live
-        "402": "17814", # Assault on Precinct 13
-        "403": "948",  # Halloween
-        "406": "1091", # The Thing
-        "404": "790"  # The Fog
+        "325": "25624", # Rosewood
+        "326": "479",   # Shaft
+        "330": "59965", # Abduction
+        "332": "2778",  # Clifford
+        "336": "17814", # Assault on Precinct 13
+        "337": "948",  # Halloween
+        "338": "790",  # The Fog
+        "340": "1091", # The Thing
+        "345": "8337"  # They Live
     },
     "patreon": {
         "8": "10195",   # Thor
         "22": "118340", # Guardians Vol 1
+        "44": "348350", # Solo
         "61": "9598", # Babe
         "67": "954", # Mission Impossible 1
         "76": "348"   # Alien
@@ -74,6 +81,13 @@ def get_movie_data_from_title(title):
     return None
 
 
+def get_movie_data_from_id(movie_id):
+    """ Get a movie details from id"""
+    url = 'https://api.themoviedb.org/3/movie/' + movie_id + '?api_key=' + key
+    response = requests.get(url)
+    responsedict = response.json()
+    return responsedict
+
 
 f = open("key", "r")
 key = f.readline()
@@ -96,26 +110,23 @@ with open(in_csv, mode='r') as csv_movielist:
             print('Column names are {:s}'.format(", ".join(row)))
         movie = row["movie"]
 
+        # search IDs of movie
         if row["ep_num"] in replacements[row["feed"]]:
-            row["movie_id"] = replacements[row["feed"]][row["ep_num"]]
-            row["release_date"] = ""
-            row["movie_original_title"] = movie
-            print("  OVERRIDE for {:s}".format(movie))
+            print("   OVERRIDE:")
+            movie_data = get_movie_data_from_id(replacements[row["feed"]][row["ep_num"]])
+        else:
+            movie_data = get_movie_data_from_title(movie)
+        if movie_data:
+            row["movie_id"] = movie_data['id']
+            row["release_date"] = movie_data['release_date']
+            row["movie_original_title"] = movie_data['original_title']
+            print('{:s} ({:s}) has ID: {:d}'.format(movie_data['original_title'],movie_data['release_date'],movie_data['id']))
+            if (movie != movie_data['original_title']):
+                print("\tWARNING: '{:s}' does not match ({:s} {:s})".format(movie,row["feed"],row["ep_num"]))
             new_master_list.append(row)
         else:
-            # search IDs of movie
-            movie_data = get_movie_data_from_title(movie)
-            if movie_data:
-                row["movie_id"] = movie_data['id']
-                row["release_date"] = movie_data['release_date']
-                row["movie_original_title"] = movie_data['original_title']
-                print('{:s} ({:s}) has ID: {:d}'.format(movie_data['original_title'],movie_data['release_date'],movie_data['id']))
-                if (movie != movie_data['original_title']):
-                    print("\tWARNING: '{:s}' does not match ({:s} {:s})".format(movie,row["feed"],row["ep_num"]))
-                new_master_list.append(row)
-            else:
-                print("\tWARNING: Movie '{:s}' not found".format(movie))
-                failures.append(movie)
+            print("\tWARNING: Movie '{:s}' not found".format(movie))
+            failures.append(movie)
 
         line_count += 1
     print('Processed {:d} movies.'.format(line_count))
