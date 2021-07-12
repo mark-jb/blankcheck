@@ -7,7 +7,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2015-09-14T18:21:55+00:00,main,23c,The Podcastic Two,Fantastic Four: Rise of the Silver Surfer,,1979,2007-06-13,Fantastic Four: Rise of the Silver Surfer
 2015-09-14T18:21:55+00:00,main,23d,The Podcastic Two,Fant4stic,,166424,2015-08-05,Fantastic Four
 2015-09-21T20:23:38+00:00,main,24,The Beginning of The End - Revenge Of The Podcast,Revenge of the Sith,,1895,2005-05-17,Star Wars: Episode III - Revenge of the Sith
-2015-12-07T07:15:24+00:00,main,34,A New Podcast,Star Wars: A New Hope,,838596,1977-05-25,Star Wars - A New Hope
+2015-12-07T07:15:24+00:00,main,34,A New Podcast,Star Wars: A New Hope,,11,1977-05-25,Star Wars
 2015-12-14T20:59:35+00:00,main,35,The Podcast Strikes Back,The Empire Strikes Back,,1891,1980-05-20,The Empire Strikes Back
 2015-12-17T05:00:00+00:00,main,36,Return of the Podcast,Return of the Jedi,,1892,1983-05-25,Return of the Jedi
 2015-12-21T05:00:00+00:00,main,37,The Podcast Awakens,The Force Awakens,,825597,2021-05-04,Maggie Simpson in The Force Awakens from Its Nap
@@ -41,7 +41,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2016-07-15T19:18:49+00:00,main,66,Almost Famous,Almost Famous,,786,2000-09-15,Almost Famous
 2016-07-22T23:01:51+00:00,main,67,Vanilla Sky with Richard Lawson,Vanilla Sky,Richard Lawson,1903,2001-01-22,Vanilla Sky
 2016-08-06T22:42:43+00:00,main,69,Suicide Squad,Suicide Squad,,297761,2016-08-03,Suicide Squad
-2016-08-11T19:54:10+00:00,main,70,Elizabethtown,Elizabethtown,,9621,2005-10-06,Elizabethtown
+2016-08-11T19:54:10+00:00,main,70,Elizabethtown,Elizabethtown,,9621,2005-10-14,Elizabethtown
 2016-08-22T00:22:05+00:00,main,71,We Bought a Zoo,We Bought a Zoo,,74465,2011-12-08,We Bought a Zoo
 2016-08-26T22:38:02+00:00,main,72,Aloha with Esther Zuckerman,Aloha,Esther Zuckerman,222936,2015-05-29,Aloha
 2016-09-07T17:11:30+00:00,main,74,Under Siege 2: Dark Territory,Under Siege 2: Dark Territory,,3512,1995-07-13,Under Siege 2: Dark Territory
@@ -132,7 +132,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2018-07-01T21:00:00+00:00,main,171b,Pushing Hands/The Wedding Banquet,The Wedding Banquet,,9261,1993-08-04,喜宴
 2018-07-08T21:00:00+00:00,main,172,Eat Drink Man Woman with Alison Willmore,Eat Drink Man Woman,Alison Willmore,10451,1994-01-28,飲食男女
 2018-07-15T21:00:00+00:00,main,173,Sense and Sensibility with Shirley Li,Sense and Sensibility,Shirley Li,4584,1995-12-13,Sense and Sensibility
-2018-07-22T21:10:13+00:00,main,174a,Hotel Transylvania Trilogy,Hotel Transylvania,,585083,2021-10-01,Hotel Transylvania: Transformania
+2018-07-22T21:10:13+00:00,main,174a,Hotel Transylvania Trilogy,Hotel Transylvania,,585083,2021-09-23,Hotel Transylvania: Transformania
 2018-07-22T21:10:13+00:00,main,174b,Hotel Transylvania Trilogy,Hotel Transylvania 2,,159824,2015-09-21,Hotel Transylvania 2
 2018-07-22T21:10:13+00:00,main,174c,Hotel Transylvania Trilogy,Hotel Transylvania 3,,400155,2018-06-28,Hotel Transylvania 3: Summer Vacation
 2018-07-29T21:00:00+00:00,main,175,The Ice Storm with Emily Yoshida,The Ice Storm,Emily Yoshida,68924,1997-02-05,The Ice Storm
@@ -157,7 +157,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2018-12-02T22:00:00+00:00,main,194b,Ralph Breaks the Internet,Ralph Breaks the Internet,,404368,2018-11-20,Ralph Breaks the Internet
 2018-12-09T22:00:00+00:00,main,195,Pee-wee's Big Adventure,Pee-wee's Big Adventure,,5683,1985-07-26,Pee-wee's Big Adventure
 2018-12-16T22:00:00+00:00,main,196,Beetlejuice with Rebecca Bulnes,Beetlejuice,Rebecca Bulnes,4011,1988-03-30,Beetlejuice
-2018-12-23T22:00:00+00:00,main,197,Aquaman,Aquaman,,297802,2018-12-07,Aquaman
+2018-12-23T22:00:00+00:00,main,197,Aquaman,Aquaman,,297802,2018-07-06,Aquaman
 2019-01-01T05:00:02+00:00,patreon,2,Iron Man,Iron Man,,1726,2008-04-30,Iron Man
 2019-01-06T09:00:00+00:00,main,198,Batman with K. Austin Collins,Batman,K. Austin Collins,268,1989-06-23,Batman
 2019-01-13T09:00:00+00:00,main,199,Edward Scissorhands with Julio Torres,Edward Scissorhands,Julio Torres,162,1990-12-05,Edward Scissorhands
@@ -192,12 +192,12 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2019-05-21T13:53:01+00:00,patreon,22,Guardians of the Galaxy,Guardians of the Galaxy,,118340,2014-07-30,Guardians of the Galaxy
 2019-05-26T04:00:00+00:00,main,218,The Keep with Alex Ross Perry,The Keep,Alex Ross Perry,26198,1983-12-16,The Keep
 2019-06-01T17:55:43+00:00,patreon,23,Avengers: Age of Ultron,Avengers: Age of Ultron,,99861,2015-04-22,Avengers: Age of Ultron
-2019-06-02T04:00:00+00:00,main,219,Manhunter with Chris Cabin and Eric Szyszka,Manhunter,Chris Cabin and Eric Szyszka,100279,1974-02-26,Manhunter
+2019-06-02T04:00:00+00:00,main,219,Manhunter with Chris Cabin and Eric Szyszka,Manhunter,Chris Cabin and Eric Szyszka,11454,1986-08-14,Manhunter
 2019-06-09T04:00:00+00:00,main,220,The Last of the Mohicans with Dana Stevens,The Last of the Mohicans,Dana Stevens,9361,1992-08-26,The Last of the Mohicans
 2019-06-16T04:00:00+00:00,main,221,Heat with Jon Gabrus,Heat,Jon Gabrus,949,1995-12-15,Heat
 2019-06-21T04:01:00+00:00,patreon,25,Ant-Man,Ant-Man,,102899,2015-07-14,Ant-Man
 2019-06-23T04:00:00+00:00,main,222,The Insider with Andy Levy,The Insider,Andy Levy,9008,1999-03-10,The Insider
-2019-06-30T04:00:00+00:00,main,223,Ali with Jamelle Bouie,Ali,Jamelle Bouie,650129,2021-06-17,Ali & Ratu Ratu Queens
+2019-06-30T04:00:00+00:00,main,223,Ali with Jamelle Bouie,Ali,Jamelle Bouie,8489,2001-12-10,Ali
 2019-07-01T04:00:02+00:00,patreon,26,Captain America: Civil War with Alejandro Kolleeny,Captain America: Civil War,Alejandro Kolleeny,271110,2016-04-27,Captain America: Civil War
 2019-07-07T04:00:00+00:00,main,224,Collateral with Katey Rich,Collateral,Katey Rich,1538,2004-08-04,Collateral
 2019-07-14T04:00:00+00:00,main,225,Miami Vice,Miami Vice,,82,2006-07-27,Miami Vice
@@ -339,7 +339,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2021-02-28T04:58:00+00:00,main,313,Hercules with Larry Owens,Hercules,Larry Owens,11970,1997-06-20,Hercules
 2021-03-01T04:58:00+00:00,patreon,91,Star Trek II: The Wrath of Khan,Star Trek II: The Wrath of Khan,,154,1982-06-04,Star Trek II: The Wrath of Khan
 2021-03-07T05:00:00+00:00,main,314,Treasure Planet with Emma Stefansky,Treasure Planet,Emma Stefansky,9016,2002-11-26,Treasure Planet
-2021-03-11T05:00:03+00:00,patreon,93a,The Return of Jafar + Aladdin and the King of Thieves,The Return of Jafar,,15969,1994-12-15,The Return of Jafar
+2021-03-11T05:00:03+00:00,patreon,93a,The Return of Jafar + Aladdin and the King of Thieves,The Return of Jafar,,15969,1994-05-20,The Return of Jafar
 2021-03-11T05:00:03+00:00,patreon,93b,The Return of Jafar + Aladdin and the King of Thieves,Aladdin and the King of Thieves,,11238,1996-05-20,Aladdin and the King of Thieves
 2021-03-14T05:00:00+00:00,main,315,The Princess and the Frog with James III,The Princess and the Frog,James III,10198,2009-12-08,The Princess and the Frog
 2021-03-21T04:00:00+00:00,main,316,Moana with Lenika Cruz,Moana,Lenika Cruz,277834,2016-11-23,Moana
@@ -361,31 +361,38 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2021-06-20T04:01:00+00:00,main,328,2 Fast 2 Furious,2 Fast 2 Furious,,584,2003-06-05,2 Fast 2 Furious
 2021-06-27T04:01:00+00:00,main,329,Four Brothers,Four Brothers,,8292,2005-08-11,Four Brothers
 2021-07-04T04:01:00+00:00,main,330,Abduction,Abduction,,59965,2011-09-22,Abduction
-2021-07-04T04:01:00+00:00,main,331,Space Jam: A New Legacy,Space Jam: A New Legacy,,379686,2021-07-08,Space Jam: A New Legacy
-2021-05-01T04:01:00+00:00,main,332a,Captain Voyeur,Captain Voyeur,,445054,1969-12-31,Captain Voyeur
-2021-05-02T04:01:00+00:00,main,332b,Dark Star,Dark Star,,1410,1974-04-01,Dark Star
-2021-05-03T04:01:00+00:00,main,333,Assault on Precinct 13,Assault on Precinct 13,,17814,1976-11-05,Assault on Precinct 13
-2021-05-04T04:01:00+00:00,main,334,Halloween,Halloween,,948,1978-10-24,Halloween
-2021-05-05T04:01:00+00:00,main,335,The Fog,The Fog,,790,1980-02-08,The Fog
-2021-05-06T04:01:00+00:00,main,336,Escape from New York,Escape from New York,,1103,1981-05-23,Escape from New York
-2021-05-07T04:01:00+00:00,main,337,The Thing,The Thing,,1091,1982-06-25,The Thing
-2021-05-08T04:01:00+00:00,main,338,Christine,Christine,,8769,1983-05-11,Christine
-2021-05-09T04:01:00+00:00,main,339,Starman,Starman,,9663,1984-12-13,Starman
-2021-05-11T04:01:00+00:00,main,340,Big Trouble in Little China,Big Trouble in Little China,,6978,1986-05-30,Big Trouble in Little China
-2021-05-12T04:01:00+00:00,main,341,Prince of Darkness,Prince of Darkness,,8852,1987-10-23,Prince of Darkness
-2021-05-01T04:01:00+00:01,main,342,They Live,They Live,,8337,1988-11-23,They Live
-2021-05-02T04:01:00+00:01,main,343,Memoirs of an Invisible Man,Memoirs of an Invisible Man,,2687,1992-02-28,Memoirs of an Invisible Man
-2021-05-03T04:01:00+00:01,main,344,In the Mouth of Madness,In the Mouth of Madness,,2654,1995-02-03,In the Mouth of Madness
-2021-05-04T04:01:00+00:01,main,345,Village of the Damned,Village of the Damned,,12122,1995-04-28,Village of the Damned
-2021-05-05T04:01:00+00:01,main,346,Escape from L.A.,Escape from L.A.,,10061,1996-08-09,Escape from L.A.
-2021-05-06T04:01:00+00:01,main,347,John Carpenter's Vampires,John Carpenter's Vampires,,9945,1998-10-30,Vampires
-2021-05-07T04:01:00+00:01,main,348,Ghosts of Mars,Ghosts of Mars,,10016,2001-08-24,Ghosts of Mars
-2021-05-08T04:01:00+00:01,main,349,The Ward,The Ward,,45657,2010-09-13,The Ward
-2021-05-09T04:01:00+00:01,main,350,Hotel Transylvania 4,Hotel Transylvania 4,,585083,2021-10-01,Hotel Transylvania: Transformania
-2021-05-10T04:01:00+00:01,main,351,Old,Old,,631843,2021-07-21,Old
+2021-07-11T04:01:00+00:00,main,331,Joe Dirt,Joe Dirt,,10956,2001-04-10,Joe Dirt
+2021-07-18T04:01:00+00:00,main,332,Clifford,Clifford,Joe Scharpling,2778,1994-04-01,Clifford
+2021-07-25T04:01:00+00:00,main,333,Space Jam: A New Legacy,Space Jam: A New Legacy,James Newman,379686,2021-07-08,Space Jam: A New Legacy
+2021-08-01T04:01:00+00:00,main,334,Old,Old,,631843,2021-07-21,Old
+2021-05-01T04:01:00+00:00,main,335a,Captain Voyeur,Captain Voyeur,,445054,1969-12-31,Captain Voyeur
+2021-05-02T04:01:00+00:00,main,335b,Dark Star,Dark Star,,1410,1974-04-01,Dark Star
+2021-05-03T04:01:00+00:00,main,336,Assault on Precinct 13,Assault on Precinct 13,,17814,1976-11-05,Assault on Precinct 13
+2021-05-04T04:01:00+00:00,main,337,Halloween,Halloween,,948,1978-10-24,Halloween
+2021-05-05T04:01:00+00:00,main,338,The Fog,The Fog,,790,1980-02-08,The Fog
+2021-05-06T04:01:00+00:00,main,339,Escape from New York,Escape from New York,,1103,1981-05-23,Escape from New York
+2021-05-07T04:01:00+00:00,main,340,The Thing,The Thing,,1091,1982-06-25,The Thing
+2021-05-08T04:01:00+00:00,main,341,Christine,Christine,,8769,1983-05-11,Christine
+2021-05-09T04:01:00+00:00,main,342,Starman,Starman,,9663,1984-12-13,Starman
+2021-05-11T04:01:00+00:00,main,343,Big Trouble in Little China,Big Trouble in Little China,,6978,1986-05-30,Big Trouble in Little China
+2021-05-12T04:01:00+00:00,main,344,Prince of Darkness,Prince of Darkness,,8852,1987-10-23,Prince of Darkness
+2021-05-01T04:01:00+00:01,main,345,They Live,They Live,,8337,1988-11-23,They Live
+2021-05-02T04:01:00+00:01,main,346,Memoirs of an Invisible Man,Memoirs of an Invisible Man,,2687,1992-02-28,Memoirs of an Invisible Man
+2021-05-03T04:01:00+00:01,main,347,In the Mouth of Madness,In the Mouth of Madness,,2654,1995-02-03,In the Mouth of Madness
+2021-05-04T04:01:00+00:01,main,348,Village of the Damned,Village of the Damned,,12122,1995-04-28,Village of the Damned
+2021-05-05T04:01:00+00:01,main,349,Escape from L.A.,Escape from L.A.,,10061,1996-08-09,Escape from L.A.
+2021-05-06T04:01:00+00:01,main,350,John Carpenter's Vampires,John Carpenter's Vampires,,9945,1998-10-30,Vampires
+2021-05-07T04:01:00+00:01,main,351,Ghosts of Mars,Ghosts of Mars,,10016,2001-08-24,Ghosts of Mars
+2021-05-08T04:01:00+00:01,main,352,The Ward,The Ward,,45657,2010-09-13,The Ward
+2021-05-09T04:01:00+00:01,main,353,Hotel Transylvania 4,Hotel Transylvania 4,,585083,2021-09-23,Hotel Transylvania: Transformania
 2021-05-22T04:01:00+00:00,patreon,101,Twilight,Twilight,,8966,2008-11-20,Twilight
 2021-06-01T04:01:00+00:00,patreon,102,Twilight: New Moon with Chris Weitz,Twilight: New Moon,Chris Weitz,18239,2009-11-18,The Twilight Saga: New Moon
-2021-06-01T04:01:00+00:00,patreon,103,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,,10607,1996-01-12,Don't Be a Menace to South Central While Drinking Your Juice in the Hood
-2021-06-01T04:01:00+00:00,patreon,104,Twilight: Eclipse,Twilight: Eclipse,,24021,2010-06-23,The Twilight Saga: Eclipse
-2021-06-22T04:01:00+00:00,patreon,105,Twilight: Breaking Dawn Part 1,Twilight: Breaking Dawn Part 1,,50619,2011-11-16,The Twilight Saga: Breaking Dawn - Part 1
-2021-07-01T04:01:00+00:00,patreon,107,Twilight: Breaking Dawn Part 2,Twilight: Breaking Dawn Part 2,,50620,2012-11-13,The Twilight Saga: Breaking Dawn - Part 2
+2021-06-11T04:01:00+00:00,patreon,103,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,,10607,1996-01-12,Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+2021-07-01T04:01:00+00:00,patreon,104,Twilight: Eclipse,Twilight: Eclipse,,24021,2010-06-23,The Twilight Saga: Eclipse
+2021-07-11T04:01:00+00:00,patreon,105,The Host,The Host,,72710,2013-03-22,The Host
+2021-07-22T04:01:00+00:00,patreon,106,Twilight: Breaking Dawn Part 1,Twilight: Breaking Dawn Part 1,,50619,2011-11-16,The Twilight Saga: Breaking Dawn - Part 1
+2021-08-01T04:01:00+00:00,patreon,107,Twilight: Breaking Dawn Part 2,Twilight: Breaking Dawn Part 2,,50620,2012-11-13,The Twilight Saga: Breaking Dawn - Part 2
+2021-08-11T04:01:00+00:00,patreon,108,F9,F9,,385128,2021-05-19,F9
+2021-08-21T04:01:00+00:00,patreon,109,Pitch Black,Pitch Black,,2787,2000-02-18,Pitch Black
+2021-09-01T04:01:00+00:00,patreon,110,The Chronicles of Riddick,The Chronicles of Riddick,,2789,2004-06-11,The Chronicles of Riddick
+2021-09-21T04:01:00+00:00,patreon,112,Riddick,Riddick,,87421,2013-09-02,Riddick
