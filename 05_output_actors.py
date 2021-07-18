@@ -77,9 +77,9 @@ if split_files:
                 if len(list(filter(lambda ep_filter: args.episode in ep_filter.keys(), actor["movies_dict"]))) == 0:
                     continue
 #            outfile.write("\n==== " + actor["name"] + " ==== " + str(actor["popularity"]) + "\n")
-            actor_title = "\n==== " + actor["name"] + " ====" + "\n"
+            actor_title = "\n==== " + actor["name"] + " ===="
             if print_metadata:
-                actor_title = "\n==== " + actor["name"] + " ==== " + str(actor["importance"]) + "\n"
+                actor_title = "\n==== " + actor["name"] + " ==== " + str(actor["importance"])
             print_out(actor_title)
             for movie in actor["movies"]:
                 print_out(movie)
