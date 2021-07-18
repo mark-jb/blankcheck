@@ -9,10 +9,12 @@ import sys
 
 
 replacements = { "main": {
-        "23b": "9738",  # Fantastic Four 2004
-        "23d": "166424",  # Fantastic Four 2015
+        "23b": "9738",   # Fantastic Four 2004
+        "23d": "166424", # Fantastic Four 2015
+        "37": "140607",  # The Force Awakens
         "52": "9303",   # Bound
         "72": "222936", # Aloha
+        "69": "297761", # Suicide Squad
         "107": "72976", # Lincoln
         "110": "2778",  # Clifford
         "111": "297762", # Wonder Woman
@@ -22,6 +24,7 @@ replacements = { "main": {
         "143": "5548",  # Robert Cop
         "144": "861",   # Total Recall
         "151": "15698", # Running Scared
+        "174a": "76492", # Hotel Transylvania
         "177": "73344", # Crouching Tiger Hidden Dragon
         "198": "268",   # Batman
         "206": "869",   # Planet of the Apes
@@ -57,8 +60,9 @@ replacements = { "main": {
         "8": "10195",   # Thor
         "22": "118340", # Guardians Vol 1
         "44": "348350", # Solo
+        "55": "140607", # The Force Awakens
         "61": "9598", # Babe
-        "67": "954", # Mission Impossible 1
+        "67": "954",  # Mission Impossible 1
         "76": "348"   # Alien
     }
 }
