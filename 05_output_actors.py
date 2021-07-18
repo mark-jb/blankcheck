@@ -10,9 +10,9 @@ import argparse
 
 def print_out(text):
     if args.screen:
-        print(text.strip())
+        print(text)
     else:
-        outfile.write(text)
+        outfile.write(text + '\n')
 
 out_dir = 'output'
 out_meta = 'MetaActorSeries'
@@ -28,12 +28,16 @@ parser.add_argument('--importance', help='sort by importance', action="store_tru
 parser.add_argument('--alpha', help='sort by alphabetical (default)', action="store_true")
 parser.add_argument('--nosplit', help='dont split into separate files by number', action="store_true", default=False)
 parser.add_argument('--screen', help='output to screen', action="store_true")
+parser.add_argument('--metadata', help='print metadata', action="store_true")
 args = parser.parse_args()
 split_files = not args.nosplit
 
 if args.episode:
     print("Filtering on episode " + args.episode)
+    args.screen = True
 
+if args.metadata:
+    print_metadata = args.metadata
 actorfile = open(in_actors, "r")
 actorjson = json.load(actorfile)
 actorfile.close()
@@ -60,7 +64,7 @@ if split_files:
         the_filename = out_dir + "/" + out_meta + "." + str(threshold).zfill(2)
         if not args.screen:
             outfile = open(the_filename, "w")
-        print(threshold)
+#        print(threshold)
         for actor in actors:
             if len(actor["movies"]) != threshold:
                 if threshold != max_file - 1:
@@ -68,7 +72,9 @@ if split_files:
                 elif len(actor["movies"]) < threshold:
                     continue
             if args.episode:
-                if len(list(filter(lambda ep_filter: ep_filter.keys() == args.episode, actor["movies_dict"]))) == 0:
+#                print(actor["movies_dict"])
+#                print( list(filter(lambda ep_filter: args.episode in ep_filter.keys(), actor["movies_dict"])) )
+                if len(list(filter(lambda ep_filter: args.episode in ep_filter.keys(), actor["movies_dict"]))) == 0:
                     continue
 #            outfile.write("\n==== " + actor["name"] + " ==== " + str(actor["popularity"]) + "\n")
             actor_title = "\n==== " + actor["name"] + " ====" + "\n"
@@ -76,7 +82,7 @@ if split_files:
                 actor_title = "\n==== " + actor["name"] + " ==== " + str(actor["importance"]) + "\n"
             print_out(actor_title)
             for movie in actor["movies"]:
-                print_out(movie + "\n")
+                print_out(movie)
         if not args.screen:
             outfile.close()
 else:
