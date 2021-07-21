@@ -93,10 +93,10 @@ else:
         if len(actor["movies"]) < threshold:
             continue
 #            outfile.write("\n==== " + actor["name"] + " ==== " + str(actor["popularity"]) + "\n")
-        print_out("\n==== " + actor["name"] + " ==== " + str(actor["importance"]) + "\n")
+        print_out("\n==== " + actor["name"] + " ==== " + str(actor["importance"]))
 #            outfile.write("\n==== " + actor["name"] + " ====" + "\n")
         for movie in actor["movies"]:
-            print_out(movie + "\n")
+            print_out(movie)
     outfile.close()
 
 
