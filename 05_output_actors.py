@@ -39,10 +39,12 @@ if args.episode:
 if args.metadata:
     print_metadata = args.metadata
 if args.threshold:
-    print("Minimum movies: " + args.threshold)
     threshold = int(args.threshold)
 else:
     threshold = 0
+    if args.screen:
+        threshold = 2
+print("Minimum movies: " + str(threshold))
 actorfile = open(in_actors, "r")
 actorjson = json.load(actorfile)
 actorfile.close()
