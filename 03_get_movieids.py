@@ -61,12 +61,13 @@ replacements = { "main": {
         "22": "118340", # Guardians Vol 1
         "44": "348350", # Solo
         "55": "140607", # The Force Awakens
-        "61": "9598", # Babe
-        "67": "954",  # Mission Impossible 1
-        "76": "348",  # Alien
-        "113": "564",  # The Mummy
-        "115": "9334",  # The Scorpion King
-        "117": "282035" # The Mummy 2017
+        "61": "9598",   # Babe
+        "67": "954",    # Mission Impossible 1
+        "76": "348",    # Alien
+        "112b": "40047", # Elvis
+        "113": "564",    # The Mummy
+        "115": "9334",   # The Scorpion King
+        "117": "282035"  # The Mummy 2017
     }
 }
 
