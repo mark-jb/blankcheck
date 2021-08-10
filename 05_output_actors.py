@@ -23,6 +23,7 @@ print_metadata = False
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--episode', help='episode number to filter on')
+parser.add_argument('--threshold', help='only output actors with X movies or more')
 parser.add_argument('--pop', help='sort by popularity', action="store_true")
 parser.add_argument('--importance', help='sort by importance', action="store_true")
 parser.add_argument('--alpha', help='sort by alphabetical (default)', action="store_true")
@@ -35,9 +36,13 @@ split_files = not args.nosplit
 if args.episode:
     print("Filtering on episode " + args.episode)
     args.screen = True
-
 if args.metadata:
     print_metadata = args.metadata
+if args.threshold:
+    print("Minimum movies: " + args.threshold)
+    threshold = int(args.threshold)
+else:
+    threshold = 0
 actorfile = open(in_actors, "r")
 actorjson = json.load(actorfile)
 actorfile.close()
@@ -60,16 +65,16 @@ ignorefile = open(ignore, "r")
 
 if split_files:
     max_file = 21
-    for threshold in range(max_file):
-        the_filename = out_dir + "/" + out_meta + "." + str(threshold).zfill(2)
+    for c_threshold in range(threshold, max_file):
+        the_filename = out_dir + "/" + out_meta + "." + str(c_threshold).zfill(2)
         if not args.screen:
             outfile = open(the_filename, "w")
 #        print(threshold)
         for actor in actors:
-            if len(actor["movies"]) != threshold:
+            if len(actor["movies"]) != c_threshold:
                 if threshold != max_file - 1:
                     continue
-                elif len(actor["movies"]) < threshold:
+                elif len(actor["movies"]) < c_threshold:
                     continue
             if args.episode:
 #                print(actor["movies_dict"])
@@ -86,7 +91,6 @@ if split_files:
         if not args.screen:
             outfile.close()
 else:
-    threshold = 0
     the_filename = out_dir + "/" + out_meta + ".combined"
     outfile = open(the_filename, "w")
     for actor in actors:
