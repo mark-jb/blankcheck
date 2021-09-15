@@ -16,8 +16,8 @@ SF-44: Solo
 ==== Al Leong ====
 151: Running Scared
 343: Big Trouble in Little China
-SF-115: The Scorpion King
 345: They Live
+SF-118: The Scorpion King
 349: Escape from L.A.
 
 ==== Alan Tudyk ====
@@ -83,13 +83,6 @@ SF-66: Toy Story 4
 SF-69: Mission: Impossible II
 301: Beowulf
 
-==== Carrie-Anne Moss ====
-54: The Matrix
-55: The Matrix Reloaded
-56: The Matrix Revolutions
-61: The Animatrix
-115: Memento
-
 ==== Celia Weston ====
 45: The Village
 176: Ride with the Devil
@@ -146,19 +139,12 @@ SF-95: Star Trek III: The Search for Spock
 SF-55: The Force Awakens
 SF-57: The Last Jedi
 
-==== Dakota Fanning ====
-285: The Secret Life of Bees
-SF-102: Twilight: New Moon
-SF-104: Twilight: Eclipse
-SF-106: Twilight: Breaking Dawn Part 1
-SF-107: Twilight: Breaking Dawn Part 2
-
 ==== Daniel von Bargen ====
 94: Amistad
 145: Basic Instinct
 252: Silence of the Lambs
 253: Philadelphia
-326: Shaft
+326b: Shaft
 
 ==== Danny Mann ====
 SF-61: Babe
@@ -258,6 +244,13 @@ SF-19: Captain America: The Winter Soldier
 SF-26: Captain America: Civil War
 SF-40: Avengers: Endgame
 
+==== Gal Gadot ====
+53: Batman v Superman: Dawn of Justice
+111: Wonder Woman
+137: Justice League
+194b: Ralph Breaks the Internet
+305: Wonder Woman 1984
+
 ==== Garrick Hagon ====
 34: Star Wars: A New Hope
 198: Batman
@@ -328,6 +321,13 @@ SF-82: Prometheus
 SF-72: Mission: Impossible - Ghost Protocol
 330: Abduction
 
+==== Jada Pinkett Smith ====
+55: The Matrix Reloaded
+56: The Matrix Revolutions
+223: Ali
+224: Collateral
+354: The Matrix: Resurrections
+
 ==== James Arnold Taylor ====
 37: The Force Awakens
 61: The Animatrix
@@ -354,7 +354,7 @@ SF-66: Toy Story 4
 176: Ride with the Devil
 223: Ali
 258: The Manchurian Candidate
-326: Shaft
+326b: Shaft
 
 ==== Jenette Goldstein ====
 77: Aliens
@@ -552,6 +552,13 @@ SF-50: The Empire Strikes Back
 SF-51: Return of the Jedi
 292: Who Framed Roger Rabbit
 
+==== Morgan Freeman ====
+94: Amistad
+102: War of the Worlds
+117: Batman Begins
+119: The Dark Knight
+121: The Dark Knight Rises
+
 ==== Nikki Reed ====
 SF-101: Twilight
 SF-102: Twilight: New Moon
@@ -585,7 +592,7 @@ SF-79a: Alien3
 107: Lincoln
 108: Bridge of Spies
 179: Brokeback Mountain
-326: Shaft
+326b: Shaft
 
 ==== Philip Harvey ====
 24: Revenge of the Sith
@@ -600,6 +607,13 @@ SF-46: Rogue One
 SF-64: Toy Story 3
 282: Bewitched
 332: Clifford
+
+==== Richard Roundtree ====
+57: Speed Racer
+SF-7: What Men Want
+326a: Shaft
+326b: Shaft
+326c: Shaft
 
 ==== Rodger Bumpass ====
 163: The Iron Giant
@@ -683,7 +697,7 @@ SF-66: Toy Story 4
 SF-7: What Men Want
 SF-34: Black Panther
 SF-37: Ant-Man and the Wasp
-SF-40: Avengers: Endgame
+326c: Shaft
 
 ==== Toby Hefferman ====
 88: Rogue One: A Star Wars Story

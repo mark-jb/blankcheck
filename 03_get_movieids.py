@@ -15,6 +15,7 @@ replacements = { "main": {
         "52": "9303",   # Bound
         "72": "222936", # Aloha
         "69": "297761", # Suicide Squad
+        "102": "74",    # War of the Worlds
         "107": "72976", # Lincoln
         "110": "2778",  # Clifford
         "111": "297762", # Wonder Woman

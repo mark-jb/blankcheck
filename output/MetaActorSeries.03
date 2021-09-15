@@ -19,11 +19,6 @@ SF-23: Avengers: Age of Ultron
 SF-18: Thor: The Dark World
 SF-114: The Mummy Returns
 
-==== Adrienne Barbeau ====
-338: The Fog
-339: Escape from New York
-340: The Thing
-
 ==== Aharon Ipalé ====
 320: Ishtar
 SF-113: The Mummy
@@ -179,6 +174,11 @@ SF-72: Mission: Impossible - Ghost Protocol
 259: Rachel Getting Married
 261: Ricki and the Flash
 
+==== Becky Ann Baker ====
+102: War of the Worlds
+129: Blue Steel
+268: Lorenzo's Oil
+
 ==== Ben Burtt ====
 1: The Phantom Menace
 36: Return of the Jedi
@@ -272,7 +272,7 @@ SF-70: Mission: Impossible III
 ==== Branscombe Richmond ====
 201: Batman Returns
 SF-95: Star Trek III: The Search for Spock
-SF-115: The Scorpion King
+SF-118: The Scorpion King
 
 ==== Breckin Meyer ====
 162: Josie and the Pussycats
@@ -387,7 +387,7 @@ SF-64: Toy Story 3
 ==== Catherine Kellner ====
 132: The Weight of Water
 325: Rosewood
-326: Shaft
+326b: Shaft
 
 ==== Channing Tatum ====
 59: Jupiter Ascending
@@ -414,11 +414,6 @@ SF-57: The Last Jedi
 174b: Hotel Transylvania 2
 174c: Hotel Transylvania 3
 
-==== Christina Ricci ====
-57: Speed Racer
-175: The Ice Storm
-205: Sleepy Hollow
-
 ==== Christine Cavanaugh ====
 65: Jerry Maguire
 SF-61: Babe
@@ -443,11 +438,6 @@ SF-46: Rogue One
 129: Blue Steel
 148: Starship Troopers
 SF-32: Thor: Ragnarok
-
-==== Clayton Watson ====
-55: The Matrix Reloaded
-56: The Matrix Revolutions
-61: The Animatrix
 
 ==== Cole Hauser ====
 324: Higher Learning
@@ -492,12 +482,17 @@ SF-93a: The Return of Jafar
 ==== Dan Hedaya ====
 151: Running Scared
 SF-81: Alien: Resurrection
-326: Shaft
+326b: Shaft
 
 ==== Danai Gurira ====
 SF-34: Black Panther
 SF-35: Avengers: Infinity War
 SF-40: Avengers: Endgame
+
+==== Daniel Bernhardt ====
+55: The Matrix Reloaded
+257: Birds of Prey
+354: The Matrix: Resurrections
 
 ==== Daniel Mays ====
 88: Rogue One: A Star Wars Story
@@ -539,6 +534,11 @@ SF-37: Ant-Man and the Wasp
 121: The Dark Knight Rises
 123: Interstellar
 
+==== David Harbour ====
+69: Suicide Squad
+102: War of the Worlds
+179: Brokeback Mountain
+
 ==== David Oyelowo ====
 80a: Jack Reacher
 107: Lincoln
@@ -562,7 +562,7 @@ SF-81: Alien: Resurrection
 ==== Deirdre Lovejoy ====
 141: The Post
 183: Billy Lynn's Long Halftime Walk
-326: Shaft
+326b: Shaft
 
 ==== Dempsey Bovell ====
 165: Solo: A Star Wars Story
@@ -627,7 +627,7 @@ SF-69: Mission: Impossible II
 ==== Dwayne Johnson ====
 316: Moana
 SF-114: The Mummy Returns
-SF-115: The Scorpion King
+SF-118: The Scorpion King
 
 ==== Ed O'Neill ====
 194a: Wreck-it Ralph
@@ -724,11 +724,6 @@ SF-6: Iron Man 2
 SF-19: Captain America: The Winter Soldier
 278: Mixed Nuts
 
-==== Gary A. Hecker ====
-53: Batman v Superman: Dawn of Justice
-137: Justice League
-138: Lost in Space
-
 ==== Geoff Bell ====
 88: Rogue One: A Star Wars Story
 106: War Horse
@@ -758,11 +753,6 @@ SF-93b: Aladdin and the King of Thieves
 41: The Sixth Sense
 136: Detroit
 175: The Ice Storm
-
-==== Gonzalo Menendez ====
-23c: Fantastic Four: Rise of the Silver Surfer
-102: War of the Worlds
-121: The Dark Knight Rises
 
 ==== Grace Lee Whitney ====
 SF-90: Star Trek: The Motion Picture
@@ -859,15 +849,20 @@ SF-46: Rogue One
 23c: Fantastic Four: Rise of the Silver Surfer
 82: Titanic
 
+==== Isaach De Bankolé ====
+225: Miami Vice
+SF-34: Black Panther
+326c: Shaft
+
 ==== Ivana Miličević ====
 65: Jerry Maguire
 67: Vanilla Sky
 72: Aloha
 
-==== J. Patrick McCormack ====
-93: The Lost World: Jurassic Park
-99: Catch Me If You Can
-SF-83a: Armageddon
+==== J. Jay Saunders ====
+196: Beetlejuice
+217: Thief
+SF-112: Someone's Watching Me!
 
 ==== Jacquie Barnbrook ====
 105: The Adventures of Tintin
@@ -878,6 +873,11 @@ SF-83a: Armageddon
 148: Starship Troopers
 157: I'll Do Anything
 297: Contact
+
+==== Jalyn Hall ====
+185: Space Jam
+326c: Shaft
+333: Space Jam: A New Legacy
 
 ==== James Badge Dale ====
 SF-16: Iron Man 3
@@ -1034,6 +1034,11 @@ SF-31: Spider-Man: Homecoming
 53: Batman v Superman: Dawn of Justice
 137: Justice League
 
+==== Jessica Henwick ====
+37: The Force Awakens
+SF-55: The Force Awakens
+354: The Matrix: Resurrections
+
 ==== Jill Buchanan ====
 213: Miss Peregrine's Home for Peculiar Children
 SF-28: Doctor Strange
@@ -1133,6 +1138,11 @@ SF-22: Guardians of the Galaxy
 61: The Animatrix
 194a: Wreck-it Ralph
 194b: Ralph Breaks the Internet
+
+==== John Eddins ====
+101: The Terminal
+102: War of the Worlds
+SF-16: Iron Man 3
 
 ==== John Glover ====
 245b: Last Embrace
@@ -1323,6 +1333,11 @@ SF-44: Solo
 74: Under Siege 2: Dark Territory
 143: RoboCop
 SF-99: Star Trek VI: The Undiscovered Country
+
+==== Lambert Wilson ====
+55: The Matrix Reloaded
+56: The Matrix Revolutions
+354: The Matrix: Resurrections
 
 ==== Lampros Kalfuntzos ====
 137: Justice League
@@ -1557,7 +1572,7 @@ SF-51: Return of the Jedi
 ==== Michael Clarke Duncan ====
 206: Planet of the Apes
 SF-83a: Armageddon
-SF-115: The Scorpion King
+SF-118: The Scorpion King
 
 ==== Michael Fassbender ====
 215: Assassin's Creed
@@ -1667,7 +1682,7 @@ SF-74: The Way of the Gun
 ==== Nils Allen Stewart ====
 74: Under Siege 2: Dark Territory
 206: Planet of the Apes
-SF-115: The Scorpion King
+SF-118: The Scorpion King
 
 ==== Noah Taylor ====
 66: Almost Famous
@@ -1703,11 +1718,6 @@ SF-57: The Last Jedi
 162: Josie and the Pussycats
 278: Mixed Nuts
 280: You've Got Mail
-
-==== Pat Hingle ====
-198: Batman
-201: Batman Returns
-326: Shaft
 
 ==== Patrick Kennedy ====
 106: War Horse
@@ -1758,6 +1768,11 @@ SF-91: Star Trek II: The Wrath of Khan
 119: The Dark Knight
 287: The Old Guard
 305: Wonder Woman 1984
+
+==== Peter Gerety ====
+102: War of the Worlds
+227: Public Enemies
+303: Flight
 
 ==== Peter Guinness ====
 205: Sleepy Hollow
@@ -1849,6 +1864,11 @@ SF-32: Thor: Ragnarok
 118: The Prestige
 SF-16: Iron Man 3
 
+==== Regina Hall ====
+284: Love & Basketball
+SF-71: Disappearing Acts
+326c: Shaft
+
 ==== Rena Owen ====
 13: Attack of the Clones
 24: Revenge of the Sith
@@ -1894,11 +1914,6 @@ SF-60: The Rise of Skywalker
 SF-48: Star Wars
 292: Who Framed Roger Rabbit
 
-==== Richard Roundtree ====
-57: Speed Racer
-SF-7: What Men Want
-326: Shaft
-
 ==== Richard Schiff ====
 93: The Lost World: Jurassic Park
 279: Michael
@@ -1928,6 +1943,11 @@ SF-55: The Force Awakens
 12: The Judge
 80a: Jack Reacher
 SF-53a: THX-1138
+
+==== Robert Phalen ====
+337: Halloween
+SF-112: Someone's Watching Me!
+342: Starman
 
 ==== Robert Ridgely ====
 246: Melvin and Howard
@@ -2054,11 +2074,6 @@ SF-82: Prometheus
 220: The Last of the Mohicans
 301: Beowulf
 
-==== Seth Green ====
-162: Josie and the Pussycats
-SF-22: Guardians of the Galaxy
-SF-29: Guardians of the Galaxy Vol. 2
-
 ==== Shaun Toub ====
 48: The Last Airbender
 SF-2: Iron Man
@@ -2103,6 +2118,11 @@ SF-70: Mission: Impossible III
 181: Taking Woodstock
 SF-31: Spider-Man: Homecoming
 239: Joker
+
+==== Spencer Garrett ====
+SF-16: Iron Man 3
+227: Public Enemies
+229: Blackhat
 
 ==== Stephanie Szostak ====
 71: We Bought a Zoo
@@ -2294,6 +2314,11 @@ SF-55: The Force Awakens
 236: Princess Mononoke
 237: Spirited Away
 
+==== Ty Simpkins ====
+102: War of the Worlds
+SF-16: Iron Man 3
+SF-40: Avengers: Endgame
+
 ==== Val Bettin ====
 310: The Great Mouse Detective
 SF-93a: The Return of Jafar
@@ -2392,4 +2417,4 @@ SF-44: Solo
 ==== Zach Grenier ====
 23c: Fantastic Four: Rise of the Silver Surfer
 176: Ride with the Devil
-326: Shaft
+326b: Shaft

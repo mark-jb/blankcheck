@@ -12,7 +12,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2015-12-17T05:00:00+00:00,main,36,Return of the Podcast,Return of the Jedi,,1892,1983-05-25,Return of the Jedi
 2015-12-21T05:00:00+00:00,main,37,The Podcast Awakens,The Force Awakens,,140607,2015-12-15,Star Wars: The Force Awakens
 2015-12-24T05:00:00+00:00,main,38,The Podcast Holiday Special with Pilot Viruet,The Star Wars Holiday Special,Pilot Viruet,74849,1978-12-01,The Star Wars Holiday Special
-2016-01-26T04:46:10+00:00,main,40a,Praying with Anger/Wide Awake,Praying with Anger,,114284,1992-01-01,Praying with Anger
+2016-01-26T04:46:10+00:00,main,40a,Praying with Anger/Wide Awake,Praying with Anger,,114284,1992-09-12,Praying with Anger
 2016-01-26T04:46:10+00:00,main,40b,Praying with Anger/Wide Awake,Wide Awake,,32911,1998-03-20,Wide Awake
 2016-02-01T22:53:22+00:00,main,41,The Sixth Sense with Katey Rich,The Sixth Sense,Katey Rich,745,1999-08-06,The Sixth Sense
 2016-02-08T17:13:15+00:00,main,42,Unbreakable with Matt Patches,Unbreakable,Matt Patches,9741,2000-11-22,Unbreakable
@@ -28,7 +28,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2016-04-22T16:18:45+00:00,main,53,Batman v Superman: Dawn of Justice - The Lost Episode,Batman v Superman: Dawn of Justice,,209112,2016-03-23,Batman v Superman: Dawn of Justice
 2016-04-25T16:22:01+00:00,main,54,The Matrix,The Matrix,,603,1999-03-30,The Matrix
 2016-04-28T22:44:21+00:00,main,55,The Matrix Reloaded,The Matrix Reloaded,,604,2003-05-15,The Matrix Reloaded
-2016-05-05T20:25:09+00:00,main,56,The Matrix Revolutions,The Matrix Revolutions,,605,2003-11-03,The Matrix Revolutions
+2016-05-05T20:25:09+00:00,main,56,The Matrix Revolutions,The Matrix Revolutions,,605,2003-11-05,The Matrix Revolutions
 2016-05-16T16:59:37+00:00,main,57,Speed Racer with Emily Yoshida and J.D. Amato,Speed Racer,Emily Yoshida and J.D. Amato,7459,2008-05-07,Speed Racer
 2016-05-20T00:00:00+00:00,main,58,Cloud Atlas with Bobby Finger,Cloud Atlas,Bobby Finger,83542,2012-10-26,Cloud Atlas
 2016-05-27T22:45:02+00:00,main,59,Jupiter Ascending,Jupiter Ascending,,76757,2015-02-04,Jupiter Ascending
@@ -61,17 +61,17 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2016-12-17T00:00:00+00:00,main,88,Rogue One: A Star Wars Story,Rogue One: A Star Wars Story,,330459,2016-12-14,Rogue One: A Star Wars Story
 2017-01-22T00:00:00+00:00,main,92,Split,Split,,381288,2016-11-15,Split
 2017-01-29T00:00:00+00:00,main,93,The Lost World: Jurassic Park,The Lost World: Jurassic Park,,330,1997-05-23,The Lost World: Jurassic Park
-2017-02-05T00:00:00+00:00,main,94,Amistad,Amistad,,11831,1997-12-03,Amistad
+2017-02-05T00:00:00+00:00,main,94,Amistad,Amistad,,11831,1997-12-10,Amistad
 2017-02-12T00:00:00+00:00,main,95,Saving Private Ryan with Richard Lawson,Saving Private Ryan,Richard Lawson,857,1998-07-24,Saving Private Ryan
 2017-02-26T00:00:00+00:00,main,97,A.I. Artificial Intelligence with David Rees,A.I. Artificial Intelligence,David Rees,644,2001-06-29,A.I. Artificial Intelligence
 2017-03-06T10:54:34+00:00,main,98,Minority Report with Joanna Robinson,Minority Report,Joanna Robinson,180,2002-06-20,Minority Report
 2017-03-11T00:00:00+00:00,main,99,Catch Me If You Can,Catch Me If You Can,,640,2002-12-25,Catch Me If You Can
 2017-03-18T00:00:00+00:00,main,100,Blank Check,Blank Check,,13962,1994-02-11,Blank Check
 2017-03-26T00:00:00+00:00,main,101,The Terminal with Jerah Milligan,The Terminal,Jerah Milligan,594,2004-06-17,The Terminal
-2017-04-03T00:00:00+00:00,main,102,War of the Worlds with J.D. Amato,War of the Worlds,J.D. Amato,853673,2021-04-01,2021: War of the Worlds
+2017-04-03T00:00:00+00:00,main,102,War of the Worlds with J.D. Amato,War of the Worlds,J.D. Amato,74,2005-06-28,War of the Worlds
 2017-04-10T00:00:00+00:00,main,103,Munich with Todd VanDerWerff,Munich,Todd VanDerWerff,612,2005-12-23,Munich
 2017-04-16T00:00:00+00:00,main,104,Indiana Jones and the Kingdom of the Crystal Skull with David Ehrlich,Indiana Jones and the Kingdom of the Crystal Skull,David Ehrlich,217,2008-05-21,Indiana Jones and the Kingdom of the Crystal Skull
-2017-04-23T00:00:00+00:00,main,105,The Adventures of Tintin with Joe Garden,The Adventures of Tintin,Joe Garden,17578,2011-10-26,The Adventures of Tintin
+2017-04-23T00:00:00+00:00,main,105,The Adventures of Tintin with Joe Garden,The Adventures of Tintin,Joe Garden,17578,2011-10-24,The Adventures of Tintin
 2017-04-30T00:00:00+00:00,main,106,War Horse with Pilot Viruet,War Horse,Pilot Viruet,57212,2011-12-25,War Horse
 2017-05-08T00:00:00+00:00,main,107,Lincoln,Lincoln,,72976,2012-11-09,Lincoln
 2017-05-14T00:00:00+00:00,main,108,Bridge of Spies,Bridge of Spies,,296098,2015-10-15,Bridge of Spies
@@ -358,7 +358,9 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2021-05-22T04:01:00+00:00,patreon,101,Twilight,Twilight,,8966,2008-11-20,Twilight
 2021-05-29T04:01:00+00:00,main,325,Rosewood,Rosewood,,25624,1997-02-21,Rosewood
 2021-06-01T04:01:00+00:00,patreon,102,Twilight: New Moon with Chris Weitz,Twilight: New Moon,Chris Weitz,18239,2009-11-18,The Twilight Saga: New Moon
-2021-06-06T04:01:00+00:00,main,326,Shaft,Shaft,,479,2000-06-15,Shaft
+2021-06-06T04:01:00+00:00,main,326a,Shaft,Shaft,,482,1971-06-25,Shaft
+2021-06-06T04:01:00+00:00,main,326b,Shaft,Shaft,,479,2000-06-15,Shaft
+2021-06-06T04:01:00+00:00,main,326c,Shaft,Shaft,,486131,2019-06-14,Shaft
 2021-06-11T04:01:00+00:00,patreon,103,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,,10607,1996-01-12,Don't Be a Menace to South Central While Drinking Your Juice in the Hood
 2021-06-13T04:01:00+00:00,main,327,Baby Boy,Baby Boy,,16161,2001-06-27,Baby Boy
 2021-06-20T04:01:00+00:00,main,328,2 Fast 2 Furious,2 Fast 2 Furious,,584,2003-06-05,2 Fast 2 Furious
@@ -381,8 +383,7 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2021-08-29T04:01:00+00:00,main,338,The Fog,The Fog,,790,1980-02-08,The Fog
 2021-09-01T04:01:00+00:00,patreon,111,Riddick,Riddick,,87421,2013-09-02,Riddick
 2021-09-05T04:01:00+00:00,main,339,Escape from New York,Escape from New York,,1103,1981-05-23,Escape from New York
-2021-09-11T04:01:00+00:00,patreon,112a,Someone's Watching Me!,Someone's Watching Me!,,31428,1978-11-27,Someone's Watching Me!
-2021-09-11T04:01:00+00:00,patreon,112b,Elvis,Elvis,,40047,1979-02-10,Elvis
+2021-09-11T04:01:00+00:00,patreon,112,Someone's Watching Me!,Someone's Watching Me!,,31428,1978-11-27,Someone's Watching Me!
 2021-09-12T04:01:00+00:00,main,340,The Thing,The Thing,,1091,1982-06-25,The Thing
 2021-09-19T04:01:00+00:00,main,341,Christine,Christine,,8769,1983-05-11,Christine
 2021-09-21T04:01:00+00:00,patreon,113,The Mummy,The Mummy,,564,1999-04-16,The Mummy
@@ -390,15 +391,17 @@ date,feed,ep_num,title,movie,guest,movie_id,release_date,movie_original_title
 2021-10-01T04:01:00+00:00,patreon,114,The Mummy Returns,The Mummy Returns,,1734,2001-05-04,The Mummy Returns
 2021-10-03T04:01:00+00:00,main,343,Big Trouble in Little China,Big Trouble in Little China,,6978,1986-05-30,Big Trouble in Little China
 2021-10-10T04:01:00+00:00,main,344,Prince of Darkness,Prince of Darkness,,8852,1987-10-23,Prince of Darkness
-2021-10-11T04:01:00+00:00,patreon,115,The Scorpion King,The Scorpion King,,9334,2002-04-18,The Scorpion King
-2021-10-21T04:01:00+00:00,patreon,116,The Mummy: Tomb of the Dragon Emperor,The Mummy: Tomb of the Dragon Emperor,,1735,2008-07-01,The Mummy: Tomb of the Dragon Emperor
+2021-10-11T04:01:00+00:00,patreon,115,Elvis,Elvis,,40047,1979-02-10,Elvis
 2021-10-17T04:01:00+00:01,main,345,They Live,They Live,,8337,1988-11-23,They Live
+2021-10-21T04:01:00+00:00,patreon,116,The Mummy: Tomb of the Dragon Emperor,The Mummy: Tomb of the Dragon Emperor,,1735,2008-07-01,The Mummy: Tomb of the Dragon Emperor
 2021-10-24T04:01:00+00:01,main,346,Memoirs of an Invisible Man,Memoirs of an Invisible Man,,2687,1992-02-28,Memoirs of an Invisible Man
 2021-10-31T04:01:00+00:01,main,347,In the Mouth of Madness,In the Mouth of Madness,,2654,1995-02-03,In the Mouth of Madness
 2021-11-01T04:01:00+00:00,patreon,117,The Mummy,The Mummy,,282035,2017-06-06,The Mummy
 2021-11-07T04:01:00+00:01,main,348,Village of the Damned,Village of the Damned,,12122,1995-04-28,Village of the Damned
+2021-11-11T04:01:00+00:00,patreon,118,The Scorpion King,The Scorpion King,,9334,2002-04-18,The Scorpion King
 2021-11-14T04:01:00+00:01,main,349,Escape from L.A.,Escape from L.A.,,10061,1996-08-09,Escape from L.A.
 2021-11-21T04:01:00+00:01,main,350,John Carpenter's Vampires,John Carpenter's Vampires,,9945,1998-10-30,Vampires
 2021-11-28T04:01:00+00:01,main,351,Ghosts of Mars,Ghosts of Mars,,10016,2001-08-24,Ghosts of Mars
 2021-12-05T04:01:00+00:01,main,352,The Ward,The Ward,,45657,2010-09-13,The Ward
-2021-12-12T04:01:00+00:01,main,353,Hotel Transylvania 4,Hotel Transylvania 4,,585083,2021-09-09,Hotel Transylvania: Transformania
+2021-12-12T04:01:00+00:01,main,353,Hotel Transylvania 4,Hotel Transylvania 4,,585083,2021-10-22,Hotel Transylvania: Transformania
+2021-12-19T04:01:00+00:01,main,354,The Matrix: Resurrections,The Matrix: Resurrections,,624860,2021-12-15,The Matrix Resurrections
