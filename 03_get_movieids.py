@@ -47,7 +47,9 @@ replacements = { "main": {
         "312": "812",   # Aladdin
         "318": "40687", # Heartbreak Kid
         "325": "25624", # Rosewood
-        "326": "479",   # Shaft
+        "326a": "482",   # Shaft
+        "326b": "479",   # Shaft (2000)
+        "326c": "486131", # Shaft (2019)
         "330": "59965", # Abduction
         "332": "2778",  # Clifford
         "336": "17814", # Assault on Precinct 13
@@ -64,9 +66,9 @@ replacements = { "main": {
         "61": "9598",   # Babe
         "67": "954",    # Mission Impossible 1
         "76": "348",    # Alien
-        "112b": "40047", # Elvis
+        "115": "40047", # Elvis
         "113": "564",    # The Mummy
-        "115": "9334",   # The Scorpion King
+        "118": "9334",   # The Scorpion King
         "117": "282035"  # The Mummy 2017
     }
 }
