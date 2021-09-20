@@ -74,7 +74,7 @@ if split_files:
 #        print(threshold)
         for actor in actors:
             if len(actor["movies"]) != c_threshold:
-                if threshold != max_file - 1:
+                if c_threshold != max_file - 1:
                     continue
                 elif len(actor["movies"]) < c_threshold:
                     continue
