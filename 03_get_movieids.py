@@ -57,7 +57,7 @@ replacements = { "main": {
         "337": "948",  # Halloween
         "338": "790",  # The Fog
         "340": "1091", # The Thing
-        "345": "8337"  # They Live
+        "346": "8337"  # They Live
     },
     "patreon": {
         "8": "10195",   # Thor
