@@ -27,6 +27,7 @@ replacements = { "main": {
         "151": "15698", # Running Scared
         "174a": "76492", # Hotel Transylvania
         "177": "73344", # Crouching Tiger Hidden Dragon
+        "185": "2300",  # Space Jam
         "198": "268",   # Batman
         "206": "869",   # Planet of the Apes
         "210": "12155", # Alice in Wonderland
@@ -57,7 +58,8 @@ replacements = { "main": {
         "337": "948",  # Halloween
         "338": "790",  # The Fog
         "340": "1091", # The Thing
-        "346": "8337"  # They Live
+        "346": "8337",  # They Live
+        "354": "511809"  # West Side Story
     },
     "patreon": {
         "8": "10195",   # Thor
@@ -129,9 +131,12 @@ with open(in_csv, mode='r') as csv_movielist:
             movie_data = get_movie_data_from_title(movie)
         if movie_data:
             row["movie_id"] = movie_data['id']
-            row["release_date"] = movie_data['release_date']
             row["movie_original_title"] = movie_data['original_title']
-            print('{:s} ({:s}) has ID: {:d}'.format(movie_data['original_title'],movie_data['release_date'],movie_data['id']))
+            if 'release_date' in movie_data:
+                row["release_date"] = movie_data['release_date']
+            else:
+                row["release_date"] = "9999-09-09"
+            print('{:s} ({:s}) has ID: {:d}'.format(row['movie_original_title'],row['release_date'],row['movie_id']))
             if (movie != movie_data['original_title']):
                 print("\tWARNING: '{:s}' does not match ({:s} {:s})".format(movie,row["feed"],row["ep_num"]))
             new_master_list.append(row)
