@@ -204,11 +204,6 @@ SF-19: Captain America: The Winter Soldier
 201: Batman Returns
 202: Ed Wood
 
-==== Bill Murray ====
-72: Aloha
-87: The Man Who Knew Too Little
-202: Ed Wood
-
 ==== Bill Pullman ====
 64: Singles
 277: Sleepless in Seattle
@@ -263,6 +258,11 @@ SF-107: Twilight: Breaking Dawn Part 2
 148: Starship Troopers
 312: Aladdin
 SF-93a: The Return of Jafar
+
+==== Brandon Hammond ====
+131: Strange Days
+185: Space Jam
+203: Mars Attacks!
 
 ==== Brandon Molale ====
 224: Collateral
@@ -361,7 +361,7 @@ SF-107: Twilight: Breaking Dawn Part 2
 
 ==== Carl Chase ====
 198: Batman
-SF-79a: Alien3
+SF-79: Alien3
 SF-113: The Mummy
 
 ==== Carlos Alazraqui ====
@@ -422,7 +422,7 @@ SF-61: Babe
 ==== Christopher Fairbank ====
 198: Batman
 SF-22: Guardians of the Galaxy
-SF-79a: Alien3
+SF-79: Alien3
 
 ==== Christopher Heyerdahl ====
 SF-102: Twilight: New Moon
@@ -474,11 +474,6 @@ SF-110: The Chronicles of Riddick
 SF-60: The Rise of Skywalker
 309: The Witches
 
-==== Dan Castellaneta ====
-23d: Fant4stic
-63: Say Anything…
-SF-93a: The Return of Jafar
-
 ==== Dan Hedaya ====
 151: Running Scared
 SF-81: Alien: Resurrection
@@ -492,7 +487,7 @@ SF-40: Avengers: Endgame
 ==== Daniel Bernhardt ====
 55: The Matrix Reloaded
 257: Birds of Prey
-354: The Matrix: Resurrections
+355: The Matrix: Resurrections
 
 ==== Daniel Mays ====
 88: Rogue One: A Star Wars Story
@@ -874,11 +869,6 @@ SF-112: Someone's Watching Me!
 157: I'll Do Anything
 297: Contact
 
-==== Jalyn Hall ====
-185: Space Jam
-326c: Shaft
-333: Space Jam: A New Legacy
-
 ==== James Badge Dale ====
 SF-16: Iron Man 3
 303: Flight
@@ -1037,7 +1027,7 @@ SF-31: Spider-Man: Homecoming
 ==== Jessica Henwick ====
 37: The Force Awakens
 SF-55: The Force Awakens
-354: The Matrix: Resurrections
+355: The Matrix: Resurrections
 
 ==== Jill Buchanan ====
 213: Miss Peregrine's Home for Peculiar Children
@@ -1052,7 +1042,12 @@ SF-28: Doctor Strange
 ==== Jim Ishida ====
 131: Strange Days
 293: Back to the Future Part II
-SF-83a: Armageddon
+SF-83: Armageddon
+
+==== Jim Wise ====
+174a: Hotel Transylvania
+174b: Hotel Transylvania 2
+185: Space Jam
 
 ==== Jo Wheatley ====
 165: Solo: A Star Wars Story
@@ -1123,6 +1118,11 @@ SF-19: Captain America: The Winter Soldier
 117: Batman Begins
 287: The Old Guard
 SF-75: Mission: Impossible - Fallout
+
+==== Joey Courteau ====
+186: A Star Is Born
+SF-38: Captain Marvel
+257: Birds of Prey
 
 ==== John C. Reilly ====
 194a: Wreck-it Ralph
@@ -1259,6 +1259,11 @@ SF-6: Iron Man 2
 173: Sense and Sensibility
 190: The Holiday
 
+==== Kath Soucie ====
+61: The Animatrix
+185: Space Jam
+194a: Wreck-it Ralph
+
 ==== Kathryn Morris ====
 97: A.I. Artificial Intelligence
 98: Minority Report
@@ -1309,11 +1314,6 @@ SF-70: Mission: Impossible III
 13: Attack of the Clones
 117: Batman Begins
 
-==== Kimberly Brooks ====
-185: Space Jam
-323: Poetic Justice
-333: Space Jam: A New Legacy
-
 ==== Kiowa Gordon ====
 SF-102: Twilight: New Moon
 SF-104: Twilight: Eclipse
@@ -1333,11 +1333,6 @@ SF-44: Solo
 74: Under Siege 2: Dark Territory
 143: RoboCop
 SF-99: Star Trek VI: The Undiscovered Country
-
-==== Lambert Wilson ====
-55: The Matrix Reloaded
-56: The Matrix Revolutions
-354: The Matrix: Resurrections
 
 ==== Lampros Kalfuntzos ====
 137: Justice League
@@ -1512,7 +1507,7 @@ SF-41: Spider-Man: Far From Home
 ==== Matt Malloy ====
 97: A.I. Artificial Intelligence
 159: As Good as It Gets
-SF-83a: Armageddon
+SF-83: Armageddon
 
 ==== Matt McColm ====
 55: The Matrix Reloaded
@@ -1559,6 +1554,11 @@ SF-25: Ant-Man
 SF-26: Captain America: Civil War
 SF-40: Avengers: Endgame
 
+==== Michael B. Jordan ====
+23d: Fant4stic
+SF-34: Black Panther
+333: Space Jam: A New Legacy
+
 ==== Michael Bird ====
 163: The Iron Giant
 164: The Incredibles
@@ -1571,7 +1571,7 @@ SF-51: Return of the Jedi
 
 ==== Michael Clarke Duncan ====
 206: Planet of the Apes
-SF-83a: Armageddon
+SF-83: Armageddon
 SF-118: The Scorpion King
 
 ==== Michael Fassbender ====
@@ -1777,12 +1777,12 @@ SF-91: Star Trek II: The Wrath of Khan
 ==== Peter Guinness ====
 205: Sleepy Hollow
 218: The Keep
-SF-79a: Alien3
+SF-79: Alien3
 
 ==== Peter Stormare ====
 93: The Lost World: Jurassic Park
 98: Minority Report
-SF-83a: Armageddon
+SF-83: Armageddon
 
 ==== Phil Fondacaro ====
 36: Return of the Jedi
@@ -1968,11 +1968,6 @@ SF-72: Mission: Impossible - Ghost Protocol
 156: Ready Player One
 165: Solo: A Star Wars Story
 SF-44: Solo
-
-==== Rosario Dawson ====
-162: Josie and the Pussycats
-185: Space Jam
-333: Space Jam: A New Legacy
 
 ==== Roscoe Lee Browne ====
 SF-61: Babe
@@ -2349,11 +2344,6 @@ SF-44: Solo
 244b: Crazy Mama
 253: Philadelphia
 
-==== Wayne Knight ====
-145: Basic Instinct
-SF-63: Toy Story 2
-313: Hercules
-
 ==== Wes Bentley ====
 123: Interstellar
 254: Beloved
@@ -2404,6 +2394,11 @@ SF-34: Black Panther
 SF-35: Avengers: Infinity War
 SF-40: Avengers: Endgame
 
+==== Wood Harris ====
+159: As Good as It Gets
+SF-25: Ant-Man
+333: Space Jam: A New Legacy
+
 ==== Woody Harrelson ====
 157: I'll Do Anything
 165: Solo: A Star Wars Story
@@ -2418,3 +2413,8 @@ SF-44: Solo
 23c: Fantastic Four: Rise of the Silver Surfer
 176: Ride with the Devil
 326b: Shaft
+
+==== Zendaya ====
+SF-31: Spider-Man: Homecoming
+SF-41: Spider-Man: Far From Home
+333: Space Jam: A New Legacy
