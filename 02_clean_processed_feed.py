@@ -10,7 +10,7 @@ import string
 
 new_list = []
 main_ep_nums_delete = [2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,33,39,83,86,89,90,91,122,125,158,170,228,263]
-patreon_ep_nums_delete = [1,5,14,20,21,27,30,33,39,45,47,49,59,65,77,80,89]
+patreon_ep_nums_delete = [1,5,14,20,21,27,30,33,39,45,47,49,59,65,77,80,89,101,114]
 
 main_replacements = {
         "1": ["Star Wars: The Phantom Menace"],
@@ -35,7 +35,8 @@ main_replacements = {
         "244": ["Caged Heat","Crazy Mama","Fighting Mad"],
         "245": ["Citizens Band","Last Embrace"],
         "246": ["Melvin and Howard"],
-        "260": ["A Master Builder", "Playmobil: The Movie"]
+        "260": ["A Master Builder", "Playmobil: The Movie"],
+        "327": ["Shaft","Shaft","Shaft"]
         }
 patreon_replacements = {
         "53": ["THX-1138", "American Graffiti"],
@@ -44,7 +45,8 @@ patreon_replacements = {
         "79": ["Alien3"],
         "83": ["Armageddon"],
         "93": ["The Return of Jafar","Aladdin and the King of Thieves"],
-        "97": ["Ömer the Tourist in Star Trek"]
+        "97": ["Ömer the Tourist in Star Trek"],
+        "110": ["F9"]
         }
 
 def clean_main(episode):
@@ -77,7 +79,7 @@ def clean_patreon(episode):
     if episode["ep_num"] in patreon_replacements.keys():
         for title, letter in zip(patreon_replacements[episode["ep_num"]], string.ascii_lowercase):
             e = episode.copy()
-            if len(main_replacements[episode["ep_num"]]) > 1:
+            if len(patreon_replacements[episode["ep_num"]]) > 1:
                 e["ep_num"] = e["ep_num"] + letter
             e["movie"] = title
             episodes.append(e)
@@ -113,10 +115,11 @@ with open(in_csv, mode='r') as csv_episodelist:
     for row in csv_reader:
         title_clean(row)
 
+columns = ["date","feed","ep_num","title","movie","guest"]
 
-with open('movies.cleaned.csv', 'w') as f:
-    writer = csv.writer(f, new_list[0].keys())
-    writer.writerow(new_list[0].keys())
+with open('movies.cleaned.csv', 'w', newline='') as f:
+    writer = csv.DictWriter(f, fieldnames=columns)
+    writer.writeheader()
     for e in new_list:
         print(e)
-        writer.writerow(e.values())
+        writer.writerow(e)

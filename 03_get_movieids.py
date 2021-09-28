@@ -47,17 +47,17 @@ replacements = { "main": {
         "279": "2928", # Michael
         "303": "87502", # Flight
         "312": "812",   # Aladdin
-        "318": "40687", # Heartbreak Kid
-        "325": "25624", # Rosewood
-        "326a": "482",   # Shaft
-        "326b": "479",   # Shaft (2000)
-        "326c": "486131", # Shaft (2019)
-        "330": "59965", # Abduction
-        "332": "2778",  # Clifford
-        "336": "17814", # Assault on Precinct 13
-        "337": "948",  # Halloween
-        "338": "790",  # The Fog
-        "340": "1091", # The Thing
+        "319": "40687", # Heartbreak Kid
+        "326": "25624", # Rosewood
+        "327a": "482",   # Shaft
+        "327b": "479",   # Shaft (2000)
+        "327c": "486131", # Shaft (2019)
+        "331": "59965", # Abduction
+        "333": "2778",  # Clifford
+        "337": "17814", # Assault on Precinct 13
+        "338": "948",  # Halloween
+        "339": "790",  # The Fog
+        "341": "1091", # The Thing
         "346": "8337",  # They Live
         "354": "511809"  # West Side Story
     },
@@ -69,10 +69,10 @@ replacements = { "main": {
         "61": "9598",   # Babe
         "67": "954",    # Mission Impossible 1
         "76": "348",    # Alien
-        "115": "40047", # Elvis
-        "113": "564",    # The Mummy
-        "118": "9334",   # The Scorpion King
-        "117": "282035"  # The Mummy 2017
+        "115": "564",   # The Mummy
+        "117": "40047", # Elvis
+        "120": "9334",  # The Scorpion King
+        "119": "282035" # The Mummy 2017
     }
 }
 
