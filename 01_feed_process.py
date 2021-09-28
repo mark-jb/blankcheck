@@ -40,13 +40,15 @@ def main():
     add_feed("rss", "main", '%a, %d %b %Y %H:%M:%S %z')
     add_feed("rsspatreon", "patreon", '%a, %d %b %Y %H:%M:%S %Z')
     episodes.sort(key=getDate)
-    with open('feed.processed.csv', 'w') as f:
-        writer = csv.writer(f, episodes[0].keys())
-        writer.writerow(episodes[0].keys())
+
+    columns = ["date","feed","ep_num","title"]
+    with open('feed.processed.csv', 'w', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames = columns)
+        writer.writeheader()
         for e in episodes:
           #  print(e["date"].isoformat() + ',' + e["feed"] + ',' + str(e["num"]) + ',' + e["title"])
             print(e)
-            writer.writerow(e.values())
+            writer.writerow(e)
 
 
 if __name__ == "__main__":
