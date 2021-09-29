@@ -125,8 +125,8 @@ with open(in_csv, mode='r') as csv_movielist:
 
         # search IDs of movie
         if row["ep_num"] in replacements[row["feed"]]:
-            print("   OVERRIDE:")
             movie_data = get_movie_data_from_id(replacements[row["feed"]][row["ep_num"]])
+            print("   OVERRIDE:")
         else:
             movie_data = get_movie_data_from_title(movie)
         if movie_data:
@@ -136,7 +136,7 @@ with open(in_csv, mode='r') as csv_movielist:
                 row["release_date"] = movie_data['release_date']
             else:
                 row["release_date"] = "9999-09-09"
-            print('{:s} ({:s}) has ID: {:d}'.format(row['movie_original_title'],row['release_date'],row['movie_id']))
+            print('{:s} [{:s}] ({:s}) has ID: {:d}'.format(row['movie_original_title'],movie,row['release_date'],row['movie_id']))
             if (movie != movie_data['original_title']):
                 print("\tWARNING: '{:s}' does not match ({:s} {:s})".format(movie,row["feed"],row["ep_num"]))
             new_master_list.append(row)
@@ -147,11 +147,13 @@ with open(in_csv, mode='r') as csv_movielist:
         line_count += 1
     print('Processed {:d} movies.'.format(line_count))
 
-with open(out_csv, 'w') as f:
-    writer = csv.writer(f, new_master_list[0].keys())
-    writer.writerow(new_master_list[0].keys())
+columns = ["date","feed","ep_num","title","movie","guest","movie_id","movie_original_title","release_date"]
+
+with open(out_csv, 'w', newline='') as f:
+    writer = csv.DictWriter(f, fieldnames=columns)
+    writer.writeheader()
     for e in new_master_list:
-        writer.writerow(e.values())
+        writer.writerow(e)
 
 print("\nFailures:")
 for fail in failures:

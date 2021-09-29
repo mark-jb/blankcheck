@@ -45,7 +45,7 @@ patreon_replacements = {
         "79": ["Alien3"],
         "83": ["Armageddon"],
         "93": ["The Return of Jafar","Aladdin and the King of Thieves"],
-        "97": ["Ömer the Tourist in Star Trek"],
+        "98": ["Ömer the Tourist in Star Trek"],
         "110": ["F9"]
         }
 
