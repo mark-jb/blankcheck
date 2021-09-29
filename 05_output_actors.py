@@ -97,10 +97,7 @@ if split_files:
                     continue
             if args.movie:
                 if len(list(filter(lambda movie_filter: args.movie in ':'.join(list(movie_filter.values())).lower(), actor["movies_dict"]))) == 0:
-#                for s in filter (lambda x: args.movie in x, actor["movies_dict"]):
-
                     continue
-#            outfile.write("\n==== " + actor["name"] + " ==== " + str(actor["popularity"]) + "\n")
             actor_title = "\n==== " + actor["name"] + " ===="
             if print_metadata:
                 actor_title = "\n==== " + actor["name"] + " ==== " + str(actor["importance"])
