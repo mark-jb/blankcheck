@@ -23,6 +23,8 @@ print_metadata = False
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--episode', help='episode number to filter on')
+parser.add_argument('--actor', help='actor to filter on')
+parser.add_argument('--movie', help='movie to filter on')
 parser.add_argument('--threshold', help='only output actors with X movies or more')
 parser.add_argument('--pop', help='sort by popularity', action="store_true")
 parser.add_argument('--importance', help='sort by importance', action="store_true")
@@ -35,6 +37,14 @@ split_files = not args.nosplit
 
 if args.episode:
     print("Filtering on episode " + args.episode)
+    args.screen = True
+if args.actor:
+    args.actor = args.actor.lower()
+    print("Filtering on actor " + args.actor)
+    args.screen = True
+if args.movie:
+    args.movie = args.movie.lower()
+    print("Filtering on movie " + args.movie)
     args.screen = True
 if args.metadata:
     print_metadata = args.metadata
@@ -73,15 +83,22 @@ if split_files:
             outfile = open(the_filename, "w")
 #        print(threshold)
         for actor in actors:
+            if args.actor:
+                if args.actor not in actor["name"].lower():
+#                    print(actor)
+                    continue
             if len(actor["movies"]) != c_threshold:
                 if c_threshold != max_file - 1:
                     continue
                 elif len(actor["movies"]) < c_threshold:
                     continue
             if args.episode:
-#                print(actor["movies_dict"])
-#                print( list(filter(lambda ep_filter: args.episode in ep_filter.keys(), actor["movies_dict"])) )
                 if len(list(filter(lambda ep_filter: args.episode in ep_filter.keys(), actor["movies_dict"]))) == 0:
+                    continue
+            if args.movie:
+                if len(list(filter(lambda movie_filter: args.movie in ':'.join(list(movie_filter.values())).lower(), actor["movies_dict"]))) == 0:
+#                for s in filter (lambda x: args.movie in x, actor["movies_dict"]):
+
                     continue
 #            outfile.write("\n==== " + actor["name"] + " ==== " + str(actor["popularity"]) + "\n")
             actor_title = "\n==== " + actor["name"] + " ===="
