@@ -62,7 +62,7 @@ actorfile.close()
 
 actors = sorted(actorjson.values(), key=lambda k: k["name"]) 
 for actor in actors:
-    combo_importance = actor["popularity"] * len(actor["movies"])
+    combo_importance = round(actor["popularity"] * len(actor["movies"]), 2)
     actor["importance"] = combo_importance
 if args.importance:
     print("Sorting by importance")
@@ -100,7 +100,10 @@ if split_files:
                     continue
             actor_title = "\n==== " + actor["name"] + " ===="
             if print_metadata:
-                actor_title = "\n==== " + actor["name"] + " ==== " + str(actor["importance"])
+                if args.pop:
+                    actor_title = actor_title + " " + str(actor["popularity"])
+                else:
+                    actor_title = actor_title + " " + str(actor["importance"])
             print_out(actor_title)
             for movie in actor["movies"]:
                 print_out(movie)
