@@ -6,13 +6,34 @@ import csv
 import urllib.parse as ul
 import sys
 import argparse
-
+import time
 
 def print_out(text):
     if args.screen:
         print(text)
     else:
         outfile.write(text + '\n')
+
+def print_actor(actor):
+    actor_title = "\n==== " + actor["name"] + " ===="
+    if print_metadata:
+        if args.pop:
+            actor_title = actor_title + " " + str(actor["popularity"])
+        else:
+            actor_title = actor_title + " " + str(actor["importance"])
+    print_out(actor_title)
+    for movie in actor["movies"]:
+        print_out(movie)
+
+def actor_in_episode(actor, ep_num):
+    if len(list(filter(lambda ep_filter: ep_num in ep_filter.keys(), actor["movies_dict"]))) == 0:
+        return False
+    return True
+
+def actor_in_movie(actor, movie_name):
+    if len(list(filter(lambda movie_filter: movie_name in ':'.join(list(movie_filter.values())).lower(), actor["movies_dict"]))) == 0:
+        return False
+    return True
 
 out_dir = 'output'
 out_meta = 'MetaActorSeries'
@@ -61,7 +82,7 @@ actorfile = open(in_actors, "r")
 actorjson = json.load(actorfile)
 actorfile.close()
 
-
+# SORT
 actors = sorted(actorjson.values(), key=lambda k: k["name"]) 
 for actor in actors:
     combo_importance = round(actor["popularity"] * len(actor["movies"]), 2)
@@ -75,6 +96,16 @@ elif args.pop:
 #actors = sorted(actors, key=lambda k: k["popularity"]) 
 #print(actors)
 
+# FILTER
+if args.actor:
+    actors = list(filter(lambda actor_filter: args.actor in actor_filter["name"].lower(), actors))
+if args.episode:
+    actors = list(filter(lambda actor_filter: actor_in_episode(actor_filter, args.episode), actors))
+if args.movie:
+    actors = list(filter(lambda actor_filter: actor_in_movie(actor_filter, args.movie), actors))
+
+print(actors)
+
 ignorefile = open(ignore, "r")
 
 if split_files:
@@ -85,30 +116,12 @@ if split_files:
             outfile = open(the_filename, "w")
 #        print(threshold)
         for actor in actors:
-            if args.actor:
-                if args.actor not in actor["name"].lower():
-#                    print(actor)
-                    continue
-            if len(actor["movies"]) != c_threshold:
+            if len(actor["movies_dict"]) != c_threshold:
                 if c_threshold != max_file - 1:
                     continue
                 elif len(actor["movies"]) < c_threshold:
                     continue
-            if args.episode:
-                if len(list(filter(lambda ep_filter: args.episode in ep_filter.keys(), actor["movies_dict"]))) == 0:
-                    continue
-            if args.movie:
-                if len(list(filter(lambda movie_filter: args.movie in ':'.join(list(movie_filter.values())).lower(), actor["movies_dict"]))) == 0:
-                    continue
-            actor_title = "\n==== " + actor["name"] + " ===="
-            if print_metadata:
-                if args.pop:
-                    actor_title = actor_title + " " + str(actor["popularity"])
-                else:
-                    actor_title = actor_title + " " + str(actor["importance"])
-            print_out(actor_title)
-            for movie in actor["movies"]:
-                print_out(movie)
+            print_actor(actor)
         if not args.screen:
             outfile.close()
 else:
@@ -117,11 +130,7 @@ else:
     for actor in actors:
         if len(actor["movies"]) < threshold:
             continue
-#            outfile.write("\n==== " + actor["name"] + " ==== " + str(actor["popularity"]) + "\n")
-        print_out("\n==== " + actor["name"] + " ==== " + str(actor["importance"]))
-#            outfile.write("\n==== " + actor["name"] + " ====" + "\n")
-        for movie in actor["movies"]:
-            print_out(movie)
+        print_actor(actor)
     outfile.close()
 
 
