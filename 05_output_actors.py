@@ -129,6 +129,12 @@ if split_files:
             outfile.close()
 else:
     the_filename = out_dir + "/" + out_meta + ".combined"
+    if args.pop:
+        the_filename = the_filename + ".popularity"
+    elif args.importance:
+        the_filename = the_filename + ".importance"
+    else:
+        the_filename = the_filename + ".alphabetical"
     outfile = open(the_filename, "w")
     for actor in actors:
         if (len(actor["movies"]) < threshold) or (len(actor["movies"]) > threshold_max):
