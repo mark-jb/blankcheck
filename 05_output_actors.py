@@ -47,16 +47,17 @@ parser.add_argument('--episode', help='episode number to filter on')
 parser.add_argument('--actor', help='actor to filter on')
 parser.add_argument('--movie', help='movie to filter on')
 parser.add_argument('--threshold', help='only output actors with X movies or more')
+parser.add_argument('--max', help='only output actors with X movies or less')
 parser.add_argument('--pop', help='sort by popularity', action="store_true")
 parser.add_argument('--main', help='only Main feed', action="store_true")
 parser.add_argument('--patreon', help='only Patreon feed', action="store_true")
 parser.add_argument('--importance', help='sort by importance', action="store_true")
 parser.add_argument('--alpha', help='sort by alphabetical (default)', action="store_true")
-parser.add_argument('--nosplit', help='dont split into separate files by number', action="store_true", default=False)
+parser.add_argument('--split', help='split into separate files by number', action="store_true", default=False)
 parser.add_argument('--screen', help='output to screen', action="store_true")
 parser.add_argument('--metadata', help='print metadata', action="store_true")
 args = parser.parse_args()
-split_files = not args.nosplit
+split_files = args.split
 
 if args.episode:
     print("Filtering on episode " + args.episode)
@@ -77,6 +78,10 @@ else:
     threshold = 0
     if args.screen:
         threshold = 2
+if args.max:
+    threshold_max = int(args.max)
+else:
+    threshold_max = 10000
 print("Minimum movies: " + str(threshold))
 actorfile = open(in_actors, "r")
 actorjson = json.load(actorfile)
@@ -104,13 +109,11 @@ if args.episode:
 if args.movie:
     actors = list(filter(lambda actor_filter: actor_in_movie(actor_filter, args.movie), actors))
 
-print(actors)
-
 ignorefile = open(ignore, "r")
 
 if split_files:
     max_file = 21
-    for c_threshold in range(threshold, max_file):
+    for c_threshold in range(threshold, min(max_file,threshold_max+1)):
         the_filename = out_dir + "/" + out_meta + "." + str(c_threshold).zfill(2)
         if not args.screen:
             outfile = open(the_filename, "w")
@@ -128,7 +131,7 @@ else:
     the_filename = out_dir + "/" + out_meta + ".combined"
     outfile = open(the_filename, "w")
     for actor in actors:
-        if len(actor["movies"]) < threshold:
+        if (len(actor["movies"]) < threshold) or (len(actor["movies"]) > threshold_max):
             continue
         print_actor(actor)
     outfile.close()
