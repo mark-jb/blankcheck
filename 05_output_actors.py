@@ -9,10 +9,10 @@ import argparse
 import time
 
 def print_out(text):
-    if args.screen:
-        print(text)
-    else:
+    if args.tofile:
         outfile.write(text + '\n')
+    else:
+        print(text)
 
 def print_actor(actor):
     actor_title = "\n==== " + actor["name"] + " ===="
@@ -46,7 +46,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--episode', help='episode number to filter on')
 parser.add_argument('--actor', help='actor to filter on')
 parser.add_argument('--movie', help='movie to filter on')
-parser.add_argument('--threshold', help='only output actors with X movies or more')
+parser.add_argument('--min', help='only output actors with X movies or more')
 parser.add_argument('--max', help='only output actors with X movies or less')
 parser.add_argument('--pop', help='sort by popularity', action="store_true")
 parser.add_argument('--main', help='only Main feed', action="store_true")
@@ -54,7 +54,7 @@ parser.add_argument('--patreon', help='only Patreon feed', action="store_true")
 parser.add_argument('--importance', help='sort by importance', action="store_true")
 parser.add_argument('--alpha', help='sort by alphabetical (default)', action="store_true")
 parser.add_argument('--split', help='split into separate files by number', action="store_true", default=False)
-parser.add_argument('--screen', help='output to screen', action="store_true")
+parser.add_argument('--tofile', help='output to file', action="store_true")
 parser.add_argument('--metadata', help='print metadata', action="store_true")
 args = parser.parse_args()
 split_files = args.split
@@ -72,17 +72,18 @@ if args.movie:
     args.screen = True
 if args.metadata:
     print_metadata = args.metadata
-if args.threshold:
-    threshold = int(args.threshold)
+if args.min:
+    threshold_min = int(args.min)
 else:
-    threshold = 0
-    if args.screen:
-        threshold = 2
+    if args.tofile:
+        threshold_min = 0
+    else:
+        threshold_min = 2
 if args.max:
     threshold_max = int(args.max)
 else:
     threshold_max = 10000
-print("Minimum movies: " + str(threshold))
+print("Minimum movies: " + str(threshold_min))
 actorfile = open(in_actors, "r")
 actorjson = json.load(actorfile)
 actorfile.close()
@@ -111,11 +112,13 @@ if args.movie:
 
 ignorefile = open(ignore, "r")
 
+
+
 if split_files:
     max_file = 21
-    for c_threshold in range(threshold, min(max_file,threshold_max+1)):
+    for c_threshold in range(threshold_min, min(max_file,threshold_max+1)):
         the_filename = out_dir + "/" + out_meta + "." + str(c_threshold).zfill(2)
-        if not args.screen:
+        if args.tofile:
             outfile = open(the_filename, "w")
 #        print(threshold)
         for actor in actors:
@@ -125,7 +128,7 @@ if split_files:
                 elif len(actor["movies"]) < c_threshold:
                     continue
             print_actor(actor)
-        if not args.screen:
+        if args.tofile:
             outfile.close()
 else:
     the_filename = out_dir + "/" + out_meta + ".combined"
@@ -135,11 +138,13 @@ else:
         the_filename = the_filename + ".importance"
     else:
         the_filename = the_filename + ".alphabetical"
-    outfile = open(the_filename, "w")
+    if args.tofile:
+        outfile = open(the_filename, "w")
     for actor in actors:
-        if (len(actor["movies"]) < threshold) or (len(actor["movies"]) > threshold_max):
+        if (len(actor["movies"]) < threshold_min) or (len(actor["movies"]) > threshold_max):
             continue
         print_actor(actor)
-    outfile.close()
+    if args.tofile:
+        outfile.close()
 
 
