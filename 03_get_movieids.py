@@ -14,11 +14,13 @@ replacements = { "main": {
         "37": "140607",  # The Force Awakens
         "52": "9303",   # Bound
         "72": "222936", # Aloha
+        "77": "679",    # Aliens
         "69": "297761", # Suicide Squad
         "102": "74",    # War of the Worlds
         "107": "72976", # Lincoln
         "110": "2778",  # Clifford
         "111": "297762", # Wonder Woman
+        "116": "320",    # Insomnia
         "130": "1089",   # Point Break
         "137": "141052", # Justice League
         "142": "12775",  # Flesh + Blood
@@ -26,7 +28,7 @@ replacements = { "main": {
         "144": "861",   # Total Recall
         "151": "15698", # Running Scared
         "174a": "76492", # Hotel Transylvania
-        "177": "73344", # Crouching Tiger Hidden Dragon
+        "177": "146",   # Crouching Tiger Hidden Dragon
         "185": "2300",  # Space Jam
         "198": "268",   # Batman
         "206": "869",   # Planet of the Apes
@@ -62,6 +64,7 @@ replacements = { "main": {
         "354": "511809"  # West Side Story
     },
     "patreon": {
+        "2": "1726",    # Iron Man
         "8": "10195",   # Thor
         "22": "118340", # Guardians Vol 1
         "44": "348350", # Solo
