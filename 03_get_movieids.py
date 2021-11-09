@@ -36,11 +36,14 @@ replacements = { "main": {
         "214": "329996", # Dumbo
         "217": "11524",  # Thief
         "219": "11454",  # Manhunter
+        "221": "949",   # Heat
         "223": "8489",   # Ali
         "224": "1538",   # Collateral
         "226a": "420818", # Lion King
         "226b": "536869", # Cats
-        "227": "11322", # Public Enemies
+        "227": "11322",  # Public Enemies
+        "232": "10515",  # Castle in the Sky
+        "233": "8392",  # My Neighbour Totoro
         "237": "129",   # Spirited Away
         "249": "11300", # Something Wild
         "254": "39437", # Beloved
@@ -68,10 +71,12 @@ replacements = { "main": {
         "8": "10195",   # Thor
         "22": "118340", # Guardians Vol 1
         "44": "348350", # Solo
+        "48": "11",     # Star Wars
         "55": "140607", # The Force Awakens
         "61": "9598",   # Babe
         "67": "954",    # Mission Impossible 1
         "76": "348",    # Alien
+        "78": "679",    # Aliens
         "115": "564",   # The Mummy
         "117": "40047", # Elvis
         "120": "9334",  # The Scorpion King
