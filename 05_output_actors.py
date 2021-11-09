@@ -7,6 +7,7 @@ import urllib.parse as ul
 import sys
 import argparse
 import time
+import re
 
 def print_out(text):
     if args.tofile:
@@ -35,6 +36,11 @@ def actor_in_movie(actor, movie_name):
         return False
     return True
 
+def actor_in_actorlist(actor, actlist):
+    if actor["name"].lower() in actlist:
+        return True
+    return False
+
 out_dir = 'output'
 out_meta = 'MetaActorSeries'
 in_actors = 'actors.combined.json'
@@ -53,6 +59,7 @@ parser.add_argument('--main', help='only Main feed', action="store_true")
 parser.add_argument('--patreon', help='only Patreon feed', action="store_true")
 parser.add_argument('--importance', help='sort by importance', action="store_true")
 parser.add_argument('--alpha', help='sort by alphabetical (default)', action="store_true")
+parser.add_argument('--ignore', help='ignore actors in ignorelist', action="store_true")
 parser.add_argument('--split', help='split into separate files by number', action="store_true", default=False)
 parser.add_argument('--tofile', help='output to file', action="store_true")
 parser.add_argument('--metadata', help='print metadata', action="store_true")
@@ -102,6 +109,7 @@ elif args.pop:
 #actors = sorted(actors, key=lambda k: k["popularity"]) 
 #print(actors)
 
+
 # FILTER
 if args.actor:
     actors = list(filter(lambda actor_filter: args.actor in actor_filter["name"].lower(), actors))
@@ -109,9 +117,19 @@ if args.episode:
     actors = list(filter(lambda actor_filter: actor_in_episode(actor_filter, args.episode), actors))
 if args.movie:
     actors = list(filter(lambda actor_filter: actor_in_movie(actor_filter, args.movie), actors))
-
-ignorefile = open(ignore, "r")
-
+if args.ignore:
+    ignorefile = open(ignore, "r")
+    ignore_actor_list = []
+    for line in ignorefile:
+        clean_actor = re.sub(r'^\d+,', '', line).strip().lower()
+        if not clean_actor:
+            continue
+    #    print(clean_actor)
+        if clean_actor == '=====':
+            break
+        ignore_actor_list.append(clean_actor)
+    print(ignore_actor_list)
+    actors = list(filter(lambda actor_filter: actor_filter["name"].lower() not in ignore_actor_list, actors))
 
 
 if split_files:
