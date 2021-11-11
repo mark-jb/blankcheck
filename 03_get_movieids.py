@@ -52,6 +52,7 @@ replacements = { "main": {
         "279": "2928", # Michael
         "303": "87502", # Flight
         "312": "812",   # Aladdin
+        "313": "11970",   # Aladdin
         "319": "40687", # Heartbreak Kid
         "326": "25624", # Rosewood
         "327a": "482",   # Shaft
@@ -79,7 +80,8 @@ replacements = { "main": {
         "78": "679",    # Aliens
         "115": "564",   # The Mummy
         "117": "40047", # Elvis
-        "120": "9334",  # The Scorpion King
+        "120a": "9334",  # The Scorpion King
+        "120b": "31578",  # The Scorpion King
         "119": "282035" # The Mummy 2017
     }
 }

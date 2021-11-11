@@ -47,6 +47,7 @@ patreon_replacements = {
         "93": ["The Return of Jafar","Aladdin and the King of Thieves"],
         "98": ["Ömer the Tourist in Star Trek"],
         "110": ["F9"]
+        "120": ["The Scorpion King", "Body Bags"]
         }
 
 def clean_main(episode):
