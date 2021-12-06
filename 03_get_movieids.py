@@ -65,7 +65,7 @@ replacements = { "main": {
         "339": "790",  # The Fog
         "341": "1091", # The Thing
         "346": "8337",  # They Live
-        "354": "511809"  # West Side Story
+        "355": "511809"  # West Side Story
     },
     "patreon": {
         "2": "1726",    # Iron Man
@@ -82,7 +82,8 @@ replacements = { "main": {
         "117": "40047", # Elvis
         "120a": "9334",  # The Scorpion King
         "120b": "31578",  # The Scorpion King
-        "119": "282035" # The Mummy 2017
+        "119": "282035", # The Mummy 2017
+        "130": "350050" # They
     }
 }
 
