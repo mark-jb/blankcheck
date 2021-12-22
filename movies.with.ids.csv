@@ -26,7 +26,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2016-04-12T17:06:17+00:00,main,51,The Buried Secret of M. Night Shyamalan,The Buried Secret of M. Night Shyamalan,,60394,The Buried Secret of M. Night Shyamalan,2004-06-18
 2016-04-18T17:31:15+00:00,main,52,Bound,Bound,,9303,Bound,1996-09-13
 2016-04-22T16:18:45+00:00,main,53,Batman v Superman: Dawn of Justice - The Lost Episode,Batman v Superman: Dawn of Justice,,209112,Batman v Superman: Dawn of Justice,2016-03-23
-2016-04-25T16:22:01+00:00,main,54,The Matrix,The Matrix,,603,The Matrix,1999-03-30
+2016-04-25T16:22:01+00:00,main,54,The Matrix,The Matrix,,624860,The Matrix Resurrections,2021-12-16
 2016-04-28T22:44:21+00:00,main,55,The Matrix Reloaded,The Matrix Reloaded,,604,The Matrix Reloaded,2003-05-15
 2016-05-05T20:25:09+00:00,main,56,The Matrix Revolutions,The Matrix Revolutions,,605,The Matrix Revolutions,2003-11-05
 2016-05-16T16:59:37+00:00,main,57,Speed Racer with Emily Yoshida and J.D. Amato,Speed Racer,Emily Yoshida and J.D. Amato,7459,Speed Racer,2008-05-07
@@ -410,14 +410,17 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2021-12-12T04:01:00+00:01,main,354,Benedetta,Benedetta,,454527,Benedetta,2021-07-09
 2021-12-19T04:01:00+00:01,main,355,West Side Story,West Side Story,,511809,West Side Story,2021-12-08
 2021-12-21T04:01:00+00:00,patreon,124,The Santa Clause 3: The Escape Clause,The Santa Clause 3:The Escape Clause,,13767,The Santa Clause 3: The Escape Clause,2006-11-01
-2022-01-02T04:01:00+00:01,main,356,The Matrix: Resurrections,The Matrix: Resurrections,,624860,The Matrix Resurrections,2021-12-15
+2022-01-01T04:01:00+00:00,patreon,125,Ghostbusters,Ghostbusters,,620,Ghostbusters,1984-06-08
+2022-01-02T04:01:00+00:01,main,356,The Matrix: Resurrections,The Matrix: Resurrections,,624860,The Matrix Resurrections,2021-12-16
 2022-01-09T04:01:00+00:01,main,357,Two Friends,Two Friends,,123067,Two Friends,1986-01-01
 2022-01-16T04:01:00+00:01,main,358,Sweetie,Sweetie,,65015,Sweetie,1989-01-01
+2022-01-22T04:01:00+00:00,patreon,127,Ghostbusters II,Ghostbusters II,,2978,Ghostbusters II,1989-06-16
 2022-01-23T04:01:00+00:01,main,359,An Angel at My Table,An Angel at My Table,,2891,An Angel at My Table,1990-09-20
 2022-01-30T04:01:00+00:01,main,360,The Piano,The Piano,,713,The Piano,1993-05-19
+2022-02-01T04:01:00+00:00,patreon,128,Ghostbusters: Answer The Call,Ghostbusters: Answer The Call,,43074,Ghostbusters,2016-07-15
 2022-02-06T04:01:00+00:01,main,361,The Portrait of a Lady,The Portrait of a Lady,,36758,The Portrait of a Lady,1996-10-17
 2022-02-13T04:01:00+00:01,main,362,Holy Smoke!,Holy Smoke!,,13787,Holy Smoke,1999-09-04
 2022-02-20T04:01:00+00:01,main,363,In the Cut,In the Cut,,10944,In the Cut,2003-09-09
+2022-02-22T04:01:00+00:00,patreon,130,Ghostbusters: Afterlife,Ghostbusters: Afterlife,,425909,Ghostbusters: Afterlife,2021-11-11
 2022-02-27T04:01:00+00:01,main,364,Bright Star,Bright Star,,29963,Bright Star,2009-11-05
-2022-02-21T04:01:00+00:00,patreon,130,They,They,,350050,They,2018-05-15
 2022-03-06T04:01:00+00:01,main,365,The Power of the Dog,The Power of the Dog,,600583,The Power of the Dog,2021-09-13

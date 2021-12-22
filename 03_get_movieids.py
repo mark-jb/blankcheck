@@ -83,7 +83,11 @@ replacements = { "main": {
         "120a": "9334",  # The Scorpion King
         "120b": "31578",  # The Scorpion King
         "119": "282035", # The Mummy 2017
-        "130": "350050" # They
+        "125": "620",    # Ghostbusters
+        "127": "2978",   # Ghostbusters 2
+        "128": "43074",  # Ghostbusters 2016
+        "130": "425909", # Ghostbusters Afterlife
+#        "130": "350050" # They
     }
 }
 
