@@ -66,7 +66,8 @@ replacements = { "main": {
         "339": "790",  # The Fog
         "341": "1091", # The Thing
         "346": "8337",  # They Live
-        "355": "511809"  # West Side Story
+        "355": "511809",  # West Side Story
+        "357": "123067" # Two Friends
     },
     "patreon": {
         "2": "1726",    # Iron Man
@@ -88,6 +89,7 @@ replacements = { "main": {
         "127": "2978",   # Ghostbusters 2
         "128": "43074",  # Ghostbusters 2016
         "130": "425909", # Ghostbusters Afterlife
+        "131": "603",    # The Matrix
 #        "130": "350050" # They
     }
 }

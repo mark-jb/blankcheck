@@ -59,7 +59,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2016-11-27T00:00:00+00:00,main,85,Avatar,Avatar,,19995,Avatar,2009-12-10
 2016-12-10T00:00:00+00:00,main,87,The Man Who Knew Too Little,The Man Who Knew Too Little,,9414,The Man Who Knew Too Little,1997-11-14
 2016-12-17T00:00:00+00:00,main,88,Rogue One: A Star Wars Story,Rogue One: A Star Wars Story,,330459,Rogue One: A Star Wars Story,2016-12-14
-2017-01-22T00:00:00+00:00,main,92,Split,Split,,381288,Split,2016-11-15
+2017-01-22T00:00:00+00:00,main,92,Split,Split,,381288,Split,2017-01-19
 2017-01-29T00:00:00+00:00,main,93,The Lost World: Jurassic Park,The Lost World: Jurassic Park,,330,The Lost World: Jurassic Park,1997-05-23
 2017-02-05T00:00:00+00:00,main,94,Amistad,Amistad,,11831,Amistad,1997-12-10
 2017-02-12T00:00:00+00:00,main,95,Saving Private Ryan with Richard Lawson,Saving Private Ryan,Richard Lawson,857,Saving Private Ryan,1998-07-24
@@ -169,7 +169,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2019-02-10T05:00:00+00:00,main,203,Mars Attacks! with Paul F. Tompkins,Mars Attacks!,Paul F. Tompkins,75,Mars Attacks!,1996-12-12
 2019-02-11T05:00:01+00:00,patreon,7,What Men Want with Angela Ferraguto,What Men Want,Angela Ferraguto,487297,What Men Want,2019-02-08
 2019-02-21T05:08:18+00:00,patreon,8,Thor,Thor,,10195,Thor,2011-04-21
-2019-02-24T17:00:00+00:00,main,205,Sleepy Hollow with David Lowery,Sleepy Hollow,David Lowery,2668,Sleepy Hollow,1999-11-18
+2019-02-24T17:00:00+00:00,main,205,Sleepy Hollow with David Lowery,Sleepy Hollow,David Lowery,2668,Sleepy Hollow,1999-11-19
 2019-03-01T05:01:01+00:00,patreon,9,Captain America: The First Avenger,Captain America: The First Avenger,,1771,Captain America: The First Avenger,2011-07-22
 2019-03-03T05:00:00+00:00,main,206,Planet of the Apes with Matt Singer,Planet of the Apes,Matt Singer,869,Planet of the Apes,2001-07-25
 2019-03-10T05:00:00+00:00,main,207,Big Fish with Chris Gethard,Big Fish,Chris Gethard,587,Big Fish,2003-12-25
@@ -212,7 +212,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2019-08-21T04:03:32+00:00,patreon,31,Spider-Man: Homecoming with Alex Ross Perry,Spider-Man: Homecoming,Alex Ross Perry,315635,Spider-Man: Homecoming,2017-07-05
 2019-08-25T04:00:00+00:00,main,232,Castle in the Sky with Emily Yoshida,Castle in the Sky,Emily Yoshida,10515,天空の城ラピュタ,1986-08-02
 2019-09-01T04:00:00+00:00,main,233,My Neighbor Totoro with J.D. Amato,My Neighbor Totoro,J.D. Amato,8392,となりのトトロ,1988-04-16
-2019-09-01T04:00:02+00:00,patreon,32,Thor: Ragnarok with Emma Stefansky,Thor: Ragnarok,Emma Stefansky,284053,Thor: Ragnarok,2017-10-25
+2019-09-01T04:00:02+00:00,patreon,32,Thor: Ragnarok with Emma Stefansky,Thor: Ragnarok,Emma Stefansky,284053,Thor: Ragnarok,2017-10-24
 2019-09-08T04:00:00+00:00,main,234,Kiki's Delivery Service with Caroline Framke,Kiki's Delivery Service,Caroline Framke,16859,魔女の宅急便,1989-07-29
 2019-09-15T04:00:00+00:00,main,235,Porco Rosso with Justin Charity,Porco Rosso,Justin Charity,11621,紅の豚,1992-07-18
 2019-09-21T04:00:01+00:00,patreon,34,Black Panther with Jamelle Bouie,Black Panther,Jamelle Bouie,284054,Black Panther,2018-02-13
@@ -412,7 +412,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2021-12-21T04:01:00+00:00,patreon,124,The Santa Clause 3: The Escape Clause,The Santa Clause 3:The Escape Clause,,13767,The Santa Clause 3: The Escape Clause,2006-11-01
 2022-01-01T04:01:00+00:00,patreon,125,Ghostbusters,Ghostbusters,,620,Ghostbusters,1984-06-08
 2022-01-02T04:01:00+00:01,main,356,The Matrix: Resurrections,The Matrix: Resurrections,,624860,The Matrix Resurrections,2021-12-16
-2022-01-09T04:01:00+00:01,main,357,Two Friends,Two Friends,,123067,Two Friends,1986-01-01
+2022-01-09T04:01:00+00:01,main,357,Two Friends,Two Friends,,123067,2 Friends,1986-05-13
 2022-01-16T04:01:00+00:01,main,358,Sweetie,Sweetie,,65015,Sweetie,1989-01-01
 2022-01-22T04:01:00+00:00,patreon,127,Ghostbusters II,Ghostbusters II,,2978,Ghostbusters II,1989-06-16
 2022-01-23T04:01:00+00:01,main,359,An Angel at My Table,An Angel at My Table,,2891,An Angel at My Table,1990-09-20
@@ -420,7 +420,11 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-02-01T04:01:00+00:00,patreon,128,Ghostbusters: Answer The Call,Ghostbusters: Answer The Call,,43074,Ghostbusters,2016-07-14
 2022-02-06T04:01:00+00:01,main,361,The Portrait of a Lady,The Portrait of a Lady,,36758,The Portrait of a Lady,1996-10-17
 2022-02-13T04:01:00+00:01,main,362,Holy Smoke!,Holy Smoke!,,13787,Holy Smoke,1999-09-04
-2022-02-20T04:01:00+00:01,main,363,In the Cut,In the Cut,,10944,In the Cut,2003-09-09
+2022-02-20T04:01:00+00:01,main,363,In the Cut,In the Cut,,10944,In the Cut,2003-10-22
 2022-02-22T04:01:00+00:00,patreon,130,Ghostbusters: Afterlife,Ghostbusters: Afterlife,,425909,Ghostbusters: Afterlife,2021-11-11
 2022-02-27T04:01:00+00:01,main,364,Bright Star,Bright Star,,29963,Bright Star,2009-11-05
+2022-03-01T16:22:01+00:00,patreon,131,The Matrix,The Matrix,,603,The Matrix,1999-03-30
 2022-03-06T04:01:00+00:01,main,365,The Power of the Dog,The Power of the Dog,,600583,The Power of the Dog,2021-09-13
+2022-03-21T22:44:21+00:00,patreon,133,The Matrix Reloaded,The Matrix Reloaded,,604,The Matrix Reloaded,2003-05-15
+2022-04-01T20:25:09+00:00,patreon,134,The Matrix Revolutions,The Matrix Revolutions,,605,The Matrix Revolutions,2003-11-05
+2022-04-21T20:25:09+00:00,patreon,136,The Matrix: Resurrections,The Matrix: Resurrections,,624860,The Matrix Resurrections,2021-12-16
