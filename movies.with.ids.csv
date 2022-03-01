@@ -89,7 +89,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2017-08-13T21:00:00+00:00,main,121,The Dark Knight Rises,The Dark Knight Rises,,49026,The Dark Knight Rises,2012-07-16
 2017-08-27T21:00:00+00:00,main,123,Interstellar,Interstellar,,157336,Interstellar,2014-11-05
 2017-09-03T21:00:00+00:00,main,124,Dunkirk with Bilge Ebiri,Dunkirk,Bilge Ebiri,374720,Dunkirk,2017-07-19
-2017-09-10T21:05:56+00:00,main,126,The Devil Wears Prada with Romilly Newman,The Devil Wears Prada,Romilly Newman,350,The Devil Wears Prada,2006-06-30
+2017-09-10T21:05:56+00:00,main,126,The Devil Wears Prada with Romilly Newman,The Devil Wears Prada,Romilly Newman,350,The Devil Wears Prada,2006-06-29
 2017-09-17T21:00:00+00:00,main,127,The Loveless,The Loveless,,36826,The Loveless,1981-08-07
 2017-09-24T21:00:00+00:00,main,128,Near Dark with Mani Lazic,Near Dark,Mani Lazic,11879,Near Dark,1987-10-02
 2017-10-01T21:00:00+00:00,main,129,Blue Steel with Jordan Hoffman,Blue Steel,Jordan Hoffman,9491,Blue Steel,1990-03-16
@@ -129,7 +129,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2018-06-17T21:00:00+00:00,main,168,Tomorrowland,Tomorrowland,,158852,Tomorrowland,2015-05-19
 2018-06-24T21:00:00+00:00,main,169,Incredibles 2,Incredibles 2,,260513,Incredibles 2,2018-06-14
 2018-07-01T21:00:00+00:00,main,171a,Pushing Hands/The Wedding Banquet,Pushing Hands,,25296,推手,1991-12-07
-2018-07-01T21:00:00+00:00,main,171b,Pushing Hands/The Wedding Banquet,The Wedding Banquet,,9261,喜宴,1993-08-04
+2018-07-01T21:00:00+00:00,main,171b,Pushing Hands/The Wedding Banquet,The Wedding Banquet,,9261,喜宴,1993-03-01
 2018-07-08T21:00:00+00:00,main,172,Eat Drink Man Woman with Alison Willmore,Eat Drink Man Woman,Alison Willmore,10451,飲食男女,1994-01-28
 2018-07-15T21:00:00+00:00,main,173,Sense and Sensibility with Shirley Li,Sense and Sensibility,Shirley Li,4584,Sense and Sensibility,1995-12-13
 2018-07-22T21:10:13+00:00,main,174a,Hotel Transylvania Trilogy,Hotel Transylvania,,76492,Hotel Transylvania,2012-09-20
@@ -140,7 +140,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2018-08-12T21:54:54+00:00,main,177,"Crouching Tiger, Hidden Dragon with David Ehrlich","Crouching Tiger, Hidden Dragon",David Ehrlich,146,卧虎藏龍,2000-07-06
 2018-08-19T21:00:00+00:00,main,178,Hulk,Hulk,,1927,Hulk,2003-06-19
 2018-08-26T21:00:00+00:00,main,179,Brokeback Mountain with Las Culturistas,Brokeback Mountain,Las Culturistas,142,Brokeback Mountain,2005-09-10
-2018-09-02T21:00:00+00:00,main,180,"Lust, Caution with Chris Weitz","Lust, Caution",Chris Weitz,4588,色‧戒,2007-09-28
+2018-09-02T21:00:00+00:00,main,180,"Lust, Caution with Chris Weitz","Lust, Caution",Chris Weitz,4588,色‧戒,2007-09-27
 2018-09-09T21:00:00+00:00,main,181,Taking Woodstock with Alex Ross Perry,Taking Woodstock,Alex Ross Perry,26320,Taking Woodstock,2009-08-26
 2018-09-16T21:00:00+00:00,main,182,Life of Pi with Ray Tintori,Life of Pi,Ray Tintori,87827,Life of Pi,2012-11-20
 2018-09-23T21:00:00+00:00,main,183,Billy Lynn's Long Halftime Walk with J.D. Amato,Billy Lynn's Long Halftime Walk,J.D. Amato,293767,Billy Lynn's Long Halftime Walk,2016-11-10
@@ -275,6 +275,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2020-05-17T16:38:03+00:00,main,271,Happy Feet Two with Sara Rubin,Happy Feet Two,Sara Rubin,65759,Happy Feet Two,2011-11-18
 2020-05-21T04:00:03+00:00,patreon,63,Toy Story 2,Toy Story 2,,863,Toy Story 2,1999-10-30
 2020-05-24T04:48:02+00:00,main,272,Mad Max: Fury Road with Emily Yoshida,Mad Max: Fury Road,Emily Yoshida,76341,Mad Max: Fury Road,2015-05-13
+2020-05-28T08:00:00+00:00,main,273,"Twilight Zone: Nightmare at 20,000 Feet","Twilight Zone: Nightmare at 20,000 Feet",,944079,"The Twilight Zone: Nightmare at 20,000 Feet",
 2020-05-31T03:30:00+00:00,main,274,Stargate,Stargate,,2164,Stargate,1994-10-27
 2020-06-01T04:01:01+00:00,patreon,64,Toy Story 3,Toy Story 3,,10193,Toy Story 3,2010-06-16
 2020-06-07T04:21:50+00:00,main,275,When Harry Met Sally... with Dana Stevens,When Harry Met Sally...,Dana Stevens,639,When Harry Met Sally...,1989-01-12
@@ -412,7 +413,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2021-12-21T04:01:00+00:00,patreon,124,The Santa Clause 3: The Escape Clause,The Santa Clause 3:The Escape Clause,,13767,The Santa Clause 3: The Escape Clause,2006-11-01
 2022-01-01T04:01:00+00:00,patreon,125,Ghostbusters,Ghostbusters,,620,Ghostbusters,1984-06-08
 2022-01-02T04:01:00+00:01,main,356,The Matrix: Resurrections,The Matrix: Resurrections,,624860,The Matrix Resurrections,2021-12-16
-2022-01-09T04:01:00+00:01,main,357,Two Friends,Two Friends,,123067,2 Friends,1986-05-13
+2022-01-09T04:01:00+00:01,main,357,Two Friends,Two Friends,,123067,Two Friends,1986-05-13
 2022-01-16T04:01:00+00:01,main,358,Sweetie,Sweetie,,65015,Sweetie,1989-01-01
 2022-01-22T04:01:00+00:00,patreon,127,Ghostbusters II,Ghostbusters II,,2978,Ghostbusters II,1989-06-16
 2022-01-23T04:01:00+00:01,main,359,An Angel at My Table,An Angel at My Table,,2891,An Angel at My Table,1990-09-20
@@ -424,7 +425,23 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-02-22T04:01:00+00:00,patreon,130,Ghostbusters: Afterlife,Ghostbusters: Afterlife,,425909,Ghostbusters: Afterlife,2021-11-11
 2022-02-27T04:01:00+00:01,main,364,Bright Star,Bright Star,,29963,Bright Star,2009-11-05
 2022-03-01T16:22:01+00:00,patreon,131,The Matrix,The Matrix,,603,The Matrix,1999-03-30
-2022-03-06T04:01:00+00:01,main,365,The Power of the Dog,The Power of the Dog,,600583,The Power of the Dog,2021-09-13
+2022-03-06T04:01:00+00:01,main,365,The Power of the Dog,The Power of the Dog,,600583,The Power of the Dog,2021-11-17
 2022-03-21T22:44:21+00:00,patreon,133,The Matrix Reloaded,The Matrix Reloaded,,604,The Matrix Reloaded,2003-05-15
 2022-04-01T20:25:09+00:00,patreon,134,The Matrix Revolutions,The Matrix Revolutions,,605,The Matrix Revolutions,2003-11-05
 2022-04-21T20:25:09+00:00,patreon,136,The Matrix: Resurrections,The Matrix: Resurrections,,624860,The Matrix Resurrections,2021-12-16
+2022-03-13T04:01:00+00:01,main,367,It's Murder!,It's Murder!,,90074,It's Murder!,1977-01-01
+2022-03-13T04:01:00+00:01,main,368,The Evil Dead,The Evil Dead,,764,The Evil Dead,1981-09-10
+2022-03-13T04:01:00+00:01,main,369,Crimewave,Crimewave,,21627,Crimewave,1985-04-12
+2022-03-13T04:01:00+00:01,main,370,Evil Dead II,Evil Dead II,,765,Evil Dead II,1987-03-13
+2022-03-13T04:01:00+00:01,main,371,Darkman,Darkman,,9556,Darkman,1990-08-24
+2022-03-13T04:01:00+00:01,main,372,Army of Darkness,Army of Darkness,,766,Army of Darkness,1992-10-31
+2022-03-13T04:01:00+00:01,main,373,The Quick and the Dead,The Quick and the Dead,,12106,The Quick and the Dead,1995-02-09
+2022-03-13T04:01:00+00:01,main,374,A Simple Plan,A Simple Plan,,10223,A Simple Plan,1998-12-11
+2022-03-13T04:01:00+00:01,main,375,For Love of the Game,For Love of the Game,,10390,For Love of the Game,1999-09-17
+2022-03-13T04:01:00+00:01,main,376,The Gift,The Gift,,2046,The Gift,2000-03-16
+2022-03-13T04:01:00+00:01,main,377,Spider-Man,Spider-Man,,557,Spider-Man,2002-05-01
+2022-03-13T04:01:00+00:01,main,378,Spider-Man 2,Spider-Man 2,,558,Spider-Man 2,2004-06-25
+2022-03-13T04:01:00+00:01,main,379,Spider-Man 3,Spider-Man 3,,559,Spider-Man 3,2007-05-01
+2022-03-13T04:01:00+00:01,main,380,Drag Me to Hell,Drag Me to Hell,,16871,Drag Me to Hell,2009-03-15
+2022-03-13T04:01:00+00:01,main,381,Oz the Great and Powerful,Oz the Great and Powerful,,68728,Oz the Great and Powerful,2013-03-07
+2022-03-13T04:01:00+00:01,main,382,Doctor Strange in the Multiverse of Madness,Doctor Strange in the Multiverse of Madness,,453395,Doctor Strange in the Multiverse of Madness,2022-05-04

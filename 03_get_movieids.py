@@ -18,6 +18,7 @@ replacements = { "main": {
         "77": "679",    # Aliens
         "69": "297761", # Suicide Squad
         "102": "74",    # War of the Worlds
+        "103": "612",   # Munich
         "107": "72976", # Lincoln
         "110": "2778",  # Clifford
         "111": "297762", # Wonder Woman
@@ -67,7 +68,12 @@ replacements = { "main": {
         "341": "1091", # The Thing
         "346": "8337",  # They Live
         "355": "511809",  # West Side Story
-        "357": "123067" # Two Friends
+        "357": "123067", # Two Friends
+        "367": "90074",  # Its murder
+        "369": "21627",  # Crimewave
+        "377": "557", # Spiderman
+        "378": "558", # Spiderman 2
+        "379": "559"  # Spiderman 3
     },
     "patreon": {
         "2": "1726",    # Iron Man
