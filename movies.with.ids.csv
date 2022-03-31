@@ -275,7 +275,6 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2020-05-17T16:38:03+00:00,main,271,Happy Feet Two with Sara Rubin,Happy Feet Two,Sara Rubin,65759,Happy Feet Two,2011-11-18
 2020-05-21T04:00:03+00:00,patreon,63,Toy Story 2,Toy Story 2,,863,Toy Story 2,1999-10-30
 2020-05-24T04:48:02+00:00,main,272,Mad Max: Fury Road with Emily Yoshida,Mad Max: Fury Road,Emily Yoshida,76341,Mad Max: Fury Road,2015-05-13
-2020-05-28T08:00:00+00:00,main,273,"Twilight Zone: Nightmare at 20,000 Feet","Twilight Zone: Nightmare at 20,000 Feet",,944079,"The Twilight Zone: Nightmare at 20,000 Feet",
 2020-05-31T03:30:00+00:00,main,274,Stargate,Stargate,,2164,Stargate,1994-10-27
 2020-06-01T04:01:01+00:00,patreon,64,Toy Story 3,Toy Story 3,,10193,Toy Story 3,2010-06-16
 2020-06-07T04:21:50+00:00,main,275,When Harry Met Sally... with Dana Stevens,When Harry Met Sally...,Dana Stevens,639,When Harry Met Sally...,1989-01-12
@@ -429,19 +428,30 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-03-21T22:44:21+00:00,patreon,133,The Matrix Reloaded,The Matrix Reloaded,,604,The Matrix Reloaded,2003-05-15
 2022-04-01T20:25:09+00:00,patreon,134,The Matrix Revolutions,The Matrix Revolutions,,605,The Matrix Revolutions,2003-11-05
 2022-04-21T20:25:09+00:00,patreon,136,The Matrix: Resurrections,The Matrix: Resurrections,,624860,The Matrix Resurrections,2021-12-16
-2022-03-13T04:01:00+00:01,main,367,It's Murder!,It's Murder!,,90074,It's Murder!,1977-01-01
-2022-03-13T04:01:00+00:01,main,368,The Evil Dead,The Evil Dead,,764,The Evil Dead,1981-09-10
-2022-03-13T04:01:00+00:01,main,369,Crimewave,Crimewave,,21627,Crimewave,1985-04-12
-2022-03-13T04:01:00+00:01,main,370,Evil Dead II,Evil Dead II,,765,Evil Dead II,1987-03-13
-2022-03-13T04:01:00+00:01,main,371,Darkman,Darkman,,9556,Darkman,1990-08-24
-2022-03-13T04:01:00+00:01,main,372,Army of Darkness,Army of Darkness,,766,Army of Darkness,1992-10-31
-2022-03-13T04:01:00+00:01,main,373,The Quick and the Dead,The Quick and the Dead,,12106,The Quick and the Dead,1995-02-09
-2022-03-13T04:01:00+00:01,main,374,A Simple Plan,A Simple Plan,,10223,A Simple Plan,1998-12-11
-2022-03-13T04:01:00+00:01,main,375,For Love of the Game,For Love of the Game,,10390,For Love of the Game,1999-09-17
-2022-03-13T04:01:00+00:01,main,376,The Gift,The Gift,,2046,The Gift,2000-03-16
-2022-03-13T04:01:00+00:01,main,377,Spider-Man,Spider-Man,,557,Spider-Man,2002-05-01
-2022-03-13T04:01:00+00:01,main,378,Spider-Man 2,Spider-Man 2,,558,Spider-Man 2,2004-06-25
-2022-03-13T04:01:00+00:01,main,379,Spider-Man 3,Spider-Man 3,,559,Spider-Man 3,2007-05-01
-2022-03-13T04:01:00+00:01,main,380,Drag Me to Hell,Drag Me to Hell,,16871,Drag Me to Hell,2009-03-15
-2022-03-13T04:01:00+00:01,main,381,Oz the Great and Powerful,Oz the Great and Powerful,,68728,Oz the Great and Powerful,2013-03-07
-2022-03-13T04:01:00+00:01,main,382,Doctor Strange in the Multiverse of Madness,Doctor Strange in the Multiverse of Madness,,453395,Doctor Strange in the Multiverse of Madness,2022-05-04
+2022-03-13T04:01:00+00:01,main,367,The Evil Dead,The Evil Dead,,90074,It's Murder!,1977-01-01
+2022-03-13T04:01:00+00:01,main,368,Crimewave,Crimewave,,21627,Crimewave,1985-04-12
+2022-03-13T04:01:00+00:01,main,369,Evil Dead II,Evil Dead II,,21627,Crimewave,1985-04-12
+2022-03-13T04:01:00+00:01,main,370,Darkman,Darkman,,9556,Darkman,1990-08-24
+2022-03-13T04:01:00+00:01,main,371,Army of Darkness,Army of Darkness,,766,Army of Darkness,1992-10-31
+2022-03-13T04:01:00+00:01,main,372,The Quick and the Dead,The Quick and the Dead,,12106,The Quick and the Dead,1995-02-09
+2022-03-13T04:01:00+00:01,main,373,A Simple Plan,A Simple Plan,,10223,A Simple Plan,1998-12-11
+2022-03-13T04:01:00+00:01,main,374,For Love of the Game,For Love of the Game,,10390,For Love of the Game,1999-09-17
+2022-03-13T04:01:00+00:01,main,375,The Gift,The Gift,,328425,The Gift,2015-07-30
+2022-03-13T04:01:00+00:01,main,376,Spider-Man,Spider-Man,,634649,Spider-Man: No Way Home,2021-12-15
+2022-03-13T04:01:00+00:01,main,377,Spider-Man 2,Spider-Man 2,,557,Spider-Man,2002-05-01
+2022-03-13T04:01:00+00:01,main,378,Spider-Man 3,Spider-Man 3,,558,Spider-Man 2,2004-06-25
+2022-03-13T04:01:00+00:01,main,379,Drag Me to Hell,Drag Me to Hell,,559,Spider-Man 3,2007-05-01
+2022-03-13T04:01:00+00:01,main,380,Oz the Great and Powerful,Oz the Great and Powerful,,68728,Oz the Great and Powerful,2013-03-07
+2022-03-13T04:01:00+00:01,main,381,Doctor Strange in the Multiverse of Madness,Doctor Strange in the Multiverse of Madness,,453395,Doctor Strange in the Multiverse of Madness,2022-05-04
+2022-05-01T20:25:09+00:00,patreon,137,Batman,Batman,,2661,Batman,1966-07-30
+2022-05-21T20:25:09+00:00,patreon,139,Batman: Mask of the Phantasm,Batman: Mask of the Phantasm,,14919,Batman: Mask of the Phantasm,1993-12-25
+2022-06-01T20:25:09+00:00,patreon,140,Batman Forever,Batman Forever,,414,Batman Forever,1995-06-16
+2022-06-21T20:25:09+00:00,patreon,142,Batman & Robin,Batman & Robin,,415,Batman & Robin,1997-06-20
+2022-07-01T20:25:09+00:00,patreon,143,Batman v. Superman,Batman v. Superman,,209112,Batman v Superman: Dawn of Justice,2016-03-23
+2022-07-21T20:25:09+00:00,patreon,145,Lego Batman,Lego Batman,,324849,The Lego Batman Movie,2017-02-08
+2022-08-01T20:25:09+00:00,patreon,146,The Batman,The Batman,,414906,The Batman,2022-03-01
+2022-08-21T20:25:09+00:00,patreon,148,Planet of the Apes,Planet of the Apes,,871,Planet of the Apes,1968-07-02
+2022-09-01T20:25:09+00:00,patreon,149,Beneath the Planet of the Apes,Beneath the Planet of the Apes,,1685,Beneath the Planet of the Apes,1970-04-23
+2022-09-21T20:25:09+00:00,patreon,151,Escape from the Planet of the Apes,Escape from the Planet of the Apes,,1687,Escape from the Planet of the Apes,1971-05-20
+2022-10-01T20:25:09+00:00,patreon,152,Conquest of the Planet of the Apes,Conquest of the Planet of the Apes,,1688,Conquest of the Planet of the Apes,1972-06-29
+2022-10-21T20:25:09+00:00,patreon,154,Battle for the Planet of the Apes,Battle for the Planet of the Apes,,1705,Battle for the Planet of the Apes,1973-06-15

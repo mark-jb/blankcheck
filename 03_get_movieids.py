@@ -96,6 +96,9 @@ replacements = { "main": {
         "128": "43074",  # Ghostbusters 2016
         "130": "425909", # Ghostbusters Afterlife
         "131": "603",    # The Matrix
+        "137": "2661",    # Batman 1966
+        "146": "414906",    # The Batmanx
+        "148": "871"    # The Batmanx
 #        "130": "350050" # They
     }
 }
