@@ -16,6 +16,7 @@ replacements = { "main": {
         "54": "603",    # The Matrix
         "72": "222936", # Aloha
         "77": "679",    # Aliens
+        "85": "19995",  # Avatar
         "69": "297761", # Suicide Squad
         "102": "74",    # War of the Worlds
         "103": "612",   # Munich
@@ -69,11 +70,17 @@ replacements = { "main": {
         "346": "8337",  # They Live
         "355": "511809",  # West Side Story
         "357": "123067", # Two Friends
-        "367": "90074",  # Its murder
-        "369": "21627",  # Crimewave
-        "377": "557", # Spiderman
-        "378": "558", # Spiderman 2
-        "379": "559"  # Spiderman 3
+        "368": "21627",  # Crimewave
+        "376": "2056",  # The gift
+        "376": "557", # Spiderman
+        "377": "558", # Spiderman 2
+        "378": "559", # Spiderman 3
+
+        "402": "247", # The Killing
+        "405": "802",  # Lolita
+
+        "454": "76600",  # Avatar 2
+        "450": "532639"  # pinocchio
     },
     "patreon": {
         "2": "1726",    # Iron Man
@@ -91,15 +98,14 @@ replacements = { "main": {
         "120a": "9334",  # The Scorpion King
         "120b": "31578",  # The Scorpion King
         "119": "282035", # The Mummy 2017
+        "121": "11395",    # the Santa Clause
         "125": "620",    # Ghostbusters
         "127": "2978",   # Ghostbusters 2
         "128": "43074",  # Ghostbusters 2016
         "130": "425909", # Ghostbusters Afterlife
         "131": "603",    # The Matrix
         "137": "2661",    # Batman 1966
-        "146": "414906",    # The Batmanx
-        "148": "871"    # The Batmanx
-#        "130": "350050" # They
+        "146": "414906"    # The Batman
     }
 }
 

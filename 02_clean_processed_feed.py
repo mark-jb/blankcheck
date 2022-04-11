@@ -36,7 +36,8 @@ main_replacements = {
         "245": ["Citizens Band","Last Embrace"],
         "246": ["Melvin and Howard"],
         "260": ["A Master Builder", "Playmobil: The Movie"],
-        "327": ["Shaft","Shaft","Shaft"]
+        "327": ["Shaft","Shaft","Shaft"],
+        "341": ["The Thing","The Thing from Another World"]
         }
 patreon_replacements = {
         "53": ["THX-1138", "American Graffiti"],

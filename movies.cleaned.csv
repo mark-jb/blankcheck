@@ -364,8 +364,8 @@ date,feed,ep_num,title,movie,guest
 2021-05-30T04:00:00+00:00,main,326,Rosewood with Jamelle Bouie,Rosewood,Jamelle Bouie
 2021-06-01T04:00:04+00:00,patreon,103,New Moon with Chris Weitz,New Moon,Chris Weitz
 2021-06-06T04:00:00+00:00,main,327a,Shaft with Demi Adejuyigbe,Shaft,Demi Adejuyigbe
-2021-06-06T04:00:00+00:00,main,327b,Shaft with Demi Adejuyigbe,Shaft,Demi Adejuyigbe
-2021-06-06T04:00:00+00:00,main,327c,Shaft with Demi Adejuyigbe,Shaft,Demi Adejuyigbe
+2021-06-06T04:00:00+00:00,main,327b,Shaft with Demi Adejuyigbe,Shaft (2000),Demi Adejuyigbe
+2021-06-06T04:00:00+00:00,main,327c,Shaft with Demi Adejuyigbe,Shaft (2019),Demi Adejuyigbe
 2021-06-11T04:01:00+00:00,patreon,104,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,
 2021-06-13T04:00:00+00:00,main,328,Baby Boy with Ayo Edebiri,Baby Boy,Ayo Edebiri
 2021-06-20T04:00:00+00:00,main,329,2 Fast 2 Furious with Jon Gabrus,2 Fast 2 Furious,Jon Gabrus
@@ -389,7 +389,8 @@ date,feed,ep_num,title,movie,guest
 2021-09-01T04:01:03+00:00,patreon,112,Riddick,Riddick,
 2021-09-05T04:00:00+00:00,main,340,Escape from New York with Karen Han,Escape from New York,Karen Han
 2021-09-11T04:01:01+00:00,patreon,113,Someone's Watching Me!,Someone's Watching Me!,
-2021-09-12T04:00:00+00:00,main,341,The Thing with Emily VanDerWerff,The Thing,Emily VanDerWerff
+2021-09-12T04:00:00+00:00,main,341a,The Thing with Emily VanDerWerff,The Thing,Emily VanDerWerff
+2021-09-12T04:00:00+00:00,main,341b,The Thing with Emily VanDerWerff,The Thing from Another World,Emily VanDerWerff
 2021-09-19T04:00:00+00:00,main,342,Christine with Scott Wampler and Eric Vespe,Christine,Scott Wampler and Eric Vespe
 2021-09-22T04:00:24+00:00,patreon,115,The Mummy (1999),The Mummy (1999),
 2021-09-26T04:00:00+00:00,main,343,Starman with Katey Rich,Starman,Katey Rich
@@ -431,27 +432,28 @@ date,feed,ep_num,title,movie,guest
 2022-03-01T16:22:01+00:00,patreon,131,The Matrix,The Matrix,
 2022-03-06T04:01:00+00:01,main,365,The Power of the Dog,The Power of the Dog,
 2022-03-21T22:44:21+00:00,patreon,133,The Matrix Reloaded,The Matrix Reloaded,
-2022-04-01T20:25:09+00:00,patreon,134,The Matrix Revolutions,The Matrix Revolutions,
-2022-04-21T20:25:09+00:00,patreon,136,The Matrix: Resurrections,The Matrix: Resurrections,
 2022-03-20T04:01:00+00:01,main,367,The Evil Dead,The Evil Dead,
 2022-03-27T04:01:00+00:01,main,368,Crimewave,Crimewave,
+2022-04-01T20:25:09+00:00,patreon,134,The Matrix Revolutions,The Matrix Revolutions,
 2022-04-03T04:01:00+00:01,main,369,Evil Dead II,Evil Dead II,
 2022-04-10T04:01:00+00:01,main,370,Darkman,Darkman,
+2022-04-11T20:25:09+00:00,patreon,135,Evil Dead (2013),Evil Dead (2013),
 2022-04-17T04:01:00+00:01,main,371,Army of Darkness,Army of Darkness,
+2022-04-21T20:25:09+00:00,patreon,136,The Matrix: Resurrections,The Matrix: Resurrections,
 2022-04-24T04:01:00+00:01,main,372,The Quick and the Dead,The Quick and the Dead,
 2022-05-01T04:01:00+00:01,main,373,A Simple Plan,A Simple Plan,
+2022-05-01T20:25:09+00:00,patreon,137,Batman (1966),Batman (1966),
 2022-05-08T04:01:00+00:01,main,374,For Love of the Game,For Love of the Game,
 2022-05-15T04:01:00+00:01,main,375,The Gift,The Gift,
+2022-05-21T20:25:09+00:00,patreon,139,Batman: Mask of the Phantasm,Batman: Mask of the Phantasm,
 2022-05-22T04:01:00+00:01,main,376,Spider-Man,Spider-Man,
 2022-05-29T04:01:00+00:01,main,377,Spider-Man 2,Spider-Man 2,
+2022-06-01T20:25:09+00:00,patreon,140,Batman Forever,Batman Forever,
 2022-06-05T04:01:00+00:01,main,378,Spider-Man 3,Spider-Man 3,
 2022-06-12T04:01:00+00:01,main,379,Drag Me to Hell,Drag Me to Hell,
 2022-06-19T04:01:00+00:01,main,380,Oz the Great and Powerful,Oz the Great and Powerful,
-2022-06-26T04:01:00+00:01,main,381,Doctor Strange in the Multiverse of Madness,Doctor Strange in the Multiverse of Madness,
-2022-05-01T20:25:09+00:00,patreon,137,Batman,Batman,
-2022-05-21T20:25:09+00:00,patreon,139,Batman: Mask of the Phantasm,Batman: Mask of the Phantasm,
-2022-06-01T20:25:09+00:00,patreon,140,Batman Forever,Batman Forever,
 2022-06-21T20:25:09+00:00,patreon,142,Batman & Robin,Batman & Robin,
+2022-06-26T04:01:00+00:01,main,381,Doctor Strange in the Multiverse of Madness,Doctor Strange in the Multiverse of Madness,
 2022-07-01T20:25:09+00:00,patreon,143,Batman v. Superman,Batman v. Superman,
 2022-07-21T20:25:09+00:00,patreon,145,Lego Batman,Lego Batman,
 2022-08-01T20:25:09+00:00,patreon,146,The Batman,The Batman,
@@ -475,3 +477,8 @@ date,feed,ep_num,title,movie,guest
 2022-10-21T20:25:09+00:00,main,410,The Shining,The Shining,
 2022-10-21T20:25:09+00:00,main,411,Full Metal Jacket,Full Metal Jacket,
 2022-10-21T20:25:09+00:00,main,412,Eyes Wide Shut,Eyes Wide Shut,
+2022-10-21T20:25:09+00:00,main,450,Pinocchio (2022),Pinocchio (2022),
+2022-10-21T20:25:09+00:00,main,451,The Woman King,The Woman King,
+2022-10-21T20:25:09+00:00,main,452,3000 Years of Longing,3000 Years of Longing,
+2022-10-21T20:25:09+00:00,main,453,The Fabelmans,The Fabelmans,
+2022-10-21T20:25:09+00:00,main,454,Avatar 2,Avatar 2,
