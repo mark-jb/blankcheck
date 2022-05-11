@@ -68,10 +68,11 @@ replacements = { "main": {
         "339": "790",  # The Fog
         "341": "1091", # The Thing
         "346": "8337",  # They Live
-        "355": "511809",  # West Side Story
+        "355": "511809", # West Side Story
         "357": "123067", # Two Friends
         "368": "21627",  # Crimewave
-        "376": "2056",  # The gift
+        "369": "765",  # Evil Dead II
+        "375": "2046", # The Gift
         "376": "557", # Spiderman
         "377": "558", # Spiderman 2
         "378": "559", # Spiderman 3
@@ -104,8 +105,9 @@ replacements = { "main": {
         "128": "43074",  # Ghostbusters 2016
         "130": "425909", # Ghostbusters Afterlife
         "131": "603",    # The Matrix
-        "137": "2661",    # Batman 1966
-        "146": "414906"    # The Batman
+        "135": "109428", # Evil dead 2013
+        "137": "2661",   # Batman 1966
+        "146": "414906"  # The Batman
     }
 }
 
