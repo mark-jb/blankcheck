@@ -16,6 +16,7 @@ replacements = { "main": {
         "54": "603",    # The Matrix
         "72": "222936", # Aloha
         "77": "679",    # Aliens
+        "82": "597",    # Titanic
         "85": "19995",  # Avatar
         "69": "297761", # Suicide Squad
         "102": "74",    # War of the Worlds
@@ -48,11 +49,13 @@ replacements = { "main": {
         "232": "10515",  # Castle in the Sky
         "233": "8392",  # My Neighbour Totoro
         "237": "129",   # Spirited Away
-        "249": "11300", # Something Wild
+        "244c": "86209", # Fighting Mad
+        "249": "11300", # Something Wi"d
         "254": "39437", # Beloved
         "258": "14462", # Manchurian Candidate
         "264": "9659", # Mad Max
         "279": "2928", # Michael
+        "297": "686" , # Contact
         "303": "87502", # Flight
         "312": "812",   # Aladdin
         "313": "11970",   # Aladdin
@@ -79,6 +82,7 @@ replacements = { "main": {
 
         "402": "247", # The Killing
         "405": "802",  # Lolita
+        "406": "935", # The Killing
 
         "454": "76600",  # Avatar 2
         "450": "532639"  # pinocchio

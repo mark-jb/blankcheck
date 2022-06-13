@@ -59,7 +59,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2016-11-27T00:00:00+00:00,main,85,Avatar,Avatar,,19995,Avatar,2009-12-10
 2016-12-10T00:00:00+00:00,main,87,The Man Who Knew Too Little,The Man Who Knew Too Little,,9414,The Man Who Knew Too Little,1997-11-14
 2016-12-17T00:00:00+00:00,main,88,Rogue One: A Star Wars Story,Rogue One: A Star Wars Story,,330459,Rogue One: A Star Wars Story,2016-12-14
-2017-01-22T00:00:00+00:00,main,92,Split,Split,,381288,Split,2017-01-19
+2017-01-22T00:00:00+00:00,main,92,Split,Split,,381288,Split,2016-11-15
 2017-01-29T00:00:00+00:00,main,93,The Lost World: Jurassic Park,The Lost World: Jurassic Park,,330,The Lost World: Jurassic Park,1997-05-23
 2017-02-05T00:00:00+00:00,main,94,Amistad,Amistad,,11831,Amistad,1997-12-10
 2017-02-12T00:00:00+00:00,main,95,Saving Private Ryan with Richard Lawson,Saving Private Ryan,Richard Lawson,857,Saving Private Ryan,1998-07-24
@@ -310,7 +310,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2020-10-18T04:00:00+00:00,main,294,Back to the Future Part III with Josh Gondelman,Back to the Future Part III,Josh Gondelman,196,Back to the Future Part III,1990-05-25
 2020-10-21T04:02:09+00:00,patreon,78,Aliens,Aliens,,679,Aliens,1986-07-18
 2020-10-25T06:03:30+00:00,main,295,Death Becomes Her with Katey Rich,Death Becomes Her,Katey Rich,9374,Death Becomes Her,1992-07-30
-2020-11-01T04:00:00+00:00,main,296,Forrest Gump with Jamelle Bouie,Forrest Gump,Jamelle Bouie,13,Forrest Gump,1994-07-06
+2020-11-01T04:00:00+00:00,main,296,Forrest Gump with Jamelle Bouie,Forrest Gump,Jamelle Bouie,13,Forrest Gump,1994-06-23
 2020-11-01T04:00:03+00:00,patreon,79,Alien 3,Alien3,,8077,Alien³,1992-05-22
 2020-11-08T14:11:49+00:00,main,297,Contact with Jamie Bell,Contact,Jamie Bell,686,Contact,1997-07-11
 2020-11-15T04:45:00+00:00,main,298,What Lies Beneath with Starlee Kine,What Lies Beneath,Starlee Kine,2655,What Lies Beneath,2000-07-21
@@ -445,10 +445,16 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-05-29T04:01:00+00:01,main,377,Spider-Man 2,Spider-Man 2,,558,Spider-Man 2,2004-06-25
 2022-06-01T20:25:09+00:00,patreon,140,Batman Forever,Batman Forever,,414,Batman Forever,1995-06-16
 2022-06-05T04:01:00+00:01,main,378,Spider-Man 3,Spider-Man 3,,559,Spider-Man 3,2007-05-01
+2022-06-11T20:25:09+00:00,patreon,141,Old Dogs,Old Dogs,,22949,Old Dogs,2009-11-24
 2022-06-12T04:01:00+00:01,main,379,Drag Me to Hell,Drag Me to Hell,,16871,Drag Me to Hell,2009-03-15
 2022-06-19T04:01:00+00:01,main,380,Oz the Great and Powerful,Oz the Great and Powerful,,68728,Oz the Great and Powerful,2013-03-07
 2022-06-21T20:25:09+00:00,patreon,142,Batman & Robin,Batman & Robin,,415,Batman & Robin,1997-06-20
 2022-06-26T04:01:00+00:01,main,381,Doctor Strange in the Multiverse of Madness,Doctor Strange in the Multiverse of Madness,,453395,Doctor Strange in the Multiverse of Madness,2022-05-04
+2022-07-03T04:01:00+00:01,main,382,Sweet Charity,Sweet Charity,,42618,Sweet Charity,1969-02-25
+2022-07-03T10:01:00+00:01,main,383,Cabaret,Cabaret,,10784,Cabaret,1972-02-13
+2022-07-03T17:01:00+00:01,main,384,Lenny,Lenny,,27094,Lenny,1974-11-10
+2022-07-03T24:01:00+00:01,main,385,All That Jazz,All That Jazz,,16858,All That Jazz,1979-12-16
+2022-07-03T31:01:00+00:01,main,386,Star 80,Star 80,,30707,Star 80,1983-11-10
 2022-07-01T20:25:09+00:00,patreon,143,Batman v. Superman,Batman v. Superman,,209112,Batman v Superman: Dawn of Justice,2016-03-23
 2022-07-21T20:25:09+00:00,patreon,145,Lego Batman,Lego Batman,,324849,The Lego Batman Movie,2017-02-08
 2022-08-01T20:25:09+00:00,patreon,146,The Batman,The Batman,,414906,The Batman,2022-03-01
@@ -472,8 +478,8 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-10-21T20:25:09+00:00,main,410,The Shining,The Shining,,694,The Shining,1980-05-23
 2022-10-21T20:25:09+00:00,main,411,Full Metal Jacket,Full Metal Jacket,,600,Full Metal Jacket,1987-06-26
 2022-10-21T20:25:09+00:00,main,412,Eyes Wide Shut,Eyes Wide Shut,,345,Eyes Wide Shut,1999-07-16
-2022-10-21T20:25:09+00:00,main,450,Pinocchio (2022),Pinocchio (2022),,532639,Pinocchio,
+2022-10-21T20:25:09+00:00,main,450,Pinocchio (2022),Pinocchio (2022),,532639,Pinocchio,2022-09-08
 2022-10-21T20:25:09+00:00,main,451,The Woman King,The Woman King,,724495,The Woman King,2022-09-16
-2022-10-21T20:25:09+00:00,main,452,Three Thousand Years of Longing,Three Thousand Years of Longing,,556694,Three Thousand Years of Longing,9999-09-09
+2022-10-21T20:25:09+00:00,main,452,Three Thousand Years of Longing,Three Thousand Years of Longing,,556694,Three Thousand Years of Longing,2022-08-24
 2022-10-21T20:25:09+00:00,main,453,The Fabelmans,The Fabelmans,,804095,The Fabelmans,2022-11-23
-2022-10-21T20:25:09+00:00,main,454,Avatar 2,Avatar 2,,76600,Avatar 2,2022-12-14
+2022-10-21T20:25:09+00:00,main,454,Avatar 2,Avatar 2,,76600,Avatar: The Way of Water,2022-12-14
