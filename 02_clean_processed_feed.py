@@ -10,7 +10,7 @@ import string
 
 new_list = []
 main_ep_nums_delete = [2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,33,39,83,86,89,90,91,122,125,158,170,228,263]
-patreon_ep_nums_delete = [1,5,14,20,21,27,30,33,39,45,47,49,59,65,77,80,89,101,114]
+patreon_ep_nums_delete = [1,5,14,20,21,27,30,33,39,45,47,49,59,65,77,80,89,101,114,124,142,147]
 
 main_replacements = {
         "1": ["Star Wars: The Phantom Menace"],
@@ -40,6 +40,7 @@ main_replacements = {
         "341": ["The Thing","The Thing from Another World"]
         }
 patreon_replacements = {
+        "3": ["Hulk Live"],
         "53": ["THX-1138", "American Graffiti"],
         "69": ["Mission: Impossible II"],
         "70": ["Mission: Impossible III"],
@@ -47,8 +48,13 @@ patreon_replacements = {
         "83": ["Armageddon"],
         "93": ["The Return of Jafar","Aladdin and the King of Thieves"],
         "98": ["Ömer the Tourist in Star Trek"],
-        "110": ["F9"]
-        "120": ["The Scorpion King", "Body Bags"]
+        "110": ["F9"],
+        "121": ["The Scorpion King", "Body Bags"],
+        "145": ["Old Dogs"],
+        "148": ["Batman v Superman: Dawn of Justice - Ultimate Edition"],
+        "149": ["Batman v Superman: Dawn of Justice - The Lost Episode"],
+        "151": ["Liza with a Z"],
+        "156": ["The Man with the Golden Gun"]
         }
 
 def clean_main(episode):
@@ -73,10 +79,6 @@ def clean_main(episode):
     return episodes
 
 def clean_patreon(episode):
-    if int(episode["ep_num"]) in patreon_ep_nums_delete: return []
-    if "Blank Check Awards" in episode["movie"]: return []
-    if "Mailbag" in episode["movie"]: return []
-    if "March Madness" in episode["movie"]: return []
     episodes = []
     if episode["ep_num"] in patreon_replacements.keys():
         for title, letter in zip(patreon_replacements[episode["ep_num"]], string.ascii_lowercase):
@@ -86,6 +88,12 @@ def clean_patreon(episode):
             e["movie"] = title
             episodes.append(e)
     else:
+        if int(episode["ep_num"]) in patreon_ep_nums_delete: return []
+        if "Blank Check Awards" in episode["movie"]: return []
+        if "Mailbag" in episode["movie"]: return []
+        if "March Madness" in episode["movie"]: return []
+        if "MARCH MADNESS" in episode["movie"]: return []
+        # Okay, this is an episode to add
         episodes.append(episode)
     for e in episodes: print("Patreon feed:", e["ep_num"], e["movie"])
     return episodes

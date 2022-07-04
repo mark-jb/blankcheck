@@ -453,7 +453,113 @@ date,feed,ep_num,title
 2021-09-05T04:00:00+00:00,main,340,Escape from New York with Karen Han
 2021-09-11T04:01:01+00:00,patreon,113,Someone's Watching Me!
 2021-09-12T04:00:00+00:00,main,341,The Thing with Emily VanDerWerff
-2021-09-19T04:00:00+00:00,main,342,Christine with Scott Wampler and Eric Vespe
+2021-09-19T04:00:00+00:00,main,342,Christine with Scott Wampler & Eric Vespe
 2021-09-21T04:00:02+00:00,patreon,114,Someone's Watching Me! (Someone’s Listening to Me! 3D Edition)
 2021-09-22T04:00:24+00:00,patreon,115,The Mummy (1999)
 2021-09-26T04:00:00+00:00,main,343,Starman with Katey Rich
+2021-10-01T04:00:04+00:00,patreon,116,The Mummy Returns
+2021-10-03T04:00:00+00:00,main,344,Big Trouble in Little China with Jason Mantzoukas & Paul Scheer
+2021-10-10T04:00:00+00:00,main,345,Prince of Darkness with Keith Phipps
+2021-10-11T04:00:03+00:00,patreon,117,Elvis with Layne Montgomery & Aidan Shepard
+2021-10-17T04:00:00+00:00,main,346,They Live! with Mike Mitchell & Nick Wiger
+2021-10-17T06:01:00+00:00,patreon,118,They Live! with Mike Mitchell & Nick Wiger (Sunglasses Edition)
+2021-10-21T04:00:03+00:00,patreon,119,The Mummy: Tomb of the Dragon Emperor
+2021-10-24T04:00:00+00:00,main,347,Memoirs of an Invisible Man with Alan Sepinwall
+2021-10-31T04:00:00+00:00,main,348,In the Mouth of Madness with Angelica Jade Bastién
+2021-11-01T04:00:07+00:00,patreon,120,The Mummy (2017)
+2021-11-07T04:00:00+00:00,main,349,Village of the Damned with Amy Nicholson
+2021-11-11T05:01:01+00:00,patreon,121,The Scorpion King (and NOT Body Bags)
+2021-11-14T05:02:31+00:00,main,350,Escape from L.A. with Matt Gourley & Paul Rust
+2021-11-21T05:00:00+00:00,main,351,John Carpenter’s Vampires with David Ehrlich
+2021-11-21T05:01:49+00:00,patreon,122,The Santa Clause
+2021-11-28T05:00:00+00:00,main,352,Ghosts of Mars with Dave Schilling & Jonah Ray
+2021-12-01T05:00:10+00:00,patreon,123,The Santa Clause 2
+2021-12-05T05:00:00+00:00,main,353,The Ward with Drew McWeeny
+2021-12-11T17:00:01+00:00,patreon,124,Talking the Walk 2021: Ranking the Walks with J.D. Amato
+2021-12-12T06:00:01+00:00,main,354,Benedetta with Marie Bardi
+2021-12-19T05:00:00+00:00,main,355,West Side Story (2021)
+2021-12-21T05:00:41+00:00,patreon,125,The Santa Clause 3
+2022-01-01T05:00:07+00:00,patreon,126,Ghostbusters
+2022-01-02T08:00:01+00:00,main,356,The Matrix Resurrections
+2022-01-09T05:00:00+00:00,main,357,Two Friends
+2022-01-11T08:30:01+00:00,patreon,127,The Sixth Blank Check Mailbag
+2022-01-16T05:00:00+00:00,main,358,Sweetie with Sarah-Violet Bliss
+2022-01-21T05:00:02+00:00,patreon,128,Ghostbusters II
+2022-01-23T05:00:00+00:00,main,359,An Angel at My Table with Dana Stevens
+2022-01-30T05:00:00+00:00,main,360,The Piano with Esther Zuckerman
+2022-02-01T04:59:09+00:00,patreon,129,Ghostbusters: Answer the Call
+2022-02-06T05:00:00+00:00,main,361,The Portrait of a Lady with Marie Bardi
+2022-02-11T05:01:02+00:00,patreon,130,Top of the Lake with Sonia Saraiya
+2022-02-13T05:00:00+00:00,main,362,Holy Smoke! with Kyle Buchanan
+2022-02-20T05:00:00+00:00,main,363,In the Cut with Jourdain Searles
+2022-02-21T05:01:01+00:00,patreon,131,Ghostbusters: Afterlife
+2022-02-26T02:08:28+00:00,patreon,132,2022 MARCH MADNESS PREVIEW
+2022-02-27T05:00:00+00:00,main,364,Bright Star with Fran Hoepfner
+2022-03-01T06:16:10+00:00,patreon,133,The Matrix
+2022-03-06T05:00:00+00:00,main,365,The Power of The Dog with Richard Lawson
+2022-03-11T05:00:32+00:00,patreon,134,Top of the Lake: China Girl with Alan Sepinwall
+2022-03-13T05:00:00+00:00,main,366,The Seventh Annual Blank Check Awards with Joe Reid
+2022-03-20T04:00:00+00:00,main,367,The Evil Dead
+2022-03-21T04:00:04+00:00,patreon,135,2022 MARCH MADNESS UPDATE 1 PRESENTED BY THE CHIP REPORT
+2022-03-21T04:05:02+00:00,patreon,136,The Matrix Reloaded
+2022-03-27T04:00:00+00:00,main,368,Crimewave with Brendan Hines
+2022-03-29T14:15:54+00:00,patreon,137,2022 MARCH MADNESS UPDATE 2 PRESENTED BY THE CHIP REPORT
+2022-04-01T04:00:06+00:00,patreon,138,The Matrix Revolutions
+2022-04-03T04:00:00+00:00,main,369,Evil Dead II with John Hodgman
+2022-04-10T04:00:00+00:00,main,370,Darkman with Chris Weitz
+2022-04-11T04:01:02+00:00,patreon,139,Evil Dead (2013) with Marie Bardi
+2022-04-17T04:00:00+00:00,main,371,Army of Darkness with Eva Anderson
+2022-04-21T06:30:10+00:00,patreon,140,The Matrix Resurrections
+2022-04-24T04:00:00+00:00,main,372,The Quick and The Dead with Roman Mars
+2022-05-01T04:00:00+00:00,main,373,A Simple Plan with Kevin Smith
+2022-05-01T04:35:48+00:00,patreon,141,Batman (1966)
+2022-05-08T04:00:00+00:00,main,374,For Love of the Game with Olivia Craighead
+2022-05-11T04:01:01+00:00,patreon,142,Oops! All Burger Reports
+2022-05-15T04:00:00+00:00,main,375,The Gift with Starlee Kine
+2022-05-21T04:01:00+00:00,patreon,143,Batman: Mask of the Phantasm
+2022-05-22T04:00:00+00:00,main,376,Spider-Man with Matt Singer
+2022-05-29T04:00:00+00:00,main,377,Spider-Man 2 with Chris Gethard
+2022-06-01T05:30:01+00:00,patreon,144,Batman Forever
+2022-06-05T04:00:00+00:00,main,378,Spider-Man 3 with Jamelle Bouie
+2022-06-11T04:01:01+00:00,patreon,145,"OLD DOGS - Blank Check LIVE! at the Bell House (May 12, 2022)"
+2022-06-12T04:00:00+00:00,main,379,Drag Me to Hell with Jamie Loftus & Caitlin Durante
+2022-06-19T04:00:00+00:00,main,380,Oz the Great and Powerful with Dana Schwartz
+2022-06-21T04:01:00+00:00,patreon,146,Batman & Robin
+2022-06-26T04:00:00+00:00,main,381,Doctor Strange in the Multiverse of Madness with Patrick Willems
+2022-06-26T17:01:01+00:00,patreon,147,Marvel Nerdfest
+2022-07-01T04:01:03+00:00,patreon,148,Batman v Superman: Dawn of Justice (Ultimate Edition)
+2022-07-01T04:01:27+00:00,patreon,149,Batman v Superman: Dawn of Justice - The Lost Episode (Remastered)
+2022-07-03T04:01:00+00:01,main,382,Sweet Charity
+2022-07-10T04:01:00+00:01,main,383,Cabaret
+2022-07-11T20:25:09+00:00,patreon,151,Liza with a Z
+2022-07-17T04:01:00+00:01,main,384,Lenny
+2022-07-21T20:25:09+00:00,patreon,152,Lego Batman
+2022-07-24T04:01:00+00:01,main,385,All That Jazz
+2022-07-31T04:01:00+00:01,main,386,Star 80
+2022-08-01T20:25:09+00:00,patreon,153,The Batman
+2022-08-11T20:25:09+00:00,patreon,154,Sully
+2022-08-21T20:25:09+00:00,patreon,155,Live and Let Die
+2022-09-01T20:25:09+00:00,patreon,156,The Man with the Golden Gun
+2022-09-21T20:25:09+00:00,patreon,158,The Spy Who Loved Me
+2022-10-01T20:25:09+00:00,patreon,159,Moonraker
+2022-10-21T20:25:09+00:00,patreon,161,For Your Eyes Only
+2022-11-01T20:25:09+00:00,patreon,162,Octopussy
+2022-11-21T20:25:09+00:00,patreon,164,A View to a Kill
+2022-10-21T20:25:09+00:00,main,400,Fear and Desire
+2022-10-21T20:25:09+00:00,main,401,Killer's Kiss
+2022-10-21T20:25:09+00:00,main,402,The Killing
+2022-10-21T20:25:09+00:00,main,403,Paths of Glory
+2022-10-21T20:25:09+00:00,main,404,Spartacus
+2022-10-21T20:25:09+00:00,main,405,Lolita
+2022-10-21T20:25:09+00:00,main,406,Dr. Strangelove
+2022-10-21T20:25:09+00:00,main,407,2001: A Space Odyssey
+2022-10-21T20:25:09+00:00,main,408,A Clockwork Orange
+2022-10-21T20:25:09+00:00,main,409,Barry Lyndon
+2022-10-21T20:25:09+00:00,main,410,The Shining
+2022-10-21T20:25:09+00:00,main,411,Full Metal Jacket
+2022-10-21T20:25:09+00:00,main,412,Eyes Wide Shut
+2022-10-21T20:25:09+00:00,main,450,Pinocchio (2022)
+2022-10-21T20:25:09+00:00,main,451,The Woman King
+2022-10-21T20:25:09+00:00,main,452,Three Thousand Years of Longing
+2022-10-21T20:25:09+00:00,main,453,The Fabelmans
+2022-10-21T20:25:09+00:00,main,454,Avatar: The Way of Water

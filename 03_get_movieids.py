@@ -11,6 +11,7 @@ import sys
 replacements = { "main": {
         "23b": "9738",   # Fantastic Four 2004
         "23d": "166424", # Fantastic Four 2015
+        "34": "11",      # Star Wars
         "37": "140607",  # The Force Awakens
         "52": "9303",   # Bound
         "54": "603",    # The Matrix
@@ -89,8 +90,10 @@ replacements = { "main": {
     },
     "patreon": {
         "2": "1726",    # Iron Man
+        "3": "1927",    # Hulk
         "8": "10195",   # Thor
         "22": "118340", # Guardians Vol 1
+        "28": "284052", # Doctor Strange
         "44": "348350", # Solo
         "48": "11",     # Star Wars
         "55": "140607", # The Force Awakens
@@ -100,18 +103,20 @@ replacements = { "main": {
         "78": "679",    # Aliens
         "115": "564",   # The Mummy
         "117": "40047", # Elvis
-        "120a": "9334",  # The Scorpion King
-        "120b": "31578",  # The Scorpion King
-        "119": "282035", # The Mummy 2017
-        "121": "11395",    # the Santa Clause
-        "125": "620",    # Ghostbusters
-        "127": "2978",   # Ghostbusters 2
-        "128": "43074",  # Ghostbusters 2016
-        "130": "425909", # Ghostbusters Afterlife
-        "131": "603",    # The Matrix
-        "135": "109428", # Evil dead 2013
-        "137": "2661",   # Batman 1966
-        "146": "414906"  # The Batman
+        "121a": "9334",  # The Scorpion King
+        "121b": "31578",  # The Scorpion King
+        "120": "282035", # The Mummy 2017
+        "122": "11395",    # the Santa Clause
+        "126": "620",    # Ghostbusters
+        "128": "2978",   # Ghostbusters 2
+        "129": "43074",  # Ghostbusters 2016
+        "131": "425909", # Ghostbusters Afterlife
+        "133": "603",    # The Matrix
+        "139": "109428", # Evil dead 2013
+        "141": "2661",   # Batman 1966
+        "148": "209112", # Batman v Superman
+        "149": "209112", # Batman v Superman
+        "153": "414906"  # The Batman
     }
 }
 

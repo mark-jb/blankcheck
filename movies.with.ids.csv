@@ -153,13 +153,14 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2018-11-11T22:00:00+00:00,main,191,It's Complicated with Sarah-Violet Bliss,It's Complicated,Sarah-Violet Bliss,22897,It's Complicated,2009-12-23
 2018-11-18T22:00:00+00:00,main,192,The Intern with Jamie Lee,The Intern,Jamie Lee,257211,The Intern,2015-09-24
 2018-11-25T22:00:00+00:00,main,193,Home Again with Richard Lawson,Home Again,Richard Lawson,427900,Home Again,2017-09-07
-2018-12-02T22:00:00+00:00,main,194a,Ralph Breaks the Internet,Wreck-it Ralph,,82690,Wreck-It Ralph,2012-01-01
+2018-12-02T22:00:00+00:00,main,194a,Ralph Breaks the Internet,Wreck-it Ralph,,82690,Wreck-It Ralph,2011-11-24
 2018-12-02T22:00:00+00:00,main,194b,Ralph Breaks the Internet,Ralph Breaks the Internet,,404368,Ralph Breaks the Internet,2018-11-20
 2018-12-09T22:00:00+00:00,main,195,Pee-wee's Big Adventure,Pee-wee's Big Adventure,,5683,Pee-wee's Big Adventure,1985-07-26
 2018-12-16T22:00:00+00:00,main,196,Beetlejuice with Rebecca Bulnes,Beetlejuice,Rebecca Bulnes,4011,Beetlejuice,1988-03-30
 2018-12-23T22:00:00+00:00,main,197,Aquaman,Aquaman,,297802,Aquaman,2018-07-06
 2019-01-01T05:00:02+00:00,patreon,2,Iron Man,Iron Man,,1726,Iron Man,2008-04-30
 2019-01-06T09:00:00+00:00,main,198,Batman with K. Austin Collins,Batman,K. Austin Collins,268,Batman,1989-06-23
+2019-01-11T05:00:02+00:00,patreon,3,The Third Blank Check Mailbag/Hulk Live @ Alamo Drafthouse Downtown Brooklyn with James Schamus,Hulk Live,James Schamus,1927,Hulk,2003-06-19
 2019-01-13T09:00:00+00:00,main,199,Edward Scissorhands with Julio Torres,Edward Scissorhands,Julio Torres,162,Edward Scissorhands,1990-12-05
 2019-01-21T00:06:57+00:00,main,200,Glass,Glass,,450465,Glass,2019-01-16
 2019-01-21T05:01:00+00:00,patreon,4,The Incredible Hulk,The Incredible Hulk,,1724,The Incredible Hulk,2008-06-12
@@ -221,7 +222,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2019-10-01T04:01:00+00:00,patreon,35,Avengers: Infinity War with John Hodgman,Avengers: Infinity War,John Hodgman,299536,Avengers: Infinity War,2018-04-25
 2019-10-06T04:00:00+00:00,main,238,Howl's Moving Castle with David Ehrlich,Howl's Moving Castle,David Ehrlich,4935,ハウルの動く城,2004-11-19
 2019-10-11T04:01:00+00:00,patreon,36,Whisper of the Heart with Ramona Head,Whisper of the Heart,Ramona Head,37797,耳をすませば,1995-07-15
-2019-10-13T04:00:00+00:00,main,239,Joker,Joker,,475557,Joker,2019-10-02
+2019-10-13T04:00:00+00:00,main,239,Joker,Joker,,475557,Joker,2019-10-01
 2019-10-20T04:00:00+00:00,main,240,Gemini Man,Gemini Man,,453405,Gemini Man,2019-10-02
 2019-10-21T04:00:01+00:00,patreon,37,Ant-Man and the Wasp,Ant-Man and the Wasp,,363088,Ant-Man and the Wasp,2018-07-04
 2019-10-27T04:00:00+00:00,main,241,Ponyo on the Cliff with Shirley Li,Ponyo on the Cliff,Shirley Li,12429,崖の上のポニョ,2008-07-19
@@ -360,8 +361,8 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2021-05-30T04:00:00+00:00,main,326,Rosewood with Jamelle Bouie,Rosewood,Jamelle Bouie,25624,Rosewood,1997-02-21
 2021-06-01T04:00:04+00:00,patreon,103,New Moon with Chris Weitz,New Moon,Chris Weitz,18239,The Twilight Saga: New Moon,2009-11-18
 2021-06-06T04:00:00+00:00,main,327a,Shaft with Demi Adejuyigbe,Shaft,Demi Adejuyigbe,482,Shaft,1971-06-25
-2021-06-06T04:00:00+00:00,main,327b,Shaft with Demi Adejuyigbe,Shaft (2000),Demi Adejuyigbe,479,Shaft,2000-06-15
-2021-06-06T04:00:00+00:00,main,327c,Shaft with Demi Adejuyigbe,Shaft (2019),Demi Adejuyigbe,486131,Shaft,2019-06-14
+2021-06-06T04:00:00+00:00,main,327b,Shaft with Demi Adejuyigbe,Shaft,Demi Adejuyigbe,479,Shaft,2000-06-15
+2021-06-06T04:00:00+00:00,main,327c,Shaft with Demi Adejuyigbe,Shaft,Demi Adejuyigbe,486131,Shaft,2019-06-14
 2021-06-11T04:01:00+00:00,patreon,104,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,,10607,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996-01-12
 2021-06-13T04:00:00+00:00,main,328,Baby Boy with Ayo Edebiri,Baby Boy,Ayo Edebiri,16161,Baby Boy,2001-06-27
 2021-06-20T04:00:00+00:00,main,329,2 Fast 2 Furious with Jon Gabrus,2 Fast 2 Furious,Jon Gabrus,584,2 Fast 2 Furious,2003-06-05
@@ -387,84 +388,88 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2021-09-11T04:01:01+00:00,patreon,113,Someone's Watching Me!,Someone's Watching Me!,,31428,Someone's Watching Me!,1978-11-27
 2021-09-12T04:00:00+00:00,main,341a,The Thing with Emily VanDerWerff,The Thing,Emily VanDerWerff,1091,The Thing,1982-06-25
 2021-09-12T04:00:00+00:00,main,341b,The Thing with Emily VanDerWerff,The Thing from Another World,Emily VanDerWerff,10785,The Thing From Another World,1951-04-05
-2021-09-19T04:00:00+00:00,main,342,Christine with Scott Wampler and Eric Vespe,Christine,Scott Wampler and Eric Vespe,8769,Christine,1983-05-11
+2021-09-19T04:00:00+00:00,main,342,Christine with Scott Wampler & Eric Vespe,Christine,Scott Wampler & Eric Vespe,8769,Christine,1983-05-11
 2021-09-22T04:00:24+00:00,patreon,115,The Mummy (1999),The Mummy (1999),,564,The Mummy,1999-04-16
 2021-09-26T04:00:00+00:00,main,343,Starman with Katey Rich,Starman,Katey Rich,9663,Starman,1984-12-13
-2021-10-01T04:01:00+00:00,patreon,116,The Mummy Returns,The Mummy Returns,,1734,The Mummy Returns,2001-05-04
-2021-10-03T04:01:00+00:00,main,344,Big Trouble in Little China,Big Trouble in Little China,,6978,Big Trouble in Little China,1986-05-30
-2021-10-10T04:01:00+00:00,main,345,Prince of Darkness,Prince of Darkness,,8852,Prince of Darkness,1987-10-23
-2021-10-11T04:01:00+00:00,patreon,117,Elvis,Elvis,,40047,Elvis,1979-02-10
-2021-10-17T04:01:00+00:01,main,346,They Live,They Live,,8337,They Live,1988-11-23
-2021-10-21T04:01:00+00:00,patreon,118,The Mummy: Tomb of the Dragon Emperor,The Mummy: Tomb of the Dragon Emperor,,1735,The Mummy: Tomb of the Dragon Emperor,2008-07-01
-2021-10-24T04:01:00+00:01,main,347,Memoirs of an Invisible Man,Memoirs of an Invisible Man,,2687,Memoirs of an Invisible Man,1992-02-28
-2021-10-31T04:01:00+00:01,main,348,In the Mouth of Madness,In the Mouth of Madness,,2654,In the Mouth of Madness,1995-02-03
-2021-11-01T04:01:00+00:00,patreon,119,The Mummy,The Mummy,,282035,The Mummy,2017-06-06
-2021-11-07T04:01:00+00:01,main,349,Village of the Damned,Village of the Damned,,12122,Village of the Damned,1995-04-28
-2021-11-11T04:01:00+00:00,patreon,120a,The Scorpion King,The Scorpion King,,9334,The Scorpion King,2002-04-18
-2021-11-11T04:01:00+00:00,patreon,120b,Body Bags,Body Bags,,31578,Body Bags,1993-08-07
-2021-11-14T04:01:00+00:01,main,350,Escape from L.A.,Escape from L.A.,,10061,Escape from L.A.,1996-08-09
-2021-11-21T04:01:00+00:00,patreon,121,The Santa Clause,The Santa Clause,,11395,The Santa Clause,1994-11-11
-2021-11-21T04:01:00+00:01,main,351,John Carpenter's Vampires,John Carpenter's Vampires,,9945,Vampires,1998-10-30
-2021-11-28T04:01:00+00:01,main,352,Ghosts of Mars,Ghosts of Mars,,10016,Ghosts of Mars,2001-08-24
-2021-12-01T04:01:00+00:00,patreon,122,The Santa Clause 2,The Santa Clause 2,,9021,The Santa Clause 2,2002-10-31
-2021-12-05T04:01:00+00:01,main,353,The Ward,The Ward,,45657,The Ward,2010-09-13
-2021-12-12T04:01:00+00:01,main,354,Benedetta,Benedetta,,454527,Benedetta,2021-07-09
-2021-12-19T04:01:00+00:01,main,355,West Side Story,West Side Story,,511809,West Side Story,2021-12-08
-2021-12-21T04:01:00+00:00,patreon,124,The Santa Clause 3: The Escape Clause,The Santa Clause 3:The Escape Clause,,13767,The Santa Clause 3: The Escape Clause,2006-11-01
-2022-01-01T04:01:00+00:00,patreon,125,Ghostbusters,Ghostbusters,,620,Ghostbusters,1984-06-08
-2022-01-02T04:01:00+00:01,main,356,The Matrix: Resurrections,The Matrix: Resurrections,,624860,The Matrix Resurrections,2021-12-16
-2022-01-09T04:01:00+00:01,main,357,Two Friends,Two Friends,,123067,Two Friends,1986-05-13
-2022-01-16T04:01:00+00:01,main,358,Sweetie,Sweetie,,65015,Sweetie,1989-01-01
-2022-01-22T04:01:00+00:00,patreon,127,Ghostbusters II,Ghostbusters II,,2978,Ghostbusters II,1989-06-16
-2022-01-23T04:01:00+00:01,main,359,An Angel at My Table,An Angel at My Table,,2891,An Angel at My Table,1990-09-20
-2022-01-30T04:01:00+00:01,main,360,The Piano,The Piano,,713,The Piano,1993-05-19
-2022-02-01T04:01:00+00:00,patreon,128,Ghostbusters: Answer The Call,Ghostbusters: Answer The Call,,43074,Ghostbusters,2016-07-14
-2022-02-06T04:01:00+00:01,main,361,The Portrait of a Lady,The Portrait of a Lady,,36758,The Portrait of a Lady,1996-10-17
-2022-02-13T04:01:00+00:01,main,362,Holy Smoke!,Holy Smoke!,,13787,Holy Smoke,1999-09-04
-2022-02-20T04:01:00+00:01,main,363,In the Cut,In the Cut,,10944,In the Cut,2003-10-22
-2022-02-22T04:01:00+00:00,patreon,130,Ghostbusters: Afterlife,Ghostbusters: Afterlife,,425909,Ghostbusters: Afterlife,2021-11-11
-2022-02-27T04:01:00+00:01,main,364,Bright Star,Bright Star,,29963,Bright Star,2009-11-05
-2022-03-01T16:22:01+00:00,patreon,131,The Matrix,The Matrix,,603,The Matrix,1999-03-30
-2022-03-06T04:01:00+00:01,main,365,The Power of the Dog,The Power of the Dog,,600583,The Power of the Dog,2021-11-17
-2022-03-21T22:44:21+00:00,patreon,133,The Matrix Reloaded,The Matrix Reloaded,,604,The Matrix Reloaded,2003-05-15
-2022-03-20T04:01:00+00:01,main,367,The Evil Dead,The Evil Dead,,764,The Evil Dead,1981-09-10
-2022-03-27T04:01:00+00:01,main,368,Crimewave,Crimewave,,21627,Crimewave,1985-04-12
-2022-04-01T20:25:09+00:00,patreon,134,The Matrix Revolutions,The Matrix Revolutions,,605,The Matrix Revolutions,2003-11-05
-2022-04-03T04:01:00+00:01,main,369,Evil Dead II,Evil Dead II,,765,Evil Dead II,1987-03-13
-2022-04-10T04:01:00+00:01,main,370,Darkman,Darkman,,9556,Darkman,1990-08-24
-2022-04-11T20:25:09+00:00,patreon,135,Evil Dead (2013),Evil Dead (2013),,109428,Evil Dead,2013-04-05
-2022-04-17T04:01:00+00:01,main,371,Army of Darkness,Army of Darkness,,766,Army of Darkness,1992-10-31
-2022-04-21T20:25:09+00:00,patreon,136,The Matrix: Resurrections,The Matrix: Resurrections,,624860,The Matrix Resurrections,2021-12-16
-2022-04-24T04:01:00+00:01,main,372,The Quick and the Dead,The Quick and the Dead,,12106,The Quick and the Dead,1995-02-09
-2022-05-01T04:01:00+00:01,main,373,A Simple Plan,A Simple Plan,,10223,A Simple Plan,1998-12-11
-2022-05-01T20:25:09+00:00,patreon,137,Batman (1966),Batman (1966),,2661,Batman,1966-07-30
-2022-05-08T04:01:00+00:01,main,374,For Love of the Game,For Love of the Game,,10390,For Love of the Game,1999-09-17
-2022-05-15T04:01:00+00:01,main,375,The Gift,The Gift,,2046,The Gift,2000-03-16
-2022-05-21T20:25:09+00:00,patreon,139,Batman: Mask of the Phantasm,Batman: Mask of the Phantasm,,14919,Batman: Mask of the Phantasm,1993-12-25
-2022-05-22T04:01:00+00:01,main,376,Spider-Man,Spider-Man,,557,Spider-Man,2002-05-01
-2022-05-29T04:01:00+00:01,main,377,Spider-Man 2,Spider-Man 2,,558,Spider-Man 2,2004-06-25
-2022-06-01T20:25:09+00:00,patreon,140,Batman Forever,Batman Forever,,414,Batman Forever,1995-06-16
-2022-06-05T04:01:00+00:01,main,378,Spider-Man 3,Spider-Man 3,,559,Spider-Man 3,2007-05-01
-2022-06-11T20:25:09+00:00,patreon,141,Old Dogs,Old Dogs,,22949,Old Dogs,2009-11-24
-2022-06-12T04:01:00+00:01,main,379,Drag Me to Hell,Drag Me to Hell,,16871,Drag Me to Hell,2009-03-15
-2022-06-19T04:01:00+00:01,main,380,Oz the Great and Powerful,Oz the Great and Powerful,,68728,Oz the Great and Powerful,2013-03-07
-2022-06-21T20:25:09+00:00,patreon,142,Batman & Robin,Batman & Robin,,415,Batman & Robin,1997-06-20
-2022-06-26T04:01:00+00:01,main,381,Doctor Strange in the Multiverse of Madness,Doctor Strange in the Multiverse of Madness,,453395,Doctor Strange in the Multiverse of Madness,2022-05-04
+2021-10-01T04:00:04+00:00,patreon,116,The Mummy Returns,The Mummy Returns,,1734,The Mummy Returns,2001-05-04
+2021-10-03T04:00:00+00:00,main,344,Big Trouble in Little China with Jason Mantzoukas & Paul Scheer,Big Trouble in Little China,Jason Mantzoukas & Paul Scheer,6978,Big Trouble in Little China,1986-05-30
+2021-10-10T04:00:00+00:00,main,345,Prince of Darkness with Keith Phipps,Prince of Darkness,Keith Phipps,8852,Prince of Darkness,1987-10-23
+2021-10-11T04:00:03+00:00,patreon,117,Elvis with Layne Montgomery & Aidan Shepard,Elvis,Layne Montgomery & Aidan Shepard,40047,Elvis,1979-02-10
+2021-10-17T04:00:00+00:00,main,346,They Live! with Mike Mitchell & Nick Wiger,They Live!,Mike Mitchell & Nick Wiger,8337,They Live,1988-11-23
+2021-10-17T06:01:00+00:00,patreon,118,They Live! with Mike Mitchell & Nick Wiger (Sunglasses Edition),They Live!,Mike Mitchell & Nick Wiger (Sunglasses Edition),733491,They Live Inside Us,2020-10-06
+2021-10-21T04:00:03+00:00,patreon,119,The Mummy: Tomb of the Dragon Emperor,The Mummy: Tomb of the Dragon Emperor,,1735,The Mummy: Tomb of the Dragon Emperor,2008-07-01
+2021-10-24T04:00:00+00:00,main,347,Memoirs of an Invisible Man with Alan Sepinwall,Memoirs of an Invisible Man,Alan Sepinwall,2687,Memoirs of an Invisible Man,1992-02-28
+2021-10-31T04:00:00+00:00,main,348,In the Mouth of Madness with Angelica Jade Bastién,In the Mouth of Madness,Angelica Jade Bastién,2654,In the Mouth of Madness,1995-02-03
+2021-11-01T04:00:07+00:00,patreon,120,The Mummy (2017),The Mummy (2017),,282035,The Mummy,2017-06-06
+2021-11-07T04:00:00+00:00,main,349,Village of the Damned with Amy Nicholson,Village of the Damned,Amy Nicholson,12122,Village of the Damned,1995-04-28
+2021-11-11T05:01:01+00:00,patreon,121a,The Scorpion King (and NOT Body Bags),The Scorpion King,,9334,The Scorpion King,2002-04-18
+2021-11-11T05:01:01+00:00,patreon,121b,The Scorpion King (and NOT Body Bags),Body Bags,,31578,Body Bags,1993-08-07
+2021-11-14T05:02:31+00:00,main,350,Escape from L.A. with Matt Gourley & Paul Rust,Escape from L.A.,Matt Gourley & Paul Rust,10061,Escape from L.A.,1996-08-09
+2021-11-21T05:00:00+00:00,main,351,John Carpenter’s Vampires with David Ehrlich,John Carpenter’s Vampires,David Ehrlich,9945,Vampires,1998-10-30
+2021-11-21T05:01:49+00:00,patreon,122,The Santa Clause,The Santa Clause,,11395,The Santa Clause,1994-11-11
+2021-11-28T05:00:00+00:00,main,352,Ghosts of Mars with Dave Schilling & Jonah Ray,Ghosts of Mars,Dave Schilling & Jonah Ray,10016,Ghosts of Mars,2001-08-24
+2021-12-01T05:00:10+00:00,patreon,123,The Santa Clause 2,The Santa Clause 2,,9021,The Santa Clause 2,2002-10-31
+2021-12-05T05:00:00+00:00,main,353,The Ward with Drew McWeeny,The Ward,Drew McWeeny,45657,The Ward,2010-09-13
+2021-12-12T06:00:01+00:00,main,354,Benedetta with Marie Bardi,Benedetta,Marie Bardi,454527,Benedetta,2021-07-09
+2021-12-19T05:00:00+00:00,main,355,West Side Story (2021),West Side Story (2021),,511809,West Side Story,2021-12-08
+2021-12-21T05:00:41+00:00,patreon,125,The Santa Clause 3,The Santa Clause 3,,13767,The Santa Clause 3: The Escape Clause,2006-11-01
+2022-01-01T05:00:07+00:00,patreon,126,Ghostbusters,Ghostbusters,,620,Ghostbusters,1984-06-08
+2022-01-02T08:00:01+00:00,main,356,The Matrix Resurrections,The Matrix Resurrections,,624860,The Matrix Resurrections,2021-12-16
+2022-01-09T05:00:00+00:00,main,357,Two Friends,Two Friends,,123067,Two Friends,1986-05-13
+2022-01-16T05:00:00+00:00,main,358,Sweetie with Sarah-Violet Bliss,Sweetie,Sarah-Violet Bliss,65015,Sweetie,1989-01-01
+2022-01-21T05:00:02+00:00,patreon,128,Ghostbusters II,Ghostbusters II,,2978,Ghostbusters II,1989-06-16
+2022-01-23T05:00:00+00:00,main,359,An Angel at My Table with Dana Stevens,An Angel at My Table,Dana Stevens,2891,An Angel at My Table,1990-09-20
+2022-01-30T05:00:00+00:00,main,360,The Piano with Esther Zuckerman,The Piano,Esther Zuckerman,713,The Piano,1993-05-19
+2022-02-01T04:59:09+00:00,patreon,129,Ghostbusters: Answer the Call,Ghostbusters: Answer the Call,,43074,Ghostbusters,2016-07-14
+2022-02-06T05:00:00+00:00,main,361,The Portrait of a Lady with Marie Bardi,The Portrait of a Lady,Marie Bardi,36758,The Portrait of a Lady,1996-10-17
+2022-02-13T05:00:00+00:00,main,362,Holy Smoke! with Kyle Buchanan,Holy Smoke!,Kyle Buchanan,13787,Holy Smoke,1999-09-04
+2022-02-20T05:00:00+00:00,main,363,In the Cut with Jourdain Searles,In the Cut,Jourdain Searles,10944,In the Cut,2003-10-22
+2022-02-21T05:01:01+00:00,patreon,131,Ghostbusters: Afterlife,Ghostbusters: Afterlife,,425909,Ghostbusters: Afterlife,2021-11-11
+2022-02-27T05:00:00+00:00,main,364,Bright Star with Fran Hoepfner,Bright Star,Fran Hoepfner,29963,Bright Star,2009-11-05
+2022-03-01T06:16:10+00:00,patreon,133,The Matrix,The Matrix,,603,The Matrix,1999-03-30
+2022-03-06T05:00:00+00:00,main,365,The Power of The Dog with Richard Lawson,The Power of The Dog,Richard Lawson,600583,The Power of the Dog,2021-11-17
+2022-03-20T04:00:00+00:00,main,367,The Evil Dead,The Evil Dead,,764,The Evil Dead,1981-09-10
+2022-03-21T04:05:02+00:00,patreon,136,The Matrix Reloaded,The Matrix Reloaded,,604,The Matrix Reloaded,2003-05-15
+2022-03-27T04:00:00+00:00,main,368,Crimewave with Brendan Hines,Crimewave,Brendan Hines,21627,Crimewave,1985-04-12
+2022-04-01T04:00:06+00:00,patreon,138,The Matrix Revolutions,The Matrix Revolutions,,605,The Matrix Revolutions,2003-11-05
+2022-04-03T04:00:00+00:00,main,369,Evil Dead II with John Hodgman,Evil Dead II,John Hodgman,765,Evil Dead II,1987-03-13
+2022-04-10T04:00:00+00:00,main,370,Darkman with Chris Weitz,Darkman,Chris Weitz,9556,Darkman,1990-08-24
+2022-04-11T04:01:02+00:00,patreon,139,Evil Dead (2013) with Marie Bardi,Evil Dead (2013),Marie Bardi,109428,Evil Dead,2013-04-05
+2022-04-17T04:00:00+00:00,main,371,Army of Darkness with Eva Anderson,Army of Darkness,Eva Anderson,766,Army of Darkness,1992-10-31
+2022-04-21T06:30:10+00:00,patreon,140,The Matrix Resurrections,The Matrix Resurrections,,624860,The Matrix Resurrections,2021-12-16
+2022-04-24T04:00:00+00:00,main,372,The Quick and The Dead with Roman Mars,The Quick and The Dead,Roman Mars,12106,The Quick and the Dead,1995-02-09
+2022-05-01T04:00:00+00:00,main,373,A Simple Plan with Kevin Smith,A Simple Plan,Kevin Smith,10223,A Simple Plan,1998-12-11
+2022-05-01T04:35:48+00:00,patreon,141,Batman (1966),Batman (1966),,2661,Batman,1966-07-30
+2022-05-08T04:00:00+00:00,main,374,For Love of the Game with Olivia Craighead,For Love of the Game,Olivia Craighead,10390,For Love of the Game,1999-09-17
+2022-05-15T04:00:00+00:00,main,375,The Gift with Starlee Kine,The Gift,Starlee Kine,2046,The Gift,2000-03-16
+2022-05-21T04:01:00+00:00,patreon,143,Batman: Mask of the Phantasm,Batman: Mask of the Phantasm,,14919,Batman: Mask of the Phantasm,1993-12-25
+2022-05-22T04:00:00+00:00,main,376,Spider-Man with Matt Singer,Spider-Man,Matt Singer,557,Spider-Man,2002-05-01
+2022-05-29T04:00:00+00:00,main,377,Spider-Man 2 with Chris Gethard,Spider-Man 2,Chris Gethard,558,Spider-Man 2,2004-06-25
+2022-06-01T05:30:01+00:00,patreon,144,Batman Forever,Batman Forever,,414,Batman Forever,1995-06-16
+2022-06-05T04:00:00+00:00,main,378,Spider-Man 3 with Jamelle Bouie,Spider-Man 3,Jamelle Bouie,559,Spider-Man 3,2007-05-01
+2022-06-11T04:01:01+00:00,patreon,145,"OLD DOGS - Blank Check LIVE! at the Bell House (May 12, 2022)",Old Dogs,,22949,Old Dogs,2009-11-24
+2022-06-12T04:00:00+00:00,main,379,Drag Me to Hell with Jamie Loftus & Caitlin Durante,Drag Me to Hell,Jamie Loftus & Caitlin Durante,16871,Drag Me to Hell,2009-03-15
+2022-06-19T04:00:00+00:00,main,380,Oz the Great and Powerful with Dana Schwartz,Oz the Great and Powerful,Dana Schwartz,68728,Oz the Great and Powerful,2013-03-07
+2022-06-21T04:01:00+00:00,patreon,146,Batman & Robin,Batman & Robin,,415,Batman & Robin,1997-06-20
+2022-06-26T04:00:00+00:00,main,381,Doctor Strange in the Multiverse of Madness with Patrick Willems,Doctor Strange in the Multiverse of Madness,Patrick Willems,453395,Doctor Strange in the Multiverse of Madness,2022-05-04
+2022-07-01T04:01:03+00:00,patreon,148,Batman v Superman: Dawn of Justice (Ultimate Edition),Batman v Superman: Dawn of Justice - Ultimate Edition,,209112,Batman v Superman: Dawn of Justice,2016-03-23
+2022-07-01T04:01:27+00:00,patreon,149,Batman v Superman: Dawn of Justice - The Lost Episode (Remastered),Batman v Superman: Dawn of Justice - The Lost Episode,,209112,Batman v Superman: Dawn of Justice,2016-03-23
 2022-07-03T04:01:00+00:01,main,382,Sweet Charity,Sweet Charity,,42618,Sweet Charity,1969-02-25
-2022-07-03T10:01:00+00:01,main,383,Cabaret,Cabaret,,10784,Cabaret,1972-02-13
-2022-07-03T17:01:00+00:01,main,384,Lenny,Lenny,,27094,Lenny,1974-11-10
-2022-07-03T24:01:00+00:01,main,385,All That Jazz,All That Jazz,,16858,All That Jazz,1979-12-16
-2022-07-03T31:01:00+00:01,main,386,Star 80,Star 80,,30707,Star 80,1983-11-10
-2022-07-01T20:25:09+00:00,patreon,143,Batman v. Superman,Batman v. Superman,,209112,Batman v Superman: Dawn of Justice,2016-03-23
-2022-07-21T20:25:09+00:00,patreon,145,Lego Batman,Lego Batman,,324849,The Lego Batman Movie,2017-02-08
-2022-08-01T20:25:09+00:00,patreon,146,The Batman,The Batman,,414906,The Batman,2022-03-01
-2022-08-21T20:25:09+00:00,patreon,148,Live and Let Die,Live and Let Die,,253,Live and Let Die,1973-07-05
-2022-09-01T20:25:09+00:00,patreon,149,The Man with the Golden Gun,The Man with the Golden Gun,,682,The Man with the Golden Gun,1974-12-01
-2022-09-21T20:25:09+00:00,patreon,151,The Spy Who Loved Me,The Spy Who Loved Me,,691,The Spy Who Loved Me,1977-07-07
-2022-10-01T20:25:09+00:00,patreon,152,Moonraker,Moonraker,,698,Moonraker,1979-06-26
-2022-10-21T20:25:09+00:00,patreon,154,For Your Eyes Only,For Your Eyes Only,,699,For Your Eyes Only,1981-06-23
-2022-11-01T20:25:09+00:00,patreon,155,Octopussy,Octopussy,,700,Octopussy,1983-06-05
-2022-11-21T20:25:09+00:00,patreon,157,A View to a Kill,A View to a Kill,,707,A View to a Kill,1985-05-24
+2022-07-10T04:01:00+00:01,main,383,Cabaret,Cabaret,,10784,Cabaret,1972-02-13
+2022-07-11T20:25:09+00:00,patreon,151,Liza with a Z,Liza with a Z,a Z,88496,Liza with a Z,1972-09-10
+2022-07-17T04:01:00+00:01,main,384,Lenny,Lenny,,27094,Lenny,1974-11-10
+2022-07-21T20:25:09+00:00,patreon,152,Lego Batman,Lego Batman,,324849,The Lego Batman Movie,2017-02-08
+2022-07-24T04:01:00+00:01,main,385,All That Jazz,All That Jazz,,16858,All That Jazz,1979-12-16
+2022-07-31T04:01:00+00:01,main,386,Star 80,Star 80,,30707,Star 80,1983-11-10
+2022-08-01T20:25:09+00:00,patreon,153,The Batman,The Batman,,414906,The Batman,2022-03-01
+2022-08-11T20:25:09+00:00,patreon,154,Sully,Sully,,363676,Sully,2016-09-07
+2022-08-21T20:25:09+00:00,patreon,155,Live and Let Die,Live and Let Die,,253,Live and Let Die,1973-07-05
+2022-09-01T20:25:09+00:00,patreon,156,The Man with the Golden Gun,The Man with the Golden Gun,the Golden Gun,682,The Man with the Golden Gun,1974-12-01
+2022-09-21T20:25:09+00:00,patreon,158,The Spy Who Loved Me,The Spy Who Loved Me,,691,The Spy Who Loved Me,1977-07-07
+2022-10-01T20:25:09+00:00,patreon,159,Moonraker,Moonraker,,698,Moonraker,1979-06-26
+2022-10-21T20:25:09+00:00,patreon,161,For Your Eyes Only,For Your Eyes Only,,699,For Your Eyes Only,1981-06-23
+2022-11-01T20:25:09+00:00,patreon,162,Octopussy,Octopussy,,700,Octopussy,1983-06-05
+2022-11-21T20:25:09+00:00,patreon,164,A View to a Kill,A View to a Kill,,707,A View to a Kill,1985-05-24
 2022-10-21T20:25:09+00:00,main,400,Fear and Desire,Fear and Desire,,10165,Fear and Desire,1953-04-01
 2022-10-21T20:25:09+00:00,main,401,Killer's Kiss,Killer's Kiss,,10056,Killer's Kiss,1955-10-01
 2022-10-21T20:25:09+00:00,main,402,The Killing,The Killing,,247,The Killing,1956-06-06
@@ -481,5 +486,5 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-10-21T20:25:09+00:00,main,450,Pinocchio (2022),Pinocchio (2022),,532639,Pinocchio,2022-09-08
 2022-10-21T20:25:09+00:00,main,451,The Woman King,The Woman King,,724495,The Woman King,2022-09-16
 2022-10-21T20:25:09+00:00,main,452,Three Thousand Years of Longing,Three Thousand Years of Longing,,556694,Three Thousand Years of Longing,2022-08-24
-2022-10-21T20:25:09+00:00,main,453,The Fabelmans,The Fabelmans,,804095,The Fabelmans,2022-11-23
-2022-10-21T20:25:09+00:00,main,454,Avatar 2,Avatar 2,,76600,Avatar: The Way of Water,2022-12-14
+2022-10-21T20:25:09+00:00,main,453,The Fabelmans,The Fabelmans,,804095,The Fabelmans,2022-11-11
+2022-10-21T20:25:09+00:00,main,454,Avatar: The Way of Water,Avatar: The Way of Water,,76600,Avatar: The Way of Water,2022-12-14
