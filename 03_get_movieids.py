@@ -81,12 +81,12 @@ replacements = { "main": {
         "377": "558", # Spiderman 2
         "378": "559", # Spiderman 3
 
-        "402": "247", # The Killing
-        "405": "802",  # Lolita
-        "406": "935", # The Killing
+        "388": "247", # The Killing
+        "391": "802", # Lolita
+        "395": "935", # The Killing
 
-        "454": "76600",  # Avatar 2
-        "450": "532639"  # pinocchio
+        "393": "532639", # pinocchio
+        "406": "76600"   # Avatar 2
     },
     "patreon": {
         "2": "1726",    # Iron Man

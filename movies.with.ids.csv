@@ -128,7 +128,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2018-06-10T21:00:00+00:00,main,167,Mission: Impossible – Ghost Protocol,Mission: Impossible – Ghost Protocol,,56292,Mission: Impossible - Ghost Protocol,2011-12-07
 2018-06-17T21:00:00+00:00,main,168,Tomorrowland,Tomorrowland,,158852,Tomorrowland,2015-05-19
 2018-06-24T21:00:00+00:00,main,169,Incredibles 2,Incredibles 2,,260513,Incredibles 2,2018-06-14
-2018-07-01T21:00:00+00:00,main,171a,Pushing Hands/The Wedding Banquet,Pushing Hands,,25296,推手,1991-12-07
+2018-07-01T21:00:00+00:00,main,171a,Pushing Hands/The Wedding Banquet,Pushing Hands,,25296,Pushing Hands,1991-12-07
 2018-07-01T21:00:00+00:00,main,171b,Pushing Hands/The Wedding Banquet,The Wedding Banquet,,9261,喜宴,1993-03-01
 2018-07-08T21:00:00+00:00,main,172,Eat Drink Man Woman with Alison Willmore,Eat Drink Man Woman,Alison Willmore,10451,飲食男女,1994-01-28
 2018-07-15T21:00:00+00:00,main,173,Sense and Sensibility with Shirley Li,Sense and Sensibility,Shirley Li,4584,Sense and Sensibility,1995-12-13
@@ -396,7 +396,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2021-10-10T04:00:00+00:00,main,345,Prince of Darkness with Keith Phipps,Prince of Darkness,Keith Phipps,8852,Prince of Darkness,1987-10-23
 2021-10-11T04:00:03+00:00,patreon,117,Elvis with Layne Montgomery & Aidan Shepard,Elvis,Layne Montgomery & Aidan Shepard,40047,Elvis,1979-02-10
 2021-10-17T04:00:00+00:00,main,346,They Live! with Mike Mitchell & Nick Wiger,They Live!,Mike Mitchell & Nick Wiger,8337,They Live,1988-11-23
-2021-10-17T06:01:00+00:00,patreon,118,They Live! with Mike Mitchell & Nick Wiger (Sunglasses Edition),They Live!,Mike Mitchell & Nick Wiger (Sunglasses Edition),733491,They Live Inside Us,2020-10-06
+2021-10-17T06:01:00+00:00,patreon,118,They Live! with Mike Mitchell & Nick Wiger (Sunglasses Edition),They Live!,Mike Mitchell & Nick Wiger (Sunglasses Edition),8337,They Live,1988-11-23
 2021-10-21T04:00:03+00:00,patreon,119,The Mummy: Tomb of the Dragon Emperor,The Mummy: Tomb of the Dragon Emperor,,1735,The Mummy: Tomb of the Dragon Emperor,2008-07-01
 2021-10-24T04:00:00+00:00,main,347,Memoirs of an Invisible Man with Alan Sepinwall,Memoirs of an Invisible Man,Alan Sepinwall,2687,Memoirs of an Invisible Man,1992-02-28
 2021-10-31T04:00:00+00:00,main,348,In the Mouth of Madness with Angelica Jade Bastién,In the Mouth of Madness,Angelica Jade Bastién,2654,In the Mouth of Madness,1995-02-03
@@ -470,21 +470,21 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-10-21T20:25:09+00:00,patreon,161,For Your Eyes Only,For Your Eyes Only,,699,For Your Eyes Only,1981-06-23
 2022-11-01T20:25:09+00:00,patreon,162,Octopussy,Octopussy,,700,Octopussy,1983-06-05
 2022-11-21T20:25:09+00:00,patreon,164,A View to a Kill,A View to a Kill,,707,A View to a Kill,1985-05-24
-2022-10-21T20:25:09+00:00,main,400,Fear and Desire,Fear and Desire,,10165,Fear and Desire,1953-04-01
-2022-10-21T20:25:09+00:00,main,401,Killer's Kiss,Killer's Kiss,,10056,Killer's Kiss,1955-10-01
-2022-10-21T20:25:09+00:00,main,402,The Killing,The Killing,,247,The Killing,1956-06-06
-2022-10-21T20:25:09+00:00,main,403,Paths of Glory,Paths of Glory,,975,Paths of Glory,1957-10-25
-2022-10-21T20:25:09+00:00,main,404,Spartacus,Spartacus,,967,Spartacus,1960-10-13
-2022-10-21T20:25:09+00:00,main,405,Lolita,Lolita,,802,Lolita,1962-06-21
-2022-10-21T20:25:09+00:00,main,406,Dr. Strangelove,Dr. Strangelove,,935,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964-01-29
-2022-10-21T20:25:09+00:00,main,407,2001: A Space Odyssey,2001: A Space Odyssey,,62,2001: A Space Odyssey,1968-04-02
-2022-10-21T20:25:09+00:00,main,408,A Clockwork Orange,A Clockwork Orange,,185,A Clockwork Orange,1971-12-19
-2022-10-21T20:25:09+00:00,main,409,Barry Lyndon,Barry Lyndon,,3175,Barry Lyndon,1975-11-26
-2022-10-21T20:25:09+00:00,main,410,The Shining,The Shining,,694,The Shining,1980-05-23
-2022-10-21T20:25:09+00:00,main,411,Full Metal Jacket,Full Metal Jacket,,600,Full Metal Jacket,1987-06-26
-2022-10-21T20:25:09+00:00,main,412,Eyes Wide Shut,Eyes Wide Shut,,345,Eyes Wide Shut,1999-07-16
-2022-10-21T20:25:09+00:00,main,450,Pinocchio (2022),Pinocchio (2022),,532639,Pinocchio,2022-09-08
-2022-10-21T20:25:09+00:00,main,451,The Woman King,The Woman King,,724495,The Woman King,2022-09-16
-2022-10-21T20:25:09+00:00,main,452,Three Thousand Years of Longing,Three Thousand Years of Longing,,556694,Three Thousand Years of Longing,2022-08-24
-2022-10-21T20:25:09+00:00,main,453,The Fabelmans,The Fabelmans,,804095,The Fabelmans,2022-11-11
-2022-10-21T20:25:09+00:00,main,454,Avatar: The Way of Water,Avatar: The Way of Water,,76600,Avatar: The Way of Water,2022-12-14
+2022-08-07T20:25:09+00:00,main,387a,Fear and Desire,Fear and Desire,,10165,Fear and Desire,1953-04-01
+2022-08-14T20:25:09+00:00,main,387b,Killer's Kiss,Killer's Kiss,,10056,Killer's Kiss,1955-10-01
+2022-08-21T20:25:09+00:00,main,388,The Killing,The Killing,,247,The Killing,1956-06-06
+2022-08-28T20:25:09+00:00,main,389,Paths of Glory,Paths of Glory,,975,Paths of Glory,1957-10-25
+2022-09-04T20:25:09+00:00,main,390,Spartacus,Spartacus,,967,Spartacus,1960-10-13
+2022-09-11T20:25:09+00:00,main,391,Lolita,Lolita,,802,Lolita,1962-06-21
+2022-09-18T20:25:09+00:00,main,392,Three Thousand Years of Longing,Three Thousand Years of Longing,,556694,Three Thousand Years of Longing,2022-08-24
+2022-09-25T20:25:09+00:00,main,393,Pinocchio (2022),Pinocchio (2022),,532639,Pinocchio,2022-09-08
+2022-10-02T20:25:09+00:00,main,394,The Woman King,The Woman King,,724495,The Woman King,2022-09-16
+2022-10-09T20:25:09+00:00,main,395,Dr. Strangelove,Dr. Strangelove,,935,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964-01-29
+2022-10-16T20:25:09+00:00,main,396,2001: A Space Odyssey,2001: A Space Odyssey,,62,2001: A Space Odyssey,1968-04-02
+2022-10-23T20:25:09+00:00,main,397,A Clockwork Orange,A Clockwork Orange,,185,A Clockwork Orange,1971-12-19
+2022-10-30T20:25:09+00:00,main,398,Barry Lyndon,Barry Lyndon,,3175,Barry Lyndon,1975-11-26
+2022-11-06T20:25:09+00:00,main,399,The Shining,The Shining,,694,The Shining,1980-05-23
+2022-11-13T20:25:09+00:00,main,400,Full Metal Jacket,Full Metal Jacket,,600,Full Metal Jacket,1987-06-26
+2022-11-20T20:25:09+00:00,main,401,Eyes Wide Shut,Eyes Wide Shut,,345,Eyes Wide Shut,1999-07-16
+2022-11-27T20:25:09+00:00,main,453,The Fabelmans,The Fabelmans,,804095,The Fabelmans,2022-11-11
+2022-12-18T20:25:09+00:00,main,454,Avatar: The Way of Water,Avatar: The Way of Water,,76600,Avatar: The Way of Water,2022-12-14

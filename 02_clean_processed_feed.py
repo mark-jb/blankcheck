@@ -37,7 +37,8 @@ main_replacements = {
         "246": ["Melvin and Howard"],
         "260": ["A Master Builder", "Playmobil: The Movie"],
         "327": ["Shaft","Shaft","Shaft"],
-        "341": ["The Thing","The Thing from Another World"]
+        "341": ["The Thing","The Thing from Another World"],
+        "387": ["Fear and Desire","Killer's Kiss"]
         }
 patreon_replacements = {
         "3": ["Hulk Live"],
