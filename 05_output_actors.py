@@ -43,7 +43,7 @@ def actor_in_actorlist(actor, actlist):
 
 out_dir = 'output'
 out_meta = 'MetaActorSeries'
-in_actors = 'actors.combined.json'
+in_actors = 'test.everyone.combined.json'
 ignore = 'ignore.list'
 split_files = True
 print_metadata = False

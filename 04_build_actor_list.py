@@ -16,7 +16,16 @@ def clean_cast_response(cast_list):
         cast.add(cast_member['name'])
     return cast
 
-
+def get_cast_and_crew_from_id(movie_id):
+    """ Get the cast of a movie in a dict from the movie id"""
+    #print("searching for cast of movie id " + movie_id)
+    url = 'https://api.themoviedb.org/3/movie/' + movie_id + '/credits?api_key=' + key
+    response = requests.get(url)
+    responsedict = response.json()
+    #cast = clean_cast_response(responsedict['cast'])
+    cast = responsedict['cast']
+    crew = responsedict['crew']
+    return cast + crew
 
 def get_cast_from_id(movie_id):
     """ Get the cast of a movie in a dict from the movie id"""
@@ -26,6 +35,16 @@ def get_cast_from_id(movie_id):
     responsedict = response.json()
     #cast = clean_cast_response(responsedict['cast'])
     cast = responsedict['cast']
+    return cast
+
+def get_crew_from_id(movie_id):
+    """ Get the crew of a movie in a dict from the movie id"""
+    #print("searching for cast of movie id " + movie_id)
+    url = 'https://api.themoviedb.org/3/movie/' + movie_id + '/credits?api_key=' + key
+    response = requests.get(url)
+    responsedict = response.json()
+    #cast = clean_cast_response(responsedict['cast'])
+    cast = responsedict['crew']
     return cast
 
 def get_cast_from_title(title):
@@ -44,6 +63,7 @@ key = key.strip()
 in_csv = 'movies.with.ids.csv'
 out_meta = 'MetaActorSeries.combined'
 out_actors = 'actors.combined.json'
+out_actors = 'test.everyone.combined.json'
 
 master_cast_list = {}
 master_movie_list = {}
@@ -69,7 +89,7 @@ with open(in_csv, mode='r') as csv_movielist:
         # search IDs of movie
         movie_id = row["movie_id"]
         print("Getting cast for movie ID {:s}".format(movie_id))
-        movie_cast = get_cast_from_id(movie_id)
+        movie_cast = get_cast_and_crew_from_id(movie_id)
         for actor in movie_cast:
             print('Adding movie {:s} to actor {:s}'.format(movie, actor["original_name"]))
             actor_id = actor["id"]
@@ -77,6 +97,7 @@ with open(in_csv, mode='r') as csv_movielist:
                 master_cast_list[actor_id] = {}
                 master_cast_list[actor_id]["info"] = actor
                 master_cast_list[actor_id]["name"] = actor["original_name"]
+                master_cast_list[actor_id]["known_for_department"] = actor["known_for_department"]
                 master_cast_list[actor_id]["popularity"] = actor["popularity"]
                 master_cast_list[actor_id]["movies"] = []
                 master_cast_list[actor_id]["movies_dict"] = []
