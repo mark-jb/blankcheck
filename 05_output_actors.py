@@ -23,8 +23,9 @@ def print_actor(actor):
         else:
             actor_title = actor_title + " " + str(actor["importance"])
     print_out(actor_title)
-    for movie in actor["movies"]:
-        print_out(movie)
+    for movie in actor["movies_dict"]:
+        for key in movie:
+            print_out(key + ': ' + movie[key])
 
 def actor_in_episode(actor, ep_num):
     if len(list(filter(lambda ep_filter: ep_num in ep_filter.keys(), actor["movies_dict"]))) == 0:
@@ -63,6 +64,7 @@ parser.add_argument('--ignore', help='ignore actors in ignorelist', action="stor
 parser.add_argument('--split', help='split into separate files by number', action="store_true", default=False)
 parser.add_argument('--tofile', help='output to file', action="store_true")
 parser.add_argument('--metadata', help='print metadata', action="store_true")
+parser.add_argument('--year', help='print movie years', action="store_true")
 args = parser.parse_args()
 split_files = args.split
 
@@ -98,7 +100,7 @@ actorfile.close()
 # SORT
 actors = sorted(actorjson.values(), key=lambda k: k["name"]) 
 for actor in actors:
-    combo_importance = round(actor["popularity"] * len(actor["movies"]), 2)
+    combo_importance = round(actor["popularity"] * len(actor["movies_dict"]), 2)
     actor["importance"] = combo_importance
 if args.importance:
     print("Sorting by importance")
@@ -143,7 +145,7 @@ if split_files:
             if len(actor["movies_dict"]) != c_threshold:
                 if c_threshold != max_file - 1:
                     continue
-                elif len(actor["movies"]) < c_threshold:
+                elif len(actor["movies_dict"]) < c_threshold:
                     continue
             print_actor(actor)
         if args.tofile:
@@ -159,7 +161,7 @@ else:
     if args.tofile:
         outfile = open(the_filename, "w")
     for actor in actors:
-        if (len(actor["movies"]) < threshold_min) or (len(actor["movies"]) > threshold_max):
+        if (len(actor["movies_dict"]) < threshold_min) or (len(actor["movies_dict"]) > threshold_max):
             continue
         print_actor(actor)
     if args.tofile:

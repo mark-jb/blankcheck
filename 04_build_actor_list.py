@@ -5,6 +5,7 @@ import requests
 import csv
 import urllib.parse as ul
 import sys
+from datetime import datetime
 
 def clean_cast_response(cast_list):
     """ return a list with only the actor data I want """
@@ -44,6 +45,7 @@ key = key.strip()
 in_csv = 'movies.with.ids.csv'
 out_meta = 'MetaActorSeries.combined'
 out_actors = 'actors.combined.json'
+out_movies = 'movies.json'
 
 master_cast_list = {}
 master_movie_list = {}
@@ -57,14 +59,19 @@ with open(in_csv, mode='r') as csv_movielist:
             print('Column names are {:s}'.format(", ".join(row)))
         movie = row["movie"]
         ep_num = row["ep_num"]
-        master_movie_list[movie] = ep_num
+        movie_date = datetime.fromisoformat(row["release_date"])
+        podcast_date = datetime.fromisoformat(row["date"])
+
+        if row["feed"] != "main":
+            ep_num = "SF-" + ep_num
         movie_dict = {}
-        if row["feed"] == "main":
-            movie_with_ep = ep_num + ": " + movie
-            movie_dict[ep_num] = movie
-        else:
-            movie_with_ep = "SF-" + ep_num + ": " + movie
-            movie_dict["SF-" + ep_num] = movie
+#        movie_with_ep = ep_num + ": " + movie
+        movie_dict[ep_num] = movie
+        master_movie_list[ep_num] = {}
+        master_movie_list[ep_num]["title"] = movie
+        master_movie_list[ep_num]["release_date"] = movie_date
+        master_movie_list[ep_num]["podcast_date"] = podcast_date
+        master_movie_list[ep_num]["movie_id"] = row["movie_id"]
         #print('\t{:s} is episode {:s}.'.format(movie, ep_num))
         # search IDs of movie
         movie_id = row["movie_id"]
@@ -80,7 +87,7 @@ with open(in_csv, mode='r') as csv_movielist:
                 master_cast_list[actor_id]["popularity"] = actor["popularity"]
                 master_cast_list[actor_id]["movies"] = []
                 master_cast_list[actor_id]["movies_dict"] = []
-            master_cast_list[actor_id]["movies"].append(movie_with_ep)
+#            master_cast_list[actor_id]["movies"].append(movie_with_ep)
             master_cast_list[actor_id]["movies_dict"].append(movie_dict)
         line_count += 1
     print('Processed {:d} movies.'.format(line_count))
@@ -93,4 +100,10 @@ actorfile = open(out_actors, "w")
 actorjson = json.dumps(master_cast_list)
 actorfile.write(actorjson)
 actorfile.close()
+
+
+moviefile = open(out_movies, "w")
+moviejson = json.dumps(master_movie_list)
+moviefile.write(moviejson)
+moviefile.close()
 
