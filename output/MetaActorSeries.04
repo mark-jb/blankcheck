@@ -71,12 +71,6 @@ SF-60: The Rise of Skywalker
 377: Spider-Man 2
 381: Doctor Strange in the Multiverse of Madness
 
-==== Anna Kendrick ====
-SF-102: Twilight
-SF-103: New Moon
-SF-105: Eclipse
-SF-106: Breaking Dawn – Part 1
-
 ==== Anthony Brandon Wong ====
 55: The Matrix Reloaded
 56: The Matrix Revolutions
@@ -111,7 +105,7 @@ SF-55: The Force Awakens
 82: Titanic
 110: Clifford
 333: Clifford 2: Hyper-Clifford
-410: The Shining
+399: The Shining
 
 ==== Bernard Lee ====
 SF-155: Live and Let Die
@@ -147,7 +141,7 @@ SF-153: The Batman
 35: Star Wars: The Empire Strikes Back
 SF-50: The Empire Strikes Back
 SF-162: Octopussy
-411: Full Metal Jacket
+400: Full Metal Jacket
 
 ==== Bryce Dallas Howard ====
 45: The Village
@@ -171,7 +165,7 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 104: Indiana Jones and the Kingdom of the Crystal Skull
 SF-32: Thor: Ragnarok
 375: The Gift
-412: Eyes Wide Shut
+401: Eyes Wide Shut
 
 ==== Cavin Cornwall ====
 37: Star Wars: The Force Awakens
@@ -184,12 +178,6 @@ SF-26: Captain America: Civil War
 SF-34: Black Panther
 SF-35: Avengers: Infinity War
 SF-40: Avengers: Endgame
-
-==== Channing Tatum ====
-59: Jupiter Ascending
-227: Public Enemies
-322: Don Jon
-SF-152: Lego Batman
 
 ==== Charles Fleischer ====
 292: Who Framed Roger Rabbit
@@ -250,12 +238,6 @@ SF-46: Rogue One
 132: The Weight of Water
 137: Justice League
 225: Miami Vice
-
-==== Cliff Curtis ====
-48: The Last Airbender
-222: The Insider
-360: The Piano
-454: Avatar: The Way of Water
 
 ==== Cloris Leachman ====
 160: Spanglish
@@ -521,6 +503,12 @@ SF-123: The Santa Clause 2
 SF-125: The Santa Clause 3
 SF-146: Batman & Robin
 
+==== Eric Stoltz ====
+63: Say Anything…
+64: Singles
+65: Jerry Maguire
+291: Back to the Future
+
 ==== Ernie Hudson ====
 SF-126: Ghostbusters
 SF-128: Ghostbusters II
@@ -629,6 +617,12 @@ SF-76: Alien
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 
+==== Hugh Maguire ====
+53: Batman v Superman: Dawn of Justice
+SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
+SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
+SF-163: Doctor Sleep
+
 ==== Ian Bliss ====
 55: The Matrix Reloaded
 56: The Matrix Revolutions
@@ -689,12 +683,6 @@ SF-60: The Rise of Skywalker
 SF-64: Toy Story 3
 SF-66: Toy Story 4
 
-==== Jeff Imada ====
-130: Point Break
-344: Big Trouble in Little China
-346: They Live!
-350: Escape from L.A.
-
 ==== Jeffrey Dean Morgan ====
 53: Batman v Superman: Dawn of Justice
 181: Taking Woodstock
@@ -705,7 +693,7 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 109: The BFG
 316: Moana
 SF-152: Lego Batman
-454: Avatar: The Way of Water
+406: Avatar: The Way of Water
 
 ==== Jennifer Connelly ====
 178: Hulk
@@ -772,6 +760,12 @@ SF-22: Guardians of the Galaxy
 246: Melvin and Howard
 348: In the Mouth of Madness
 SF-146: Batman & Robin
+
+==== John Lithgow ====
+123: Interstellar
+153: Terms of Endearment
+385: All That Jazz
+SF-160: 2010: The Year We Make Contact
 
 ==== John Morris ====
 SF-62: Toy Story
@@ -1037,12 +1031,6 @@ SF-25: Ant-Man
 167: Mission: Impossible – Ghost Protocol
 SF-72: Mission: Impossible - Ghost Protocol
 
-==== Martin Landau ====
-202: Ed Wood
-205: Sleepy Hollow
-205: Sleepy Hollow
-SF-17: Frankenweenie
-
 ==== Mary Ellen Trainor ====
 290: Romancing the Stone
 295: Death Becomes Her
@@ -1054,12 +1042,6 @@ SF-128: Ghostbusters II
 191: It's Complicated
 192: The Intern
 283: Julie & Julia
-
-==== Matt McColm ====
-55: The Matrix Reloaded
-SF-6: Iron Man 2
-346: They Live!
-SF-136: The Matrix Reloaded
 
 ==== Maurice Bush ====
 35: Star Wars: The Empire Strikes Back
@@ -1229,6 +1211,12 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 SF-55: The Force Awakens
 SF-60: The Rise of Skywalker
 
+==== Norman Alden ====
+202: Ed Wood
+291: Back to the Future
+346: They Live!
+SF-118: They Live!
+
 ==== O-Lan Jones ====
 199: Edward Scissorhands
 203: Mars Attacks!
@@ -1317,7 +1305,7 @@ SF-60: The Rise of Skywalker
 SF-62: Toy Story
 SF-63: Toy Story 2
 SF-64: Toy Story 3
-411: Full Metal Jacket
+400: Full Metal Jacket
 
 ==== Ralph Brown ====
 1: Star Wars: The Phantom Menace
@@ -1515,7 +1503,13 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 85: Avatar
 219: Manhunter
 227: Public Enemies
-454: Avatar: The Way of Water
+406: Avatar: The Way of Water
+
+==== Steve Valentine ====
+203: Mars Attacks!
+302: A Christmas Carol
+304: The Walk
+378: Spider-Man 3
 
 ==== Steven James Griffiths ====
 37: Star Wars: The Force Awakens
@@ -1528,6 +1522,12 @@ SF-55: The Force Awakens
 231: Nausicaä of the Valley of the Wind
 233: My Neighbor Totoro
 236: Princess Mononoke
+
+==== Susan Barnes ====
+195: Pee-wee's Big Adventure
+247: Swing Shift
+346: They Live!
+SF-118: They Live!
 
 ==== Taraji P. Henson ====
 194b: Ralph Breaks the Internet
@@ -1563,13 +1563,19 @@ SF-140: The Matrix Resurrections
 67: Vanilla Sky
 SF-28: Doctor Strange
 SF-40: Avengers: Endgame
-452: Three Thousand Years of Longing
+392: Three Thousand Years of Longing
+
+==== Timothy Carr ====
+80b: Jack Reacher: Never Go Back
+SF-7: What Men Want
+SF-37: Ant-Man and the Wasp
+327c: Shaft
 
 ==== Togo Igawa ====
 57: Speed Racer
 140: The Last Jedi
 SF-57: The Last Jedi
-412: Eyes Wide Shut
+401: Eyes Wide Shut
 
 ==== Tom Hardy ====
 120: Inception
@@ -1641,13 +1647,19 @@ SF-55: The Force Awakens
 12: The Judge
 131: Strange Days
 202: Ed Wood
-411: Full Metal Jacket
+400: Full Metal Jacket
 
 ==== Walter Henry ====
 35: Star Wars: The Empire Strikes Back
 36: Star Wars: Return of the Jedi
 SF-50: The Empire Strikes Back
 SF-51: Return of the Jedi
+
+==== Wanda De Jesus ====
+143: RoboCop
+222: The Insider
+SF-81: Alien: Resurrection
+352: Ghosts of Mars
 
 ==== Wayne Knight ====
 145: Basic Instinct

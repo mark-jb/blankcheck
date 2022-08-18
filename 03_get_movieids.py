@@ -97,6 +97,7 @@ replacements = { "main": {
         "44": "348350", # Solo
         "48": "11",     # Star Wars
         "55": "140607", # The Force Awakens
+        "59": "136799", # Trolls
         "61": "9598",   # Babe
         "67": "954",    # Mission Impossible 1
         "76": "348",    # Alien
