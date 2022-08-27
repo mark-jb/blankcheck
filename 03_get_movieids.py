@@ -53,7 +53,8 @@ replacements = { "main": {
         "244c": "86209", # Fighting Mad
         "249": "11300", # Something Wi"d
         "254": "39437", # Beloved
-        "258": "14462", # Manchurian Candidate
+        "258a": "982", # Manchurian Candidate
+        "258b": "14462", # Manchurian Candidate
         "264": "9659", # Mad Max
         "279": "2928", # Michael
         "297": "686" , # Contact
@@ -94,6 +95,7 @@ replacements = { "main": {
         "8": "10195",   # Thor
         "22": "118340", # Guardians Vol 1
         "28": "284052", # Doctor Strange
+        "36": "1892",   # Return of the Jedi
         "44": "348350", # Solo
         "48": "11",     # Star Wars
         "55": "140607", # The Force Awakens

@@ -35,6 +35,7 @@ main_replacements = {
         "244": ["Caged Heat","Crazy Mama","Fighting Mad"],
         "245": ["Citizens Band","Last Embrace"],
         "246": ["Melvin and Howard"],
+        "258": ["The Manchurian Candidate","The Manchurian Candidate"],
         "260": ["A Master Builder", "Playmobil: The Movie"],
         "327": ["Shaft","Shaft","Shaft"],
         "341": ["The Thing","The Thing from Another World"],
