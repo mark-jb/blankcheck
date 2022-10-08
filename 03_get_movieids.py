@@ -87,7 +87,7 @@ replacements = { "main": {
         "395": "935", # The Killing
 
         "393": "532639", # pinocchio
-        "406": "76600"   # Avatar 2
+        "408": "76600"   # Avatar 2
     },
     "patreon": {
         "2": "1726",    # Iron Man
@@ -95,9 +95,9 @@ replacements = { "main": {
         "8": "10195",   # Thor
         "22": "118340", # Guardians Vol 1
         "28": "284052", # Doctor Strange
-        "36": "1892",   # Return of the Jedi
         "44": "348350", # Solo
         "48": "11",     # Star Wars
+        "51": "1892",   # Return of the Jedi
         "55": "140607", # The Force Awakens
         "59": "136799", # Trolls
         "61": "9598",   # Babe
