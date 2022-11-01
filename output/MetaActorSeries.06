@@ -23,14 +23,6 @@ SF-44: Solo
 SF-55: The Force Awakens
 SF-57: The Last Jedi
 
-==== Angela Bassett ====
-131: Strange Days
-SF-34: Black Panther
-SF-40: Avengers: Endgame
-SF-75: Mission: Impossible - Fallout
-297: Contact
-323: Boyz n the Hood
-
 ==== Barry Shabaka Henley ====
 101: The Terminal
 186: A Star Is Born
@@ -71,6 +63,14 @@ SF-35: Avengers: Infinity War
 SF-57: The Last Jedi
 SF-74: The Way of the Gun
 
+==== Bernard White ====
+55: The Matrix Reloaded
+56: The Matrix Revolutions
+SF-19: Captain America: The Winter Soldier
+SF-121a: The Scorpion King
+SF-136: The Matrix Reloaded
+SF-138: The Matrix Revolutions
+
 ==== Bill Kipsang Rotich ====
 36: Star Wars: Return of the Jedi
 37: Star Wars: The Force Awakens
@@ -102,6 +102,14 @@ SF-22: Guardians of the Galaxy
 SF-29: Guardians of the Galaxy Vol. 2
 SF-35: Avengers: Infinity War
 SF-40: Avengers: Endgame
+
+==== Brendan Gleeson ====
+45: The Village
+97: A.I. Artificial Intelligence
+97: A.I. Artificial Intelligence
+215: Assassin's Creed
+SF-69: Mission: Impossible II
+301: Beowulf
 
 ==== Brian Schaeffer ====
 SF-6: Iron Man 2
@@ -191,6 +199,14 @@ SF-55: The Force Awakens
 SF-57: The Last Jedi
 SF-60: The Rise of Skywalker
 
+==== Dakota Fanning ====
+102: War of the Worlds
+285: The Secret Life of Bees
+SF-103: New Moon
+SF-105: Eclipse
+SF-108: Breaking Dawn: Part 2
+406: Coraline
+
 ==== David M. Santana ====
 37: Star Wars: The Force Awakens
 88: Rogue One: A Star Wars Story
@@ -225,9 +241,9 @@ SF-51: Return of the Jedi
 
 ==== Desmond Llewelyn ====
 SF-156: The Man with the Golden Gun
-SF-158: The Spy Who Loved Me
+SF-157: The Spy Who Loved Me
 SF-159: Moonraker
-SF-161: For Your Eyes Only
+SF-160: For Your Eyes Only
 SF-162: Octopussy
 SF-164: A View to a Kill
 
@@ -269,7 +285,7 @@ SF-40: Avengers: Endgame
 208: Charlie and the Chocolate Factory
 SF-48: Star Wars
 SF-67: Mission: Impossible
-SF-158: The Spy Who Loved Me
+SF-157: The Spy Who Loved Me
 
 ==== Gary A. Hecker ====
 53: Batman v Superman: Dawn of Justice
@@ -310,6 +326,14 @@ SF-23: Avengers: Age of Ultron
 SF-25: Ant-Man
 SF-40: Avengers: Endgame
 381: Doctor Strange in the Multiverse of Madness
+
+==== Ilia Volok ====
+104: Indiana Jones and the Kingdom of the Crystal Skull
+167: Mission: Impossible – Ghost Protocol
+240: Gemini Man
+SF-72: Mission: Impossible - Ghost Protocol
+331: Abduction
+405: Monkeybone
 
 ==== Jack Purvis ====
 34: Star Wars: A New Hope
@@ -363,7 +387,7 @@ SF-84: Alien: Covenant
 46: Lady in the Water
 176: Ride with the Devil
 223: Ali
-258: The Manchurian Candidate
+258b: The Manchurian Candidate
 327b: Shaft
 SF-153: The Batman
 
@@ -388,8 +412,8 @@ SF-66: Toy Story 4
 42: Unbreakable
 253: Philadelphia
 254: Beloved
-258: The Manchurian Candidate
 259: Rachel Getting Married
+258b: The Manchurian Candidate
 
 ==== John Lobato ====
 183: Billy Lynn's Long Halftime Walk
@@ -415,14 +439,6 @@ SF-140: The Matrix Resurrections
 SF-25: Ant-Man
 SF-37: Ant-Man and the Wasp
 
-==== Keegan-Michael Key ====
-168: Tomorrowland
-174b: Hotel Transylvania 2
-174c: Hotel Transylvania 3
-226a: Lion King
-SF-66: Toy Story 4
-393: Pinocchio (2022)
-
 ==== Kellan Lutz ====
 SF-7: What Men Want
 SF-102: Twilight
@@ -437,7 +453,7 @@ SF-108: Breaking Dawn: Part 2
 252: Silence of the Lambs
 253: Philadelphia
 256: The Truth About Charlie
-258: The Manchurian Candidate
+258b: The Manchurian Candidate
 
 ==== Kristen Stewart ====
 183: Billy Lynn's Long Halftime Walk
@@ -470,22 +486,6 @@ SF-100: Star Trek VI: The Undiscovered Country
 215: Assassin's Creed
 227: Public Enemies
 307: Allied
-
-==== Martin Short ====
-110: Clifford
-203: Mars Attacks!
-SF-17: Frankenweenie
-314: Treasure Planet
-333: Clifford 2: Hyper-Clifford
-SF-125: The Santa Clause 3
-
-==== Maurice LaMarche ====
-159: As Good as It Gets
-185: Space Jam
-194a: Wreck-it Ralph
-194b: Ralph Breaks the Internet
-202: Ed Wood
-SF-93a: The Return of Jafar
 
 ==== Michael Keaton ====
 196: Beetlejuice
@@ -551,6 +551,14 @@ SF-37: Ant-Man and the Wasp
 SF-40: Avengers: Endgame
 SF-131: Ghostbusters: Afterlife
 
+==== Pete Postlethwaite ====
+93: The Lost World: Jurassic Park
+94: Amistad
+120: Inception
+220: The Last of the Mohicans
+SF-79: Alien3
+404: James and the Giant Peach
+
 ==== Peter Diamond ====
 34: Star Wars: A New Hope
 35: Star Wars: The Empire Strikes Back
@@ -588,15 +596,15 @@ SF-63: Toy Story 2
 253: Philadelphia
 254: Beloved
 256: The Truth About Charlie
-258: The Manchurian Candidate
 259: Rachel Getting Married
+258b: The Manchurian Candidate
 
 ==== Roger Corman ====
 247: Swing Shift
 252: Silence of the Lambs
 253: Philadelphia
-258: The Manchurian Candidate
 259: Rachel Getting Married
+258b: The Manchurian Candidate
 SF-121b: Body Bags
 
 ==== Russ Fega ====
@@ -636,7 +644,7 @@ SF-152: Lego Batman
 117: Batman Begins
 211: Dark Shadows
 SF-48: Star Wars
-SF-158: The Spy Who Loved Me
+SF-157: The Spy Who Loved Me
 395: Dr. Strangelove
 
 ==== Stephanie Silva ====
@@ -662,6 +670,14 @@ SF-83: Armageddon
 297: Contact
 SF-83: Armageddon
 340: Escape from New York
+
+==== Susan Sarandon ====
+57: Speed Racer
+58: Cloud Atlas
+70: Elizabethtown
+267: The Witches of Eastwick
+268: Lorenzo's Oil
+404: James and the Giant Peach
 
 ==== Taylor Lautner ====
 SF-102: Twilight
