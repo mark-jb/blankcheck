@@ -87,7 +87,7 @@ replacements = { "main": {
         "395": "935", # The Killing
 
         "393": "532639", # pinocchio
-        "408": "76600"   # Avatar 2
+        "406": "76600"   # Avatar 2
     },
     "patreon": {
         "2": "1726",    # Iron Man
