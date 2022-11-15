@@ -103,7 +103,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2017-11-26T22:20:03+00:00,main,137,Justice League,Justice League,,141052,Justice League,2017-11-15
 2017-12-03T22:00:00+00:00,main,138,Lost in Space with Joey Sims,Lost in Space,Joey Sims,2157,Lost in Space,1998-04-03
 2017-12-18T05:01:00+00:00,main,140,The Last Jedi,The Last Jedi,,181808,Star Wars: The Last Jedi,2017-12-13
-2017-12-31T22:00:00+00:00,main,141,The Post,The Post,,446354,The Post,2017-01-19
+2017-12-31T22:00:00+00:00,main,141,The Post,The Post,,446354,The Post,2017-12-22
 2018-01-07T22:00:00+00:00,main,142,Flesh+Blood,Flesh+Blood,,12775,Flesh + Blood,1985-08-30
 2018-01-14T22:00:00+00:00,main,143,RoboCop,RoboCop,,5548,RoboCop,1987-07-17
 2018-01-21T22:00:00+00:00,main,144,Total Recall with Andrew Jupin and Stephen Sajdak,Total Recall,Andrew Jupin and Stephen Sajdak,861,Total Recall,1990-06-01
@@ -153,11 +153,11 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2018-11-11T22:00:00+00:00,main,191,It's Complicated with Sarah-Violet Bliss,It's Complicated,Sarah-Violet Bliss,22897,It's Complicated,2009-12-23
 2018-11-18T22:00:00+00:00,main,192,The Intern with Jamie Lee,The Intern,Jamie Lee,257211,The Intern,2015-09-23
 2018-11-25T22:00:00+00:00,main,193,Home Again with Richard Lawson,Home Again,Richard Lawson,427900,Home Again,2017-09-07
-2018-12-02T22:00:00+00:00,main,194a,Ralph Breaks the Internet,Wreck-it Ralph,,82690,Wreck-It Ralph,2012-01-01
+2018-12-02T22:00:00+00:00,main,194a,Ralph Breaks the Internet,Wreck-it Ralph,,82690,Wreck-It Ralph,2012-11-01
 2018-12-02T22:00:00+00:00,main,194b,Ralph Breaks the Internet,Ralph Breaks the Internet,,404368,Ralph Breaks the Internet,2018-11-20
 2018-12-09T22:00:00+00:00,main,195,Pee-wee's Big Adventure,Pee-wee's Big Adventure,,5683,Pee-wee's Big Adventure,1985-07-26
 2018-12-16T22:00:00+00:00,main,196,Beetlejuice with Rebecca Bulnes,Beetlejuice,Rebecca Bulnes,4011,Beetlejuice,1988-03-30
-2018-12-23T22:00:00+00:00,main,197,Aquaman,Aquaman,,297802,Aquaman,2018-07-06
+2018-12-23T22:00:00+00:00,main,197,Aquaman,Aquaman,,297802,Aquaman,2018-12-07
 2019-01-01T05:00:02+00:00,patreon,2,Iron Man,Iron Man,,1726,Iron Man,2008-04-30
 2019-01-06T09:00:00+00:00,main,198,Batman with K. Austin Collins,Batman,K. Austin Collins,268,Batman,1989-06-23
 2019-01-11T05:00:02+00:00,patreon,3,The Third Blank Check Mailbag/Hulk Live @ Alamo Drafthouse Downtown Brooklyn with James Schamus,Hulk Live,James Schamus,1927,Hulk,2003-06-19
@@ -177,7 +177,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2019-03-11T04:00:02+00:00,patreon,11,Corpse Bride with J.D. Amato,Corpse Bride,J.D. Amato,3933,Corpse Bride,2005-09-12
 2019-03-17T08:00:00+00:00,main,208,Charlie and the Chocolate Factory with Pilot Viruet,Charlie and the Chocolate Factory,Pilot Viruet,118,Charlie and the Chocolate Factory,2005-07-13
 2019-03-21T04:00:01+00:00,patreon,13,The Avengers,The Avengers,,24428,The Avengers,2012-04-25
-2019-03-24T04:00:00+00:00,main,209,Sweeney Todd: The Demon Barber of Fleet Street with Michael Cerveris,Sweeney Todd: The Demon Barber of Fleet Street,Michael Cerveris,13885,Sweeney Todd: The Demon Barber of Fleet Street,2007-01-25
+2019-03-24T04:00:00+00:00,main,209,Sweeney Todd: The Demon Barber of Fleet Street with Michael Cerveris,Sweeney Todd: The Demon Barber of Fleet Street,Michael Cerveris,13885,Sweeney Todd: The Demon Barber of Fleet Street,2007-12-20
 2019-03-31T05:44:15+00:00,main,210,Alice in Wonderland with Todd VanDerWerff,Alice in Wonderland,Todd VanDerWerff,12155,Alice in Wonderland,2010-03-03
 2019-04-01T04:01:00+00:00,patreon,16,Iron Man 3,Iron Man 3,,68721,Iron Man 3,2013-04-18
 2019-04-07T04:00:00+00:00,main,211,Dark Shadows with Jamie Loftus,Dark Shadows,Jamie Loftus,62213,Dark Shadows,2012-05-09
@@ -197,7 +197,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2019-06-09T04:00:00+00:00,main,220,The Last of the Mohicans with Dana Stevens,The Last of the Mohicans,Dana Stevens,9361,The Last of the Mohicans,1992-08-26
 2019-06-16T04:00:00+00:00,main,221,Heat with Jon Gabrus,Heat,Jon Gabrus,949,Heat,1995-12-15
 2019-06-21T04:01:00+00:00,patreon,25,Ant-Man,Ant-Man,,102899,Ant-Man,2015-07-14
-2019-06-23T04:00:00+00:00,main,222,The Insider with Andy Levy,The Insider,Andy Levy,9008,The Insider,1999-03-10
+2019-06-23T04:00:00+00:00,main,222,The Insider with Andy Levy,The Insider,Andy Levy,9008,The Insider,1999-10-28
 2019-06-30T04:00:00+00:00,main,223,Ali with Jamelle Bouie,Ali,Jamelle Bouie,8489,Ali,2001-12-10
 2019-07-01T04:00:02+00:00,patreon,26,Captain America: Civil War with Alejandro Kolleeny,Captain America: Civil War,Alejandro Kolleeny,271110,Captain America: Civil War,2016-04-27
 2019-07-07T04:00:00+00:00,main,224,Collateral with Katey Rich,Collateral,Katey Rich,1538,Collateral,2004-08-04
@@ -278,7 +278,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2020-05-17T16:38:03+00:00,main,271,Happy Feet Two with Sara Rubin,Happy Feet Two,Sara Rubin,65759,Happy Feet Two,2011-11-18
 2020-05-21T04:00:03+00:00,patreon,63,Toy Story 2,Toy Story 2,,863,Toy Story 2,1999-10-30
 2020-05-24T04:48:02+00:00,main,272,Mad Max: Fury Road with Emily Yoshida,Mad Max: Fury Road,Emily Yoshida,76341,Mad Max: Fury Road,2015-05-13
-2020-05-31T03:30:00+00:00,main,274,Stargate,Stargate,,2164,Stargate,1994-10-27
+2020-05-31T03:30:00+00:00,main,274,Stargate,Stargate,,2164,Stargate,1994-10-28
 2020-06-01T04:01:01+00:00,patreon,64,Toy Story 3,Toy Story 3,,10193,Toy Story 3,2010-06-16
 2020-06-07T04:21:50+00:00,main,275,When Harry Met Sally... with Dana Stevens,When Harry Met Sally...,Dana Stevens,639,When Harry Met Sally...,1989-01-12
 2020-06-14T04:00:00+00:00,main,276,This Is My Life with Michelle Collins,This Is My Life,Michelle Collins,41776,This Is My Life,1992-02-21
@@ -345,7 +345,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2021-03-11T05:00:03+00:00,patreon,93a,The Return of Jafar + Aladdin and the King of Thieves,The Return of Jafar,,15969,The Return of Jafar,1994-05-20
 2021-03-11T05:00:03+00:00,patreon,93b,The Return of Jafar + Aladdin and the King of Thieves,Aladdin and the King of Thieves,,11238,Aladdin and the King of Thieves,1996-05-20
 2021-03-14T05:00:00+00:00,main,315,The Princess and the Frog with James III,The Princess and the Frog,James III,10198,The Princess and the Frog,2009-12-08
-2021-03-21T04:00:00+00:00,main,316,Moana with Lenika Cruz,Moana,Lenika Cruz,277834,Moana,2016-11-23
+2021-03-21T04:00:00+00:00,main,316,Moana with Lenika Cruz,Moana,Lenika Cruz,277834,Moana,2016-10-13
 2021-03-21T04:01:00+00:00,patreon,95,Star Trek III: The Search for Spock,Star Trek III: The Search for Spock,,157,Star Trek III: The Search for Spock,1984-06-01
 2021-04-01T04:01:02+00:00,patreon,97,Star Trek IV: The Voyage Home,Star Trek IV: The Voyage Home,,168,Star Trek IV: The Voyage Home,1986-11-26
 2021-04-04T04:00:00+00:00,main,318,A New Leaf,A New Leaf,,36850,A New Leaf,1971-03-11
@@ -496,7 +496,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-12-01T20:25:09+00:00,patreon,165,National Treasure,National Treasure,,2059,National Treasure,2004-11-19
 2022-12-04T20:25:09+00:00,main,404,James and the Giant Peach,James and the Giant Peach,,10539,James and the Giant Peach,1996-04-12
 2022-12-11T20:25:09+00:00,main,405,Monkeybone,Monkeybone,,23685,Monkeybone,2001-02-23
-2022-12-18T20:25:09+00:00,main,406,Coraline,Coraline,,14836,Coraline,2009-02-05
+2022-12-18T20:25:09+00:00,main,406,Avatar: The Way of Water,Avatar: The Way of Water,,76600,Avatar: The Way of Water,2022-12-14
 2022-12-21T20:25:09+00:00,patreon,166,National Treasure: Book of Secrets,National Treasure: Book of Secrets,,6637,National Treasure: Book of Secrets,2007-12-13
-2023-01-01T20:25:09+00:00,main,407,Wendell & Wild,Wendell & Wild,,511817,Wendell & Wild,2022-10-21
-2023-01-08T20:25:09+00:00,main,408,Avatar: The Way of Water,Avatar: The Way of Water,,76600,Avatar: The Way of Water,2022-12-14
+2023-01-08T20:25:09+00:00,main,407,Coraline,Coraline,,14836,Coraline,2009-02-05
+2023-01-15T20:25:09+00:00,main,408,Wendell & Wild,Wendell & Wild,,511817,Wendell & Wild,2022-10-21

@@ -15,6 +15,7 @@ replacements = { "main": {
         "37": "140607",  # The Force Awakens
         "52": "9303",   # Bound
         "54": "603",    # The Matrix
+        "62": "9749",   # Fletch
         "72": "222936", # Aloha
         "77": "679",    # Aliens
         "82": "597",    # Titanic
@@ -95,6 +96,7 @@ replacements = { "main": {
         "8": "10195",   # Thor
         "22": "118340", # Guardians Vol 1
         "28": "284052", # Doctor Strange
+        "34": "284054", # Black Panther
         "44": "348350", # Solo
         "48": "11",     # Star Wars
         "51": "1892",   # Return of the Jedi
