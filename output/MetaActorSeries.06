@@ -47,14 +47,6 @@ SF-38: Captain Marvel
 SF-41: Spider-Man: Far From Home
 SF-46: Rogue One
 
-==== Benedict Wong ====
-SF-28: Doctor Strange
-SF-35: Avengers: Infinity War
-240: Gemini Man
-SF-40: Avengers: Endgame
-SF-82: Prometheus
-381: Doctor Strange in the Multiverse of Madness
-
 ==== Benicio del Toro ====
 140: The Last Jedi
 SF-18: Thor: The Dark World
@@ -106,10 +98,10 @@ SF-40: Avengers: Endgame
 ==== Brendan Gleeson ====
 45: The Village
 97: A.I. Artificial Intelligence
-97: A.I. Artificial Intelligence
 215: Assassin's Creed
 SF-69: Mission: Impossible II
 301: Beowulf
+414: 28 Days Later
 
 ==== Brian Schaeffer ====
 SF-6: Iron Man 2
@@ -183,6 +175,14 @@ SF-8: Thor
 SF-13: The Avengers
 SF-38: Captain Marvel
 
+==== Cliff Curtis ====
+48: The Last Airbender
+222: The Insider
+360: The Piano
+SF-163: Doctor Sleep
+406: Avatar: The Way of Water
+417: Sunshine
+
 ==== Corey Burton ====
 174a: Hotel Transylvania
 194b: Ralph Breaks the Internet
@@ -205,7 +205,15 @@ SF-60: The Rise of Skywalker
 SF-103: New Moon
 SF-105: Eclipse
 SF-108: Breaking Dawn: Part 2
-406: Coraline
+407: Coraline
+
+==== Dave Bautista ====
+SF-22: Guardians of the Galaxy
+SF-29: Guardians of the Galaxy Vol. 2
+SF-35: Avengers: Infinity War
+SF-40: Avengers: Endgame
+SF-112: Riddick
+412: Knock at the Cabin
 
 ==== David M. Santana ====
 37: Star Wars: The Force Awakens
@@ -303,14 +311,6 @@ SF-97: Star Trek IV: The Voyage Home
 SF-99: Star Trek V: The Final Frontier
 SF-100: Star Trek VI: The Undiscovered Country
 
-==== Gloria Foster ====
-54: The Matrix
-55: The Matrix Reloaded
-356: The Matrix Resurrections
-SF-133: The Matrix
-SF-136: The Matrix Reloaded
-SF-140: The Matrix Resurrections
-
 ==== Greg Bronson ====
 65: Jerry Maguire
 185: Space Jam
@@ -318,6 +318,14 @@ SF-140: The Matrix Resurrections
 188: What Women Want
 223: Ali
 SF-146: Batman & Robin
+
+==== Harold Perrineau ====
+55: The Matrix Reloaded
+56: The Matrix Revolutions
+135: Zero Dark Thirty
+SF-136: The Matrix Reloaded
+SF-138: The Matrix Revolutions
+SF-174: 28 Weeks Later
 
 ==== Hayley Atwell ====
 SF-9: Captain America: The First Avenger
@@ -359,14 +367,6 @@ SF-97: Star Trek IV: The Voyage Home
 SF-99: Star Trek V: The Final Frontier
 SF-100: Star Trek VI: The Undiscovered Country
 
-==== James Franco ====
-190: The Holiday
-SF-84: Alien: Covenant
-376: Spider-Man
-377: Spider-Man 2
-378: Spider-Man 3
-380: Oz the Great and Powerful
-
 ==== Jamie Lee Curtis ====
 81: True Lies
 129: Blue Steel
@@ -407,6 +407,14 @@ SF-63: Toy Story 2
 SF-64: Toy Story 3
 SF-66: Toy Story 4
 
+==== Joe Fishel ====
+53: Batman v Superman: Dawn of Justice
+80a: Jack Reacher
+121: The Dark Knight Rises
+331: Abduction
+SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
+SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
+
 ==== Joey Perillo ====
 40b: Wide Awake
 42: Unbreakable
@@ -414,14 +422,6 @@ SF-66: Toy Story 4
 254: Beloved
 259: Rachel Getting Married
 258b: The Manchurian Candidate
-
-==== John Lobato ====
-183: Billy Lynn's Long Halftime Walk
-212: Big Eyes
-SF-25: Ant-Man
-SF-37: Ant-Man and the Wasp
-356: The Matrix Resurrections
-SF-140: The Matrix Resurrections
 
 ==== John Paxton ====
 373: A Simple Plan
@@ -438,6 +438,14 @@ SF-140: The Matrix Resurrections
 188: What Women Want
 SF-25: Ant-Man
 SF-37: Ant-Man and the Wasp
+
+==== Kate Winslet ====
+82: Titanic
+173: Sense and Sensibility
+190: The Holiday
+362: Holy Smoke!
+406: Avatar: The Way of Water
+421: Steve Jobs
 
 ==== Kellan Lutz ====
 SF-7: What Men Want
@@ -486,6 +494,22 @@ SF-100: Star Trek VI: The Undiscovered Country
 215: Assassin's Creed
 227: Public Enemies
 307: Allied
+
+==== Martin Dew ====
+35: Star Wars: The Empire Strikes Back
+102: War of the Worlds
+104: Indiana Jones and the Kingdom of the Crystal Skull
+106: War Horse
+107: Lincoln
+SF-50: The Empire Strikes Back
+
+==== Martin Short ====
+110: Clifford
+203: Mars Attacks!
+SF-17: Frankenweenie
+314: Treasure Planet
+333: Clifford 2: Hyper-Clifford
+SF-125: The Santa Clause 3
 
 ==== Michael Keaton ====
 196: Beetlejuice
@@ -647,6 +671,22 @@ SF-48: Star Wars
 SF-157: The Spy Who Loved Me
 395: Dr. Strangelove
 
+==== Spencer Wilding ====
+59: Jupiter Ascending
+88: Rogue One: A Star Wars Story
+117: Batman Begins
+SF-22: Guardians of the Galaxy
+SF-46: Rogue One
+420: Trance
+
+==== Stanley Tucci ====
+101: The Terminal
+126: The Devil Wears Prada
+SF-9: Captain America: The First Avenger
+283: Julie & Julia
+309: The Witches
+411: A Life Less Ordinary
+
 ==== Stephanie Silva ====
 37: Star Wars: The Force Awakens
 140: The Last Jedi
@@ -726,6 +766,14 @@ SF-57: The Last Jedi
 SF-44: Solo
 SF-55: The Force Awakens
 SF-57: The Last Jedi
+
+==== Tom Hardy ====
+120: Inception
+121: The Dark Knight Rises
+124: Dunkirk
+272: Mad Max: Fury Road
+356: The Matrix Resurrections
+SF-140: The Matrix Resurrections
 
 ==== Tom Kane ====
 37: Star Wars: The Force Awakens
