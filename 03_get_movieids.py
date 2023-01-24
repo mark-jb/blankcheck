@@ -37,6 +37,7 @@ replacements = { "main": {
         "177": "146",   # Crouching Tiger Hidden Dragon
         "185": "2300",  # Space Jam
         "198": "268",   # Batman
+        "200": "450465", # Glass
         "206": "869",   # Planet of the Apes
         "210": "12155", # Alice in Wonderland
         "214": "329996", # Dumbo
@@ -59,6 +60,7 @@ replacements = { "main": {
         "264": "9659", # Mad Max
         "279": "2928", # Michael
         "297": "686" , # Contact
+        "302": "17979", # Christmas Carol
         "303": "87502", # Flight
         "312": "812",   # Aladdin
         "313": "11970",   # Aladdin
@@ -73,6 +75,7 @@ replacements = { "main": {
         "338": "948",  # Halloween
         "339": "790",  # The Fog
         "341": "1091", # The Thing
+        "345": "8852",  # They Live
         "346": "8337",  # They Live
         "355": "511809", # West Side Story
         "357": "123067", # Two Friends
@@ -98,6 +101,7 @@ replacements = { "main": {
         "22": "118340", # Guardians Vol 1
         "28": "284052", # Doctor Strange
         "34": "284054", # Black Panther
+        "37": "363088", # Ant Man 2
         "44": "348350", # Solo
         "48": "11",     # Star Wars
         "51": "1892",   # Return of the Jedi

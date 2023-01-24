@@ -145,7 +145,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2018-09-16T21:00:00+00:00,main,182,Life of Pi with Ray Tintori,Life of Pi,Ray Tintori,87827,Life of Pi,2012-11-20
 2018-09-23T21:00:00+00:00,main,183,Billy Lynn's Long Halftime Walk with J.D. Amato,Billy Lynn's Long Halftime Walk,J.D. Amato,293767,Billy Lynn's Long Halftime Walk,2016-11-10
 2018-09-30T21:00:00+00:00,main,185,Space Jam with James Newman,Space Jam,James Newman,2300,Space Jam,1996-11-15
-2018-10-08T01:07:51+00:00,main,186,A Star Is Born,A Star Is Born,,332562,A Star Is Born,2018-10-03
+2018-10-08T01:07:51+00:00,main,186,A Star Is Born,A Star Is Born,,332562,A Star Is Born,2018-09-20
 2018-10-14T21:00:00+00:00,main,187,The Parent Trap with Elena Lazic and Mani Lazic,The Parent Trap,Elena Lazic and Mani Lazic,9820,The Parent Trap,1998-07-28
 2018-10-21T21:00:00+00:00,main,188,What Women Want with Lola Kirke,What Women Want,Lola Kirke,3981,What Women Want,2000-12-15
 2018-10-28T21:00:00+00:00,main,189,Something's Gotta Give with Bobby Finger,Something's Gotta Give,Bobby Finger,6964,Something's Gotta Give,2003-12-12
@@ -292,7 +292,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2020-07-19T04:00:00+00:00,main,281,Lucky Numbers with Alex Ross Perry,Lucky Numbers,Alex Ross Perry,10783,Lucky Numbers,2000-10-27
 2020-07-21T04:01:00+00:00,patreon,69,Mission: Impossible 2,Mission: Impossible II,,955,Mission: Impossible II,2000-05-24
 2020-07-26T04:00:00+00:00,main,282,Bewitched with Dana Schwartz,Bewitched,Dana Schwartz,9722,Bewitched,2005-06-21
-2020-08-01T04:01:03+00:00,patreon,70,Mission: Impossible 3,Mission: Impossible III,,956,Mission: Impossible III,2006-05-03
+2020-08-01T04:01:03+00:00,patreon,70,Mission: Impossible 3,Mission: Impossible III,,956,Mission: Impossible III,2006-04-25
 2020-08-02T04:00:00+00:00,main,283,Julie & Julia with Romilly Newman ,Julie & Julia,Romilly Newman ,24803,Julie & Julia,2009-08-06
 2020-08-09T04:00:00+00:00,main,284,Love & Basketball with Carl Tart,Love & Basketball,Carl Tart,14736,Love & Basketball,2000-04-21
 2020-08-11T04:15:04+00:00,patreon,71,Disappearing Acts,Disappearing Acts,,45602,Disappearing Acts,2000-12-09
@@ -414,7 +414,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2021-12-05T05:00:00+00:00,main,353,The Ward with Drew McWeeny,The Ward,Drew McWeeny,45657,The Ward,2010-09-13
 2021-12-12T06:00:01+00:00,main,354,Benedetta with Marie Bardi,Benedetta,Marie Bardi,454527,Benedetta,2021-07-09
 2021-12-19T05:00:00+00:00,main,355,West Side Story (2021),West Side Story (2021),,511809,West Side Story,2021-12-08
-2021-12-21T05:00:41+00:00,patreon,125,The Santa Clause 3,The Santa Clause 3,,13767,The Santa Clause 3: The Escape Clause,2006-11-01
+2021-12-21T05:00:41+00:00,patreon,125,The Santa Clause 3,The Santa Clause 3,,13767,The Santa Clause 3: The Escape Clause,2006-11-02
 2022-01-01T05:00:07+00:00,patreon,126,Ghostbusters,Ghostbusters,,620,Ghostbusters,1984-06-08
 2022-01-02T08:00:01+00:00,main,356,The Matrix Resurrections,The Matrix Resurrections,,624860,The Matrix Resurrections,2021-12-16
 2022-01-09T05:00:00+00:00,main,357,Two Friends,Two Friends,,123067,Two Friends,1986-05-13
@@ -429,7 +429,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-02-21T05:01:01+00:00,patreon,131,Ghostbusters: Afterlife,Ghostbusters: Afterlife,,425909,Ghostbusters: Afterlife,2021-11-11
 2022-02-27T05:00:00+00:00,main,364,Bright Star with Fran Hoepfner,Bright Star,Fran Hoepfner,29963,Bright Star,2009-11-05
 2022-03-01T06:16:10+00:00,patreon,133,The Matrix,The Matrix,,603,The Matrix,1999-03-30
-2022-03-06T05:00:00+00:00,main,365,The Power of The Dog with Richard Lawson,The Power of The Dog,Richard Lawson,600583,The Power of the Dog,2021-11-17
+2022-03-06T05:00:00+00:00,main,365,The Power of The Dog with Richard Lawson,The Power of The Dog,Richard Lawson,600583,The Power of the Dog,2021-11-11
 2022-03-20T04:00:00+00:00,main,367,The Evil Dead,The Evil Dead,,764,The Evil Dead,1981-09-10
 2022-03-21T04:05:02+00:00,patreon,136,The Matrix Reloaded,The Matrix Reloaded,,604,The Matrix Reloaded,2003-05-15
 2022-03-27T04:00:00+00:00,main,368,Crimewave with Brendan Hines,Crimewave,Brendan Hines,21627,Crimewave,1985-04-12
@@ -496,16 +496,21 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-12-01T20:25:09+00:00,patreon,165,National Treasure,National Treasure,,2059,National Treasure,2004-11-19
 2022-12-04T20:25:09+00:00,main,404,James and the Giant Peach,James and the Giant Peach,,10539,James and the Giant Peach,1996-04-12
 2022-12-11T20:25:09+00:00,main,405,Monkeybone,Monkeybone,,23685,Monkeybone,2001-02-23
-2022-12-18T20:25:09+00:00,main,406,Avatar: The Way of Water,Avatar: The Way of Water,,76600,Avatar: The Way of Water,2022-12-14
+2022-12-18T20:25:09+00:00,main,406,Avatar: The Way of Water,Avatar: The Way of Water,,76600,Avatar: The Way of Water,2022-12-16
 2022-12-21T20:25:09+00:00,patreon,166,National Treasure: Book of Secrets,National Treasure: Book of Secrets,,6637,National Treasure: Book of Secrets,2007-12-13
+2023-01-01T20:25:09+00:00,patreon,167,Koyaanisqatsi,Koyaanisqatsi,,11314,Koyaanisqatsi,1982-10-04
 2023-01-08T20:25:09+00:00,main,407,Coraline,Coraline,,14836,Coraline,2009-02-05
 2023-01-15T20:25:09+00:00,main,408,Wendell & Wild,Wendell & Wild,,511817,Wendell & Wild,2022-10-21
+2023-01-21T20:25:09+00:00,patreon,169,Powaqqatsi,Powaqqatsi,,24348,Powaqqatsi,1988-04-29
 2023-01-22T20:25:09+00:00,main,409,Shallow Grave,Shallow Grave,,9905,Shallow Grave,1994-12-22
 2023-01-29T20:25:09+00:00,main,410,Trainspotting,Trainspotting,,627,Trainspotting,1996-02-23
+2023-02-01T20:25:09+00:00,patreon,170,Naqoyqatsi,Naqoyqatsi,,21925,Naqoyqatsi,2002-09-02
 2023-02-05T20:25:09+00:00,main,411,A Life Less Ordinary,A Life Less Ordinary,,8067,A Life Less Ordinary,1997-10-24
-2023-02-12T20:25:09+00:00,main,412,The Beach,The Beach,,1907,The Beach,2000-02-03
-2023-02-19T20:25:09+00:00,main,413,Knock at the Cabin,Knock at the Cabin,,631842,Knock at the Cabin,2023-02-01
-2023-03-05T20:25:09+00:00,main,415,28 Days Later,28 Days Later,,170,28 Days Later,2002-10-31
+2023-02-11T20:25:09+00:00,patreon,171,London 2012 Olympic Opening Ceremony: Isles of Wonder,London 2012 Olympic Opening Ceremony: Isles of Wonder,,123024,London 2012 Olympic Opening Ceremony: Isles of Wonder,2012-07-27
+2023-02-12T20:25:09+00:00,main,412,Knock at the Cabin,Knock at the Cabin,,631842,Knock at the Cabin,2023-02-03
+2023-02-19T20:25:09+00:00,main,413,The Beach,The Beach,,1907,The Beach,2000-02-03
+2023-02-26T20:25:09+00:00,main,414,28 Days Later,28 Days Later,,170,28 Days Later,2002-10-31
+2023-03-11T20:25:09+00:00,patreon,174,28 Weeks Later,28 Weeks Later,,1562,28 Weeks Later,2007-04-26
 2023-03-12T20:25:09+00:00,main,416,Millions,Millions,,13373,Millions,2004-04-29
 2023-03-19T20:25:09+00:00,main,417,Sunshine,Sunshine,,1272,Sunshine,2007-04-05
 2023-03-26T20:25:09+00:00,main,418,Slumdog Millionaire,Slumdog Millionaire,,12405,Slumdog Millionaire,2008-11-12
