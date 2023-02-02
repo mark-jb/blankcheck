@@ -126,7 +126,9 @@ replacements = { "main": {
         "141": "2661",   # Batman 1966
         "148": "209112", # Batman v Superman
         "149": "209112", # Batman v Superman
-        "153": "414906"  # The Batman
+        "153": "414906",  # The Batman
+        "171": "11667",  # Street Fighter
+        "173": "608"  # MIB2
     }
 }
 
