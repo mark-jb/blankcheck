@@ -13,11 +13,13 @@ replacements = { "main": {
         "23d": "166424", # Fantastic Four 2015
         "34": "11",      # Star Wars
         "37": "140607",  # The Force Awakens
+        "45": "6947",   # The Village
         "52": "9303",   # Bound
         "54": "603",    # The Matrix
         "62": "9749",   # Fletch
         "72": "222936", # Aloha
         "77": "679",    # Aliens
+        "79": "280",    # T2
         "82": "597",    # Titanic
         "85": "19995",  # Avatar
         "69": "297761", # Suicide Squad
@@ -50,20 +52,23 @@ replacements = { "main": {
         "226b": "536869", # Cats
         "227": "11322",  # Public Enemies
         "232": "10515",  # Castle in the Sky
-        "233": "8392",  # My Neighbour Totoro
-        "237": "129",   # Spirited Away
+        "233": "8392",   # My Neighbour Totoro
+        "237": "129",    # Spirited Away
         "244c": "86209", # Fighting Mad
-        "249": "11300", # Something Wi"d
-        "254": "39437", # Beloved
-        "258a": "982", # Manchurian Candidate
+        "249": "11300",  # Something Wild
+        "254": "39437",  # Beloved
+        "258a": "982",   # Manchurian Candidate
         "258b": "14462", # Manchurian Candidate
-        "264": "9659", # Mad Max
-        "279": "2928", # Michael
-        "297": "686" , # Contact
+        "264": "9659",  # Mad Max
+        "279": "2928",  # Michael
+        "297": "686" ,  # Contact
         "302": "17979", # Christmas Carol
         "303": "87502", # Flight
+        "304": "285783", # The Walk
+        "309": "531219", # The Witches
+        "311": "10144", # The Little Mermaid
         "312": "812",   # Aladdin
-        "313": "11970",   # Aladdin
+        "313": "11970", # The Lion King
         "319": "40687", # Heartbreak Kid
         "326": "25624", # Rosewood
         "327a": "482",   # Shaft
@@ -75,7 +80,7 @@ replacements = { "main": {
         "338": "948",  # Halloween
         "339": "790",  # The Fog
         "341": "1091", # The Thing
-        "345": "8852",  # They Live
+        "345": "8852",  # Prince of Darkness
         "346": "8337",  # They Live
         "355": "511809", # West Side Story
         "357": "123067", # Two Friends
@@ -85,13 +90,11 @@ replacements = { "main": {
         "376": "557", # Spiderman
         "377": "558", # Spiderman 2
         "378": "559", # Spiderman 3
-
         "388": "247", # The Killing
         "391": "802", # Lolita
-        "395": "935", # The Killing
-
         "393": "532639", # pinocchio
-        "406": "76600",   # Avatar 2
+        "395": "935",    # Dr Strangelove
+        "406": "76600",  # Avatar 2
         "416": "13373"   # Millions
     },
     "patreon": {
@@ -99,6 +102,7 @@ replacements = { "main": {
         "3": "1927",    # Hulk
         "8": "10195",   # Thor
         "22": "118340", # Guardians Vol 1
+        "25": "110289", # Ant-Man
         "28": "284052", # Doctor Strange
         "34": "284054", # Black Panther
         "37": "363088", # Ant Man 2
@@ -111,12 +115,13 @@ replacements = { "main": {
         "67": "954",    # Mission Impossible 1
         "76": "348",    # Alien
         "78": "679",    # Aliens
+        "105": "10144", # Twilight Eclipse
         "115": "564",   # The Mummy
         "117": "40047", # Elvis
-        "121a": "9334",  # The Scorpion King
-        "121b": "31578",  # The Scorpion King
+        "121a": "9334",  # Body Bags
+        "121b": "31578", # The Scorpion King
         "120": "282035", # The Mummy 2017
-        "122": "11395",    # the Santa Clause
+        "122": "11395",  # the Santa Clause
         "126": "620",    # Ghostbusters
         "128": "2978",   # Ghostbusters 2
         "129": "43074",  # Ghostbusters 2016
@@ -126,9 +131,11 @@ replacements = { "main": {
         "141": "2661",   # Batman 1966
         "148": "209112", # Batman v Superman
         "149": "209112", # Batman v Superman
-        "153": "414906",  # The Batman
+        "153": "414906", # The Batman
         "171": "11667",  # Street Fighter
-        "173": "608"  # MIB2
+        "173": "608",    # MIB2
+        "185": "299",    # Ocean's 11 (1960)
+        "187": "161"     # Ocean's 11
     }
 }
 
