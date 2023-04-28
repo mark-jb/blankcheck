@@ -95,14 +95,18 @@ replacements = { "main": {
         "393": "532639", # pinocchio
         "395": "935",    # Dr Strangelove
         "406": "76600",  # Avatar 2
-        "416": "13373"   # Millions
+        "416": "13373",  # Millions
+        "441": "262097", # Trio
+        "444": "670",    # Oldboy
+        "447": "22536",  # Thirst
+        "438a": "34847"  # College
     },
     "patreon": {
         "2": "1726",    # Iron Man
         "3": "1927",    # Hulk
         "8": "10195",   # Thor
         "22": "118340", # Guardians Vol 1
-        "25": "110289", # Ant-Man
+        "25": "102899", # Ant-Man
         "28": "284052", # Doctor Strange
         "34": "284054", # Black Panther
         "37": "363088", # Ant Man 2
@@ -115,7 +119,7 @@ replacements = { "main": {
         "67": "954",    # Mission Impossible 1
         "76": "348",    # Alien
         "78": "679",    # Aliens
-        "105": "10144", # Twilight Eclipse
+        "105": "262097", # Twilight Eclipse
         "115": "564",   # The Mummy
         "117": "40047", # Elvis
         "121a": "9334",  # Body Bags
@@ -170,12 +174,20 @@ key = f.readline()
 key = key.strip()
 
 in_csv = 'movies.cleaned.csv'
+in_existing_csv = 'movies.with.ids.csv'
 out_csv = 'movies.with.ids.csv'
 
 new_master_list = []
 failures = []
-# Read list of movies
 
+id_map = {}
+with open(in_existing_csv, mode='r') as csv_idlist:
+    csv_reader = csv.DictReader(csv_idlist)
+    for row in csv_reader:
+        print('Caching {:s} -> {:s}'.format(row["feed"]+row["ep_num"], row["movie_id"]))
+        id_map[row["feed"]+row["ep_num"]] = row["movie_id"]
+
+# Read list of movies
 with open(in_csv, mode='r') as csv_movielist:
     csv_reader = csv.DictReader(csv_movielist)
     line_count = 0
