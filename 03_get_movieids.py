@@ -96,10 +96,10 @@ replacements = { "main": {
         "395": "935",    # Dr Strangelove
         "406": "76600",  # Avatar 2
         "416": "13373",  # Millions
-        "441": "262097", # Trio
-        "444": "670",    # Oldboy
-        "447": "22536",  # Thirst
-        "438a": "34847"  # College
+        "428a": "34847",  # College
+        "431": "262097", # Trio
+        "434": "670",    # Oldboy
+        "437": "22536"  # Thirst
     },
     "patreon": {
         "2": "1726",    # Iron Man
