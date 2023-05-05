@@ -128,7 +128,7 @@ if args.ignore:
         if clean_actor == '=====':
             break
         ignore_actor_list.append(clean_actor)
-    print(ignore_actor_list)
+    #print(ignore_actor_list)
     actors = list(filter(lambda actor_filter: actor_filter["name"].lower() not in ignore_actor_list, actors))
 
 

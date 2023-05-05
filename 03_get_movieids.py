@@ -119,7 +119,7 @@ replacements = { "main": {
         "67": "954",    # Mission Impossible 1
         "76": "348",    # Alien
         "78": "679",    # Aliens
-        "105": "262097", # Twilight Eclipse
+        "105": "24021", # Twilight Eclipse
         "115": "564",   # The Mummy
         "117": "40047", # Elvis
         "121a": "9334",  # Body Bags
