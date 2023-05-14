@@ -194,7 +194,7 @@ failures = []
 id_map = {}
 
 debug = False
-if debug
+if debug:
     # Dubug logging
     http.client.HTTPConnection.debuglevel = 1
     # You must initialize logging, otherwise you'll not see debug output.
