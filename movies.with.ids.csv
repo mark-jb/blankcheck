@@ -60,7 +60,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2016-11-27T00:00:00+00:00,main,85,Avatar,Avatar,,19995,Avatar,2009-12-15
 2016-12-10T00:00:00+00:00,main,87,The Man Who Knew Too Little,The Man Who Knew Too Little,,9414,The Man Who Knew Too Little,1997-11-14
 2016-12-17T00:00:00+00:00,main,88,Rogue One: A Star Wars Story,Rogue One: A Star Wars Story,,330459,Rogue One: A Star Wars Story,2016-12-14
-2017-01-22T00:00:00+00:00,main,92,Split,Split,,381288,Split,2016-11-15
+2017-01-22T00:00:00+00:00,main,92,Split,Split,,381288,Split,2017-01-19
 2017-01-29T00:00:00+00:00,main,93,The Lost World: Jurassic Park,The Lost World: Jurassic Park,,330,The Lost World: Jurassic Park,1997-05-23
 2017-02-05T00:00:00+00:00,main,94,Amistad,Amistad,,11831,Amistad,1997-12-10
 2017-02-12T00:00:00+00:00,main,95,Saving Private Ryan with Richard Lawson,Saving Private Ryan,Richard Lawson,857,Saving Private Ryan,1998-07-24
@@ -347,7 +347,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2021-03-11T05:00:03+00:00,patreon,93a,The Return of Jafar + Aladdin and the King of Thieves,The Return of Jafar,,15969,The Return of Jafar,1994-05-20
 2021-03-11T05:00:03+00:00,patreon,93b,The Return of Jafar + Aladdin and the King of Thieves,Aladdin and the King of Thieves,,11238,Aladdin and the King of Thieves,1996-05-20
 2021-03-14T05:00:00+00:00,main,315,The Princess and the Frog with James III,The Princess and the Frog,James III,10198,The Princess and the Frog,2009-12-08
-2021-03-21T04:00:00+00:00,main,316,Moana with Lenika Cruz,Moana,Lenika Cruz,277834,Moana,2016-10-13
+2021-03-21T04:00:00+00:00,main,316,Moana with Lenika Cruz,Moana,Lenika Cruz,1108427,Moana,
 2021-03-21T04:01:00+00:00,patreon,95,Star Trek III: The Search for Spock,Star Trek III: The Search for Spock,,157,Star Trek III: The Search for Spock,1984-06-01
 2021-04-01T04:01:02+00:00,patreon,97,Star Trek IV: The Voyage Home,Star Trek IV: The Voyage Home,,168,Star Trek IV: The Voyage Home,1986-11-26
 2021-04-04T04:00:00+00:00,main,318,A New Leaf,A New Leaf,,36850,A New Leaf,1971-03-11
@@ -530,6 +530,12 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2023-05-01T20:25:09+00:00,patreon,179,Beneath the Planet of the Apes,Beneath the Planet of the Apes,,1685,Beneath the Planet of the Apes,1970-04-23
 2023-05-07T20:25:09+00:00,main,424a,Three Ages,Three Ages,,32628,Three Ages,1923-09-24
 2023-05-07T20:25:09+00:00,main,424b,Our Hospitality,Our Hospitality,,701,Our Hospitality,1923-11-19
+2023-05-11T20:25:09+00:00,patreon,180a,The Cook,The Cook,,51471,The Cook,1918-09-15
+2023-05-11T20:25:09+00:00,patreon,180b,One Week,One Week,,23282,One Week,1920-08-29
+2023-05-11T20:25:09+00:00,patreon,180c,The High Sign,The High Sign,,46510,The High Sign,1921-04-18
+2023-05-11T20:25:09+00:00,patreon,180d,The Playhouse,The Playhouse,,51362,The Play House,1921-10-26
+2023-05-11T20:25:09+00:00,patreon,180e,Cops,Cops,,38742,Cops,1922-03-11
+2023-05-11T20:25:09+00:00,patreon,180f,The Balloonatic,The Balloonatic,,45807,The Balloonatic,1923-01-22
 2023-05-14T20:25:09+00:00,main,425a,Sherlock Jr.,Sherlock Jr.,,992,Sherlock Jr.,1924-04-17
 2023-05-14T20:25:09+00:00,main,425b,The Navigator,The Navigator,,32318,The Navigator,1924-09-28
 2023-05-21T20:25:09+00:00,patreon,181,Escape from the Planet of the Apes,Escape from the Planet of the Apes,,1687,Escape from the Planet of the Apes,1971-05-20
