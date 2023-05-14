@@ -22,7 +22,7 @@ def get_cast_from_id(movie_id):
     """ Get the cast of a movie in a dict from the movie id"""
     #print("searching for cast of movie id " + movie_id)
     url = 'https://api.themoviedb.org/3/movie/' + movie_id + '/credits?api_key=' + key
-    response = requests.get(url)
+    response = session.get(url)
     responsedict = response.json()
     #cast = clean_cast_response(responsedict['cast'])
     cast = responsedict['cast']
@@ -40,6 +40,8 @@ def get_cast_from_title(title):
 f = open("key", "r")
 key = f.readline()
 key = key.strip()
+
+session = requests.Session()
 
 in_csv = 'movies.with.ids.csv'
 out_meta = 'MetaActorSeries.combined'

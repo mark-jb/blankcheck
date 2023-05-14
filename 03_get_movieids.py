@@ -6,6 +6,10 @@ import csv
 import urllib.parse as ul
 import sys
 
+import logging
+
+import http.client
+
 
 
 replacements = { "main": {
@@ -69,6 +73,7 @@ replacements = { "main": {
         "311": "10144", # The Little Mermaid
         "312": "812",   # Aladdin
         "313": "11970", # The Lion King
+        "316": "277834",# Moana
         "319": "40687", # Heartbreak Kid
         "326": "25624", # Rosewood
         "327a": "482",   # Shaft
@@ -138,6 +143,13 @@ replacements = { "main": {
         "153": "414906", # The Batman
         "171": "11667",  # Street Fighter
         "173": "608",    # MIB2
+        "178": "871",    # Planet of the Apes
+        "180a": "51471",   # Buster Keaton Shorts
+        "180b": "23282",   # Buster Keaton Shorts
+        "180c": "46510",   # Buster Keaton Shorts
+        "180d": "51362",   # Buster Keaton Shorts
+        "180e": "38742",   # Buster Keaton Shorts
+        "180f": "45807",   # Buster Keaton Shorts
         "185": "299",    # Ocean's 11 (1960)
         "187": "161"     # Ocean's 11
     }
@@ -151,7 +163,7 @@ def get_movie_data_from_title(title):
     #print("encoded title as " + enc_title)
     
     url = 'https://api.themoviedb.org/3/search/movie?api_key=' + key + '&language=en-US&query=' + enc_title + '&page=1&include_adult=false'
-    response = requests.get(url)
+    response = session.get(url)
     responsedict = response.json()
 #    print(responsedict)
     if len(responsedict['results']) > 0:
@@ -164,7 +176,7 @@ def get_movie_data_from_title(title):
 def get_movie_data_from_id(movie_id):
     """ Get a movie details from id"""
     url = 'https://api.themoviedb.org/3/movie/' + movie_id + '?api_key=' + key
-    response = requests.get(url)
+    response = session.get(url)
     responsedict = response.json()
     return responsedict
 
@@ -179,8 +191,24 @@ out_csv = 'movies.with.ids.csv'
 
 new_master_list = []
 failures = []
-
 id_map = {}
+
+debug = False
+if debug
+    # Dubug logging
+    http.client.HTTPConnection.debuglevel = 1
+    # You must initialize logging, otherwise you'll not see debug output.
+    logging.basicConfig()
+    logging.getLogger().setLevel(logging.DEBUG)
+    requests_log = logging.getLogger("requests.packages.urllib3")
+    requests_log.setLevel(logging.DEBUG)
+    requests_log.propagate = True
+
+# Open persistent session:
+session = requests.Session()
+
+
+# Read in the existing movieIDs if we are skipping done stuff [IN PROGRESS]
 with open(in_existing_csv, mode='r') as csv_idlist:
     csv_reader = csv.DictReader(csv_idlist)
     for row in csv_reader:
