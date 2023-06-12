@@ -60,6 +60,7 @@ replacements = { "main": {
         "237": "129",    # Spirited Away
         "244c": "86209", # Fighting Mad
         "249": "11300",  # Something Wild
+        "252": "274",  # Silence Of the Lambs
         "254": "39437",  # Beloved
         "258a": "982",   # Manchurian Candidate
         "258b": "14462", # Manchurian Candidate
@@ -101,10 +102,11 @@ replacements = { "main": {
         "395": "935",    # Dr Strangelove
         "406": "76600",  # Avatar 2
         "416": "13373",  # Millions
+        "426b": "33015",  # Go West
         "428a": "34847",  # College
-        "431": "262097", # Trio
-        "434": "670",    # Oldboy
-        "437": "22536"  # Thirst
+        "430b": "262097", # Trio
+        "433": "670",    # Oldboy
+        "438": "22536"  # Thirst
     },
     "patreon": {
         "2": "1726",    # Iron Man
@@ -116,6 +118,7 @@ replacements = { "main": {
         "34": "284054", # Black Panther
         "37": "363088", # Ant Man 2
         "44": "348350", # Solo
+        "46": "330459", # Rogue One
         "48": "11",     # Star Wars
         "51": "1892",   # Return of the Jedi
         "55": "140607", # The Force Awakens
@@ -261,3 +264,4 @@ with open(out_csv, 'w', newline='') as f:
 print("\nFailures:")
 for fail in failures:
     print(fail)
+     

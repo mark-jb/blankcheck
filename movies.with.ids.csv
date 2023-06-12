@@ -347,7 +347,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2021-03-11T05:00:03+00:00,patreon,93a,The Return of Jafar + Aladdin and the King of Thieves,The Return of Jafar,,15969,The Return of Jafar,1994-05-20
 2021-03-11T05:00:03+00:00,patreon,93b,The Return of Jafar + Aladdin and the King of Thieves,Aladdin and the King of Thieves,,11238,Aladdin and the King of Thieves,1996-05-20
 2021-03-14T05:00:00+00:00,main,315,The Princess and the Frog with James III,The Princess and the Frog,James III,10198,The Princess and the Frog,2009-12-08
-2021-03-21T04:00:00+00:00,main,316,Moana with Lenika Cruz,Moana,Lenika Cruz,1108427,Moana,
+2021-03-21T04:00:00+00:00,main,316,Moana with Lenika Cruz,Moana,Lenika Cruz,277834,Moana,2016-10-13
 2021-03-21T04:01:00+00:00,patreon,95,Star Trek III: The Search for Spock,Star Trek III: The Search for Spock,,157,Star Trek III: The Search for Spock,1984-06-01
 2021-04-01T04:01:02+00:00,patreon,97,Star Trek IV: The Voyage Home,Star Trek IV: The Voyage Home,,168,Star Trek IV: The Voyage Home,1986-11-26
 2021-04-04T04:00:00+00:00,main,318,A New Leaf,A New Leaf,,36850,A New Leaf,1971-03-11
@@ -548,20 +548,22 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2023-06-04T20:25:09+00:00,main,428b,Steamboat Bill Jr.,Steamboat Bill Jr.,,25768,"Steamboat Bill, Jr.",1928-05-09
 2023-06-11T20:25:09+00:00,main,429a,The Cameraman,The Cameraman,,31411,The Cameraman,1928-09-10
 2023-06-11T20:25:09+00:00,main,429b,Spite Marriage,Spite Marriage,,51303,Spite Marriage,1929-03-24
-2023-06-18T20:25:09+00:00,main,430,The Moon Is... the Sun's Dream,The Moon Is... the Sun's Dream,,208619,달은... 해가 꾸는 꿈,1992-02-29
+2023-06-18T20:25:09+00:00,main,430a,The Moon Is... the Sun's Dream,The Moon Is... the Sun's Dream,,208619,달은... 해가 꾸는 꿈,1992-02-29
+2023-06-18T20:25:09+00:00,main,430b,Trio,Trio,,262097,3인조,1997-05-24
 2023-06-21T20:25:09+00:00,patreon,184,Battle for the Planet of the Apes,Battle for the Planet of the Apes,,1705,Battle for the Planet of the Apes,1973-06-15
-2023-06-25T20:25:09+00:00,main,431,Trio,Trio,,262097,3인조,1997-05-24
+2023-06-25T20:25:09+00:00,main,431,Joint Security Area,Joint Security Area,,2440,공동경비구역 JSA,2000-09-09
 2023-07-01T20:25:09+00:00,patreon,185,Ocean's Eleven (1960),Ocean's Eleven (1960),,299,Ocean's Eleven,1960-08-10
-2023-07-02T20:25:09+00:00,main,432,Joint Security Area,Joint Security Area,,2440,공동경비구역 JSA,2000-09-09
+2023-07-02T20:25:09+00:00,main,432,Sympathy for Mr. Vengeance,Sympathy for Mr. Vengeance,,4689,복수는 나의 것,2002-03-29
+2023-07-09T20:25:09+00:00,main,433,Oldboy,Oldboy,,670,올드보이,2003-11-21
+2023-07-16T20:25:09+00:00,main,434,Sympathy for Lady Vengeance,Sympathy for Lady Vengeance,,4550,친절한 금자씨,2005-07-29
 2023-07-21T20:25:09+00:00,patreon,187,Ocean's Eleven (2001),Ocean's Eleven (2001),,161,Ocean's Eleven,2001-12-07
-2023-07-09T20:25:09+00:00,main,433,Sympathy for Mr. Vengeance,Sympathy for Mr. Vengeance,,4689,복수는 나의 것,2002-03-29
-2023-07-16T20:25:09+00:00,main,434,Oldboy,Oldboy,,670,올드보이,2003-11-21
-2023-07-23T20:25:09+00:00,main,435,Sympathy for Lady Vengeance,Sympathy for Lady Vengeance,,4550,친절한 금자씨,2005-07-29
-2023-07-30T20:25:09+00:00,main,436,"I'm a Cyborg, But That's OK","I'm a Cyborg, But That's OK",,5488,싸이보그지만 괜찮아,2006-12-07
+2023-07-23T20:25:09+00:00,main,435,Mission Impossible: Dead Reckoning - Part 1,Mission Impossible: Dead Reckoning - Part 1,,575264,Mission: Impossible - Dead Reckoning Part One,2023-07-10
+2023-07-30T20:25:09+00:00,main,437,Oppenheimer,Oppenheimer,,872585,Oppenheimer,2023-07-19
 2023-08-01T20:25:09+00:00,patreon,188,Ocean's Twelve,Ocean's Twelve,,163,Ocean's Twelve,2004-12-09
-2023-08-06T20:25:09+00:00,main,437,Thirst,Thirst,,22536,박쥐,2009-04-30
-2023-08-13T20:25:09+00:00,main,438,Stoker,Stoker,,86825,Stoker,2013-02-28
-2023-08-20T20:25:09+00:00,main,439,The Handmaiden,The Handmaiden,,290098,아가씨,2016-06-01
+2023-08-06T20:25:09+00:00,main,436,"I'm a Cyborg, But That's OK","I'm a Cyborg, But That's OK",,5488,싸이보그지만 괜찮아,2006-12-07
+2023-08-13T20:25:09+00:00,main,438,Thirst,Thirst,,22536,박쥐,2009-04-30
+2023-08-20T20:25:09+00:00,main,439,Stoker,Stoker,,86825,Stoker,2013-02-28
 2023-08-21T20:25:09+00:00,patreon,190,Ocean's Thirteen,Ocean's Thirteen,,298,Ocean's Thirteen,2007-06-06
-2023-08-27T20:25:09+00:00,main,440,Decision to Leave,Decision to Leave,,705996,헤어질 결심,2022-06-29
+2023-08-27T20:25:09+00:00,main,440,The Handmaiden,The Handmaiden,,290098,아가씨,2016-06-01
 2023-09-01T20:25:09+00:00,patreon,191,Ocean's Eight,Ocean's Eight,,402900,Ocean's Eight,2018-06-07
+2023-09-03T20:25:09+00:00,main,441,Decision to Leave,Decision to Leave,,705996,헤어질 결심,2022-06-29
