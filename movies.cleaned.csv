@@ -256,8 +256,8 @@ date,feed,ep_num,title,movie,guest
 2020-02-16T05:00:00+00:00,main,257,"Birds of Prey with Ang Ferraguto, Emma Stefansky, Ashleigh Heaton, and Preeti Chhibber",Birds of Prey,"Ang Ferraguto, Emma Stefansky, Ashleigh Heaton, and Preeti Chhibber"
 2020-02-21T05:00:02+00:00,patreon,50,The Empire Strikes Back,The Empire Strikes Back,
 2020-03-01T05:00:00+00:00,main,259,Rachel Getting Married with Ayo Edibiri and Olivia Craighead,Rachel Getting Married,Ayo Edibiri and Olivia Craighead
-2020-02-23T05:00:00+00:00,main,258a,"The Manchurian Candidate with the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",The Manchurian Candidate,"the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan"
-2020-02-23T05:00:00+00:00,main,258b,"The Manchurian Candidate with the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",The Manchurian Candidate,"the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan"
+2020-02-23T05:00:00+00:00,main,258a,"The Manchurian Candidate with the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",The Manchurian Candidate (1962),"the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan"
+2020-02-23T05:00:00+00:00,main,258b,"The Manchurian Candidate with the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",The Manchurian Candidate (2004),"the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan"
 2020-03-01T05:00:03+00:00,patreon,51,Return of the Jedi,Return of the Jedi,
 2020-03-08T05:00:00+00:00,main,260a,A Master Builder with John Hodgman,A Master Builder,John Hodgman
 2020-03-08T05:00:00+00:00,main,260b,A Master Builder with John Hodgman,Playmobil: The Movie,John Hodgman
@@ -504,35 +504,35 @@ date,feed,ep_num,title,movie,guest
 2022-12-11T20:25:09+00:00,main,405,Monkeybone,Monkeybone,
 2022-12-18T20:25:09+00:00,main,406,Avatar: The Way of Water,Avatar: The Way of Water,
 2022-12-21T20:25:09+00:00,patreon,166,National Treasure: Book of Secrets,National Treasure: Book of Secrets,
-2023-01-01T20:25:09+00:00,patreon,167,Koyaanisqatsi,Koyaanisqatsi
+2023-01-01T20:25:09+00:00,patreon,167,Koyaanisqatsi,Koyaanisqatsi,
 2023-01-08T20:25:09+00:00,main,407,Coraline,Coraline,
 2023-01-15T20:25:09+00:00,main,408,Wendell & Wild,Wendell & Wild,
-2023-01-21T20:25:09+00:00,patreon,169,Powaqqatsi,Powaqqatsi
-2023-01-22T20:25:09+00:00,main,409,Shallow Grave,Shallow Grave
-2023-01-29T20:25:09+00:00,main,410,Trainspotting,Trainspotting
-2023-02-01T20:25:09+00:00,patreon,170,Naqoyqatsi,Naqoyqatsi
-2023-02-05T20:25:09+00:00,main,411,A Life Less Ordinary,A Life Less Ordinary
-2023-02-11T20:25:09+00:00,patreon,171,Street Fighter,Street Fighter
-2023-02-12T20:25:09+00:00,main,412,Knock at the Cabin,Knock at the Cabin
-2023-02-19T20:25:09+00:00,main,413,The Beach,The Beach
-2023-02-21T20:25:09+00:00,patreon,172,Men in Black,Men in Black
-2023-02-26T20:25:09+00:00,main,414,28 Days Later,28 Days Later
-2023-03-01T20:25:09+00:00,patreon,173,Men in Black 2,Men in Black 2
-2023-03-11T20:25:09+00:00,patreon,174,28 Weeks Later,28 Weeks Later
-2023-03-12T20:25:09+00:00,main,416,Millions,Millions
-2023-03-19T20:25:09+00:00,main,417,Sunshine,Sunshine
-2023-02-21T20:25:09+00:00,patreon,175,Men in Black 3,Men in Black 3
-2023-03-26T20:25:09+00:00,main,418,Slumdog Millionaire,Slumdog Millionaire
-2023-04-01T20:25:09+00:00,patreon,176,Men in Black: International,Men in Black: International
-2023-04-02T20:25:09+00:00,main,419,127 Hours,127 Hours
-2023-04-09T20:25:09+00:00,main,420,Trance,Trance
-2023-04-11T20:25:09+00:00,patreon,177,London 2012 Olympic Opening Ceremony: Isles of Wonder,London 2012 Olympic Opening Ceremony: Isles of Wonder
-2023-04-16T20:25:09+00:00,main,421,Steve Jobs,Steve Jobs
+2023-01-21T20:25:09+00:00,patreon,169,Powaqqatsi,Powaqqatsi,
+2023-01-22T20:25:09+00:00,main,409,Shallow Grave,Shallow Grave,
+2023-01-29T20:25:09+00:00,main,410,Trainspotting,Trainspotting,
+2023-02-01T20:25:09+00:00,patreon,170,Naqoyqatsi,Naqoyqatsi,
+2023-02-05T20:25:09+00:00,main,411,A Life Less Ordinary,A Life Less Ordinary,
+2023-02-11T20:25:09+00:00,patreon,171,Street Fighter,Street Fighter,
+2023-02-12T20:25:09+00:00,main,412,Knock at the Cabin,Knock at the Cabin,
+2023-02-19T20:25:09+00:00,main,413,The Beach,The Beach,
+2023-02-21T20:25:09+00:00,patreon,172,Men in Black,Men in Black,
+2023-02-26T20:25:09+00:00,main,414,28 Days Later,28 Days Later,
+2023-03-01T20:25:09+00:00,patreon,173,Men in Black 2,Men in Black 2,
+2023-03-11T20:25:09+00:00,patreon,174,28 Weeks Later,28 Weeks Later,
+2023-03-12T20:25:09+00:00,main,416,Millions,Millions,
+2023-03-19T20:25:09+00:00,main,417,Sunshine,Sunshine,
+2023-02-21T20:25:09+00:00,patreon,175,Men in Black 3,Men in Black 3,
+2023-03-26T20:25:09+00:00,main,418,Slumdog Millionaire,Slumdog Millionaire,
+2023-04-01T20:25:09+00:00,patreon,176,Men in Black: International,Men in Black: International,
+2023-04-02T20:25:09+00:00,main,419,127 Hours,127 Hours,
+2023-04-09T20:25:09+00:00,main,420,Trance,Trance,
+2023-04-11T20:25:09+00:00,patreon,177,London 2012 Olympic Opening Ceremony: Isles of Wonder,London 2012 Olympic Opening Ceremony: Isles of Wonder,
+2023-04-16T20:25:09+00:00,main,421,Steve Jobs,Steve Jobs,
 2023-04-21T20:25:09+00:00,patreon,178,Planet of the Apes,Planet of the Apes,
-2023-04-23T20:25:09+00:00,main,422,T2 Trainspotting,T2 Trainspotting
-2023-04-30T20:25:09+00:00,main,423,Yesterday,Yesterday
+2023-04-23T20:25:09+00:00,main,422,T2 Trainspotting,T2 Trainspotting,
+2023-04-30T20:25:09+00:00,main,423,Yesterday,Yesterday,
 2023-05-01T20:25:09+00:00,patreon,179,Beneath the Planet of the Apes,Beneath the Planet of the Apes,
-2023-05-07T20:25:09+00:00,main,424a,Three Ages,Three Ages
+2023-05-07T20:25:09+00:00,main,424a,Three Ages,Three Ages,
 2023-05-07T20:25:09+00:00,main,424b,Our Hospitality,Our Hospitality
 2023-05-11T20:25:09+00:00,patreon,180a,The Cook,The Cook,
 2023-05-11T20:25:09+00:00,patreon,180b,One Week,One Week,
@@ -540,34 +540,37 @@ date,feed,ep_num,title,movie,guest
 2023-05-11T20:25:09+00:00,patreon,180d,The Playhouse,The Playhouse,
 2023-05-11T20:25:09+00:00,patreon,180e,Cops,Cops,
 2023-05-11T20:25:09+00:00,patreon,180f,The Balloonatic,The Balloonatic,
-2023-05-14T20:25:09+00:00,main,425a,Sherlock Jr.,Sherlock Jr.
-2023-05-14T20:25:09+00:00,main,425b,The Navigator,The Navigator
+2023-05-14T20:25:09+00:00,main,425a,Sherlock Jr.,Sherlock Jr.,
+2023-05-14T20:25:09+00:00,main,425b,The Navigator,The Navigator,
 2023-05-21T20:25:09+00:00,patreon,181,Escape from the Planet of the Apes,Escape from the Planet of the Apes,
-2023-05-21T20:25:09+00:00,main,426a,Seven Chances,Seven Chances
-2023-05-21T20:25:09+00:00,main,426b,Go West,Go West
-2023-05-28T20:25:09+00:00,main,427a,Battling Butler,Battling Butler
-2023-05-28T20:25:09+00:00,main,427b,The General,The General
+2023-05-21T20:25:09+00:00,main,426a,Seven Chances,Seven Chances,
+2023-05-21T20:25:09+00:00,main,426b,Go West,Go West,
+2023-05-28T20:25:09+00:00,main,427a,Battling Butler,Battling Butler,
+2023-05-28T20:25:09+00:00,main,427b,The General,The General,
 2023-06-01T20:25:09+00:00,patreon,182,Conquest of the Planet of the Apes,Conquest of the Planet of the Apes,
-2023-06-04T20:25:09+00:00,main,428a,College,College
-2023-06-04T20:25:09+00:00,main,428b,Steamboat Bill Jr.,Steamboat Bill Jr.
-2023-06-11T20:25:09+00:00,main,429a,The Cameraman,The Cameraman
-2023-06-11T20:25:09+00:00,main,429b,Spite Marriage,Spite Marriage
+2023-06-04T20:25:09+00:00,main,428a,College,College,
+2023-06-04T20:25:09+00:00,main,428b,Steamboat Bill Jr.,Steamboat Bill Jr.,
+2023-06-11T20:25:09+00:00,main,429a,The Cameraman,The Cameraman,
+2023-06-11T20:25:09+00:00,main,429b,Spite Marriage,Spite Marriage,
 2023-06-18T20:25:09+00:00,main,430a,The Moon Is... the Sun's Dream,The Moon Is... the Sun's Dream
-2023-06-18T20:25:09+00:00,main,430b,Trio,Trio
+2023-06-18T20:25:09+00:00,main,430b,Trio,Trio,
 2023-06-21T20:25:09+00:00,patreon,184,Battle for the Planet of the Apes,Battle for the Planet of the Apes,
-2023-06-25T20:25:09+00:00,main,431,Joint Security Area,Joint Security Area
+2023-06-25T20:25:09+00:00,main,431,Joint Security Area,Joint Security Area,
 2023-07-01T20:25:09+00:00,patreon,185,Ocean's Eleven (1960),Ocean's Eleven (1960),
-2023-07-02T20:25:09+00:00,main,432,Sympathy for Mr. Vengeance,Sympathy for Mr. Vengeance
-2023-07-09T20:25:09+00:00,main,433,Oldboy,Oldboy
-2023-07-16T20:25:09+00:00,main,434,Sympathy for Lady Vengeance,Sympathy for Lady Vengeance
-2023-07-21T20:25:09+00:00,patreon,187,Ocean's Eleven (2001),Ocean's Eleven (2001),
-2023-07-23T20:25:09+00:00,main,435,Mission Impossible: Dead Reckoning - Part 1,Mission Impossible: Dead Reckoning - Part 1
-2023-07-30T20:25:09+00:00,main,437,Oppenheimer,Oppenheimer
-2023-08-01T20:25:09+00:00,patreon,188,Ocean's Twelve,Ocean's Twelve,
-2023-08-06T20:25:09+00:00,main,436,"I'm a Cyborg, But That's OK","I'm a Cyborg, But That's OK"
-2023-08-13T20:25:09+00:00,main,438,Thirst,Thirst
-2023-08-20T20:25:09+00:00,main,439,Stoker,Stoker
-2023-08-21T20:25:09+00:00,patreon,190,Ocean's Thirteen,Ocean's Thirteen,
-2023-08-27T20:25:09+00:00,main,440,The Handmaiden,The Handmaiden
-2023-09-01T20:25:09+00:00,patreon,191,Ocean's Eight,Ocean's Eight,
-2023-09-03T20:25:09+00:00,main,441,Decision to Leave,Decision to Leave
+2023-07-02T20:25:09+00:00,main,432,Sympathy for Mr. Vengeance,Sympathy for Mr. Vengeance,
+2023-07-09T20:25:09+00:00,main,433,Oldboy,Oldboy,
+2023-07-16T20:25:09+00:00,main,434,Sympathy for Lady Vengeance,Sympathy for Lady Vengeance,
+2023-07-21T20:25:09+00:00,patreon,188,Ocean's Eleven (2001),Ocean's Eleven (2001),
+2023-07-23T20:25:09+00:00,main,435,Mission Impossible: Dead Reckoning - Part 1,Mission Impossible: Dead Reckoning - Part 1,
+2023-07-30T20:25:09+00:00,main,436,Oppenheimer,Oppenheimer,
+2023-08-01T20:25:09+00:00,patreon,189,Ocean's Twelve,Ocean's Twelve,
+2023-08-06T20:25:09+00:00,main,437,"I'm a Cyborg, But That's OK","I'm a Cyborg, But That's OK",
+2023-08-11T20:25:09+00:00,patreon,190,Little Drummer Girl,Little Drummer Girl,
+2023-08-13T20:25:09+00:00,main,438,Thirst,Thirst,
+2023-08-20T20:25:09+00:00,main,439,Stoker,Stoker,
+2023-08-21T20:25:09+00:00,patreon,191,Ocean's Thirteen,Ocean's Thirteen,
+2023-08-27T20:25:09+00:00,main,440,The Handmaiden,The Handmaiden,
+2023-09-01T20:25:09+00:00,patreon,192,Ocean's Eight,Ocean's Eight,
+2023-09-03T20:25:09+00:00,main,441,Decision to Leave,Decision to Leave,
+2023-09-03T20:25:09+00:00,main,500,Ferrari,Ferrari,
+2023-09-03T20:25:09+00:00,main,501,How Do You Live?,How Do You Live?,
