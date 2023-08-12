@@ -154,7 +154,7 @@ replacements = { "main": {
         "180e": "38742",   # Buster Keaton Shorts
         "180f": "45807",   # Buster Keaton Shorts
         "185": "299",    # Ocean's 11 (1960)
-        "187": "161"     # Ocean's 11
+        "188": "161"     # Ocean's 11
     }
 }
 
