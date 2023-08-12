@@ -1,13 +1,4 @@
 
-==== Adam Driver ====
-37: Star Wars: The Force Awakens
-107: Lincoln
-140: The Last Jedi
-250: The Rise of Skywalker
-SF-55: The Force Awakens
-SF-57: The Last Jedi
-SF-60: The Rise of Skywalker
-
 ==== Alan Harris ====
 34: Star Wars: A New Hope
 35: Star Wars: The Empire Strikes Back
@@ -44,14 +35,14 @@ SF-128: Ghostbusters II
 SF-129: Ghostbusters: Answer the Call
 SF-131: Ghostbusters: Afterlife
 
-==== Anthony Hopkins ====
-94: Amistad
-SF-8: Thor
-SF-18: Thor: The Dark World
-SF-32: Thor: Ragnarok
-252: Silence of the Lambs
-SF-69: Mission: Impossible II
-301: Beowulf
+==== Ben Affleck ====
+53: Batman v Superman: Dawn of Justice
+69: Suicide Squad
+137: Justice League
+SF-83: Armageddon
+SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
+SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
+451: Gone Girl
 
 ==== Benedict Cumberbatch ====
 106: War Horse
@@ -80,6 +71,15 @@ SF-82: Prometheus
 SF-62: Toy Story
 SF-63: Toy Story 2
 
+==== Billy Crudup ====
+66: Almost Famous
+137: Justice League
+207: Big Fish
+227: Public Enemies
+SF-69: Mission: Impossible II
+SF-70: Mission: Impossible III
+SF-84: Alien: Covenant
+
 ==== Bridget Hoffman ====
 174a: Hotel Transylvania
 174b: Hotel Transylvania 2
@@ -105,7 +105,7 @@ SF-63: Toy Story 2
 200: Glass
 295: Death Becomes Her
 SF-83: Armageddon
-SF-188: Ocean's Twelve
+SF-189: Ocean's Twelve
 
 ==== Burnell Tucker ====
 34: Star Wars: A New Hope
@@ -150,25 +150,16 @@ SF-103: New Moon
 SF-105: Eclipse
 SF-108: Breaking Dawn: Part 2
 407: Coraline
-SF-191: Ocean's Eight
+SF-193: Ocean's Eight
 
-==== Debi Derryberry ====
-61: The Animatrix
-194a: Wreck-it Ralph
-SF-61: Babe
-SF-62: Toy Story
-SF-63: Toy Story 2
-312: Aladdin
-313: Hercules
-
-==== Gene Borkan ====
-52: Bound
-244a: Caged Heat
-246: Melvin and Howard
-247: Swing Shift
-251: Married to the Mob
-252: Silence of the Lambs
-253: Philadelphia
+==== Gary Oldman ====
+117: Batman Begins
+119: The Dark Knight
+121: The Dark Knight Rises
+138: Lost in Space
+302: A Christmas Carol
+436: Oppenheimer
+452: Mank
 
 ==== Genevieve O'Reilly ====
 24: Star Wars: Revenge of the Sith
@@ -179,14 +170,14 @@ SF-46: Rogue One
 SF-136: The Matrix Reloaded
 SF-138: The Matrix Revolutions
 
-==== Gwyneth Paltrow ====
-SF-2: Iron Man
-SF-6: Iron Man 2
-SF-13: The Avengers
-SF-16: Iron Man 3
-SF-31: Spider-Man: Homecoming
-SF-35: Avengers: Infinity War
-SF-40: Avengers: Endgame
+==== Greg Bronson ====
+65: Jerry Maguire
+185: Space Jam
+187: The Parent Trap
+188: What Women Want
+223: Ali
+SF-146: Batman & Robin
+445: Fight Club
 
 ==== Hayley Atwell ====
 SF-9: Captain America: The First Avenger
@@ -197,6 +188,24 @@ SF-40: Avengers: Endgame
 381: Doctor Strange in the Multiverse of Madness
 435: Mission Impossible: Dead Reckoning - Part 1
 
+==== Holt McCallany ====
+80b: Jack Reacher: Never Go Back
+137: Justice League
+229: Blackhat
+SF-79: Alien3
+SF-154: Sully
+442: Alien³
+445: Fight Club
+
+==== Ilia Volok ====
+104: Indiana Jones and the Kingdom of the Crystal Skull
+167: Mission: Impossible – Ghost Protocol
+240: Gemini Man
+SF-72: Mission: Impossible - Ghost Protocol
+331: Abduction
+405: Monkeybone
+448: The Curious Case of Benjamin Button
+
 ==== James Franco ====
 190: The Holiday
 SF-84: Alien: Covenant
@@ -205,15 +214,6 @@ SF-84: Alien: Covenant
 378: Spider-Man 3
 380: Oz the Great and Powerful
 419: 127 Hours
-
-==== Jared Harris ====
-46: Lady in the Water
-107: Lincoln
-138: Lost in Space
-220: The Last of the Mohicans
-307: Allied
-353: The Ward
-SF-188: Ocean's Twelve
 
 ==== Joe Morton ====
 53: Batman v Superman: Dawn of Justice
@@ -227,7 +227,7 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 ==== Jon Voight ====
 221: Heat
 223: Ali
-258b: The Manchurian Candidate
+258b: The Manchurian Candidate (2004)
 SF-67: Mission: Impossible
 326: Rosewood
 SF-165: National Treasure
@@ -242,6 +242,15 @@ SF-66: Toy Story 4
 393: Pinocchio (2022)
 408: Wendell & Wild
 
+==== Kristen Stewart ====
+183: Billy Lynn's Long Halftime Walk
+SF-102: Twilight
+SF-103: New Moon
+SF-105: Eclipse
+SF-106: Breaking Dawn – Part 1
+SF-108: Breaking Dawn: Part 2
+446: Panic Room
+
 ==== Lambert Wilson ====
 55: The Matrix Reloaded
 56: The Matrix Revolutions
@@ -251,15 +260,6 @@ SF-136: The Matrix Reloaded
 SF-138: The Matrix Revolutions
 SF-140: The Matrix Resurrections
 
-==== Lance Henriksen ====
-75: Piranha II: The Spawning
-76: The Terminator
-77: Aliens
-128: Near Dark
-SF-78: Aliens
-SF-79: Alien3
-372: The Quick and The Dead
-
 ==== Lupita Nyong'o ====
 37: Star Wars: The Force Awakens
 140: The Last Jedi
@@ -268,15 +268,6 @@ SF-34: Black Panther
 SF-55: The Force Awakens
 SF-57: The Last Jedi
 SF-60: The Rise of Skywalker
-
-==== Mark Boone Junior ====
-115: Memento
-117: Batman Begins
-SF-83: Armageddon
-326: Rosewood
-329: 2 Fast 2 Furious
-351: John Carpenter’s Vampires
-372: The Quick and The Dead
 
 ==== Michael Giacchino ====
 37: Star Wars: The Force Awakens
@@ -305,15 +296,6 @@ SF-40: Avengers: Endgame
 267: The Witches of Eastwick
 298: What Lies Beneath
 
-==== Nicole Kidman ====
-197: Aquaman
-270: Happy Feet
-282: Bewitched
-361: The Portrait of a Lady
-SF-144: Batman Forever
-401: Eyes Wide Shut
-439: Stoker
-
 ==== Pat Hingle ====
 198: Batman
 201: Batman Returns
@@ -338,8 +320,17 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 253: Philadelphia
 254: Beloved
 259: Rachel Getting Married
-258b: The Manchurian Candidate
+258b: The Manchurian Candidate (2004)
 268: Lorenzo's Oil
+
+==== Peter Postlethwaite ====
+93: The Lost World: Jurassic Park
+94: Amistad
+120: Inception
+220: The Last of the Mohicans
+SF-79: Alien3
+404: James and the Giant Peach
+442: Alien³
 
 ==== Richard Cetrone ====
 53: Batman v Superman: Dawn of Justice
@@ -368,15 +359,6 @@ SF-153: The Batman
 SF-93b: Aladdin and the King of Thieves
 SF-145: Old Dogs
 
-==== Robin Wright ====
-42: Unbreakable
-111: Wonder Woman
-137: Justice League
-296: Forrest Gump
-301: Beowulf
-302: A Christmas Carol
-305: Wonder Woman 1984
-
 ==== Roger Moore ====
 SF-155: Live and Let Die
 SF-156: The Man with the Golden Gun
@@ -395,6 +377,24 @@ SF-46: Rogue One
 SF-176: Men in Black: International
 420: Trance
 
+==== Teddy Newton ====
+164: The Incredibles
+166: Ratatouille
+167: Mission: Impossible – Ghost Protocol
+169: Incredibles 2
+SF-64: Toy Story 3
+SF-72: Mission: Impossible - Ghost Protocol
+312: Aladdin
+
+==== Tilda Swinton ====
+67: Vanilla Sky
+SF-28: Doctor Strange
+SF-40: Avengers: Endgame
+392: Three Thousand Years of Longing
+413: The Beach
+448: The Curious Case of Benjamin Button
+453: The Killer
+
 ==== Tom Hiddleston ====
 106: War Horse
 SF-8: Thor
@@ -404,15 +404,6 @@ SF-32: Thor: Ragnarok
 SF-35: Avengers: Infinity War
 SF-40: Avengers: Endgame
 
-==== Tom Woodruff Jr. ====
-77: Aliens
-149: Hollow Man
-279: Michael
-SF-78: Aliens
-SF-79: Alien3
-SF-81: Alien: Resurrection
-SF-145: Old Dogs
-
 ==== Tracey Walter ====
 198: Batman
 249: Something Wild
@@ -420,7 +411,7 @@ SF-145: Old Dogs
 252: Silence of the Lambs
 253: Philadelphia
 254: Beloved
-258b: The Manchurian Candidate
+258b: The Manchurian Candidate (2004)
 
 ==== Wallace Shawn ====
 164: The Incredibles

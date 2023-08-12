@@ -106,7 +106,9 @@ replacements = { "main": {
         "428a": "34847",  # College
         "430b": "262097", # Trio
         "433": "670",    # Oldboy
-        "438": "22536"  # Thirst
+        "438": "22536", # Thirst
+        "450": "65754", # Dragon tatoo
+        "501": "508883"  # Miyazaki last
     },
     "patreon": {
         "2": "1726",    # Iron Man

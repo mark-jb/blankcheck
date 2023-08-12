@@ -147,7 +147,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2018-09-23T21:00:00+00:00,main,183,Billy Lynn's Long Halftime Walk with J.D. Amato,Billy Lynn's Long Halftime Walk,J.D. Amato,293767,Billy Lynn's Long Halftime Walk,2016-11-10
 2018-09-27T08:00:00+00:00,main,184,Chosen - The Hire,Chosen - The Hire,,30091,The Hire: Chosen,2001-01-01
 2018-09-30T21:00:00+00:00,main,185,Space Jam with James Newman,Space Jam,James Newman,2300,Space Jam,1996-11-15
-2018-10-08T01:07:51+00:00,main,186,A Star Is Born,A Star Is Born,,332562,A Star Is Born,2018-09-20
+2018-10-08T01:07:51+00:00,main,186,A Star Is Born,A Star Is Born,,332562,A Star Is Born,2018-10-03
 2018-10-14T21:00:00+00:00,main,187,The Parent Trap with Elena Lazic and Mani Lazic,The Parent Trap,Elena Lazic and Mani Lazic,9820,The Parent Trap,1998-07-28
 2018-10-21T21:00:00+00:00,main,188,What Women Want with Lola Kirke,What Women Want,Lola Kirke,3981,What Women Want,2000-12-15
 2018-10-28T21:00:00+00:00,main,189,Something's Gotta Give with Bobby Finger,Something's Gotta Give,Bobby Finger,6964,Something's Gotta Give,2003-12-12
@@ -190,7 +190,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2019-04-28T04:00:00+00:00,main,214,Dumbo with Karen Han,Dumbo,Karen Han,329996,Dumbo,2019-03-27
 2019-05-01T04:01:00+00:00,patreon,19,Captain America: The Winter Soldier,Captain America: The Winter Soldier,,100402,Captain America: The Winter Soldier,2014-03-20
 2019-05-05T04:00:00+00:00,main,215,Assassin's Creed,Assassin's Creed,,121856,Assassin's Creed,2016-12-21
-2019-05-12T04:00:00+00:00,main,216,Pokémon: Detective Pikachu with Dan Hernandez & Benji Samit,Pokémon: Detective Pikachu,Dan Hernandez & Benji Samit,447404,Pokémon Detective Pikachu,2019-05-10
+2019-05-12T04:00:00+00:00,main,216,Pokémon: Detective Pikachu with Dan Hernandez & Benji Samit,Pokémon: Detective Pikachu,Dan Hernandez & Benji Samit,447404,Pokémon Detective Pikachu,2019-05-03
 2019-05-19T04:00:00+00:00,main,217,Thief,Thief,,11524,Thief,1981-03-27
 2019-05-21T13:53:01+00:00,patreon,22,Guardians of the Galaxy,Guardians of the Galaxy,,118340,Guardians of the Galaxy,2014-07-30
 2019-05-26T04:00:00+00:00,main,218,The Keep with Alex Ross Perry,The Keep,Alex Ross Perry,26198,The Keep,1983-12-16
@@ -215,7 +215,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2019-08-21T04:03:32+00:00,patreon,31,Spider-Man: Homecoming with Alex Ross Perry,Spider-Man: Homecoming,Alex Ross Perry,315635,Spider-Man: Homecoming,2017-07-05
 2019-08-25T04:00:00+00:00,main,232,Castle in the Sky with Emily Yoshida,Castle in the Sky,Emily Yoshida,10515,天空の城ラピュタ,1986-08-02
 2019-09-01T04:00:00+00:00,main,233,My Neighbor Totoro with J.D. Amato,My Neighbor Totoro,J.D. Amato,8392,となりのトトロ,1988-04-16
-2019-09-01T04:00:02+00:00,patreon,32,Thor: Ragnarok with Emma Stefansky,Thor: Ragnarok,Emma Stefansky,284053,Thor: Ragnarok,2017-10-24
+2019-09-01T04:00:02+00:00,patreon,32,Thor: Ragnarok with Emma Stefansky,Thor: Ragnarok,Emma Stefansky,284053,Thor: Ragnarok,2017-10-02
 2019-09-08T04:00:00+00:00,main,234,Kiki's Delivery Service with Caroline Framke,Kiki's Delivery Service,Caroline Framke,16859,魔女の宅急便,1989-07-29
 2019-09-15T04:00:00+00:00,main,235,Porco Rosso with Justin Charity,Porco Rosso,Justin Charity,11621,紅の豚,1992-07-18
 2019-09-21T04:00:01+00:00,patreon,34,Black Panther with Jamelle Bouie,Black Panther,Jamelle Bouie,284054,Black Panther,2018-02-13
@@ -292,7 +292,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2020-07-11T04:00:01+00:00,patreon,68,Hanging Up with Sonia Sarayia,Hanging Up,Sonia Sarayia,10385,Hanging Up,2000-02-16
 2020-07-12T04:00:00+00:00,main,280,You've Got Mail with Bobby Finger & Lindsey Weber,You've Got Mail,Bobby Finger & Lindsey Weber,9489,You've Got Mail,1998-12-17
 2020-07-19T04:00:00+00:00,main,281,Lucky Numbers with Alex Ross Perry,Lucky Numbers,Alex Ross Perry,10783,Lucky Numbers,2000-10-27
-2020-07-21T04:01:00+00:00,patreon,69,Mission: Impossible 2,Mission: Impossible II,,955,Mission: Impossible II,2000-05-24
+2020-07-21T04:01:00+00:00,patreon,69,Mission: Impossible 2,Mission: Impossible II,,956,Mission: Impossible III,2006-04-25
 2020-07-26T04:00:00+00:00,main,282,Bewitched with Dana Schwartz,Bewitched,Dana Schwartz,9722,Bewitched,2005-06-21
 2020-08-01T04:01:03+00:00,patreon,70,Mission: Impossible 3,Mission: Impossible III,,956,Mission: Impossible III,2006-04-25
 2020-08-02T04:00:00+00:00,main,283,Julie & Julia with Romilly Newman ,Julie & Julia,Romilly Newman ,24803,Julie & Julia,2009-08-06
@@ -466,12 +466,12 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-07-24T04:01:00+00:01,main,385,All That Jazz,All That Jazz,,16858,All That Jazz,1979-12-16
 2022-07-31T04:01:00+00:01,main,386,Star 80,Star 80,,30707,Star 80,1983-11-10
 2022-08-01T20:25:09+00:00,patreon,153,The Batman,The Batman,,414906,The Batman,2022-03-01
-2022-08-07T20:25:09+00:00,main,387a,Fear and Desire,Fear and Desire,,10165,Fear and Desire,1953-04-01
+2022-08-07T20:25:09+00:00,main,387a,Fear and Desire,Fear and Desire,,10165,Fear and Desire,1953-03-31
 2022-08-07T20:25:09+00:00,main,387b,Killer's Kiss,Killer's Kiss,,10056,Killer's Kiss,1955-10-01
 2022-08-11T20:25:09+00:00,patreon,154,Sully,Sully,,363676,Sully,2016-09-07
 2022-08-14T20:25:09+00:00,main,388,The Killing,The Killing,,247,The Killing,1956-06-06
 2022-08-21T20:25:09+00:00,main,389,Paths of Glory,Paths of Glory,,975,Paths of Glory,1957-10-25
-2022-08-21T20:25:09+00:00,patreon,155,Live and Let Die,Live and Let Die,,253,Live and Let Die,1973-07-05
+2022-08-21T20:25:09+00:00,patreon,155,Live and Let Die,Live and Let Die,,253,Live and Let Die,1973-06-27
 2022-08-28T20:25:09+00:00,main,390,Spartacus,Spartacus,,967,Spartacus,1960-10-13
 2022-09-01T20:25:09+00:00,patreon,156,The Man with the Golden Gun,The Man with the Golden Gun,the Golden Gun,682,The Man with the Golden Gun,1974-12-01
 2022-09-03T20:25:09+00:00,main,391,Lolita,Lolita,,802,Lolita,1962-06-13
@@ -500,7 +500,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-12-11T20:25:09+00:00,main,405,Monkeybone,Monkeybone,,23685,Monkeybone,2001-02-23
 2022-12-18T20:25:09+00:00,main,406,Avatar: The Way of Water,Avatar: The Way of Water,,76600,Avatar: The Way of Water,2022-12-14
 2022-12-21T20:25:09+00:00,patreon,166,National Treasure: Book of Secrets,National Treasure: Book of Secrets,,6637,National Treasure: Book of Secrets,2007-12-13
-2023-01-01T20:25:09+00:00,patreon,167,Koyaanisqatsi,Koyaanisqatsi,,11314,Koyaanisqatsi,1982-10-04
+2023-01-01T20:25:09+00:00,patreon,167,Koyaanisqatsi,Koyaanisqatsi,,11314,Koyaanisqatsi,1983-08-24
 2023-01-08T20:25:09+00:00,main,407,Coraline,Coraline,,14836,Coraline,2009-02-05
 2023-01-15T20:25:09+00:00,main,408,Wendell & Wild,Wendell & Wild,,511817,Wendell & Wild,2022-10-21
 2023-01-21T20:25:09+00:00,patreon,169,Powaqqatsi,Powaqqatsi,,24348,Powaqqatsi,1988-04-29
@@ -556,14 +556,29 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2023-07-02T20:25:09+00:00,main,432,Sympathy for Mr. Vengeance,Sympathy for Mr. Vengeance,,4689,복수는 나의 것,2002-03-29
 2023-07-09T20:25:09+00:00,main,433,Oldboy,Oldboy,,670,올드보이,2003-11-21
 2023-07-16T20:25:09+00:00,main,434,Sympathy for Lady Vengeance,Sympathy for Lady Vengeance,,4550,친절한 금자씨,2005-07-29
-2023-07-21T20:25:09+00:00,patreon,187,Ocean's Eleven (2001),Ocean's Eleven (2001),,161,Ocean's Eleven,2001-12-07
-2023-07-23T20:25:09+00:00,main,435,Mission Impossible: Dead Reckoning - Part 1,Mission Impossible: Dead Reckoning - Part 1,,575264,Mission: Impossible - Dead Reckoning Part One,2023-07-10
+2023-07-21T20:25:09+00:00,patreon,188,Ocean's Eleven (2001),Ocean's Eleven (2001),,161,Ocean's Eleven,2001-12-07
+2023-07-23T20:25:09+00:00,main,435,Mission Impossible: Dead Reckoning - Part 1,Mission Impossible: Dead Reckoning - Part 1,,575264,Mission: Impossible - Dead Reckoning Part One,2023-07-08
 2023-07-30T20:25:09+00:00,main,436,Oppenheimer,Oppenheimer,,872585,Oppenheimer,2023-07-19
-2023-08-01T20:25:09+00:00,patreon,188,Ocean's Twelve,Ocean's Twelve,,163,Ocean's Twelve,2004-12-09
+2023-08-01T20:25:09+00:00,patreon,189,Ocean's Twelve,Ocean's Twelve,,163,Ocean's Twelve,2004-12-09
 2023-08-06T20:25:09+00:00,main,437,"I'm a Cyborg, But That's OK","I'm a Cyborg, But That's OK",,5488,싸이보그지만 괜찮아,2006-12-07
+2023-08-11T20:25:09+00:00,patreon,191,Little Drummer Girl,Little Drummer Girl,,32088,The Little Drummer Girl,1984-10-19
 2023-08-13T20:25:09+00:00,main,438,Thirst,Thirst,,22536,박쥐,2009-04-30
 2023-08-20T20:25:09+00:00,main,439,Stoker,Stoker,,86825,Stoker,2013-02-28
-2023-08-21T20:25:09+00:00,patreon,190,Ocean's Thirteen,Ocean's Thirteen,,298,Ocean's Thirteen,2007-06-06
+2023-08-21T20:25:09+00:00,patreon,192,Ocean's Thirteen,Ocean's Thirteen,,298,Ocean's Thirteen,2007-06-06
 2023-08-27T20:25:09+00:00,main,440,The Handmaiden,The Handmaiden,,290098,아가씨,2016-06-01
-2023-09-01T20:25:09+00:00,patreon,191,Ocean's Eight,Ocean's Eight,,402900,Ocean's Eight,2018-06-07
+2023-09-01T20:25:09+00:00,patreon,193,Ocean's Eight,Ocean's Eight,,402900,Ocean's Eight,2018-06-07
 2023-09-03T20:25:09+00:00,main,441,Decision to Leave,Decision to Leave,,705996,헤어질 결심,2022-06-29
+2023-09-03T20:25:09+00:00,main,442,Alien³,Alien³,,8077,Alien³,1992-05-22
+2023-09-03T20:25:09+00:00,main,443,Se7en,Se7en,,807,Se7en,1995-09-22
+2023-09-03T20:25:09+00:00,main,444,The Game,The Game,,2649,The Game,1997-09-12
+2023-09-03T20:25:09+00:00,main,445,Fight Club,Fight Club,,550,Fight Club,1999-10-15
+2023-09-03T20:25:09+00:00,main,446,Panic Room,Panic Room,,4547,Panic Room,2002-03-29
+2023-09-03T20:25:09+00:00,main,447,Zodiac,Zodiac,,1949,Zodiac,2007-03-02
+2023-09-03T20:25:09+00:00,main,448,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button,,4922,The Curious Case of Benjamin Button,2008-12-25
+2023-09-03T20:25:09+00:00,main,449,The Social Network,The Social Network,,37799,The Social Network,2010-10-01
+2023-09-03T20:25:09+00:00,main,450,The Girl with the Dragon Tattoo,The Girl with the Dragon Tattoo,,65754,The Girl with the Dragon Tattoo,2011-12-14
+2023-09-03T20:25:09+00:00,main,451,Gone Girl,Gone Girl,,210577,Gone Girl,2014-10-01
+2023-09-03T20:25:09+00:00,main,452,Mank,Mank,,614560,Mank,2020-11-13
+2023-09-03T20:25:09+00:00,main,453,The Killer,The Killer,,800158,The Killer,2023-09-03
+2023-09-03T20:25:09+00:00,main,500,Ferrari,Ferrari,,365620,Ferrari,2023-12-21
+2023-09-03T20:25:09+00:00,main,501,How Do You Live?,How Do You Live?,,508883,君たちはどう生きるか,2023-07-14
