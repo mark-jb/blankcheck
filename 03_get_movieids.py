@@ -107,6 +107,7 @@ replacements = { "main": {
         "430b": "262097", # Trio
         "433": "670",    # Oldboy
         "438": "22536", # Thirst
+        "442": "8077",  # Alien 3
         "450": "65754", # Dragon tatoo
         "501": "508883"  # Miyazaki last
     },

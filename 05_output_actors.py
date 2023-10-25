@@ -16,7 +16,10 @@ def print_out(text):
         print(text)
 
 def print_actor(actor):
-    actor_title = "\n==== " + actor["name"] + " ===="
+    if args.plain:
+        actor_title = "\n" +actor["name"]
+    else:
+        actor_title = "\n==== " + actor["name"] + " ===="
     if print_metadata:
         if args.pop:
             actor_title = actor_title + " " + str(actor["popularity"])
@@ -63,6 +66,7 @@ parser.add_argument('--ignore', help='ignore actors in ignorelist', action="stor
 parser.add_argument('--split', help='split into separate files by number', action="store_true", default=False)
 parser.add_argument('--tofile', help='output to file', action="store_true")
 parser.add_argument('--metadata', help='print metadata', action="store_true")
+parser.add_argument('--plain', help='plain output', action="store_true")
 args = parser.parse_args()
 split_files = args.split
 

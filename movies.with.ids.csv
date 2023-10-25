@@ -166,7 +166,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2019-01-13T09:00:00+00:00,main,199,Edward Scissorhands with Julio Torres,Edward Scissorhands,Julio Torres,162,Edward Scissorhands,1990-12-05
 2019-01-21T00:06:57+00:00,main,200,Glass,Glass,,450465,Glass,2019-01-16
 2019-01-21T05:01:00+00:00,patreon,4,The Incredible Hulk,The Incredible Hulk,,1724,The Incredible Hulk,2008-06-12
-2019-01-27T05:00:00+00:00,main,201,Batman Returns with Emily Yoshida,Batman Returns,Emily Yoshida,364,Batman Returns,1992-06-19
+2019-01-27T05:00:00+00:00,main,201,Batman Returns with Emily Yoshida,Batman Returns,Emily Yoshida,364,Batman Returns,1992-06-18
 2019-02-01T05:01:00+00:00,patreon,6,Iron Man 2,Iron Man 2,,10138,Iron Man 2,2010-04-28
 2019-02-03T05:00:00+00:00,main,202,Ed Wood with John Hodgman,Ed Wood,John Hodgman,522,Ed Wood,1994-09-27
 2019-02-10T05:00:00+00:00,main,203,Mars Attacks! with Paul F. Tompkins,Mars Attacks!,Paul F. Tompkins,75,Mars Attacks!,1996-12-12
@@ -528,7 +528,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2023-04-23T20:25:09+00:00,main,422,T2 Trainspotting,T2 Trainspotting,,180863,T2 Trainspotting,2017-01-27
 2023-04-30T20:25:09+00:00,main,423,Yesterday,Yesterday,,515195,Yesterday,2019-06-26
 2023-05-01T20:25:09+00:00,patreon,179,Beneath the Planet of the Apes,Beneath the Planet of the Apes,,1685,Beneath the Planet of the Apes,1970-04-23
-2023-05-07T20:25:09+00:00,main,424a,Three Ages,Three Ages,,32628,Three Ages,1923-09-24
+2023-05-07T20:25:09+00:00,main,424a,Three Ages,Three Ages,,32628,Three Ages,1923-09-14
 2023-05-07T20:25:09+00:00,main,424b,Our Hospitality,Our Hospitality,,701,Our Hospitality,1923-11-19
 2023-05-11T20:25:09+00:00,patreon,180a,The Cook,The Cook,,51471,The Cook,1918-09-15
 2023-05-11T20:25:09+00:00,patreon,180b,One Week,One Week,,23282,One Week,1920-08-29
@@ -568,17 +568,23 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2023-08-27T20:25:09+00:00,main,440,The Handmaiden,The Handmaiden,,290098,아가씨,2016-06-01
 2023-09-01T20:25:09+00:00,patreon,193,Ocean's Eight,Ocean's Eight,,402900,Ocean's Eight,2018-06-07
 2023-09-03T20:25:09+00:00,main,441,Decision to Leave,Decision to Leave,,705996,헤어질 결심,2022-06-29
-2023-09-03T20:25:09+00:00,main,442,Alien³,Alien³,,8077,Alien³,1992-05-22
-2023-09-03T20:25:09+00:00,main,443,Se7en,Se7en,,807,Se7en,1995-09-22
-2023-09-03T20:25:09+00:00,main,444,The Game,The Game,,2649,The Game,1997-09-12
-2023-09-03T20:25:09+00:00,main,445,Fight Club,Fight Club,,550,Fight Club,1999-10-15
-2023-09-03T20:25:09+00:00,main,446,Panic Room,Panic Room,,4547,Panic Room,2002-03-29
-2023-09-03T20:25:09+00:00,main,447,Zodiac,Zodiac,,1949,Zodiac,2007-03-02
-2023-09-03T20:25:09+00:00,main,448,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button,,4922,The Curious Case of Benjamin Button,2008-12-25
-2023-09-03T20:25:09+00:00,main,449,The Social Network,The Social Network,,37799,The Social Network,2010-10-01
-2023-09-03T20:25:09+00:00,main,450,The Girl with the Dragon Tattoo,The Girl with the Dragon Tattoo,,65754,The Girl with the Dragon Tattoo,2011-12-14
-2023-09-03T20:25:09+00:00,main,451,Gone Girl,Gone Girl,,210577,Gone Girl,2014-10-01
-2023-09-03T20:25:09+00:00,main,452,Mank,Mank,,614560,Mank,2020-11-13
-2023-09-03T20:25:09+00:00,main,453,The Killer,The Killer,,800158,The Killer,2023-09-03
-2023-09-03T20:25:09+00:00,main,500,Ferrari,Ferrari,,365620,Ferrari,2023-12-21
+2023-09-10T20:25:09+00:00,main,442,Alien³,Alien³,,8077,Alien³,1992-05-22
+2023-09-11T20:25:09+00:00,patreon,194a,AVP: Alien vs Predator,AVP: Alien vs Predator,,395,AVP: Alien vs. Predator,2004-08-12
+2023-09-11T20:25:09+00:00,patreon,194b,Aliens vs Predator: Requiem,Aliens vs Predator: Requiem,,440,Aliens vs Predator: Requiem,2007-12-25
+2023-09-17T20:25:09+00:00,main,443,Se7en,Se7en,,807,Se7en,1995-09-22
+2023-09-21T20:25:09+00:00,patreon,195,Goldeneye,Goldeneye,,710,GoldenEye,1995-11-16
+2023-09-24T20:25:09+00:00,main,444,The Game,The Game,,2649,The Game,1997-09-12
+2023-10-01T20:25:09+00:00,main,445,Fight Club,Fight Club,,550,Fight Club,1999-10-15
+2023-10-01T20:25:09+00:00,patreon,196,Tomorrow Never Dies,Tomorrow Never Dies,,714,Tomorrow Never Dies,1997-12-11
+2023-10-08T20:25:09+00:00,main,446,Panic Room,Panic Room,,4547,Panic Room,2002-03-29
+2023-10-15T20:25:09+00:00,main,447,Zodiac,Zodiac,,1949,Zodiac,2007-03-02
+2023-10-21T20:25:09+00:00,patreon,198,The World Is Not Enough,The World Is Not Enough,,36643,The World Is Not Enough,1999-11-17
+2023-10-22T20:25:09+00:00,main,448,The Curious Case of Benjamin Button,The Curious Case of Benjamin Button,,4922,The Curious Case of Benjamin Button,2008-12-25
+2023-10-29T20:25:09+00:00,main,449,The Social Network,The Social Network,,37799,The Social Network,2010-10-01
+2023-11-01T20:25:09+00:00,patreon,199,Die Another Day,Die Another Day,,36669,Die Another Day,2002-11-17
+2023-11-05T20:25:09+00:00,main,450,The Girl with the Dragon Tattoo,The Girl with the Dragon Tattoo,,65754,The Girl with the Dragon Tattoo,2011-12-14
+2023-11-12T20:25:09+00:00,main,451,Gone Girl,Gone Girl,,210577,Gone Girl,2014-10-01
+2023-11-19T20:25:09+00:00,main,452,Mank,Mank,,614560,Mank,2020-11-13
+2023-11-26T20:25:09+00:00,main,453,The Killer,The Killer,,800158,The Killer,2023-10-27
+2023-09-03T20:25:09+00:00,main,500,Ferrari,Ferrari,,365620,Ferrari,2023-11-30
 2023-09-03T20:25:09+00:00,main,501,How Do You Live?,How Do You Live?,,508883,君たちはどう生きるか,2023-07-14
