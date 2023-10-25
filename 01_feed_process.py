@@ -37,8 +37,8 @@ def getDate(e):
     return e["date"]
     
 def main():
-    add_feed("rss", "main", '%a, %d %b %Y %H:%M:%S %z')
-    add_feed("rsspatreon", "patreon", '%a, %d %b %Y %H:%M:%S %Z')
+    add_feed("rss.main", "main", '%a, %d %b %Y %H:%M:%S %z')
+    add_feed("rss.patreon", "patreon", '%a, %d %b %Y %H:%M:%S %Z')
     episodes.sort(key=getDate)
 
     columns = ["date","feed","ep_num","title"]
