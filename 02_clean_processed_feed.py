@@ -10,7 +10,7 @@ import string
 
 new_list = []
 main_ep_nums_delete = [2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,33,39,83,86,89,90,91,122,125,158,170,228,263]
-patreon_ep_nums_delete = [1,5,14,20,21,27,30,33,39,45,47,49,65,77,80,89,101,114,118,124,142,147]
+patreon_ep_nums_delete = [1,5,14,20,21,27,30,33,39,45,47,49,65,77,80,89,101,114,118,124,142,147,165,202]
 
 main_replacements = {
         "1": ["Star Wars: The Phantom Menace"],
@@ -56,7 +56,8 @@ patreon_replacements = {
         "148": ["Batman v Superman: Dawn of Justice - Ultimate Edition"],
         "149": ["Batman v Superman: Dawn of Justice - The Lost Episode"],
         "151": ["Liza with a Z"],
-        "156": ["The Man with the Golden Gun"]
+        "156": ["The Man with the Golden Gun"],
+        "184": ["The Cook","One Week","The High Sign","The Playhouse","Cops","The Balloonatic"]
         }
 
 def clean_main(episode):
@@ -64,6 +65,7 @@ def clean_main(episode):
     if "Blank Check Awards" in episode["movie"]: return []
     if "Mailbag" in episode["movie"]: return []
     if "March Madness" in episode["movie"]: return []
+    if "Fanfare" in episode["movie"]: return []
     if int(episode["ep_num"]) == 40: episode["guest"] = ""
 
     episodes = []
@@ -73,6 +75,12 @@ def clean_main(episode):
             if len(main_replacements[episode["ep_num"]]) > 1:
                 e["ep_num"] = e["ep_num"] + letter
             e["movie"] = title
+            episodes.append(e)
+    elif "/" in episode["movie"]:
+        for title, letter in zip(episode["movie"].split("/"), string.ascii_lowercase):
+            e = episode.copy()
+            e["ep_num"] = e["ep_num"] + letter
+            e["movie"] = title.strip()
             episodes.append(e)
     else:
         episodes.append(episode)
@@ -88,6 +96,12 @@ def clean_patreon(episode):
             if len(patreon_replacements[episode["ep_num"]]) > 1:
                 e["ep_num"] = e["ep_num"] + letter
             e["movie"] = title
+            episodes.append(e)
+    elif "/" in episode["movie"]:
+        for title, letter in zip(episode["movie"].split("/"), string.ascii_lowercase):
+            e = episode.copy()
+            e["ep_num"] = e["ep_num"] + letter
+            e["movie"] = title.strip()
             episodes.append(e)
     else:
         if int(episode["ep_num"]) in patreon_ep_nums_delete: return []
@@ -130,7 +144,7 @@ with open(in_csv, mode='r') as csv_episodelist:
 columns = ["date","feed","ep_num","title","movie","guest"]
 
 with open('movies.cleaned.csv', 'w', newline='') as f:
-    writer = csv.DictWriter(f, fieldnames=columns)
+    writer = csv.DictWriter(f, fieldnames=columns, lineterminator='\n')
     writer.writeheader()
     for e in new_list:
         print(e)

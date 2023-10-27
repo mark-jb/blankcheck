@@ -51,7 +51,7 @@ date,feed,ep_num,title
 2016-04-01T17:29:33+00:00,main,50,The Visit with Louis Peitzman
 2016-04-12T17:06:17+00:00,main,51,The Buried Secret of M. Night Shyamalan
 2016-04-18T17:31:15+00:00,main,52,Bound
-2016-04-22T16:18:45+00:00,main,53,Batman v Superman: Dawn of Justice - The Lost Episode
+2016-04-22T16:18:45+00:00,main,53,Batman v Superman: Dawn of Justice - The Lost Episode (Remastered)
 2016-04-25T16:22:01+00:00,main,54,The Matrix
 2016-04-28T22:44:21+00:00,main,55,The Matrix Reloaded
 2016-05-05T20:25:09+00:00,main,56,The Matrix Revolutions
@@ -529,37 +529,135 @@ date,feed,ep_num,title
 2022-06-26T17:01:01+00:00,patreon,147,Marvel Nerdfest
 2022-07-01T04:01:03+00:00,patreon,148,Batman v Superman: Dawn of Justice (Ultimate Edition)
 2022-07-01T04:01:27+00:00,patreon,149,Batman v Superman: Dawn of Justice - The Lost Episode (Remastered)
-2022-07-03T04:01:00+00:01,main,382,Sweet Charity
-2022-07-10T04:01:00+00:01,main,383,Cabaret
-2022-07-11T20:25:09+00:00,patreon,151,Liza with a Z
-2022-07-17T04:01:00+00:01,main,384,Lenny
-2022-07-21T20:25:09+00:00,patreon,152,Lego Batman
-2022-07-24T04:01:00+00:01,main,385,All That Jazz
-2022-07-31T04:01:00+00:01,main,386,Star 80
-2022-08-01T20:25:09+00:00,patreon,153,The Batman
-2022-08-11T20:25:09+00:00,patreon,154,Sully
-2022-08-21T20:25:09+00:00,patreon,155,Live and Let Die
-2022-09-01T20:25:09+00:00,patreon,156,The Man with the Golden Gun
-2022-09-21T20:25:09+00:00,patreon,158,The Spy Who Loved Me
-2022-10-01T20:25:09+00:00,patreon,159,Moonraker
-2022-10-21T20:25:09+00:00,patreon,161,For Your Eyes Only
-2022-11-01T20:25:09+00:00,patreon,162,Octopussy
-2022-11-21T20:25:09+00:00,patreon,164,A View to a Kill
-2022-10-21T20:25:09+00:00,main,400,Fear and Desire
-2022-10-21T20:25:09+00:00,main,401,Killer's Kiss
-2022-10-21T20:25:09+00:00,main,402,The Killing
-2022-10-21T20:25:09+00:00,main,403,Paths of Glory
-2022-10-21T20:25:09+00:00,main,404,Spartacus
-2022-10-21T20:25:09+00:00,main,405,Lolita
-2022-10-21T20:25:09+00:00,main,406,Dr. Strangelove
-2022-10-21T20:25:09+00:00,main,407,2001: A Space Odyssey
-2022-10-21T20:25:09+00:00,main,408,A Clockwork Orange
-2022-10-21T20:25:09+00:00,main,409,Barry Lyndon
-2022-10-21T20:25:09+00:00,main,410,The Shining
-2022-10-21T20:25:09+00:00,main,411,Full Metal Jacket
-2022-10-21T20:25:09+00:00,main,412,Eyes Wide Shut
-2022-10-21T20:25:09+00:00,main,450,Pinocchio (2022)
-2022-10-21T20:25:09+00:00,main,451,The Woman King
-2022-10-21T20:25:09+00:00,main,452,Three Thousand Years of Longing
-2022-10-21T20:25:09+00:00,main,453,The Fabelmans
-2022-10-21T20:25:09+00:00,main,454,Avatar: The Way of Water
+2022-07-03T04:00:00+00:00,main,382,Sweet Charity
+2022-07-10T04:00:00+00:00,main,383,Cabaret with Rachel Zegler
+2022-07-11T04:00:04+00:00,patreon,150,Liza with a Z with Marie Bardi
+2022-07-17T04:00:00+00:00,main,384,Lenny with Colin Quinn
+2022-07-21T04:01:04+00:00,patreon,151,The Lego Batman Movie
+2022-07-24T04:00:00+00:00,main,385,All That Jazz with Lin-Manuel Miranda
+2022-07-31T04:00:00+00:00,main,386,Star 80 with Julie Klausner
+2022-08-01T04:01:39+00:00,patreon,152,The Batman
+2022-08-07T04:00:00+00:00,main,387,Fear & Desire / Killer's Kiss
+2022-08-11T04:00:03+00:00,patreon,153,"SULLY - Blank Check LIVE! at the Bell House (June 8, 2022)"
+2022-08-14T04:00:00+00:00,main,388,The Killing with Patton Oswalt
+2022-08-21T04:00:00+00:00,main,389,Paths of Glory with Sarah Marshall
+2022-08-21T04:01:00+00:00,patreon,154,Live and Let Die
+2022-08-28T04:00:00+00:00,main,390,Spartacus with Richard Lawson
+2022-09-01T04:01:24+00:00,patreon,155,The Man with the Golden Gun
+2022-09-04T04:00:00+00:00,main,391,Lolita with Fran Hoepfner
+2022-09-11T04:00:00+00:00,main,392,Three Thousand Years of Longing
+2022-09-11T04:01:01+00:00,patreon,156,The Spy Who Loved Me
+2022-09-18T04:00:00+00:00,main,393,Pinocchio (2022) with Podcast: The Ride
+2022-09-21T04:06:06+00:00,patreon,157,"Confess, Fletch"
+2022-09-25T04:00:00+00:00,main,394,The Woman King
+2022-10-01T04:01:01+00:00,patreon,158,Moonraker
+2022-10-02T04:00:00+00:00,main,395,Dr. Strangelove... with Sean Fennessey
+2022-10-09T04:00:00+00:00,main,396,2001: A Space Odyssey with Jordan Hoffman
+2022-10-11T04:01:00+00:00,patreon,159,For Your Eyes Only
+2022-10-16T04:00:00+00:00,main,397,A Clockwork Orange with Alex Ross Perry
+2022-10-21T04:01:00+00:00,patreon,160,2010: The Year We Make Contact
+2022-10-23T04:00:00+00:00,main,398,Barry Lyndon with Karina Longworth
+2022-10-30T04:00:00+00:00,main,399,The Shining with Timothy Simons
+2022-11-01T04:00:07+00:00,patreon,161,Octopussy
+2022-11-06T04:00:00+00:00,main,400,Full Metal Jacket with Jon Gabrus
+2022-11-11T05:01:01+00:00,patreon,162,Doctor Sleep
+2022-11-13T05:00:00+00:00,main,401,Eyes Wide Shut with David Ehrlich
+2022-11-20T05:00:00+00:00,main,402,The Fabelmans
+2022-11-21T05:00:05+00:00,patreon,163,A View to a Kill
+2022-11-27T05:00:00+00:00,main,403,The Nightmare Before Christmas with Michael Rianda
+2022-12-01T05:02:27+00:00,patreon,164,National Treasure
+2022-12-04T14:19:26+00:00,main,404,James and the Giant Peach with Emma Stefansky
+2022-12-11T05:00:00+00:00,main,405,Monkeybone with Justin McElroy
+2022-12-11T05:00:03+00:00,patreon,165,Talking the Walk 2022: Talking the Moonwalk with J.D. Amato
+2022-12-18T05:00:00+00:00,main,406,Avatar: The Way of Water with Marie Bardi
+2022-12-21T05:00:05+00:00,patreon,166,National Treasure: Book of Secrets
+2023-01-01T05:01:01+00:00,patreon,167,Koyaanisqatsi
+2023-01-08T05:00:00+00:00,main,407,Coraline with J.D. Amato
+2023-01-11T05:01:03+00:00,patreon,168,The Seventh Blank Check Mailbag
+2023-01-15T05:00:00+00:00,main,408,Wendell & Wild
+2023-01-21T05:01:00+00:00,patreon,169,Powaqqatsi
+2023-01-22T05:00:00+00:00,main,409,Shallow Grave
+2023-01-29T05:00:00+00:00,main,410,Trainspotting with Charles Rogers
+2023-02-01T05:01:00+00:00,patreon,170,Naqoyqatsi
+2023-02-05T05:00:00+00:00,main,411,A Life Less Ordinary with Janet Varney
+2023-02-11T05:09:19+00:00,patreon,171,Street Fighter
+2023-02-12T05:00:00+00:00,main,412,Knock at the Cabin with Marie Bardi
+2023-02-19T05:00:00+00:00,main,413,The Beach with Emily Yoshida
+2023-02-21T05:01:00+00:00,patreon,172,Men in Black
+2023-02-26T05:00:00+00:00,main,414,28 Days Later with David Rees
+2023-02-28T17:02:16+00:00,patreon,173,2023 MARCH MADNESS PREVIEW
+2023-03-01T05:00:03+00:00,patreon,174,Men in Black II
+2023-03-05T05:00:00+00:00,main,415,The Eighth Annual Blank Check Awards with Joe Reid
+2023-03-11T05:00:02+00:00,patreon,175,28 Weeks Later
+2023-03-12T05:00:00+00:00,main,416,Millions with Adam Kempenaar
+2023-03-19T04:00:00+00:00,main,417,Sunshine
+2023-03-20T16:18:41+00:00,patreon,176,2023 March Madness Update 1
+2023-03-21T04:00:03+00:00,patreon,177,Men in Black 3
+2023-03-25T16:00:16+00:00,patreon,178,2023 March Madness Update 2
+2023-03-26T04:00:00+00:00,main,418,Slumdog Millionaire with Siddhant Adlakha
+2023-03-31T21:00:03+00:00,patreon,179,2023 March Madness Update 3
+2023-04-01T04:00:37+00:00,patreon,180,Men in Black: International
+2023-04-02T04:00:00+00:00,main,419,127 Hours with Sean Clements
+2023-04-09T04:00:00+00:00,main,420,Trance with Nia DaCosta
+2023-04-11T04:00:02+00:00,patreon,181,2012 Summer Olympics Opening Ceremony
+2023-04-16T04:00:00+00:00,main,421,Steve Jobs with Olivia Craighead
+2023-04-21T04:01:01+00:00,patreon,182,Planet of the Apes
+2023-04-23T04:00:00+00:00,main,422,T2 Trainspotting with Scott Aukerman & Shaun Diston
+2023-04-30T04:00:00+00:00,main,423,Yesterday with Zach Cherry
+2023-05-01T04:00:06+00:00,patreon,183,Beneath the Planet of the Apes
+2023-05-07T04:00:00+00:00,main,424,Three Ages / Our Hospitality with Dana Stevens
+2023-05-11T04:00:02+00:00,patreon,184,Buster Keaton Shorts with Dana Stevens
+2023-05-14T04:00:00+00:00,main,425,Sherlock Jr. / The Navigator with James Urbaniak
+2023-05-21T04:00:00+00:00,main,426,Seven Chances / Go West with Jamie Loftus
+2023-05-21T04:00:02+00:00,patreon,185,Escape from the Planet of the Apes
+2023-05-28T04:00:00+00:00,main,427,Battling Butler / The General with Jamelle Bouie
+2023-06-01T04:01:01+00:00,patreon,186,Conquest of the Planet of the Apes
+2023-06-04T04:00:00+00:00,main,428,"College / Steamboat Bill, Jr. with John Hodgman"
+2023-06-11T04:00:00+00:00,main,429,The Cameraman / Spite Marriage
+2023-06-11T04:01:00+00:00,patreon,187,Fanfare 3: LIVE
+2023-06-18T04:00:00+00:00,main,430,The Moon Is…the Sun's Dream / Trio
+2023-06-21T04:00:05+00:00,patreon,188,Battle for the Planet of the Apes
+2023-06-25T04:00:00+00:00,main,431, Joint Security Area
+2023-07-01T04:01:50+00:00,patreon,189,Ocean's 11
+2023-07-02T04:00:00+00:00,main,432,Sympathy for Mr. Vengeance with David Ehrlich
+2023-07-09T04:00:00+00:00,main,433,Oldboy with Alison Willmore
+2023-07-11T04:10:41+00:00,patreon,190,Spreadmaster’s Delight (Uncut Version)
+2023-07-11T04:11:36+00:00,patreon,191,Spreadmaster’s Delight (Bite Free Version)
+2023-07-16T04:00:00+00:00,main,434,Sympathy for Lady Vengeance with Karen Han
+2023-07-21T04:00:04+00:00,patreon,192,Ocean's Eleven
+2023-07-23T04:00:00+00:00,main,435,Mission: Impossible - Dead Reckoning Part One with Marie Bardi
+2023-07-30T04:00:00+00:00,main,436,Oppenheimer with Marie Bardi
+2023-08-01T04:00:04+00:00,patreon,193,Ocean's Twelve
+2023-08-05T14:16:10+00:00,patreon,194,Blank Check presents...Congratulations
+2023-08-06T04:00:00+00:00,main,437,"I'm a Cyborg, But That's OK with Karen Chee"
+2023-08-11T04:00:04+00:00,patreon,195,The Little Drummer Girl with Whitney McIntosh
+2023-08-13T04:00:00+00:00,main,438,Thirst with Hoai-Tran Bui
+2023-08-20T04:00:00+00:00,main,439,Stoker with Emily St. James
+2023-08-21T04:00:01+00:00,patreon,196,Ocean’s Thirteen
+2023-08-27T04:00:00+00:00,main,440, The Handmaiden with Emily Yoshida
+2023-09-01T04:00:01+00:00,patreon,197,Ocean's 8
+2023-09-03T04:00:00+00:00,main,441,Decision to Leave with Tatiana Maslany
+2023-09-10T04:00:00+00:00,main,442,Alien³ with Matt Singer
+2023-09-11T04:00:03+00:00,patreon,198,Alien vs. Predator / Aliens vs. Predator: Requiem
+2023-09-17T04:00:00+00:00,main,443, Se7en with Mike Mitchell & Nick Wiger
+2023-09-21T04:00:04+00:00,patreon,199,GoldenEye
+2023-09-24T04:00:00+00:00,main,444, The Game with Brendan Hines
+2023-10-01T04:00:00+00:00,main,445,Fight Club with Alex Ross Perry
+2023-10-01T04:00:05+00:00,patreon,200,Tomorrow Never Dies with Jason Mantzoukas
+2023-10-01T04:00:05+00:00,patreon,201,Fight Club with Alex Ross Perry (The First Rule Cut)
+2023-10-08T04:00:00+00:00,main,446,Panic Room with Eva Anderson
+2023-10-11T04:00:03+00:00,patreon,202,David Fincher Music Videos
+2023-10-15T04:00:00+00:00,main,447,Zodiac with Leslye Headland
+2023-10-21T04:00:02+00:00,patreon,203,The World Is Not Enough
+2023-10-22T04:00:00+00:00,main,448,The Curious Case of Benjamin Button with Richard Lawson
+2023-10-29T20:25:09+00:00,main,449,The Social Network
+2023-11-01T20:25:09+00:00,patreon,204,Die Another Day
+2023-11-05T20:25:09+00:00,main,450,The Girl with the Dragon Tattoo
+2023-11-01T20:25:09+00:00,patreon,205,The Empty Man
+2023-11-12T20:25:09+00:00,main,451,Gone Girl
+2023-11-16T20:25:09+00:00,patreon,206,Mindhunter
+2023-11-19T20:25:09+00:00,main,452,Mank
+2023-11-26T20:25:09+00:00,main,453,The Killer
+2023-09-03T20:25:09+00:00,main,500,Ferrari
+2023-09-03T20:25:09+00:00,main,501,The Boy and the Heron
+2023-09-03T20:25:09+00:00,main,502,Maestro

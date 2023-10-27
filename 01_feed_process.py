@@ -43,7 +43,7 @@ def main():
 
     columns = ["date","feed","ep_num","title"]
     with open('feed.processed.csv', 'w', newline='') as f:
-        writer = csv.DictWriter(f, fieldnames = columns)
+        writer = csv.DictWriter(f, fieldnames = columns, lineterminator='\n')
         writer.writeheader()
         for e in episodes:
           #  print(e["date"].isoformat() + ',' + e["feed"] + ',' + str(e["num"]) + ',' + e["title"])
