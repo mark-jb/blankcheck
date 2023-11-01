@@ -128,6 +128,7 @@ replacements = { "main": {
         "59": "136799", # Trolls
         "61": "9598",   # Babe
         "67": "954",    # Mission Impossible 1
+        "69": "995",    # Mission Impossible 2
         "76": "348",    # Alien
         "78": "679",    # Aliens
         "105": "24021", # Twilight Eclipse
@@ -146,18 +147,20 @@ replacements = { "main": {
         "141": "2661",   # Batman 1966
         "148": "209112", # Batman v Superman
         "149": "209112", # Batman v Superman
-        "153": "414906", # The Batman
+        "150": "88496", # Liza with a Z
+        "152": "414906", # The Batman
+        "155": "682", # The Man with the Golden Gun
         "171": "11667",  # Street Fighter
-        "173": "608",    # MIB2
-        "178": "871",    # Planet of the Apes
-        "180a": "51471",   # Buster Keaton Shorts
-        "180b": "23282",   # Buster Keaton Shorts
-        "180c": "46510",   # Buster Keaton Shorts
-        "180d": "51362",   # Buster Keaton Shorts
-        "180e": "38742",   # Buster Keaton Shorts
-        "180f": "45807",   # Buster Keaton Shorts
-        "185": "299",    # Ocean's 11 (1960)
-        "188": "161"     # Ocean's 11
+        "172": "608",    # MIB2
+        "182": "871",    # Planet of the Apes
+        "184a": "51471",   # Buster Keaton Shorts
+        "184b": "23282",   # Buster Keaton Shorts
+        "184c": "46510",   # Buster Keaton Shorts
+        "184d": "51362",   # Buster Keaton Shorts
+        "184e": "38742",   # Buster Keaton Shorts
+        "184f": "45807",   # Buster Keaton Shorts
+        "189": "299",    # Ocean's 11 (1960)
+        "192": "161"     # Ocean's 11
     }
 }
 

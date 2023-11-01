@@ -39,26 +39,6 @@ SF-128: Ghostbusters II
 SF-129: Ghostbusters: Answer the Call
 SF-131: Ghostbusters: Afterlife
 
-==== Billy Dee Williams ====
-35: Star Wars: The Empire Strikes Back
-36: Star Wars: Return of the Jedi
-198: Batman
-250: The Rise of Skywalker
-SF-50: The Empire Strikes Back
-SF-51: Return of the Jedi
-SF-60: The Rise of Skywalker
-SF-152: Lego Batman
-
-==== Brad Pitt ====
-271: Happy Feet Two
-307: Allied
-SF-188: Ocean's Eleven (2001)
-SF-189: Ocean's Twelve
-SF-192: Ocean's Thirteen
-443: Se7en
-445: Fight Club
-448: The Curious Case of Benjamin Button
-
 ==== Brian Herring ====
 37: Star Wars: The Force Awakens
 140: The Last Jedi
@@ -78,6 +58,16 @@ SF-60: The Rise of Skywalker
 414: 28 Days Later
 417: Sunshine
 436: Oppenheimer
+
+==== Danny DeVito ====
+153: Terms of Endearment
+185: Space Jam
+201: Batman Returns
+203: Mars Attacks!
+207: Big Fish
+214: Dumbo
+290: Romancing the Stone
+313: Hercules
 
 ==== Dave Chapman ====
 37: Star Wars: The Force Awakens
@@ -139,6 +129,26 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 253: Philadelphia
 443: Se7en
 
+==== George Buck Flower ====
+291: Back to the Future
+293: Back to the Future Part II
+339: The Fog
+340: Escape from New York
+343: Starman
+346: They Live!
+349: Village of the Damned
+SF-121b: Body Bags
+
+==== Greg Grunberg ====
+37: Star Wars: The Force Awakens
+149: Hollow Man
+186: A Star Is Born
+250: The Rise of Skywalker
+SF-55: The Force Awakens
+SF-60: The Rise of Skywalker
+SF-70: Mission: Impossible III
+402: The Fabelmans
+
 ==== Gwyneth Paltrow ====
 SF-2: Iron Man
 SF-6: Iron Man 2
@@ -159,26 +169,6 @@ SF-138: The Matrix Revolutions
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 
-==== Harry Northup ====
-244b: Crazy Mama
-244c: Fighting Mad
-245a: Citizens Band
-247: Swing Shift
-252: Silence of the Lambs
-253: Philadelphia
-254: Beloved
-289: Used Cars
-
-==== Ian McDiarmid ====
-1: Star Wars: The Phantom Menace
-13: Star Wars: Attack of the Clones
-24: Star Wars: Revenge of the Sith
-36: Star Wars: Return of the Jedi
-205: Sleepy Hollow
-250: The Rise of Skywalker
-SF-51: Return of the Jedi
-SF-60: The Rise of Skywalker
-
 ==== J.K. Simmons ====
 137: Justice League
 SF-41: Spider-Man: Far From Home
@@ -196,18 +186,8 @@ SF-131: Ghostbusters: Afterlife
 220: The Last of the Mohicans
 307: Allied
 353: The Ward
-SF-189: Ocean's Twelve
+SF-193: Ocean's Twelve
 448: The Curious Case of Benjamin Button
-
-==== Jeremy Bulloch ====
-24: Star Wars: Revenge of the Sith
-35: Star Wars: The Empire Strikes Back
-36: Star Wars: Return of the Jedi
-SF-50: The Empire Strikes Back
-SF-51: Return of the Jedi
-SF-157: The Spy Who Loved Me
-SF-160: For Your Eyes Only
-SF-162: Octopussy
 
 ==== Jim Cummings ====
 194a: Wreck-it Ralph
@@ -249,16 +229,6 @@ SF-55: The Force Awakens
 287: The Old Guard
 SF-73: Mission: Impossible - Rogue Nation
 
-==== Lance Henriksen ====
-75: Piranha II: The Spawning
-76: The Terminator
-77: Aliens
-128: Near Dark
-SF-78: Aliens
-SF-79: Alien3
-372: The Quick and The Dead
-442: Alien³
-
 ==== Liam Neeson ====
 1: Star Wars: The Phantom Menace
 117: Batman Begins
@@ -267,24 +237,24 @@ SF-79: Alien3
 250: The Rise of Skywalker
 SF-60: The Rise of Skywalker
 370: Darkman
-SF-176: Men in Black: International
+SF-180: Men in Black: International
 
 ==== Lois Maxwell ====
-SF-155: Live and Let Die
-SF-156: The Man with the Golden Gun
+SF-154: Live and Let Die
+SF-155: The Man
 391: Lolita
-SF-157: The Spy Who Loved Me
-SF-159: Moonraker
-SF-160: For Your Eyes Only
-SF-162: Octopussy
-SF-164: A View to a Kill
+SF-156: The Man with the Golden Gun
+SF-158: Moonraker
+SF-159: For Your Eyes Only
+SF-161: Octopussy
+SF-163: A View to a Kill
 
 ==== Meryl Streep ====
 97: A.I. Artificial Intelligence
 126: The Devil Wears Prada
 141: The Post
 191: It's Complicated
-258b: The Manchurian Candidate (2004)
+258b: The Manchurian Candidate
 261: Ricki and the Flash
 283: Julie & Julia
 295: Death Becomes Her
@@ -319,16 +289,6 @@ SF-144: Batman Forever
 439: Stoker
 446: Panic Room
 
-==== Peter Jason ====
-345: Prince of Darkness
-346: They Live!
-SF-118: They Live!
-348: In the Mouth of Madness
-349: Village of the Damned
-SF-121b: Body Bags
-350: Escape from L.A.
-352: Ghosts of Mars
-
 ==== Robin Atkin Downes ====
 53: Batman v Superman: Dawn of Justice
 69: Suicide Squad
@@ -347,7 +307,7 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 301: Beowulf
 302: A Christmas Carol
 305: Wonder Woman 1984
-450: The Girl with the Dragon Tattoo
+450: The Girl
 
 ==== Samantha Alleyne ====
 37: Star Wars: The Force Awakens
@@ -378,13 +338,3 @@ SF-66: Toy Story 4
 SF-122: The Santa Clause
 SF-123: The Santa Clause 2
 SF-125: The Santa Clause 3
-
-==== Tom Woodruff Jr. ====
-77: Aliens
-149: Hollow Man
-279: Michael
-SF-78: Aliens
-SF-79: Alien3
-SF-81: Alien: Resurrection
-SF-145: Old Dogs
-442: Alien³
