@@ -10,7 +10,7 @@ import string
 
 new_list = []
 main_ep_nums_delete = [2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,33,39,83,86,89,90,91,122,125,158,170,228,263]
-patreon_ep_nums_delete = [1,5,14,20,21,27,30,33,39,45,47,49,65,77,80,89,101,114,118,124,142,147,165,201,202]
+patreon_ep_nums_delete = [1,5,14,20,21,27,30,33,39,45,47,49,65,77,80,89,101,114,118,124,142,147,165,187,190,191,194,201,202]
 
 main_replacements = {
         "1": ["Star Wars: The Phantom Menace"],
@@ -39,7 +39,8 @@ main_replacements = {
         "260": ["A Master Builder", "Playmobil: The Movie"],
         "327": ["Shaft","Shaft","Shaft"],
         "341": ["The Thing","The Thing from Another World"],
-        "387": ["Fear and Desire","Killer's Kiss"]
+        "387": ["Fear and Desire","Killer's Kiss"],
+        "450": ["The Girl with the Dragon Tattoo"]
         }
 patreon_replacements = {
         "3": ["Hulk Live"],
@@ -56,6 +57,7 @@ patreon_replacements = {
         "148": ["Batman v Superman: Dawn of Justice - Ultimate Edition"],
         "149": ["Batman v Superman: Dawn of Justice - The Lost Episode"],
         "151": ["Liza with a Z"],
+        "153": ["Sully"],
         "156": ["The Man with the Golden Gun"],
         "184": ["The Cook","One Week","The High Sign","The Playhouse","Cops","The Balloonatic"]
         }

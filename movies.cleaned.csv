@@ -471,7 +471,7 @@ date,feed,ep_num,title,movie,guest
 2022-08-01T04:01:39+00:00,patreon,152,The Batman,The Batman,
 2022-08-07T04:00:00+00:00,main,387a,Fear & Desire / Killer's Kiss,Fear and Desire,
 2022-08-07T04:00:00+00:00,main,387b,Fear & Desire / Killer's Kiss,Killer's Kiss,
-2022-08-11T04:00:03+00:00,patreon,153,"SULLY - Blank Check LIVE! at the Bell House (June 8, 2022)","SULLY - Blank Check LIVE! at the Bell House (June 8, 2022)",
+2022-08-11T04:00:03+00:00,patreon,153,"SULLY - Blank Check LIVE! at the Bell House (June 8, 2022)",Sully,
 2022-08-14T04:00:00+00:00,main,388,The Killing with Patton Oswalt,The Killing,Patton Oswalt
 2022-08-21T04:00:00+00:00,main,389,Paths of Glory with Sarah Marshall,Paths of Glory,Sarah Marshall
 2022-08-21T04:01:00+00:00,patreon,154,Live and Let Die,Live and Let Die,
@@ -551,7 +551,6 @@ date,feed,ep_num,title,movie,guest
 2023-06-04T04:00:00+00:00,main,428b,"College / Steamboat Bill, Jr. with John Hodgman","Steamboat Bill, Jr.",John Hodgman
 2023-06-11T04:00:00+00:00,main,429a,The Cameraman / Spite Marriage,The Cameraman,
 2023-06-11T04:00:00+00:00,main,429b,The Cameraman / Spite Marriage,Spite Marriage,
-2023-06-11T04:01:00+00:00,patreon,187,Fanfare 3: LIVE,Fanfare 3: LIVE,
 2023-06-18T04:00:00+00:00,main,430a,The Moon Is…the Sun's Dream / Trio,The Moon Is…the Sun's Dream,
 2023-06-18T04:00:00+00:00,main,430b,The Moon Is…the Sun's Dream / Trio,Trio,
 2023-06-21T04:00:05+00:00,patreon,188,Battle for the Planet of the Apes,Battle for the Planet of the Apes,
@@ -559,14 +558,11 @@ date,feed,ep_num,title,movie,guest
 2023-07-01T04:01:50+00:00,patreon,189,Ocean's 11,Ocean's 11,
 2023-07-02T04:00:00+00:00,main,432,Sympathy for Mr. Vengeance with David Ehrlich,Sympathy for Mr. Vengeance,David Ehrlich
 2023-07-09T04:00:00+00:00,main,433,Oldboy with Alison Willmore,Oldboy,Alison Willmore
-2023-07-11T04:10:41+00:00,patreon,190,Spreadmaster’s Delight (Uncut Version),Spreadmaster’s Delight (Uncut Version),
-2023-07-11T04:11:36+00:00,patreon,191,Spreadmaster’s Delight (Bite Free Version),Spreadmaster’s Delight (Bite Free Version),
 2023-07-16T04:00:00+00:00,main,434,Sympathy for Lady Vengeance with Karen Han,Sympathy for Lady Vengeance,Karen Han
 2023-07-21T04:00:04+00:00,patreon,192,Ocean's Eleven,Ocean's Eleven,
 2023-07-23T04:00:00+00:00,main,435,Mission: Impossible - Dead Reckoning Part One with Marie Bardi,Mission: Impossible - Dead Reckoning Part One,Marie Bardi
 2023-07-30T04:00:00+00:00,main,436,Oppenheimer with Marie Bardi,Oppenheimer,Marie Bardi
 2023-08-01T04:00:04+00:00,patreon,193,Ocean's Twelve,Ocean's Twelve,
-2023-08-05T14:16:10+00:00,patreon,194,Blank Check presents...Congratulations,Blank Check presents...Congratulations,
 2023-08-06T04:00:00+00:00,main,437,"I'm a Cyborg, But That's OK with Karen Chee","I'm a Cyborg, But That's OK",Karen Chee
 2023-08-11T04:00:04+00:00,patreon,195,The Little Drummer Girl with Whitney McIntosh,The Little Drummer Girl,Whitney McIntosh
 2023-08-13T04:00:00+00:00,main,438,Thirst with Hoai-Tran Bui,Thirst,Hoai-Tran Bui
@@ -583,19 +579,22 @@ date,feed,ep_num,title,movie,guest
 2023-09-24T04:00:00+00:00,main,444, The Game with Brendan Hines,The Game,Brendan Hines
 2023-10-01T04:00:00+00:00,main,445,Fight Club with Alex Ross Perry,Fight Club,Alex Ross Perry
 2023-10-01T04:00:05+00:00,patreon,200,Tomorrow Never Dies with Jason Mantzoukas,Tomorrow Never Dies,Jason Mantzoukas
-2023-10-01T04:00:05+00:00,patreon,201,Fight Club with Alex Ross Perry (The First Rule Cut),Fight Club,Alex Ross Perry (The First Rule Cut)
 2023-10-08T04:00:00+00:00,main,446,Panic Room with Eva Anderson,Panic Room,Eva Anderson
 2023-10-15T04:00:00+00:00,main,447,Zodiac with Leslye Headland,Zodiac,Leslye Headland
 2023-10-21T04:00:02+00:00,patreon,203,The World Is Not Enough,The World Is Not Enough,
 2023-10-22T04:00:00+00:00,main,448,The Curious Case of Benjamin Button with Richard Lawson,The Curious Case of Benjamin Button,Richard Lawson
 2023-10-29T20:25:09+00:00,main,449,The Social Network,The Social Network,
 2023-11-01T20:25:09+00:00,patreon,204,Die Another Day,Die Another Day,
-2023-11-05T20:25:09+00:00,main,450,The Girl with the Dragon Tattoo,The Girl,the Dragon Tattoo
+2023-11-05T20:25:09+00:00,main,450,The Girl with the Dragon Tattoo,The Girl with the Dragon Tattoo,the Dragon Tattoo
 2023-11-01T20:25:09+00:00,patreon,205,The Empty Man,The Empty Man,
 2023-11-12T20:25:09+00:00,main,451,Gone Girl,Gone Girl,
 2023-11-16T20:25:09+00:00,patreon,206,Mindhunter,Mindhunter,
 2023-11-19T20:25:09+00:00,main,452,Mank,Mank,
+2023-11-21T20:25:09+00:00,patreon,207,Austin Powers: International Man of Mystery,Austin Powers: International Man of Mystery,
 2023-11-26T20:25:09+00:00,main,453,The Killer,The Killer,
-2023-09-03T20:25:09+00:00,main,500,Ferrari,Ferrari,
-2023-09-03T20:25:09+00:00,main,501,The Boy and the Heron,The Boy and the Heron,
-2023-09-03T20:25:09+00:00,main,502,Maestro,Maestro,
+2023-12-01T20:25:09+00:00,patreon,208,Austin Powers: The Spy Who Shagged Me,Austin Powers: The Spy Who Shagged Me,
+2023-12-03T20:25:09+00:00,main,500,Ferrari,Ferrari,
+2023-12-03T20:25:09+00:00,main,501,The Boy and the Heron,The Boy and the Heron,
+2023-12-03T20:25:09+00:00,main,502,Maestro,Maestro,
+2023-12-21T20:25:09+00:00,patreon,210,Austin Powers in Goldmember,Austin Powers in Goldmember,
+2024-01-01T20:25:09+00:00,patreon,211,The Love Guru,The Love Guru,

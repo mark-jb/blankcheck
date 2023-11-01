@@ -467,6 +467,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-08-01T04:01:39+00:00,patreon,152,The Batman,The Batman,,414906,The Batman,2022-03-01
 2022-08-07T04:00:00+00:00,main,387a,Fear & Desire / Killer's Kiss,Fear and Desire,,10165,Fear and Desire,1953-03-31
 2022-08-07T04:00:00+00:00,main,387b,Fear & Desire / Killer's Kiss,Killer's Kiss,,10056,Killer's Kiss,1955-10-01
+2022-08-11T04:00:03+00:00,patreon,153,"SULLY - Blank Check LIVE! at the Bell House (June 8, 2022)",Sully,,363676,Sully,2016-09-07
 2022-08-14T04:00:00+00:00,main,388,The Killing with Patton Oswalt,The Killing,Patton Oswalt,247,The Killing,1956-06-06
 2022-08-21T04:00:00+00:00,main,389,Paths of Glory with Sarah Marshall,Paths of Glory,Sarah Marshall,975,Paths of Glory,1957-10-25
 2022-08-21T04:01:00+00:00,patreon,154,Live and Let Die,Live and Let Die,,253,Live and Let Die,1973-06-27
@@ -520,6 +521,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2023-04-01T04:00:37+00:00,patreon,180,Men in Black: International,Men in Black: International,,479455,Men in Black: International,2019-06-12
 2023-04-02T04:00:00+00:00,main,419,127 Hours with Sean Clements,127 Hours,Sean Clements,44115,127 Hours,2010-11-12
 2023-04-09T04:00:00+00:00,main,420,Trance with Nia DaCosta,Trance,Nia DaCosta,68727,Trance,2013-03-27
+2023-04-11T04:00:02+00:00,patreon,181,2012 Summer Olympics Opening Ceremony,2012 Summer Olympics Opening Ceremony,,123024,London 2012 Olympic Opening Ceremony: Isles of Wonder,2012-07-27
 2023-04-16T04:00:00+00:00,main,421,Steve Jobs with Olivia Craighead,Steve Jobs,Olivia Craighead,321697,Steve Jobs,2015-10-09
 2023-04-21T04:01:01+00:00,patreon,182,Planet of the Apes,Planet of the Apes,,871,Planet of the Apes,1968-02-07
 2023-04-23T04:00:00+00:00,main,422,T2 Trainspotting with Scott Aukerman & Shaun Diston,T2 Trainspotting,Scott Aukerman & Shaun Diston,180863,T2 Trainspotting,2017-01-27
@@ -573,19 +575,22 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2023-09-24T04:00:00+00:00,main,444, The Game with Brendan Hines,The Game,Brendan Hines,2649,The Game,1997-09-12
 2023-10-01T04:00:00+00:00,main,445,Fight Club with Alex Ross Perry,Fight Club,Alex Ross Perry,550,Fight Club,1999-10-15
 2023-10-01T04:00:05+00:00,patreon,200,Tomorrow Never Dies with Jason Mantzoukas,Tomorrow Never Dies,Jason Mantzoukas,714,Tomorrow Never Dies,1997-12-11
-2023-10-01T04:00:05+00:00,patreon,201,Fight Club with Alex Ross Perry (The First Rule Cut),Fight Club,Alex Ross Perry (The First Rule Cut),550,Fight Club,1999-10-15
 2023-10-08T04:00:00+00:00,main,446,Panic Room with Eva Anderson,Panic Room,Eva Anderson,4547,Panic Room,2002-03-29
 2023-10-15T04:00:00+00:00,main,447,Zodiac with Leslye Headland,Zodiac,Leslye Headland,1949,Zodiac,2007-03-02
 2023-10-21T04:00:02+00:00,patreon,203,The World Is Not Enough,The World Is Not Enough,,36643,The World Is Not Enough,1999-11-17
 2023-10-22T04:00:00+00:00,main,448,The Curious Case of Benjamin Button with Richard Lawson,The Curious Case of Benjamin Button,Richard Lawson,4922,The Curious Case of Benjamin Button,2008-12-25
 2023-10-29T20:25:09+00:00,main,449,The Social Network,The Social Network,,37799,The Social Network,2010-10-01
 2023-11-01T20:25:09+00:00,patreon,204,Die Another Day,Die Another Day,,36669,Die Another Day,2002-11-17
-2023-11-05T20:25:09+00:00,main,450,The Girl with the Dragon Tattoo,The Girl,the Dragon Tattoo,65754,The Girl with the Dragon Tattoo,2011-12-14
+2023-11-05T20:25:09+00:00,main,450,The Girl with the Dragon Tattoo,The Girl with the Dragon Tattoo,the Dragon Tattoo,65754,The Girl with the Dragon Tattoo,2011-12-14
 2023-11-01T20:25:09+00:00,patreon,205,The Empty Man,The Empty Man,,516632,The Empty Man,2020-10-22
 2023-11-12T20:25:09+00:00,main,451,Gone Girl,Gone Girl,,210577,Gone Girl,2014-10-01
 2023-11-16T20:25:09+00:00,patreon,206,Mindhunter,Mindhunter,,16617,Mindhunters,2004-05-07
 2023-11-19T20:25:09+00:00,main,452,Mank,Mank,,614560,Mank,2020-11-13
+2023-11-21T20:25:09+00:00,patreon,207,Austin Powers: International Man of Mystery,Austin Powers: International Man of Mystery,,816,Austin Powers: International Man of Mystery,1997-05-02
 2023-11-26T20:25:09+00:00,main,453,The Killer,The Killer,,800158,The Killer,2023-10-25
-2023-09-03T20:25:09+00:00,main,500,Ferrari,Ferrari,,365620,Ferrari,2023-11-30
-2023-09-03T20:25:09+00:00,main,501,The Boy and the Heron,The Boy and the Heron,,508883,君たちはどう生きるか,2023-07-14
-2023-09-03T20:25:09+00:00,main,502,Maestro,Maestro,,523607,Maestro,2023-11-22
+2023-12-01T20:25:09+00:00,patreon,208,Austin Powers: The Spy Who Shagged Me,Austin Powers: The Spy Who Shagged Me,,817,Austin Powers: The Spy Who Shagged Me,1999-06-08
+2023-12-03T20:25:09+00:00,main,500,Ferrari,Ferrari,,365620,Ferrari,2023-11-30
+2023-12-03T20:25:09+00:00,main,501,The Boy and the Heron,The Boy and the Heron,,508883,君たちはどう生きるか,2023-07-14
+2023-12-03T20:25:09+00:00,main,502,Maestro,Maestro,,523607,Maestro,2023-11-22
+2023-12-21T20:25:09+00:00,patreon,210,Austin Powers in Goldmember,Austin Powers in Goldmember,,818,Austin Powers in Goldmember,2002-07-26
+2024-01-01T20:25:09+00:00,patreon,211,The Love Guru,The Love Guru,,12177,The Love Guru,2008-06-20

@@ -147,11 +147,13 @@ replacements = { "main": {
         "141": "2661",   # Batman 1966
         "148": "209112", # Batman v Superman
         "149": "209112", # Batman v Superman
-        "150": "88496", # Liza with a Z
+        "150": "88496",  # Liza with a Z
         "152": "414906", # The Batman
-        "155": "682", # The Man with the Golden Gun
+        "153": "363676", # Sully
+        "155": "682",    # The Man with the Golden Gun
         "171": "11667",  # Street Fighter
         "172": "608",    # MIB2
+        "181": "123024", # Olympicss
         "182": "871",    # Planet of the Apes
         "184a": "51471",   # Buster Keaton Shorts
         "184b": "23282",   # Buster Keaton Shorts
