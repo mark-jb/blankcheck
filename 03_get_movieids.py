@@ -112,7 +112,8 @@ replacements = { "main": {
         "444": "2649",  # the game
         "450": "65754", # Dragon tatoo
         "459": "19610", # A Star Is Born
-        "503": "508883"  # Miyazaki last
+        "472": "11535",  # Rollerball 
+        "477": "4977"  # Paprika
     },
     "patreon": {
         "2": "1726",    # Iron Man
@@ -165,7 +166,8 @@ replacements = { "main": {
         "184e": "38742",   # Buster Keaton Shorts
         "184f": "45807",   # Buster Keaton Shorts
         "189": "299",    # Ocean's 11 (1960)
-        "192": "161"     # Ocean's 11
+        "192": "161",    # Ocean's 11
+        "250": "11484"  # Rollerball 
     }
 }
 
