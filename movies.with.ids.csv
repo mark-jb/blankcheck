@@ -261,7 +261,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2020-03-08T05:00:00+00:00,main,260a,A Master Builder with John Hodgman,A Master Builder,John Hodgman,268536,A Master Builder,2013-11-11
 2020-03-08T05:00:00+00:00,main,260b,A Master Builder with John Hodgman,Playmobil: The Movie,John Hodgman,366668,Playmobil: The Movie,2019-06-10
 2020-03-11T11:33:08+00:00,patreon,53a,THX 1138/American Graffiti,THX-1138,,636,THX 1138,1971-03-11
-2020-03-11T11:33:08+00:00,patreon,53b,THX 1138/American Graffiti,American Graffiti,,838,American Graffiti,1973-08-01
+2020-03-11T11:33:08+00:00,patreon,53b,THX 1138/American Graffiti,American Graffiti,,838,American Graffiti,1973-08-11
 2020-03-15T16:00:00+00:00,main,261,Ricki and the Flash with Bobby Finger & Lindsey Weber,Ricki and the Flash,Bobby Finger & Lindsey Weber,275601,Ricki and the Flash,2015-07-10
 2020-03-19T04:00:00+00:00,main,262,Justin Timberlake + The Tennessee Kids ,Justin Timberlake + The Tennessee Kids,,408619,Justin Timberlake + The Tennessee Kids,2016-09-13
 2020-03-21T04:00:02+00:00,patreon,55,The Force Awakens,The Force Awakens,,140607,Star Wars: The Force Awakens,2015-12-15
@@ -428,7 +428,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-02-13T05:00:00+00:00,main,362,Holy Smoke! with Kyle Buchanan,Holy Smoke!,Kyle Buchanan,13787,Holy Smoke,1999-09-04
 2022-02-20T05:00:00+00:00,main,363,In the Cut with Jourdain Searles,In the Cut,Jourdain Searles,10944,In the Cut,2003-10-22
 2022-02-21T05:01:01+00:00,patreon,131,Ghostbusters: Afterlife,Ghostbusters: Afterlife,,425909,Ghostbusters: Afterlife,2021-11-11
-2022-02-27T05:00:00+00:00,main,364,Bright Star with Fran Hoepfner,Bright Star,Fran Hoepfner,29963,Bright Star,2009-11-05
+2022-02-27T05:00:00+00:00,main,364,Bright Star with Fran Hoepfner,Bright Star,Fran Hoepfner,29963,Bright Star,2009-09-18
 2022-03-01T06:16:10+00:00,patreon,133,The Matrix,The Matrix,,603,The Matrix,1999-03-30
 2022-03-06T05:00:00+00:00,main,365,The Power of The Dog with Richard Lawson,The Power of The Dog,Richard Lawson,600583,The Power of the Dog,2021-10-25
 2022-03-20T04:00:00+00:00,main,367,The Evil Dead,The Evil Dead,,764,The Evil Dead,1981-09-10
@@ -451,7 +451,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-06-01T05:30:01+00:00,patreon,144,Batman Forever,Batman Forever,,414,Batman Forever,1995-06-16
 2022-06-05T04:00:00+00:00,main,378,Spider-Man 3 with Jamelle Bouie,Spider-Man 3,Jamelle Bouie,559,Spider-Man 3,2007-05-01
 2022-06-11T04:01:01+00:00,patreon,145,"OLD DOGS - Blank Check LIVE! at the Bell House (May 12, 2022)",Old Dogs,,22949,Old Dogs,2009-11-24
-2022-06-12T04:00:00+00:00,main,379,Drag Me to Hell with Jamie Loftus & Caitlin Durante,Drag Me to Hell,Jamie Loftus & Caitlin Durante,16871,Drag Me to Hell,2009-03-15
+2022-06-12T04:00:00+00:00,main,379,Drag Me to Hell with Jamie Loftus & Caitlin Durante,Drag Me to Hell,Jamie Loftus & Caitlin Durante,16871,Drag Me to Hell,2009-05-27
 2022-06-19T04:00:00+00:00,main,380,Oz the Great and Powerful with Dana Schwartz,Oz the Great and Powerful,Dana Schwartz,68728,Oz the Great and Powerful,2013-03-07
 2022-06-21T04:01:00+00:00,patreon,146,Batman & Robin,Batman & Robin,,415,Batman & Robin,1997-06-20
 2022-06-26T04:00:00+00:00,main,381,Doctor Strange in the Multiverse of Madness with Patrick Willems,Doctor Strange in the Multiverse of Madness,Patrick Willems,453395,Doctor Strange in the Multiverse of Madness,2022-05-04
@@ -499,7 +499,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-12-11T05:00:00+00:00,main,405,Monkeybone with Justin McElroy,Monkeybone,Justin McElroy,23685,Monkeybone,2001-02-23
 2022-12-18T05:00:00+00:00,main,406,Avatar: The Way of Water with Marie Bardi,Avatar: The Way of Water,Marie Bardi,76600,Avatar: The Way of Water,2022-12-14
 2022-12-21T05:00:05+00:00,patreon,166,National Treasure: Book of Secrets,National Treasure: Book of Secrets,,6637,National Treasure: Book of Secrets,2007-12-13
-2023-01-01T05:01:01+00:00,patreon,167,Koyaanisqatsi,Koyaanisqatsi,,11314,Koyaanisqatsi,1983-08-24
+2023-01-01T05:01:01+00:00,patreon,167,Koyaanisqatsi,Koyaanisqatsi,,11314,Koyaanisqatsi,1983-04-27
 2023-01-08T05:00:00+00:00,main,407,Coraline with J.D. Amato,Coraline,J.D. Amato,14836,Coraline,2009-02-05
 2023-01-15T05:00:00+00:00,main,408,Wendell & Wild,Wendell & Wild,,511817,Wendell & Wild,2022-10-21
 2023-01-21T05:01:00+00:00,patreon,169,Powaqqatsi,Powaqqatsi,,24348,Powaqqatsi,1988-04-29
@@ -589,8 +589,14 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2023-11-21T20:25:09+00:00,patreon,207,Austin Powers: International Man of Mystery,Austin Powers: International Man of Mystery,,816,Austin Powers: International Man of Mystery,1997-05-02
 2023-11-26T20:25:09+00:00,main,453,The Killer,The Killer,,800158,The Killer,2023-10-25
 2023-12-01T20:25:09+00:00,patreon,208,Austin Powers: The Spy Who Shagged Me,Austin Powers: The Spy Who Shagged Me,,817,Austin Powers: The Spy Who Shagged Me,1999-06-08
-2023-12-03T20:25:09+00:00,main,500,Ferrari,Ferrari,,365620,Ferrari,2023-11-30
-2023-12-03T20:25:09+00:00,main,501,The Boy and the Heron,The Boy and the Heron,,508883,君たちはどう生きるか,2023-07-14
-2023-12-03T20:25:09+00:00,main,502,Maestro,Maestro,,523607,Maestro,2023-11-22
-2023-12-21T20:25:09+00:00,patreon,210,Austin Powers in Goldmember,Austin Powers in Goldmember,,818,Austin Powers in Goldmember,2002-07-26
+2023-12-03T20:25:09+00:00,main,454,I Love You To Death,I Love You To Death,,3101,I Love You to Death,1990-04-06
+2023-12-10T20:25:09+00:00,main,455,The Boy and the Heron,The Boy and the Heron,,508883,君たちはどう生きるか,2023-07-14
+2023-12-11T20:25:09+00:00,patreon,209,Austin Powers in Goldmember,Austin Powers in Goldmember,,818,Austin Powers in Goldmember,2002-07-26
+2023-12-17T20:25:09+00:00,main,456,Maestro,Maestro,,523607,Maestro,2023-11-22
+2023-12-31T20:25:09+00:00,main,457,Aquaman 2: The Lost Kingdom,Aquaman 2: The Lost Kingdom,,572802,Aquaman and the Lost Kingdom,2023-12-20
 2024-01-01T20:25:09+00:00,patreon,211,The Love Guru,The Love Guru,,12177,The Love Guru,2008-06-20
+2024-01-03T20:25:09+00:00,main,458,Ferrari,Ferrari,,365620,Ferrari,2023-11-30
+2024-01-03T20:25:09+00:00,main,459,A Star Is Born,A Star Is Born,,19610,A Star Is Born,1976-12-17
+2024-01-03T20:25:09+00:00,main,460,Yentl,Yentl,,10269,Yentl,1983-11-18
+2024-01-03T20:25:09+00:00,main,461,The Prince of Tides,The Prince of Tides,,10333,The Prince of Tides,1991-12-25
+2024-12-03T20:25:09+00:00,main,462,The Mirror Has Two Faces,The Mirror Has Two Faces,,25189,The Mirror Has Two Faces,1996-11-15

@@ -88,6 +88,7 @@ replacements = { "main": {
         "341": "1091", # The Thing
         "345": "8852",  # Prince of Darkness
         "346": "8337",  # They Live
+        "349": "12122",  # Village of the Damned
         "355": "511809", # West Side Story
         "357": "123067", # Two Friends
         "368": "21627",  # Crimewave
@@ -108,8 +109,10 @@ replacements = { "main": {
         "433": "670",    # Oldboy
         "438": "22536", # Thirst
         "442": "8077",  # Alien 3
+        "444": "2649",  # the game
         "450": "65754", # Dragon tatoo
-        "501": "508883"  # Miyazaki last
+        "459": "19610", # A Star Is Born
+        "503": "508883"  # Miyazaki last
     },
     "patreon": {
         "2": "1726",    # Iron Man
