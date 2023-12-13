@@ -254,7 +254,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2020-02-09T05:00:00+00:00,main,256,The Truth About Charlie with David Lowery,The Truth About Charlie,David Lowery,13440,The Truth About Charlie,2002-10-25
 2020-02-16T05:00:00+00:00,main,257,"Birds of Prey with Ang Ferraguto, Emma Stefansky, Ashleigh Heaton, and Preeti Chhibber",Birds of Prey,"Ang Ferraguto, Emma Stefansky, Ashleigh Heaton, and Preeti Chhibber",495764,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),2020-02-05
 2020-02-21T05:00:02+00:00,patreon,50,The Empire Strikes Back,The Empire Strikes Back,,1891,The Empire Strikes Back,1980-05-20
-2020-02-23T05:00:00+00:00,main,258a,"The Manchurian Candidate with the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",The Manchurian Candidate,"the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",982,The Manchurian Candidate,1962-10-01
+2020-02-23T05:00:00+00:00,main,258a,"The Manchurian Candidate with the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",The Manchurian Candidate,"the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",982,The Manchurian Candidate,1962-10-24
 2020-02-23T05:00:00+00:00,main,258b,"The Manchurian Candidate with the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",The Manchurian Candidate,"the Flop House: Dan McCoy, Stuart Wellington, and Elliott Kalan",14462,The Manchurian Candidate,2004-07-30
 2020-03-01T05:00:00+00:00,main,259,Rachel Getting Married with Ayo Edibiri and Olivia Craighead,Rachel Getting Married,Ayo Edibiri and Olivia Craighead,14976,Rachel Getting Married,2008-09-03
 2020-03-01T05:00:03+00:00,patreon,51,Return of the Jedi,Return of the Jedi,,1892,Return of the Jedi,1983-05-25
@@ -593,7 +593,8 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2023-12-10T20:25:09+00:00,main,455,The Boy and the Heron,The Boy and the Heron,,508883,君たちはどう生きるか,2023-07-14
 2023-12-11T20:25:09+00:00,patreon,209,Austin Powers in Goldmember,Austin Powers in Goldmember,,818,Austin Powers in Goldmember,2002-07-26
 2023-12-17T20:25:09+00:00,main,456,Maestro,Maestro,,523607,Maestro,2023-11-22
-2023-12-31T20:25:09+00:00,main,457,Aquaman 2: The Lost Kingdom,Aquaman 2: The Lost Kingdom,,572802,Aquaman and the Lost Kingdom,2023-12-20
+2023-12-31T20:25:09+00:00,main,457a,Aquaman 2: The Lost Kingdom,Aquaman 2: The Lost Kingdom,,572802,Aquaman and the Lost Kingdom,2023-12-20
+2023-12-31T20:25:09+00:00,main,457b,Wonka,Wonka,,787699,Wonka,2023-12-06
 2024-01-01T20:25:09+00:00,patreon,211,The Love Guru,The Love Guru,,12177,The Love Guru,2008-06-20
 2024-01-03T20:25:09+00:00,main,458,Ferrari,Ferrari,,365620,Ferrari,2023-12-14
 2024-01-03T20:25:09+00:00,main,459,A Star Is Born,A Star Is Born,,19610,A Star Is Born,1976-12-17
