@@ -113,7 +113,9 @@ replacements = { "main": {
         "450": "65754", # Dragon tatoo
         "459": "19610", # A Star Is Born
         "472": "11535",  # Rollerball 
-        "477": "4977"  # Paprika
+        "477": "4977",  # Paprika
+        "503": "537921", # Fixed
+        "504": "940139" # Here
     },
     "patreon": {
         "2": "1726",    # Iron Man
@@ -132,7 +134,7 @@ replacements = { "main": {
         "59": "136799", # Trolls
         "61": "9598",   # Babe
         "67": "954",    # Mission Impossible 1
-        "69": "995",    # Mission Impossible 2
+        "69": "955",    # Mission Impossible 2
         "76": "348",    # Alien
         "78": "679",    # Aliens
         "105": "24021", # Twilight Eclipse
@@ -167,7 +169,11 @@ replacements = { "main": {
         "184f": "45807",   # Buster Keaton Shorts
         "189": "299",    # Ocean's 11 (1960)
         "192": "161",    # Ocean's 11
-        "250": "11484"  # Rollerball 
+        "222": "11484",  # Rollerball 
+        "251": "1498", # TMNT 1 
+        "253": "1499", # TMNT 3 
+        "254": "1273", # TMNT 4 
+        "255": "98566" # TMNT 5 
     }
 }
 
