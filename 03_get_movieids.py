@@ -112,8 +112,8 @@ replacements = { "main": {
         "444": "2649",  # the game
         "450": "65754", # Dragon tatoo
         "459": "19610", # A Star Is Born
-        "472": "11535",  # Rollerball 
-        "477": "4977",  # Paprika
+        "473": "11535",  # Rollerball 
+        "478": "4977",  # Paprika
         "503": "537921", # Fixed
         "504": "940139" # Here
     },
@@ -169,7 +169,7 @@ replacements = { "main": {
         "184f": "45807",   # Buster Keaton Shorts
         "189": "299",    # Ocean's 11 (1960)
         "192": "161",    # Ocean's 11
-        "222": "11484",  # Rollerball 
+        "223": "11484",  # Rollerball 
         "251": "1498", # TMNT 1 
         "253": "1499", # TMNT 3 
         "254": "1273", # TMNT 4 
