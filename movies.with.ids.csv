@@ -26,7 +26,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2016-04-12T17:06:17+00:00,main,51,The Buried Secret of M. Night Shyamalan,The Buried Secret of M. Night Shyamalan,,60394,The Buried Secret of M. Night Shyamalan,2004-06-18
 2016-04-18T17:31:15+00:00,main,52,Bound,Bound,,9303,Bound,1996-09-13
 2016-04-22T16:18:45+00:00,main,53,Batman v Superman: Dawn of Justice - The Lost Episode (Remastered),Batman v Superman: Dawn of Justice,,209112,Batman v Superman: Dawn of Justice,2016-03-23
-2016-04-25T16:22:01+00:00,main,54,The Matrix,The Matrix,,603,The Matrix,1999-03-30
+2016-04-25T16:22:01+00:00,main,54,The Matrix,The Matrix,,603,The Matrix,1999-03-31
 2016-04-28T22:44:21+00:00,main,55,The Matrix Reloaded,The Matrix Reloaded,,604,The Matrix Reloaded,2003-05-15
 2016-05-05T20:25:09+00:00,main,56,The Matrix Revolutions,The Matrix Revolutions,,605,The Matrix Revolutions,2003-11-05
 2016-05-16T16:59:37+00:00,main,57,Speed Racer with Emily Yoshida and J.D. Amato,Speed Racer,Emily Yoshida and J.D. Amato,7459,Speed Racer,2008-05-07
@@ -283,6 +283,11 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2020-05-31T03:30:00+00:00,main,274,Stargate,Stargate,,2164,Stargate,1994-10-28
 2020-06-01T04:01:01+00:00,patreon,64,Toy Story 3,Toy Story 3,,10193,Toy Story 3,2010-06-16
 2020-06-07T04:21:50+00:00,main,275,When Harry Met Sally... with Dana Stevens,When Harry Met Sally...,Dana Stevens,639,When Harry Met Sally...,1989-07-21
+2020-06-11T04:00:01+00:00,patreon,65a,Toy Story of Terror,Toy Story of Terror,,213121,Toy Story of Terror!,2013-10-16
+2020-06-11T04:00:01+00:00,patreon,65b,Toy Story That Time Forgot,Toy Story That Time Forgot,,256835,Toy Story That Time Forgot,2014-12-02
+2020-06-11T04:00:01+00:00,patreon,65c,Small Fry,Small Fry,,82424,Small Fry,2011-11-23
+2020-06-11T04:00:01+00:00,patreon,65d,Hawaiian Vacation,Hawaiian Vacation,,77887,Hawaiian Vacation,2011-06-16
+2020-06-11T04:00:01+00:00,patreon,65e,Partysaurus Rex,Partysaurus Rex,,130925,Partysaurus Rex,2012-09-14
 2020-06-14T04:00:00+00:00,main,276,This Is My Life with Michelle Collins,This Is My Life,Michelle Collins,41776,This Is My Life,1992-02-21
 2020-06-21T04:00:00+00:00,main,277,Sleepless in Seattle with Katey Rich,Sleepless in Seattle,Katey Rich,858,Sleepless in Seattle,1993-06-24
 2020-06-21T04:00:01+00:00,patreon,66,Toy Story 4,Toy Story 4,,301528,Toy Story 4,2019-06-19
@@ -399,7 +404,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2021-10-03T04:00:00+00:00,main,344,Big Trouble in Little China with Jason Mantzoukas & Paul Scheer,Big Trouble in Little China,Jason Mantzoukas & Paul Scheer,6978,Big Trouble in Little China,1986-05-30
 2021-10-10T04:00:00+00:00,main,345,Prince of Darkness with Keith Phipps,Prince of Darkness,Keith Phipps,8852,Prince of Darkness,1987-10-23
 2021-10-11T04:00:03+00:00,patreon,117,Elvis with Layne Montgomery & Aidan Shepard,Elvis,Layne Montgomery & Aidan Shepard,40047,Elvis,1979-02-10
-2021-10-17T04:00:00+00:00,main,346,They Live! with Mike Mitchell & Nick Wiger,They Live!,Mike Mitchell & Nick Wiger,8337,They Live,1988-11-23
+2021-10-17T04:00:00+00:00,main,346,They Live! with Mike Mitchell & Nick Wiger,They Live!,Mike Mitchell & Nick Wiger,8337,They Live,1988-11-04
 2021-10-21T04:00:03+00:00,patreon,119,The Mummy: Tomb of the Dragon Emperor,The Mummy: Tomb of the Dragon Emperor,,1735,The Mummy: Tomb of the Dragon Emperor,2008-07-01
 2021-10-24T04:00:00+00:00,main,347,Memoirs of an Invisible Man with Alan Sepinwall,Memoirs of an Invisible Man,Alan Sepinwall,2687,Memoirs of an Invisible Man,1992-02-28
 2021-10-31T04:00:00+00:00,main,348,In the Mouth of Madness with Angelica Jade Bastién,In the Mouth of Madness,Angelica Jade Bastién,2654,In the Mouth of Madness,1995-02-03
@@ -429,7 +434,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2022-02-20T05:00:00+00:00,main,363,In the Cut with Jourdain Searles,In the Cut,Jourdain Searles,10944,In the Cut,2003-10-22
 2022-02-21T05:01:01+00:00,patreon,131,Ghostbusters: Afterlife,Ghostbusters: Afterlife,,425909,Ghostbusters: Afterlife,2021-11-11
 2022-02-27T05:00:00+00:00,main,364,Bright Star with Fran Hoepfner,Bright Star,Fran Hoepfner,29963,Bright Star,2009-09-18
-2022-03-01T06:16:10+00:00,patreon,133,The Matrix,The Matrix,,603,The Matrix,1999-03-30
+2022-03-01T06:16:10+00:00,patreon,133,The Matrix,The Matrix,,603,The Matrix,1999-03-31
 2022-03-06T05:00:00+00:00,main,365,The Power of The Dog with Richard Lawson,The Power of The Dog,Richard Lawson,600583,The Power of the Dog,2021-10-25
 2022-03-20T04:00:00+00:00,main,367,The Evil Dead,The Evil Dead,,764,The Evil Dead,1981-09-10
 2022-03-21T04:05:02+00:00,patreon,136,The Matrix Reloaded,The Matrix Reloaded,,604,The Matrix Reloaded,2003-05-15
@@ -604,29 +609,29 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date
 2024-02-01T20:25:09+00:00,patreon,215,Terminator 2: Judgment Day,Terminator 2: Judgment Day,,280,Terminator 2: Judgment Day,1991-07-03
 2024-02-04T20:25:09+00:00,main,463,The Mirror Has Two Faces,The Mirror Has Two Faces,,25189,The Mirror Has Two Faces,1996-11-15
 2024-02-11T20:25:09+00:00,main,464,Nomads,Nomads,,26725,Nomads,1986-03-07
-2024-02-11T20:25:09+00:00,patreon,216,T2 3-D: Battle Across Time,T2 3-D: Battle Across Time,,1197712,T2 3-D: Battle Across Time,1996-04-27
 2024-02-18T20:25:09+00:00,main,465,Predator,Predator,,106,Predator,1987-06-12
 2024-02-21T20:25:09+00:00,patreon,217,Terminator 3: Rise of the Machines,Terminator 3: Rise of the Machines,,296,Terminator 3: Rise of the Machines,2003-07-02
-2024-02-25T20:25:09+00:00,main,466,Die Hard,Die Hard,,562,Die Hard,1988-07-15
+2024-03-03T20:25:09+00:00,main,467,Die Hard,Die Hard,,562,Die Hard,1988-07-15
 2024-03-01T20:25:09+00:00,patreon,218,Terminator Salvation,Terminator Salvation,,534,Terminator Salvation,2009-05-20
-2024-03-03T20:25:09+00:00,main,467,The Hunt for Red October,The Hunt for Red October,,1669,The Hunt for Red October,1990-03-02
-2024-03-10T20:25:09+00:00,main,468,Medicine Man,Medicine Man,,9096,Medicine Man,1992-02-07
-2024-03-17T20:25:09+00:00,main,469,Last Action Hero,Last Action Hero,,9593,Last Action Hero,1993-06-18
+2024-03-10T20:25:09+00:00,main,468,The Hunt for Red October,The Hunt for Red October,,1669,The Hunt for Red October,1990-03-02
+2024-03-11T20:25:09+00:00,patreon,219,Die Hard 2,Die Hard 2,,1573,Die Hard 2,1990-07-03
+2024-03-17T20:25:09+00:00,main,469,Medicine Man,Medicine Man,,9096,Medicine Man,1992-02-07
+2024-03-24T20:25:09+00:00,main,470,Last Action Hero,Last Action Hero,,9593,Last Action Hero,1993-06-18
 2024-03-21T20:25:09+00:00,patreon,220,Terminator Genisys,Terminator Genisys,,87101,Terminator Genisys,2015-06-23
-2024-03-24T20:25:09+00:00,main,470,Die Hard with a Vengeance,Die Hard with a Vengeance,,1572,Die Hard: With a Vengeance,1995-05-19
-2024-03-31T20:25:09+00:00,main,471,The Thomas Crown Affair,The Thomas Crown Affair,,912,The Thomas Crown Affair,1968-06-26
+2024-03-31T20:25:09+00:00,main,471,Die Hard with a Vengeance,Die Hard with a Vengeance,,1572,Die Hard: With a Vengeance,1995-05-19
+2024-04-07T20:25:09+00:00,main,472,The Thomas Crown Affair,The Thomas Crown Affair,,913,The Thomas Crown Affair,1999-08-06
 2024-04-01T20:25:09+00:00,patreon,221,Terminator: Dark Fate,Terminator: Dark Fate,,290859,Terminator: Dark Fate,2019-10-23
-2024-04-07T20:25:09+00:00,main,472,The 13th Warrior,The 13th Warrior,,1911,The 13th Warrior,1999-08-13
-2024-04-14T20:25:09+00:00,main,473,Rollerball,Rollerball,,11535,Rollerball,2002-02-08
+2024-04-14T20:25:09+00:00,main,473,The 13th Warrior,The 13th Warrior,,1911,The 13th Warrior,1999-08-13
+2024-04-21T20:25:09+00:00,main,474,Rollerball,Rollerball,,11535,Rollerball,2002-02-08
 2024-04-21T20:25:09+00:00,patreon,223,Rollerball,Rollerball,,11484,Rollerball,1975-06-25
-2024-04-21T20:25:09+00:00,main,474,Basic,Basic,,10782,Basic,2003-04-18
-2024-05-05T20:25:09+00:00,main,475,Perfect Blue,Perfect Blue,,10494,PERFECT BLUE,1998-02-28
-2024-05-12T20:25:09+00:00,main,476,Millennium Actress,Millennium Actress,,33320,千年女優,2002-09-14
-2024-05-19T20:25:09+00:00,main,477,Tokyo Godfathers,Tokyo Godfathers,,13398,東京ゴッドファーザーズ,2003-12-05
-2024-05-26T20:25:09+00:00,main,478,Paprika,Paprika,,4977,パプリカ,2006-10-21
+2024-04-28T20:25:09+00:00,main,475,Basic,Basic,,10782,Basic,2003-04-18
+2024-05-05T20:25:09+00:00,main,476,Perfect Blue,Perfect Blue,,10494,PERFECT BLUE,1998-02-28
+2024-05-12T20:25:09+00:00,main,477,Millennium Actress,Millennium Actress,,33320,千年女優,2002-09-14
+2024-05-19T20:25:09+00:00,main,478,Tokyo Godfathers,Tokyo Godfathers,,13398,東京ゴッドファーザーズ,2003-12-05
+2024-05-26T20:25:09+00:00,main,479,Paprika,Paprika,,4977,パプリカ,2006-10-21
 2024-01-03T20:25:09+00:00,main,500,Furiosa,Furiosa,,786892,Furiosa: A Mad Max Saga,2024-05-22
 2024-01-03T20:25:09+00:00,main,501,Trap,Trap,,1032823,Trap,2024-07-31
-2024-01-03T20:25:09+00:00,main,502,Beetlejuice 2,Beetlejuice 2,,917496,Beetlejuice 2,2024-09-05
+2024-01-03T20:25:09+00:00,main,502,Beetlejuice Beetlejuice,Beetlejuice Beetlejuice,,917496,Beetlejuice Beetlejuice,2024-09-05
 2024-01-03T20:25:09+00:00,main,503,Fixed,Fixed,,537921,Fixed,
 2024-01-03T20:25:09+00:00,main,504,Here,Here,,940139,Here,
 2024-01-03T20:25:09+00:00,main,505,Joker: Folie à Deux,Joker: Folie à Deux,,889737,Joker: Folie à Deux,2024-10-02

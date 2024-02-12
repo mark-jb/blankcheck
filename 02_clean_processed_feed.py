@@ -45,6 +45,7 @@ main_replacements = {
 patreon_replacements = {
         "3": ["Hulk Live"],
         "53": ["THX-1138", "American Graffiti"],
+        "65": ["Toy Story of Terror","Toy Story That Time Forgot","Small Fry","Hawaiian Vacation","Partysaurus Rex"],
         "69": ["Mission: Impossible II"],
         "70": ["Mission: Impossible III"],
         "79": ["Alien3"],

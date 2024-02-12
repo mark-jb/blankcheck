@@ -112,8 +112,8 @@ replacements = { "main": {
         "444": "2649",  # the game
         "450": "65754", # Dragon tatoo
         "459": "19610", # A Star Is Born
-        "473": "11535",  # Rollerball 
-        "478": "4977",  # Paprika
+        "474": "11535",  # Rollerball 
+        "479": "4977",  # Paprika
         "503": "537921", # Fixed
         "504": "940139" # Here
     },
