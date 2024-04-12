@@ -13,6 +13,7 @@ import http.client
 
 
 replacements = { "main": {
+        "23a": "22059",   # Fantastic Four 2004
         "23b": "9738",   # Fantastic Four 2004
         "23d": "166424", # Fantastic Four 2015
         "34": "11",      # Star Wars
@@ -39,6 +40,7 @@ replacements = { "main": {
         "143": "5548",  # Robert Cop
         "144": "861",   # Total Recall
         "151": "15698", # Running Scared
+        "173": "4584",  # Sense and Sensibility
         "174a": "76492", # Hotel Transylvania
         "177": "146",   # Crouching Tiger Hidden Dragon
         "185": "2300",  # Space Jam
@@ -114,6 +116,7 @@ replacements = { "main": {
         "459": "19610", # A Star Is Born
         "474": "11535",  # Rollerball 
         "479": "4977",  # Paprika
+        "487": "841",  # Dune
         "503": "537921", # Fixed
         "504": "940139" # Here
     },
@@ -158,7 +161,8 @@ replacements = { "main": {
         "153": "363676", # Sully
         "155": "682",    # The Man with the Golden Gun
         "171": "11667",  # Street Fighter
-        "172": "608",    # MIB2
+        "172": "607",    # MIB
+        "174": "608",    # MIB2
         "181": "123024", # Olympicss
         "182": "871",    # Planet of the Apes
         "184a": "51471",   # Buster Keaton Shorts
@@ -169,11 +173,10 @@ replacements = { "main": {
         "184f": "45807",   # Buster Keaton Shorts
         "189": "299",    # Ocean's 11 (1960)
         "192": "161",    # Ocean's 11
-        "223": "11484",  # Rollerball 
-        "251": "1498", # TMNT 1 
-        "253": "1499", # TMNT 3 
-        "254": "1273", # TMNT 4 
-        "255": "98566" # TMNT 5 
+        "225": "1498", # TMNT 1 
+        "228": "1499", # TMNT 3 
+        "229": "1273", # TMNT 4 
+        "231": "98566" # TMNT 5 
     }
 }
 

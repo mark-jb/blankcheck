@@ -14,11 +14,6 @@ SF-19: Captain America: The Winter Soldier
 SF-23: Avengers: Age of Ultron
 306: teneT
 
-==== Aasif Mandvi ====
-48: The Last Airbender
-377: Spider-Man 2
-471: Die Hard with a Vengeance
-
 ==== Abigail Kuklis ====
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
@@ -29,15 +24,15 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 332: Joe Dirt
 365: The Power of The Dog
 
+==== Adam Godley ====
+109: The BFG
+208: Charlie and the Chocolate Factory
+SF-237: Battleship
+
 ==== Adam LeFevre ====
 253: Philadelphia
 258b: The Manchurian Candidate
 463: The Mirror Has Two Faces
-
-==== Adelle Lutz ====
-196: Beetlejuice
-249: Something Wild
-252: Silence of the Lambs
 
 ==== Adewale Akinnuoye-Agbaje ====
 69: Suicide Squad
@@ -64,11 +59,6 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 
-==== Al Cerullo ====
-129: Blue Steel
-SF-26: Captain America: Civil War
-SF-87: Crocodile Dundee II
-
 ==== Al Matthews ====
 77: Aliens
 SF-78: Aliens
@@ -78,11 +68,6 @@ SF-200: Tomorrow Never Dies
 SF-184a: The Cook
 SF-184c: The High Sign
 427b: The General
-
-==== Alan Arkin ====
-199: Edward Scissorhands
-214: Dumbo
-SF-125: The Santa Clause 3
 
 ==== Alan Dale ====
 104: Indiana Jones and the Kingdom of the Crystal Skull
@@ -119,10 +104,10 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 99: Catch Me If You Can
 321: Ishtar
 
-==== Alexandra O'Hara ====
-SF-172: Men in Black
-SF-174: Men in Black II
-SF-177: Men in Black 3
+==== Alfie Curtis ====
+34: Star Wars: A New Hope
+SF-48: Star Wars
+486: The Elephant Man
 
 ==== Alfre Woodard ====
 SF-26: Captain America: Civil War
@@ -199,11 +184,6 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 250: The Rise of Skywalker
 SF-60: The Rise of Skywalker
 
-==== Andrew Stanton ====
-164: The Incredibles
-SF-62: Toy Story
-SF-63: Toy Story 2
-
 ==== Andrew Sullivan ====
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
@@ -254,6 +234,11 @@ SF-150: Liza
 SF-151: Liza with a Z
 385: All That Jazz
 
+==== Ann-Margret ====
+SF-125: The Santa Clause 3
+SF-145: Old Dogs
+480: Going in Style
+
 ==== Anna Deavere Smith ====
 253: Philadelphia
 258b: The Manchurian Candidate
@@ -274,10 +259,10 @@ SF-151: Liza with a Z
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 
-==== Anthony LaPaglia ====
-270: Happy Feet
-271: Happy Feet Two
-278: Mixed Nuts
+==== Annie McEnroe ====
+196: Beetlejuice
+219: Manhunter
+502: Beetlejuice Beetlejuice
 
 ==== Anthony S. Johnson ====
 110: Clifford
@@ -287,7 +272,12 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 ==== Antoinette Kalaj ====
 322: Don Jon
 SF-112: Riddick
-SF-256: Teenage Mutant Ninja Turtles: Out of the Shadows
+SF-232: Teenage Mutant Ninja Turtles: Out of the Shadows
+
+==== Anton Simpson-Tidy ====
+250: The Rise of Skywalker
+SF-60: The Rise of Skywalker
+SF-240: Dungeons & Dragons: Honor Among Thieves
 
 ==== Antonio Fargas ====
 327a: Shaft
@@ -374,11 +364,6 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 377: Spider-Man 2
 378: Spider-Man 3
 
-==== Bill Pullman ====
-64: Singles
-277: Sleepless in Seattle
-281: Lucky Numbers
-
 ==== Bill Smitrovich ====
 SF-2: Iron Man
 219: Manhunter
@@ -429,6 +414,11 @@ SF-185: Escape from the Planet of the Apes
 201: Batman Returns
 SF-51: Return of the Jedi
 
+==== Bodhi Elfman ====
+66: Almost Famous
+224: Collateral
+SF-83: Armageddon
+
 ==== Boni Yanagisawa ====
 178: Hulk
 SF-3: Hulk Live
@@ -454,15 +444,25 @@ SF-177: Men in Black 3
 166: Ratatouille
 169: Incredibles 2
 
+==== Brad Dourif ====
+SF-81: Alien: Resurrection
+487: Dune
+488: Blue Velvet
+
 ==== Brad Garrett ====
 166: Ratatouille
 194b: Ralph Breaks the Internet
-SF-256: Teenage Mutant Ninja Turtles: Out of the Shadows
+SF-232: Teenage Mutant Ninja Turtles: Out of the Shadows
 
 ==== Brad Kane ====
 148: Starship Troopers
 312: Aladdin
 SF-93a: The Return of Jafar
+
+==== Bradley Whitford ====
+141: The Post
+253: Philadelphia
+483: Scent of a Woman
 
 ==== Brandon Bautista ====
 53: Batman v Superman: Dawn of Justice
@@ -579,6 +579,11 @@ SF-108: Breaking Dawn: Part 2
 SF-53b: American Graffiti
 447: Zodiac
 
+==== Carel Struycken ====
+267: The Witches of Eastwick
+SF-162: Doctor Sleep
+SF-172: Men in Black
+
 ==== Carl J. Johnson ====
 SF-172: Men in Black
 SF-174: Men in Black II
@@ -593,11 +598,6 @@ SF-66: Toy Story 4
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
-
-==== Carmen Filpi ====
-195: Pee-wee's Big Adventure
-196: Beetlejuice
-202: Ed Wood
 
 ==== Carmen Gangale ====
 53: Batman v Superman: Dawn of Justice
@@ -659,10 +659,15 @@ SF-7: What Men Want
 327c: Shaft
 SF-162: Doctor Sleep
 
+==== Charles Schneider ====
+196: Beetlejuice
+447: Zodiac
+502: Beetlejuice Beetlejuice
+
 ==== Charlie Picerni ====
 81: True Lies
 SF-141: Batman (1966)
-467: Die Hard
+466: Die Hard
 
 ==== Charlie Rose ====
 53: Batman v Superman: Dawn of Justice
@@ -709,6 +714,11 @@ SF-57: The Last Jedi
 301: Beowulf
 376: Spider-Man
 
+==== Chris Isaak ====
+251: Married to the Mob
+252: Silence of the Lambs
+491: Twin Peaks: Fire Walk with Me
+
 ==== Chris Messina ====
 257: Birds of Prey
 280: You've Got Mail
@@ -718,6 +728,11 @@ SF-57: The Last Jedi
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
+
+==== Chris O'Donnell ====
+SF-144: Batman Forever
+SF-146: Batman & Robin
+483: Scent of a Woman
 
 ==== Chris Parnell ====
 174a: Hotel Transylvania
@@ -753,6 +768,11 @@ SF-146: Batman & Robin
 SF-18: Thor: The Dark World
 409: Shallow Grave
 414: 28 Days Later
+
+==== Claire Davenport ====
+36: Star Wars: Return of the Jedi
+SF-51: Return of the Jedi
+486: The Elephant Man
 
 ==== Clancy Brown ====
 129: Blue Steel
@@ -802,7 +822,7 @@ SF-153: Sully
 ==== Courtney B. Vance ====
 SF-120: The Mummy (2017)
 468: The Hunt for Red October
-SF-220: Terminator Genisys
+SF-221: Terminator Genisys
 
 ==== Cyril Nri ====
 250: The Rise of Skywalker
@@ -849,15 +869,20 @@ SF-46: Rogue One
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 
-==== Darrell Foster ====
-49: After Earth
-SF-172: Men in Black
-SF-174: Men in Black II
+==== Danny Nero ====
+247: Swing Shift
+SF-126: Ghostbusters
+481: Beverly Hills Cop
 
 ==== Darren Shahlavi ====
 167: Mission: Impossible – Ghost Protocol
 168: Tomorrowland
 SF-72: Mission: Impossible - Ghost Protocol
+
+==== Darwin Joston ====
+337: Assault on Precinct 13
+339: The Fog
+485: Eraserhead
 
 ==== Dave Pasch ====
 53: Batman v Superman: Dawn of Justice
@@ -868,6 +893,11 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 88: Rogue One: A Star Wars Story
 194a: Wreck-it Ralph
 SF-46: Rogue One
+
+==== David Byrd ====
+110: Clifford
+333: Clifford 2: Hyper-Clifford
+492: Lost Highway
 
 ==== David Clennon ====
 341a: The Thing
@@ -894,11 +924,6 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 102: War of the Worlds
 179: Brokeback Mountain
 
-==== David Jensen ====
-23d: Fant4stic
-SF-192: Ocean's Eleven
-448: The Curious Case of Benjamin Button
-
 ==== David Lee Smith ====
 445: Fight Club
 447: Zodiac
@@ -911,8 +936,8 @@ SF-192: Ocean's Eleven
 
 ==== David McCharen ====
 403: The Nightmare Before Christmas
-SF-251: Teenage Mutant Ninja Turtles (1990)
-SF-252: Teenage Mutant Ninja Turtles: The Secret of the Ooze
+SF-225: Teenage Mutant Ninja Turtles (1990)
+SF-226: Teenage Mutant Ninja Turtles: The Secret of the Ooze
 
 ==== David Midura ====
 53: Batman v Superman: Dawn of Justice
@@ -934,6 +959,11 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 379: Drag Me to Hell
 SF-196: Ocean’s Thirteen
 
+==== David Sobolov ====
+88: Rogue One: A Star Wars Story
+SF-46: Rogue One
+SF-240: Dungeons & Dragons: Honor Among Thieves
+
 ==== David Sontag ====
 SF-192: Ocean's Eleven
 SF-193: Ocean's Twelve
@@ -947,12 +977,22 @@ SF-81: Alien: Resurrection
 ==== David Ursin ====
 65: Jerry Maguire
 185: Space Jam
-467: Die Hard
+466: Die Hard
+
+==== David Wells ====
+145: Basic Instinct
+343: Starman
+481: Beverly Hills Cop
 
 ==== Debbie Stabenow ====
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
+
+==== Debra Lamb ====
+130: Point Break
+143: RoboCop
+489: Wild at Heart
 
 ==== Deirdre Lovejoy ====
 141: The Post
@@ -963,11 +1003,6 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 165: Solo: A Star Wars Story
 SF-44: Solo
 309: The Witches
-
-==== Dennis Farina ====
-95: Saving Private Ryan
-217: Thief
-219: Manhunter
 
 ==== Dennis Haysbert ====
 194a: Wreck-it Ralph
@@ -987,7 +1022,7 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 ==== Dennis Thomas IV ====
 23d: Fant4stic
 448: The Curious Case of Benjamin Button
-SF-220: Terminator Genisys
+SF-221: Terminator Genisys
 
 ==== Denzel Washington ====
 253: Philadelphia
@@ -1019,6 +1054,11 @@ SF-195: The Little Drummer Girl
 222: The Insider
 473: The 13th Warrior
 
+==== Dick Cavett ====
+196: Beetlejuice
+296: Forrest Gump
+502: Beetlejuice Beetlejuice
+
 ==== Diego Luna ====
 88: Rogue One: A Star Wars Story
 101: The Terminal
@@ -1049,6 +1089,11 @@ SF-13: The Avengers
 259: Rachel Getting Married
 327b: Shaft
 
+==== Doris McCarthy ====
+192: The Intern
+SF-153: Sully
+480: Going in Style
+
 ==== Douglas Bunn ====
 1: Star Wars: The Phantom Menace
 13: Star Wars: Attack of the Clones
@@ -1063,6 +1108,16 @@ SF-69: Mission: Impossible II
 SF-172: Men in Black
 SF-174: Men in Black II
 SF-180: Men in Black: International
+
+==== Dru Berrymore ====
+131: Strange Days
+SF-219: Die Hard 2
+492: Lost Highway
+
+==== Duane Davis ====
+196: Beetlejuice
+352: Ghosts of Mars
+502: Beetlejuice Beetlejuice
 
 ==== Dustin Hoffman ====
 190: The Holiday
@@ -1109,11 +1164,6 @@ SF-192: Ocean's Eleven
 SF-193: Ocean's Twelve
 SF-196: Ocean’s Thirteen
 
-==== Eddie Powell ====
-77: Aliens
-SF-76: Alien
-SF-78: Aliens
-
 ==== Edi Gathegi ====
 72: Aloha
 SF-102: Twilight
@@ -1127,17 +1177,12 @@ SF-68: Hanging Up
 ==== Edward Furlong ====
 79: Terminator 2: Judgement Day
 SF-215: Terminator 2: Judgment Day
-SF-221: Terminator: Dark Fate
+SF-222: Terminator: Dark Fate
 
 ==== Egbert Sen ====
 35: Star Wars: The Empire Strikes Back
 SF-50: The Empire Strikes Back
 SF-161: Octopussy
-
-==== Eiji Kusuhara ====
-36: Star Wars: Return of the Jedi
-SF-51: Return of the Jedi
-401: Eyes Wide Shut
 
 ==== Eileen Weisinger ====
 SF-2: Iron Man
@@ -1187,7 +1232,7 @@ SF-218: Terminator Salvation
 ==== Emilia Clarke ====
 165: Solo: A Star Wars Story
 SF-44: Solo
-SF-220: Terminator Genisys
+SF-221: Terminator Genisys
 
 ==== Emily Peterson ====
 53: Batman v Superman: Dawn of Justice
@@ -1239,6 +1284,11 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 213: Miss Peregrine's Home for Peculiar Children
 214: Dumbo
 
+==== Everett McGill ====
+74: Under Siege 2: Dark Territory
+487: Dune
+493: The Straight Story
+
 ==== Ezra Buzzington ====
 118: The Prestige
 402: The Fabelmans
@@ -1249,7 +1299,7 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 135: Zero Dark Thirty
 SF-46: Rogue One
 
-==== Faune Chambers ====
+==== Faune Chambers Watkins ====
 448: The Curious Case of Benjamin Button
 SF-208: Austin Powers: The Spy Who Shagged Me
 SF-209: Austin Powers in Goldmember
@@ -1263,6 +1313,11 @@ SF-209: Austin Powers in Goldmember
 13: Star Wars: Attack of the Clones
 54: The Matrix
 SF-133: The Matrix
+
+==== Firdous Bamji ====
+41: The Sixth Sense
+42: Unbreakable
+SF-247: Analyze That
 
 ==== Flea ====
 SF-66: Toy Story 4
@@ -1279,11 +1334,6 @@ SF-82: Prometheus
 174b: Hotel Transylvania 2
 174c: Hotel Transylvania 3
 
-==== Frances Conroy ====
-239: Joker
-277: Sleepless in Seattle
-365: The Power of The Dog
-
 ==== Francis Magee ====
 88: Rogue One: A Star Wars Story
 137: Justice League
@@ -1293,6 +1343,21 @@ SF-46: Rogue One
 76: The Terminator
 SF-213: The Terminator
 465: Predator
+
+==== Frank Anello ====
+126: The Devil Wears Prada
+378: Spider-Man 3
+480: Going in Style
+
+==== Frank Aquilino ====
+251: Married to the Mob
+SF-244: Analyze This
+SF-247: Analyze That
+
+==== Frank Collison ====
+45: The Village
+47: The Happening
+489: Wild at Heart
 
 ==== Frank Patton III ====
 321: Ishtar
@@ -1304,20 +1369,30 @@ SF-192: Ocean's Eleven
 292: Who Framed Roger Rabbit
 SF-189: Ocean's 11
 
-==== Frankie Faison ====
-219: Manhunter
-252: Silence of the Lambs
-472: The Thomas Crown Affair
-
 ==== François Sternkiker ====
 37: Star Wars: The Force Awakens
 SF-55: The Force Awakens
 307: Allied
 
+==== Fred Wood ====
+34: Star Wars: A New Hope
+SF-48: Star Wars
+486: The Elephant Man
+
 ==== Freda Foh Shen ====
 145: Basic Instinct
 206: Planet of the Apes
 SF-119: The Mummy: Tomb of the Dragon Emperor
+
+==== Freddie Jones ====
+486: The Elephant Man
+487: Dune
+489: Wild at Heart
+
+==== Fredric Lehne ====
+121: The Dark Knight Rises
+135: Zero Dark Thirty
+SF-172: Men in Black
 
 ==== G. D. Spradlin ====
 110: Clifford
@@ -1334,10 +1409,25 @@ SF-6: Iron Man 2
 SF-19: Captain America: The Winter Soldier
 278: Mixed Nuts
 
+==== Gary Busey ====
+130: Point Break
+459: A Star Is Born
+492: Lost Highway
+
 ==== Gary Sinise ====
 SF-19: Captain America: The Winter Soldier
 296: Forrest Gump
 372: The Quick and The Dead
+
+==== Geena Davis ====
+62: Fletch
+196: Beetlejuice
+502: Beetlejuice Beetlejuice
+
+==== Geno Silva ====
+93: The Lost World: Jurassic Park
+94: Amistad
+494: Mulholland Drive
 
 ==== Geoff Bell ====
 88: Rogue One: A Star Wars Story
@@ -1354,15 +1444,15 @@ SF-46: Rogue One
 249: Something Wild
 252: Silence of the Lambs
 
+==== George Christy ====
+443: Se7en
+466: Die Hard
+474: Rollerball
+
 ==== Gerard Monaco ====
 140: The Last Jedi
 SF-57: The Last Jedi
 364: Bright Star
-
-==== Gerry Becker ====
-376: Spider-Man
-444: The Game
-471: Die Hard with a Vengeance
 
 ==== Gerry Skilton ====
 SF-85: Crocodile Dundee
@@ -1372,12 +1462,22 @@ SF-88: Crocodile Dundee in Los Angeles
 ==== Giancarlo Esposito ====
 223: Ali
 405: Monkeybone
-SF-257: Teenage Mutant Ninja Turtles: Mutant Mayhem
+SF-234: Teenage Mutant Ninja Turtles: Mutant Mayhem
+
+==== Gilbert B. Combs ====
+143: RoboCop
+386: Star 80
+492: Lost Highway
 
 ==== Gilbert Gottfried ====
 312: Aladdin
 SF-93a: The Return of Jafar
 SF-93b: Aladdin and the King of Thieves
+
+==== Gilda Cohen ====
+34: Star Wars: A New Hope
+SF-48: Star Wars
+486: The Elephant Man
 
 ==== Gina Gershon ====
 52: Bound
@@ -1393,11 +1493,6 @@ SF-166: National Treasure: Book of Secrets
 41: The Sixth Sense
 136: Detroit
 175: The Ice Storm
-
-==== Glenn Shadix ====
-196: Beetlejuice
-206: Planet of the Apes
-403: The Nightmare Before Christmas
 
 ==== Goran D. Kleut ====
 24: Star Wars: Revenge of the Sith
@@ -1419,6 +1514,11 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 280: You've Got Mail
 375: The Gift
 
+==== Greg Travis ====
+147: Showgirls
+148: Starship Troopers
+492: Lost Highway
+
 ==== Greg Violand ====
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
@@ -1428,11 +1528,6 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 41: The Sixth Sense
 43: Signs
 47: The Happening
-
-==== Guy Standeven ====
-36: Star Wars: Return of the Jedi
-SF-51: Return of the Jedi
-399: The Shining
 
 ==== Hal Fishman ====
 SF-88: Crocodile Dundee in Los Angeles
@@ -1474,20 +1569,10 @@ SF-213: The Terminator
 173: Sense and Sensibility
 SF-55: The Force Awakens
 
-==== Harry Fielder ====
-34: Star Wars: A New Hope
-SF-48: Star Wars
-SF-67: Mission: Impossible
-
 ==== Hassani Shapi ====
 1: Star Wars: The Phantom Menace
 13: Star Wars: Attack of the Clones
 SF-203: The World Is Not Enough
-
-==== Heather Graham ====
-138: Lost in Space
-SF-208: Austin Powers: The Spy Who Shagged Me
-454: I Love You To Death
 
 ==== Helen Hunt ====
 159: As Good as It Gets
@@ -1534,20 +1619,25 @@ SF-192: Ocean's Eleven
 SF-57: The Last Jedi
 SF-73: Mission: Impossible - Rogue Nation
 
+==== Hervé Villechaize ====
+SF-155: The Man
+SF-156: The Man with the Golden Gun
+479b: Hot Tomorrows
+
 ==== Hiroyuki Sanada ====
 57: Speed Racer
 SF-40: Avengers: Endgame
 417: Sunshine
 
-==== Howard Spiegel ====
-280: You've Got Mail
-SF-172: Men in Black
-SF-174: Men in Black II
+==== Hugh Spight ====
+36: Star Wars: Return of the Jedi
+SF-51: Return of the Jedi
+486: The Elephant Man
 
-==== Hugh Grant ====
-58: Cloud Atlas
-173: Sense and Sensibility
-457b: Wonka
+==== Ian Abercrombie ====
+93: The Lost World: Jurassic Park
+371: Army of Darkness
+495: Inland Empire
 
 ==== Ian Holm ====
 166: Ratatouille
@@ -1594,6 +1684,11 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 67: Vanilla Sky
 72: Aloha
 
+==== J.E. Freeman ====
+87: The Man Who Knew Too Little
+SF-81: Alien: Resurrection
+489: Wild at Heart
+
 ==== J.J. Abrams ====
 250: The Rise of Skywalker
 SF-60: The Rise of Skywalker
@@ -1614,10 +1709,20 @@ SF-146: Batman & Robin
 306: teneT
 436: Oppenheimer
 
+==== Jack Kehoe ====
+246: Melvin and Howard
+444: The Game
+482: Midnight Run
+
 ==== Jack Klaff ====
 34: Star Wars: A New Hope
 SF-48: Star Wars
 SF-159: For Your Eyes Only
+
+==== Jack Weston ====
+318: A New Leaf
+321: Ishtar
+472: The Thomas Crown Affair
 
 ==== Jacquie Barnbrook ====
 301: Beowulf
@@ -1632,7 +1737,7 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 ==== Jai Courtney ====
 69: Suicide Squad
 80a: Jack Reacher
-SF-220: Terminator Genisys
+SF-221: Terminator Genisys
 
 ==== Jake Busey ====
 148: Starship Troopers
@@ -1652,7 +1757,7 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 ==== James Caan ====
 217: Thief
 SF-74: The Way of the Gun
-SF-223: Rollerball
+SF-246: Mickey Blue Eyes
 
 ==== James Cameron ====
 82: Titanic
@@ -1754,6 +1859,11 @@ SF-64: Toy Story 3
 SF-110: F9
 352: Ghosts of Mars
 
+==== Jason Wong ====
+165: Solo: A Star Wars Story
+SF-44: Solo
+SF-240: Dungeons & Dragons: Honor Among Thieves
+
 ==== Jay Acovone ====
 299: Cast Away
 SF-88: Crocodile Dundee in Los Angeles
@@ -1783,6 +1893,11 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
+
+==== Jeanne Bates ====
+SF-219: Die Hard 2
+485: Eraserhead
+494: Mulholland Drive
 
 ==== Jeff Daniels ====
 153: Terms of Endearment
@@ -1844,11 +1959,6 @@ SF-196: Ocean’s Thirteen
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 
-==== Jesse Plemons ====
-108: Bridge of Spies
-141: The Post
-365: The Power of The Dog
-
 ==== Jessica Alba ====
 23b: Fantastic Four
 23c: Fantastic Four: Rise of the Silver Surfer
@@ -1864,6 +1974,11 @@ SF-211: The Love Guru
 SF-28: Doctor Strange
 287: The Old Guard
 
+==== Jill Goldston ====
+77: Aliens
+SF-78: Aliens
+486: The Elephant Man
+
 ==== Jill Sayre ====
 373: A Simple Plan
 376: Spider-Man
@@ -1873,6 +1988,11 @@ SF-28: Doctor Strange
 174c: Hotel Transylvania 3
 260b: Playmobil: The Movie
 SF-211: The Love Guru
+
+==== Jimmie Ray Weeks ====
+78: The Abyss
+482: Midnight Run
+SF-244: Analyze This
 
 ==== Jo Wheatley ====
 165: Solo: A Star Wars Story
@@ -1898,11 +2018,6 @@ SF-25: Ant-Man
 37: Star Wars: The Force Awakens
 SF-18: Thor: The Dark World
 SF-55: The Force Awakens
-
-==== Joe Chrest ====
-SF-25: Ant-Man
-285: The Secret Life of Bees
-SF-196: Ocean’s Thirteen
 
 ==== Joe Farago ====
 76: The Terminator
@@ -1949,6 +2064,11 @@ SF-40: Avengers: Endgame
 377: Spider-Man 2
 378: Spider-Man 3
 
+==== Joe Viterelli ====
+SF-244: Analyze This
+SF-246: Mickey Blue Eyes
+SF-247: Analyze That
+
 ==== Joel Bissonnette ====
 445: Fight Club
 447: Zodiac
@@ -1973,6 +2093,11 @@ SF-19: Captain America: The Winter Soldier
 117: Batman Begins
 287: The Old Guard
 SF-75: Mission: Impossible - Fallout
+
+==== Joey King ====
+121: The Dark Knight Rises
+380: Oz the Great and Powerful
+480: Going in Style
 
 ==== John Alexander ====
 206: Planet of the Apes
@@ -2014,6 +2139,11 @@ SF-16: Iron Man 3
 104: Indiana Jones and the Kingdom of the Crystal Skull
 189: Something's Gotta Give
 
+==== John Hammil ====
+SF-128: Ghostbusters II
+444: The Game
+482: Midnight Run
+
 ==== John Hannah ====
 SF-115: The Mummy (1999)
 SF-116: The Mummy Returns
@@ -2023,11 +2153,6 @@ SF-119: The Mummy: Tomb of the Dragon Emperor
 35: Star Wars: The Empire Strikes Back
 SF-50: The Empire Strikes Back
 SF-159: For Your Eyes Only
-
-==== John Hurt ====
-104: Indiana Jones and the Kingdom of the Crystal Skull
-SF-76: Alien
-297: Contact
 
 ==== John Judd ====
 117: Batman Begins
@@ -2059,11 +2184,6 @@ SF-3: Hulk Live
 470: Last Action Hero
 471: Die Hard with a Vengeance
 
-==== John Prosky ====
-97: A.I. Artificial Intelligence
-178: Hulk
-SF-3: Hulk Live
-
 ==== John Randolph ====
 280: You've Got Mail
 SF-185: Escape from the Planet of the Apes
@@ -2074,10 +2194,25 @@ SF-186: Conquest of the Planet of the Apes
 SF-93b: Aladdin and the King of Thieves
 457a: Aquaman 2: The Lost Kingdom
 
+==== John Roselius ====
+185: Space Jam
+203: Mars Attacks!
+492: Lost Highway
+
 ==== John Seibert ====
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
+
+==== John Singleton ====
+323: Boyz n the Hood
+327b: Shaft
+328: Baby Boy
+
+==== John Tui ====
+165: Solo: A Star Wars Story
+SF-44: Solo
+SF-237: Battleship
 
 ==== John Walton ====
 55: The Matrix Reloaded
@@ -2088,16 +2223,6 @@ SF-136: The Matrix Reloaded
 102: War of the Worlds
 178: Hulk
 SF-3: Hulk Live
-
-==== Johnny Knoxville ====
-SF-172: Men in Black
-SF-174: Men in Black II
-SF-255: Teenage Mutant Ninja Turtles (2014)
-
-==== Jonathan Banks ====
-74: Under Siege 2: Dark Territory
-169: Incredibles 2
-SF-88: Crocodile Dundee in Los Angeles
 
 ==== Jonathan Freeman ====
 175: The Ice Storm
@@ -2139,10 +2264,25 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 107: Lincoln
 452: Mank
 
+==== Joseph D'Onofrio ====
+376: Spider-Man
+SF-177: Men in Black 3
+SF-247: Analyze That
+
+==== Joseph R. Gannascoli ====
+202: Ed Wood
+SF-177: Men in Black 3
+SF-246: Mickey Blue Eyes
+
 ==== Josette Simon ====
 111: Wonder Woman
 216: Pokémon: Detective Pikachu
 309: The Witches
+
+==== Josh Becker ====
+369: Evil Dead II
+370: Darkman
+371: Army of Darkness
 
 ==== Josh Carrizales ====
 53: Batman v Superman: Dawn of Justice
@@ -2153,6 +2293,16 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 132: The Weight of Water
 178: Hulk
 SF-3: Hulk Live
+
+==== Josh Pais ====
+239: Joker
+SF-225: Teenage Mutant Ninja Turtles (1990)
+480: Going in Style
+
+==== Josh Pence ====
+121: The Dark Knight Rises
+449: The Social Network
+SF-237: Battleship
 
 ==== Joshua Elrod ====
 258b: The Manchurian Candidate
@@ -2178,11 +2328,6 @@ SF-2: Iron Man
 97: A.I. Artificial Intelligence
 190: The Holiday
 SF-38: Captain Marvel
-
-==== Judge Reinhold ====
-SF-122: The Santa Clause
-SF-123: The Santa Clause 2
-SF-125: The Santa Clause 3
 
 ==== Judith Drake ====
 190: The Holiday
@@ -2233,6 +2378,11 @@ SF-154: Live and Let Die
 36: Star Wars: Return of the Jedi
 SF-51: Return of the Jedi
 363: In the Cut
+
+==== Justin Bartha ====
+SF-164: National Treasure
+SF-166: National Treasure: Book of Secrets
+485a: Gigli
 
 ==== Justin Edwards ====
 SF-18: Thor: The Dark World
@@ -2294,11 +2444,6 @@ SF-50: The Empire Strikes Back
 238: Howl's Moving Castle
 241: Ponyo on the Cliff
 
-==== Keith Campbell ====
-97: A.I. Artificial Intelligence
-98: Minority Report
-SF-67: Mission: Impossible
-
 ==== Keith D. Gallagher ====
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
@@ -2319,6 +2464,11 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 SF-87: Crocodile Dundee II
 330: Four Brothers
 
+==== Kent Faulcon ====
+102: War of the Worlds
+SF-172: Men in Black
+471: Die Hard with a Vengeance
+
 ==== Kent Shocknek ====
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
@@ -2337,7 +2487,7 @@ SF-70: Mission: Impossible III
 ==== Kerry O'Malley ====
 47: The Happening
 453: The Killer
-SF-220: Terminator Genisys
+SF-221: Terminator Genisys
 
 ==== Kerry Rossall ====
 329: 2 Fast 2 Furious
@@ -2355,14 +2505,19 @@ SF-61: Babe
 406: Avatar: The Way of Water
 
 ==== Kevin Eastman ====
-SF-251: Teenage Mutant Ninja Turtles (1990)
-SF-256: Teenage Mutant Ninja Turtles: Out of the Shadows
-SF-257: Teenage Mutant Ninja Turtles: Mutant Mayhem
+SF-225: Teenage Mutant Ninja Turtles (1990)
+SF-232: Teenage Mutant Ninja Turtles: Out of the Shadows
+SF-234: Teenage Mutant Ninja Turtles: Mutant Mayhem
 
 ==== Kevin Foster ====
 45: The Village
 SF-2: Iron Man
 379: Drag Me to Hell
+
+==== Kevin Grevioux ====
+206: Planet of the Apes
+SF-144: Batman Forever
+SF-174: Men in Black II
 
 ==== Kevin James ====
 174a: Hotel Transylvania
@@ -2382,7 +2537,7 @@ SF-65b: Toy Story That Time Forgot
 ==== Kevin Smith ====
 250: The Rise of Skywalker
 SF-60: The Rise of Skywalker
-SF-254: TMNT
+SF-229: TMNT
 
 ==== Kevin Sussman ====
 66: Almost Famous
@@ -2482,7 +2637,7 @@ SF-29: Guardians of the Galaxy Vol. 2
 ==== Laura Linney ====
 268: Lorenzo's Oil
 SF-153: Sully
-SF-256: Teenage Mutant Ninja Turtles: Out of the Shadows
+SF-232: Teenage Mutant Ninja Turtles: Out of the Shadows
 
 ==== Lauren Cohan ====
 53: Batman v Superman: Dawn of Justice
@@ -2516,8 +2671,8 @@ SF-71: Disappearing Acts
 
 ==== Leif Tilden ====
 405: Monkeybone
-SF-251: Teenage Mutant Ninja Turtles (1990)
-SF-252: Teenage Mutant Ninja Turtles: The Secret of the Ooze
+SF-225: Teenage Mutant Ninja Turtles (1990)
+SF-226: Teenage Mutant Ninja Turtles: The Secret of the Ooze
 
 ==== Leigh Whannell ====
 55: The Matrix Reloaded
@@ -2539,20 +2694,10 @@ SF-136: The Matrix Reloaded
 344: Big Trouble in Little China
 350: Escape from L.A.
 
-==== Leo Rogstad ====
-297: Contact
-SF-172: Men in Black
-SF-174: Men in Black II
-
 ==== Leon Herbert ====
 198: Batman
 SF-79: Alien3
 442: Alien³
-
-==== Leonard Termo ====
-202: Ed Wood
-223: Ali
-445: Fight Club
 
 ==== Liam Matthews ====
 53: Batman v Superman: Dawn of Justice
@@ -2574,10 +2719,10 @@ SF-60: The Rise of Skywalker
 SF-23: Avengers: Age of Ultron
 SF-40: Avengers: Endgame
 
-==== Linda Kim ====
-SF-172: Men in Black
-SF-174: Men in Black II
-SF-209: Austin Powers in Goldmember
+==== Linda Hunt ====
+165: Solo: A Star Wars Story
+SF-44: Solo
+487: Dune
 
 ==== Liza Minnelli ====
 383: Cabaret
@@ -2588,11 +2733,6 @@ SF-151: Liza with a Z
 81: True Lies
 376: Spider-Man
 390: Spartacus
-
-==== Lori Richardson ====
-164: The Incredibles
-166: Ratatouille
-SF-65e: Partysaurus Rex
 
 ==== Lorne Peterson ====
 1: Star Wars: The Phantom Menace
@@ -2608,6 +2748,11 @@ SF-48: Star Wars
 SF-182: Planet of the Apes
 SF-183: Beneath the Planet of the Apes
 SF-186: Conquest of the Planet of the Apes
+
+==== Louis Lombardi ====
+202: Ed Wood
+377: Spider-Man 2
+SF-237: Battleship
 
 ==== Luenell ====
 174a: Hotel Transylvania
@@ -2664,6 +2809,16 @@ SF-46: Rogue One
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 
+==== Marcus Powell ====
+34: Star Wars: A New Hope
+SF-48: Star Wars
+486: The Elephant Man
+
+==== Maree Cheatham ====
+196: Beetlejuice
+SF-68: Hanging Up
+502: Beetlejuice Beetlejuice
+
 ==== Marin Ireland ====
 258b: The Manchurian Candidate
 259: Rachel Getting Married
@@ -2694,6 +2849,11 @@ SF-215: Terminator 2: Judgment Day
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 
+==== Mark Pellegrino ====
+93: The Lost World: Jurassic Park
+SF-164: National Treasure
+494: Mulholland Drive
+
 ==== Mark Stanley ====
 37: Star Wars: The Force Awakens
 156: Ready Player One
@@ -2709,15 +2869,15 @@ SF-55: The Force Awakens
 194a: Wreck-it Ralph
 450: The Girl with the Dragon Tattoo
 
+==== Martin Klebba ====
+380: Oz the Great and Powerful
+SF-174: Men in Black II
+SF-209: Austin Powers in Goldmember
+
 ==== Martin Landau ====
 202: Ed Wood
 205: Sleepy Hollow
 SF-17: Frankenweenie
-
-==== Martin Pfefferkorn ====
-376: Spider-Man
-SF-172: Men in Black
-SF-174: Men in Black II
 
 ==== Martin Starr ====
 SF-4: The Incredible Hulk
@@ -2739,6 +2899,11 @@ SF-41: Spider-Man: Far From Home
 SF-63: Toy Story 2
 313: Hercules
 
+==== Mary Stein ====
+269: Babe: Pig in the City
+405: Monkeybone
+SF-174: Men in Black II
+
 ==== Mason Heidger ====
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
@@ -2758,6 +2923,11 @@ SF-41: Spider-Man: Far From Home
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
+
+==== Matt Dillon ====
+64: Singles
+SF-145: Old Dogs
+480: Going in Style
 
 ==== Matt Doran ====
 13: Star Wars: Attack of the Clones
@@ -2784,6 +2954,11 @@ SF-83: Armageddon
 119: The Dark Knight
 SF-46: Rogue One
 
+==== Matt Sigloch ====
+81: True Lies
+SF-144: Batman Forever
+492: Lost Highway
+
 ==== Matthew Kevin Anderson ====
 168: Tomorrowland
 212: Big Eyes
@@ -2793,11 +2968,6 @@ SF-46: Rogue One
 94: Amistad
 123: Interstellar
 297: Contact
-
-==== Matthew McGrory ====
-207: Big Fish
-SF-172: Men in Black
-SF-174: Men in Black II
 
 ==== Matthew Sharp ====
 95: Saving Private Ryan
@@ -2839,11 +3009,6 @@ SF-40: Avengers: Endgame
 SF-34: Black Panther
 334: Space Jam: A New Legacy
 
-==== Michael Bailey Smith ====
-23a: The Fantastic Four
-SF-172: Men in Black
-SF-174: Men in Black II
-
 ==== Michael Beach ====
 78: The Abyss
 197: Aquaman
@@ -2884,11 +3049,6 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 120: Inception
 171b: The Wedding Banquet
 
-==== Michael Gregory ====
-143: RoboCop
-144: Total Recall
-464: Nomads
-
 ==== Michael Ironside ====
 144: Total Recall
 148: Starship Troopers
@@ -2904,10 +3064,10 @@ SF-4: The Incredible Hulk
 215: Assassin's Creed
 SF-129: Ghostbusters: Answer the Call
 
-==== Michael Massee ====
-94: Amistad
-443: Se7en
-444: The Game
+==== Michael McKean ====
+289: Used Cars
+347: Memoirs of an Invisible Man
+SF-235: Clue
 
 ==== Michael Nyqvist ====
 167: Mission: Impossible – Ghost Protocol
@@ -2918,6 +3078,11 @@ SF-72: Mission: Impossible - Ghost Protocol
 88: Rogue One: A Star Wars Story
 SF-46: Rogue One
 420: Trance
+
+==== Michael Shamus Wiles ====
+97: A.I. Artificial Intelligence
+445: Fight Club
+492: Lost Highway
 
 ==== Michael Wincott ====
 131: Strange Days
@@ -2933,6 +3098,11 @@ SF-81: Alien: Resurrection
 147: Showgirls
 SF-208: Austin Powers: The Spy Who Shagged Me
 SF-209: Austin Powers in Goldmember
+
+==== Michelle Rodriguez ====
+85: Avatar
+SF-110: F9
+SF-240: Dungeons & Dragons: Honor Among Thieves
 
 ==== Michelle Williams ====
 179: Brokeback Mountain
@@ -2983,6 +3153,11 @@ SF-209: Austin Powers in Goldmember
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
+
+==== Mischa Hausserman ====
+471: Die Hard with a Vengeance
+473: The 13th Warrior
+474: Rollerball
 
 ==== Molly C. Quinn ====
 SF-29: Guardians of the Galaxy Vol. 2
@@ -3054,11 +3229,6 @@ SF-57: The Last Jedi
 SF-9: Captain America: The First Avenger
 370: Darkman
 
-==== Ned Gorman ====
-1: Star Wars: The Phantom Menace
-SF-172: Men in Black
-SF-174: Men in Black II
-
 ==== Neil Ross ====
 SF-61: Babe
 293: Back to the Future Part II
@@ -3068,6 +3238,11 @@ SF-143: Batman: Mask of the Phantasm
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
+
+==== Nichole Hiltz ====
+160: Spanglish
+189: Something's Gotta Give
+SF-209: Austin Powers in Goldmember
 
 ==== Nick Castle ====
 336: Dark Star
@@ -3083,6 +3258,11 @@ SF-145: Old Dogs
 167: Mission: Impossible – Ghost Protocol
 SF-72: Mission: Impossible - Ghost Protocol
 SF-123: The Santa Clause 2
+
+==== Nicolas Cage ====
+SF-164: National Treasure
+SF-166: National Treasure: Book of Secrets
+489: Wild at Heart
 
 ==== Nicole Scherzinger ====
 194b: Ralph Breaks the Internet
@@ -3106,8 +3286,8 @@ SF-156: The Man with the Golden Gun
 
 ==== Noel Fisher ====
 SF-108: Breaking Dawn: Part 2
-SF-255: Teenage Mutant Ninja Turtles (2014)
-SF-256: Teenage Mutant Ninja Turtles: Out of the Shadows
+SF-231: Teenage Mutant Ninja Turtles (2014)
+SF-232: Teenage Mutant Ninja Turtles: Out of the Shadows
 
 ==== Norman Alden ====
 202: Ed Wood
@@ -3174,6 +3354,11 @@ SF-126: Ghostbusters
 278: Mixed Nuts
 280: You've Got Mail
 
+==== Patricia Arquette ====
+202: Ed Wood
+SF-66: Toy Story 4
+492: Lost Highway
+
 ==== Patricia Velásquez ====
 SF-115: The Mummy (1999)
 SF-116: The Mummy Returns
@@ -3188,6 +3373,16 @@ SF-206: Mindhunter
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
+
+==== Patrick Stewart ====
+381: Doctor Strange in the Multiverse of Madness
+SF-229: TMNT
+487: Dune
+
+==== Paul Bazely ====
+140: The Last Jedi
+SF-57: The Last Jedi
+SF-240: Dungeons & Dragons: Honor Among Thieves
 
 ==== Paul Brennen ====
 SF-79: Alien3
@@ -3249,30 +3444,30 @@ SF-181: 2012 Summer Olympics Opening Ceremony
 222: The Insider
 347: Memoirs of an Invisible Man
 
+==== Paul Reiser ====
+77: Aliens
+SF-78: Aliens
+481: Beverly Hills Cop
+
 ==== Paul Reubens ====
 195: Pee-wee's Big Adventure
 201: Batman Returns
 403: The Nightmare Before Christmas
-
-==== Paul Simon ====
-446: Panic Room
-471: Die Hard with a Vengeance
-472: The Thomas Crown Affair
 
 ==== Paul Springer ====
 36: Star Wars: Return of the Jedi
 SF-51: Return of the Jedi
 292: Who Framed Roger Rabbit
 
+==== Paul Thornton ====
+104: Indiana Jones and the Kingdom of the Crystal Skull
+SF-145: Old Dogs
+480: Going in Style
+
 ==== Pavel Bezděk ====
 167: Mission: Impossible – Ghost Protocol
 SF-72: Mission: Impossible - Ghost Protocol
 SF-198a: Alien vs. Predator
-
-==== Pete Macnamara ====
-376: Spider-Man
-SF-172: Men in Black
-SF-174: Men in Black II
 
 ==== Peter Appel ====
 47: The Happening
@@ -3299,10 +3494,15 @@ SF-125: The Santa Clause 3
 409: Shallow Grave
 410: Trainspotting
 
-==== Peter Spellos ====
-52: Bound
-SF-172: Men in Black
-SF-174: Men in Black II
+==== Peter Serafinowicz ====
+1: Star Wars: The Phantom Menace
+SF-22: Guardians of the Galaxy
+480: Going in Style
+
+==== Peter Sohn ====
+166: Ratatouille
+SF-65a: Toy Story of Terror
+SF-65c: Small Fry
 
 ==== Peter Stormare ====
 93: The Lost World: Jurassic Park
@@ -3324,10 +3524,10 @@ SF-51: Return of the Jedi
 211: Dark Shadows
 SF-175: 28 Weeks Later
 
-==== Philip L. Clarke ====
-164: The Incredibles
-311: The Little Mermaid
-312: Aladdin
+==== Philip Seymour Hoffman ====
+66: Almost Famous
+SF-70: Mission: Impossible III
+483: Scent of a Woman
 
 ==== Philip Stone ====
 397: A Clockwork Orange
@@ -3368,6 +3568,16 @@ SF-69: Mission: Impossible II
 168: Tomorrowland
 211: Dark Shadows
 307: Allied
+
+==== Ralph Morse ====
+35: Star Wars: The Empire Strikes Back
+SF-50: The Empire Strikes Back
+486: The Elephant Man
+
+==== Rami Malek ====
+SF-108: Breaking Dawn: Part 2
+436: Oppenheimer
+SF-237: Battleship
 
 ==== Rance Howard ====
 202: Ed Wood
@@ -3474,6 +3684,11 @@ SF-60: The Rise of Skywalker
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 
+==== Richard D'Alessandro ====
+296: Forrest Gump
+SF-244: Analyze This
+SF-246: Mickey Blue Eyes
+
 ==== Richard Dixon ====
 87: The Man Who Knew Too Little
 165: Solo: A Star Wars Story
@@ -3489,6 +3704,11 @@ SF-60: The Rise of Skywalker
 129: Blue Steel
 267: The Witches of Eastwick
 
+==== Rick Baker ====
+206: Planet of the Apes
+SF-174: Men in Black II
+SF-177: Men in Black 3
+
 ==== Ricky Dean Logan ====
 23a: The Fantastic Four
 293: Back to the Future Part II
@@ -3499,20 +3719,15 @@ SF-60: The Rise of Skywalker
 59: Jupiter Ascending
 SF-55: The Force Awakens
 
-==== Ritchie Coster ====
-119: The Dark Knight
-229: Blackhat
-472: The Thomas Crown Affair
-
 ==== Robbie Coltrane ====
 SF-193: Ocean's Twelve
 SF-199: GoldenEye
 SF-203: The World Is Not Enough
 
 ==== Robbie Rist ====
-SF-251: Teenage Mutant Ninja Turtles (1990)
-SF-252: Teenage Mutant Ninja Turtles: The Secret of the Ooze
-SF-253: Teenage Mutant Ninja Turtles III
+SF-225: Teenage Mutant Ninja Turtles (1990)
+SF-226: Teenage Mutant Ninja Turtles: The Secret of the Ooze
+SF-228: Teenage Mutant Ninja Turtles III
 
 ==== Robert Alan Beuth ====
 23a: The Fantastic Four
@@ -3539,20 +3754,10 @@ SF-219: Die Hard 2
 191: It's Complicated
 378: Spider-Man 3
 
-==== Robert De Niro ====
-192: The Intern
-221: Heat
-239: Joker
-
 ==== Robert Duvall ====
 12: The Judge
 80a: Jack Reacher
 SF-53a: THX-1138
-
-==== Robert Lewis Bush ====
-348: In the Mouth of Madness
-SF-121b: Body Bags
-351: John Carpenter’s Vampires
 
 ==== Robert Peters ====
 99: Catch Me If You Can
@@ -3634,6 +3839,11 @@ SF-215: Terminator 2: Judgment Day
 165: Solo: A Star Wars Story
 SF-44: Solo
 
+==== Ronny Cox ====
+143: RoboCop
+144: Total Recall
+481: Beverly Hills Cop
+
 ==== Rosamund Pike ====
 80a: Jack Reacher
 SF-204: Die Another Day
@@ -3704,6 +3914,11 @@ SF-16: Iron Man 3
 257: Birds of Prey
 453: The Killer
 
+==== Sam Anderson ====
+296: Forrest Gump
+347: Memoirs of an Invisible Man
+SF-243: Ouija: Origin of Evil
+
 ==== Sam Douglas ====
 198: Batman
 SF-67: Mission: Impossible
@@ -3769,6 +3984,11 @@ SF-192: Ocean's Eleven
 SF-193: Ocean's Twelve
 SF-196: Ocean’s Thirteen
 
+==== Scott Coffey ====
+492: Lost Highway
+494: Mulholland Drive
+495: Inland Empire
+
 ==== Scott Lawrence ====
 85: Avatar
 SF-107: The Host
@@ -3819,6 +4039,11 @@ SF-55: The Force Awakens
 465: Predator
 468: The Hunt for Red October
 
+==== Sharon Blynn ====
+SF-38: Captain Marvel
+SF-41: Spider-Man: Far From Home
+SF-240: Dungeons & Dragons: Honor Among Thieves
+
 ==== Sharon Washington ====
 239: Joker
 471: Die Hard with a Vengeance
@@ -3849,20 +4074,25 @@ SF-117: Elvis
 361: The Portrait of a Lady
 391: Lolita
 
+==== Sheryl Lee ====
+351: John Carpenter’s Vampires
+489: Wild at Heart
+491: Twin Peaks: Fire Walk with Me
+
 ==== Shirô Saitô ====
 236: Princess Mononoke
 237: Spirited Away
 241: Ponyo on the Cliff
 
-==== Sidney Armus ====
-276: This Is My Life
-277: Sleepless in Seattle
-278: Mixed Nuts
-
 ==== Silas Carson ====
 1: Star Wars: The Phantom Menace
 13: Star Wars: Attack of the Clones
 24: Star Wars: Revenge of the Sith
+
+==== Simmy Bow ====
+195: Pee-wee's Big Adventure
+196: Beetlejuice
+502: Beetlejuice Beetlejuice
 
 ==== Simon Farnaby ====
 88: Rogue One: A Star Wars Story
@@ -3879,10 +4109,15 @@ SF-73: Mission: Impossible - Rogue Nation
 257: Birds of Prey
 SF-70: Mission: Impossible III
 
+==== Siobhan Fallon Hogan ====
+296: Forrest Gump
+SF-172: Men in Black
+480: Going in Style
+
 ==== Skeet Ulrich ====
 159: As Good as It Gets
 176: Ride with the Devil
-SF-251: Teenage Mutant Ninja Turtles (1990)
+SF-225: Teenage Mutant Ninja Turtles (1990)
 
 ==== Snitz Edwards ====
 426a: Seven Chances
@@ -3984,15 +4219,10 @@ SF-122: The Santa Clause
 201: Batman Returns
 332: Joe Dirt
 
-==== Steven Spielberg ====
-67: Vanilla Sky
-93: The Lost World: Jurassic Park
-SF-209: Austin Powers in Goldmember
-
 ==== Stuart McQuarrie ====
 410: Trainspotting
 414: 28 Days Later
-SF-221: Terminator: Dark Fate
+SF-222: Terminator: Dark Fate
 
 ==== Stuart Milligan ====
 77: Aliens
@@ -4009,6 +4239,16 @@ SF-78: Aliens
 247: Swing Shift
 346: They Live!
 
+==== Susan Kellermann ====
+196: Beetlejuice
+295: Death Becomes Her
+502: Beetlejuice Beetlejuice
+
+==== Sylvia Sidney ====
+196: Beetlejuice
+203: Mars Attacks!
+502: Beetlejuice Beetlejuice
+
 ==== T.J. Martinelli ====
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
@@ -4018,11 +4258,6 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 231: Nausicaä of the Valley of the Wind
 232: Castle in the Sky
 233: My Neighbor Totoro
-
-==== Tadanobu Asano ====
-SF-8: Thor
-SF-18: Thor: The Dark World
-SF-32: Thor: Ragnarok
 
 ==== Tang Wei ====
 180: Lust, Caution
@@ -4159,6 +4394,11 @@ SF-19: Captain America: The Winter Soldier
 SF-121b: Body Bags
 SF-207: Austin Powers: International Man of Mystery
 
+==== Tom Everett ====
+448: The Curious Case of Benjamin Button
+SF-219: Die Hard 2
+481: Beverly Hills Cop
+
 ==== Tom Luginbill ====
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
@@ -4179,6 +4419,11 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 221: Heat
 470: Last Action Hero
 
+==== Tom Riis Farrell ====
+66: Almost Famous
+277: Sleepless in Seattle
+483: Scent of a Woman
+
 ==== Tom Skerritt ====
 64: Singles
 SF-76: Alien
@@ -4193,11 +4438,6 @@ SF-48: Star Wars
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
-
-==== Tom Whitenight ====
-98: Minority Report
-SF-172: Men in Black
-SF-174: Men in Black II
 
 ==== Tomas Arana ====
 121: The Dark Knight Rises
@@ -4279,20 +4519,10 @@ SF-215: Terminator 2: Judgment Day
 SF-75: Mission: Impossible - Fallout
 435: Mission: Impossible - Dead Reckoning Part One
 
-==== Verne Troyer ====
-SF-208: Austin Powers: The Spy Who Shagged Me
-SF-209: Austin Powers in Goldmember
-SF-211: The Love Guru
-
 ==== Veronica Ngo ====
 140: The Last Jedi
 SF-57: The Last Jedi
 287: The Old Guard
-
-==== Victor Rivers ====
-94: Amistad
-178: Hulk
-SF-3: Hulk Live
 
 ==== Victoria Haynes ====
 258b: The Manchurian Candidate
@@ -4323,6 +4553,16 @@ SF-204: Die Another Day
 119: The Dark Knight
 SF-79: Alien3
 442: Alien³
+
+==== Vinny Vella ====
+363: In the Cut
+SF-244: Analyze This
+SF-247: Analyze That
+
+==== Viola Davis ====
+69: Suicide Squad
+229: Blackhat
+394: The Woman King
 
 ==== Vivian Kubrick ====
 396: 2001: A Space Odyssey
@@ -4357,12 +4597,12 @@ SF-75: Mission: Impossible - Fallout
 ==== Whoopi Goldberg ====
 SF-64: Toy Story 3
 405: Monkeybone
-SF-255: Teenage Mutant Ninja Turtles (2014)
+SF-231: Teenage Mutant Ninja Turtles (2014)
 
 ==== Wilhelm von Homburg ====
 348: In the Mouth of Madness
 SF-128: Ghostbusters II
-467: Die Hard
+466: Die Hard
 
 ==== Will Ferrell ====
 282: Bewitched
@@ -4376,7 +4616,7 @@ SF-78: Aliens
 
 ==== William Atherton ====
 SF-126: Ghostbusters
-467: Die Hard
+466: Die Hard
 SF-219: Die Hard 2
 
 ==== William Devane ====
@@ -4398,11 +4638,6 @@ SF-48: Star Wars
 36: Star Wars: Return of the Jedi
 SF-51: Return of the Jedi
 SF-159: For Your Eyes Only
-
-==== William Morgan Sheppard ====
-118: The Prestige
-218: The Keep
-SF-100: Star Trek VI: The Undiscovered Country
 
 ==== William Morts ====
 98: Minority Report
