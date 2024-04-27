@@ -180,6 +180,13 @@ replacements = { "main": {
     }
 }
 
+def get_movie_data_from_id(movie_id):
+    """ Get a movie details from id"""
+    url = 'https://api.themoviedb.org/3/movie/' + movie_id + '?api_key=' + key
+    response = session.get(url)
+    responsedict = response.json()
+    return responsedict
+
 
 def get_movie_data_from_title(title):
     """ Get a movie id from the title"""
@@ -197,13 +204,6 @@ def get_movie_data_from_title(title):
         return responsedict['results'][0]
     return None
 
-
-def get_movie_data_from_id(movie_id):
-    """ Get a movie details from id"""
-    url = 'https://api.themoviedb.org/3/movie/' + movie_id + '?api_key=' + key
-    response = session.get(url)
-    responsedict = response.json()
-    return responsedict
 
 
 f = open("key", "r")
@@ -260,6 +260,7 @@ with open(in_csv, mode='r') as csv_movielist:
         if movie_data:
             row["movie_id"] = movie_data['id']
             row["movie_original_title"] = movie_data['original_title']
+            row["vote_average"] = movie_data['vote_average']
             if 'release_date' in movie_data:
                 row["release_date"] = movie_data['release_date']
             else:
@@ -275,7 +276,7 @@ with open(in_csv, mode='r') as csv_movielist:
         line_count += 1
     print('Processed {:d} movies.'.format(line_count))
 
-columns = ["date","feed","ep_num","title","movie","guest","movie_id","movie_original_title","release_date"]
+columns = ["date","feed","ep_num","title","movie","guest","movie_id","movie_original_title","release_date","vote_average"]
 
 with open(out_csv, 'w', newline='') as f:
     writer = csv.DictWriter(f, fieldnames=columns)
