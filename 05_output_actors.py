@@ -15,6 +15,11 @@ def print_out(text):
     else:
         print(text)
 
+def print_movies(movies):
+    for movie in movies:
+        for ep_id, title in movie.items():
+            print_out(ep_id + ": " + title)
+
 def print_actor(actor):
     if args.plain:
         actor_title = "\n" +actor["name"]
@@ -26,8 +31,9 @@ def print_actor(actor):
         else:
             actor_title = actor_title + " " + str(actor["importance"])
     print_out(actor_title)
-    for movie in actor["movies"]:
-        print_out(movie)
+    print_movies(actor["movies_dict"])
+    #for movie in actor["movies"]:
+    #    print_out(movie)
 
 def actor_in_episode(actor, ep_num):
     if len(list(filter(lambda ep_filter: ep_num in ep_filter.keys(), actor["movies_dict"]))) == 0:
@@ -102,7 +108,7 @@ actorfile.close()
 # SORT
 actors = sorted(actorjson.values(), key=lambda k: k["name"]) 
 for actor in actors:
-    combo_importance = round(actor["popularity"] * len(actor["movies"]), 2)
+    combo_importance = round(actor["popularity"] * len(actor["movies_dict"]), 2)
     actor["importance"] = combo_importance
 if args.importance:
     print("Sorting by importance")
@@ -147,7 +153,7 @@ if split_files:
             if len(actor["movies_dict"]) != c_threshold:
                 if c_threshold != max_file - 1:
                     continue
-                elif len(actor["movies"]) < c_threshold:
+                elif len(actor["movies_dict"]) < c_threshold:
                     continue
             print_actor(actor)
         if args.tofile:
@@ -163,7 +169,7 @@ else:
     if args.tofile:
         outfile = open(the_filename, "w")
     for actor in actors:
-        if (len(actor["movies"]) < threshold_min) or (len(actor["movies"]) > threshold_max):
+        if (len(actor["movies_dict"]) < threshold_min) or (len(actor["movies_dict"]) > threshold_max):
             continue
         print_actor(actor)
     if args.tofile:
