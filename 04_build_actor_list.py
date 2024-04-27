@@ -36,6 +36,19 @@ def get_cast_from_title(title):
       return
     get_cast_from_id(movie_id)
 
+def get_actor_id(actor):
+    """ Get actor id from name """
+    if actor in actor_name_to_id:
+        return actor_name_to_id[actor]
+    if not len(actor_name_to_id) == len(master_cast_list):
+        print("refresh actor name to id map")
+        for actor_id, actor_info in master_cast_list.items():
+            actor_name_to_id[actor_info["name"]] = actor_id
+        if actor in actor_name_to_id:
+            print("Actor found after refresh")
+            return actor_name_to_id[actor]
+    return 0
+
 
 f = open("key", "r")
 key = f.readline()
@@ -44,12 +57,27 @@ key = key.strip()
 session = requests.Session()
 
 in_csv = 'movies.with.ids.csv'
+in_castlist_csv = 'manual.castlist.csv'
 out_meta = 'MetaActorSeries.combined'
 out_actors = 'actors.combined.json'
+out_movies = 'movies.json'
 
 master_cast_list = {}
+actor_name_to_id = {}
 master_movie_list = {}
+manual_castlist = {}
 # Read list of movies
+
+# Process the manual castlist
+with open(in_castlist_csv, mode='r') as csv_castlist:
+    csv_reader = csv.DictReader(csv_castlist)
+    for row in csv_reader:
+        movie_id = row["movie_id"]
+        if not movie_id in manual_castlist:
+            manual_castlist[movie_id] = []
+        manual_castlist[movie_id].append(row["name"])
+       
+print(manual_castlist)
 
 with open(in_csv, mode='r') as csv_movielist:
     csv_reader = csv.DictReader(csv_movielist)
@@ -59,18 +87,18 @@ with open(in_csv, mode='r') as csv_movielist:
             print('Column names are {:s}'.format(", ".join(row)))
         movie = row["movie"]
         ep_num = row["ep_num"]
-        master_movie_list[movie] = ep_num
         movie_dict = {}
         if row["feed"] == "main":
-            movie_with_ep = ep_num + ": " + movie
-            movie_dict[ep_num] = movie
+            ep_id = ep_num
         else:
-            movie_with_ep = "SF-" + ep_num + ": " + movie
-            movie_dict["SF-" + ep_num] = movie
+            ep_id = "SF-" + ep_num
+        movie_with_ep = ep_id + ": " + movie
+        movie_dict[ep_id] = movie
+        master_movie_list[ep_id] = row
         #print('\t{:s} is episode {:s}.'.format(movie, ep_num))
         # search IDs of movie
         movie_id = row["movie_id"]
-        print("Getting cast for movie ID {:s}".format(movie_id))
+        print("Getting cast for {:s} ID {:s}".format(movie, movie_id))
         movie_cast = get_cast_from_id(movie_id)
         for actor in movie_cast:
             print('Adding movie {:s} to actor {:s}'.format(movie, actor["original_name"]))
@@ -80,10 +108,19 @@ with open(in_csv, mode='r') as csv_movielist:
                 master_cast_list[actor_id]["info"] = actor
                 master_cast_list[actor_id]["name"] = actor["original_name"]
                 master_cast_list[actor_id]["popularity"] = actor["popularity"]
-                master_cast_list[actor_id]["movies"] = []
                 master_cast_list[actor_id]["movies_dict"] = []
-            master_cast_list[actor_id]["movies"].append(movie_with_ep)
+                master_cast_list[actor_id]["movies_ep_id"] = []
             master_cast_list[actor_id]["movies_dict"].append(movie_dict)
+            master_cast_list[actor_id]["movies_ep_id"].append(ep_id)
+        if movie_id in manual_castlist.keys():
+            print("Add override cast")
+            for actor_name in manual_castlist[movie_id]:
+                actor_id = get_actor_id(actor_name)
+                print("{:d} - {:s}".format(actor_id,actor_name))
+                if not actor_id == 0:
+                    master_cast_list[actor_id]["movies_dict"].append(movie_dict)
+                    master_cast_list[actor_id]["movies_ep_id"].append(ep_id)
+
         line_count += 1
     print('Processed {:d} movies.'.format(line_count))
 
@@ -95,4 +132,9 @@ actorfile = open(out_actors, "w")
 actorjson = json.dumps(master_cast_list)
 actorfile.write(actorjson)
 actorfile.close()
+
+moviefile = open(out_movies, "w")
+moviejson = json.dumps(master_movie_list)
+moviefile.write(moviejson)
+moviefile.close()
 
