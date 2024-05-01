@@ -1,16 +1,4 @@
 
-==== Alec Baldwin ====
-70: Elizabethtown
-72: Aloha
-186: A Star Is Born
-191: It's Complicated
-196: Beetlejuice
-251: Married to the Mob
-SF-73: Mission: Impossible - Rogue Nation
-SF-75: Mission: Impossible - Fallout
-468: The Hunt for Red October
-502: Beetlejuice Beetlejuice
-
 ==== Anne Hathaway ====
 121: The Dark Knight Rises
 123: Interstellar
@@ -59,6 +47,18 @@ SF-136: The Matrix Reloaded
 SF-138: The Matrix Revolutions
 SF-140: The Matrix Resurrections
 
+==== Christian Bale ====
+117: Batman Begins
+118: The Prestige
+119: The Dark Knight
+121: The Dark Knight Rises
+227: Public Enemies
+238: Howl's Moving Castle
+327b: Shaft
+361: The Portrait of a Lady
+455: The Boy and the Heron
+SF-218: Terminator Salvation
+
 ==== Christopher Lee ====
 13: Star Wars: Attack of the Clones
 24: Star Wars: Revenge of the Sith
@@ -70,18 +70,6 @@ SF-11: Corpse Bride
 SF-17: Frankenweenie
 SF-155: The Man
 SF-156: The Man with the Golden Gun
-
-==== Corey Burton ====
-174a: Hotel Transylvania
-194b: Ralph Breaks the Internet
-SF-63: Toy Story 2
-SF-65e: Partysaurus Rex
-292: Who Framed Roger Rabbit
-312: Aladdin
-313: Hercules
-314: Treasure Planet
-SF-93b: Aladdin and the King of Thieves
-315: The Princess and the Frog
 
 ==== Helena Bonham Carter ====
 206: Planet of the Apes
@@ -107,6 +95,18 @@ SF-82: Prometheus
 SF-175: 28 Weeks Later
 503: Fixed
 
+==== Jada Pinkett Smith ====
+55: The Matrix Reloaded
+56: The Matrix Revolutions
+223: Ali
+224: Collateral
+236: Princess Mononoke
+356: The Matrix Resurrections
+SF-136: The Matrix Reloaded
+SF-138: The Matrix Revolutions
+SF-140: The Matrix Resurrections
+SF-177: Men in Black 3
+
 ==== Jeremy Renner ====
 134: The Hurt Locker
 167: Mission: Impossible – Ghost Protocol
@@ -118,6 +118,18 @@ SF-40: Avengers: Endgame
 SF-72: Mission: Impossible - Ghost Protocol
 SF-73: Mission: Impossible - Rogue Nation
 SF-175: 28 Weeks Later
+
+==== Jim Cummings ====
+194a: Wreck-it Ralph
+232: Castle in the Sky
+269: Babe: Pig in the City
+292: Who Framed Roger Rabbit
+312: Aladdin
+313: Hercules
+SF-93a: The Return of Jafar
+SF-93b: Aladdin and the King of Thieves
+315: The Princess and the Frog
+SF-229: TMNT
 
 ==== Johnny Depp ====
 51: The Buried Secret of M. Night Shyamalan
@@ -143,17 +155,17 @@ SF-41: Spider-Man: Far From Home
 SF-44: Solo
 SF-144: Batman Forever
 
-==== Keith David ====
-58: Cloud Atlas
-SF-83: Armageddon
-313: Hercules
-315: The Princess and the Frog
-SF-109: Pitch Black
-SF-111: The Chronicles of Riddick
-341a: The Thing
-346: They Live!
-372: The Quick and The Dead
-407: Coraline
+==== Joseph Gordon-Levitt ====
+107: Lincoln
+120: Inception
+121: The Dark Knight Rises
+140: The Last Jedi
+242: The Wind Rises
+SF-57: The Last Jedi
+304: The Walk
+314: Treasure Planet
+322: Don Jon
+393: Pinocchio (2022)
 
 ==== Kenny Baker ====
 1: Star Wars: The Phantom Menace
@@ -181,10 +193,10 @@ SF-213: The Terminator
 
 ==== Liam Neeson ====
 1: Star Wars: The Phantom Menace
-13: Star Wars: Attack of the Clones
 117: Batman Begins
 121: The Dark Knight Rises
 133: K-19: The Widowmaker
+241: Ponyo on the Cliff
 250: The Rise of Skywalker
 SF-60: The Rise of Skywalker
 370: Darkman
@@ -203,6 +215,18 @@ SF-83: Armageddon
 444: The Game
 SF-219: Die Hard 2
 
+==== Matt Damon ====
+71: We Bought a Zoo
+95: Saving Private Ryan
+123: Interstellar
+SF-32: Thor: Ragnarok
+241: Ponyo on the Cliff
+271: Happy Feet Two
+SF-192: Ocean's Eleven
+436: Oppenheimer
+SF-193: Ocean's Twelve
+SF-196: Ocean’s Thirteen
+
 ==== Matthew Wood ====
 1: Star Wars: The Phantom Menace
 13: Star Wars: Attack of the Clones
@@ -214,30 +238,6 @@ SF-219: Die Hard 2
 SF-46: Rogue One
 SF-55: The Force Awakens
 SF-60: The Rise of Skywalker
-
-==== Mickie McGowan ====
-163: The Iron Giant
-SF-62: Toy Story
-SF-63: Toy Story 2
-SF-64: Toy Story 3
-292: Who Framed Roger Rabbit
-311: The Little Mermaid
-312: Aladdin
-313: Hercules
-314: Treasure Planet
-SF-219: Die Hard 2
-
-==== Sherry Lynn ====
-163: The Iron Giant
-SF-62: Toy Story
-SF-63: Toy Story 2
-SF-64: Toy Story 3
-SF-65e: Partysaurus Rex
-288: I Wanna Hold Your Hand
-311: The Little Mermaid
-312: Aladdin
-313: Hercules
-314: Treasure Planet
 
 ==== Simon Pegg ====
 37: Star Wars: The Force Awakens
