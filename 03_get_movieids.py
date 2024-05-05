@@ -173,7 +173,8 @@ replacements = { "main": {
         "184f": "45807",   # Buster Keaton Shorts
         "189": "299",    # Ocean's 11 (1960)
         "192": "161",    # Ocean's 11
-        "225": "1498", # TMNT 1 
+        "225": "1498", # TMNT 1
+        "227": "1000001", # Paranoia Agent
         "228": "1499", # TMNT 3 
         "229": "1273", # TMNT 4 
         "231": "98566" # TMNT 5 

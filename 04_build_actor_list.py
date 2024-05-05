@@ -47,8 +47,35 @@ def get_actor_id(actor):
         if actor in actor_name_to_id:
             print("Actor found after refresh")
             return actor_name_to_id[actor]
-    return 0
+    print("Manual actor not found, adding...")
+    actor_new = {}
+    actor_new["original_name"] = actor
+    actor_new["movies_dict"] = []
+    actor_new["movies_ep_id"] = []
+    actor_new["name"] = actor
+    actor_new["info"] = {}
+    actor_new["popularity"] = 1
+    master_cast_list[actor] = actor_new
 
+
+    return actor
+
+def create_actor(actor_id, actor):
+    name = actor["original_name"]
+    master_cast_list[actor_id] = {}
+    master_cast_list[actor_id]["name"] = name
+    master_cast_list[actor_id]["info"] = actor
+    master_cast_list[actor_id]["popularity"] = actor["popularity"]
+    # If the *name* is in the list, it's manual and should be converted
+    if name in master_cast_list:
+        print("Convert {:s} to actor_id".format(name))
+        master_cast_list[actor_id]["movies_dict"] = master_cast_list[name]["movies_dict"]
+        master_cast_list[actor_id]["movies_ep_id"] = master_cast_list[name]["movies_ep_id"]
+        del master_cast_list[name]
+    else: # no conversion, just create
+        print("Create new actor {:s}".format(name))
+        master_cast_list[actor_id]["movies_dict"] = []
+        master_cast_list[actor_id]["movies_ep_id"] = []
 
 f = open("key", "r")
 key = f.readline()
@@ -63,6 +90,7 @@ out_actors = 'actors.combined.json'
 out_movies = 'movies.json'
 
 master_cast_list = {}
+manually_added_cast_list = []
 actor_name_to_id = {}
 master_movie_list = {}
 manual_castlist = {}
@@ -78,6 +106,7 @@ with open(in_castlist_csv, mode='r') as csv_castlist:
         manual_castlist[movie_id].append(row["name"])
        
 print(manual_castlist)
+
 
 with open(in_csv, mode='r') as csv_movielist:
     csv_reader = csv.DictReader(csv_movielist)
@@ -104,19 +133,15 @@ with open(in_csv, mode='r') as csv_movielist:
             print('Adding movie {:s} to actor {:s}'.format(movie, actor["original_name"]))
             actor_id = actor["id"]
             if not actor["id"] in master_cast_list:
-                master_cast_list[actor_id] = {}
-                master_cast_list[actor_id]["info"] = actor
-                master_cast_list[actor_id]["name"] = actor["original_name"]
-                master_cast_list[actor_id]["popularity"] = actor["popularity"]
-                master_cast_list[actor_id]["movies_dict"] = []
-                master_cast_list[actor_id]["movies_ep_id"] = []
+                create_actor(actor_id, actor)
             master_cast_list[actor_id]["movies_dict"].append(movie_dict)
             master_cast_list[actor_id]["movies_ep_id"].append(ep_id)
+        # Manual cast list check
         if movie_id in manual_castlist.keys():
             print("Add override cast")
             for actor_name in manual_castlist[movie_id]:
                 actor_id = get_actor_id(actor_name)
-                print("{:d} - {:s}".format(actor_id,actor_name))
+                print("{} - {:s}".format(actor_id,actor_name))
                 if not actor_id == 0:
                     master_cast_list[actor_id]["movies_dict"].append(movie_dict)
                     master_cast_list[actor_id]["movies_ep_id"].append(ep_id)
@@ -125,7 +150,7 @@ with open(in_csv, mode='r') as csv_movielist:
     print('Processed {:d} movies.'.format(line_count))
 
 all_actors = list(master_cast_list.keys())
-all_actors.sort()
+#all_actors.sort()
 #print(all_actors)
 
 actorfile = open(out_actors, "w")
