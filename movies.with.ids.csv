@@ -83,12 +83,13 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2017-06-18T21:00:00+00:00,main,113,The Book of Henry,The Book of Henry,,382614,The Book of Henry,2017-06-16,7.53
 2017-06-25T21:00:00+00:00,main,114,Following,Following,,11660,Following,1999-04-02,7.148
 2017-07-02T21:00:00+00:00,main,115,Memento with Amy Nicholson,Memento,Amy Nicholson,77,Memento,2000-10-11,8.184
-2017-07-09T21:00:00+00:00,main,116,Insomnia with Alex Ross Perry,Insomnia,Alex Ross Perry,320,Insomnia,2002-05-24,6.941
+2017-07-09T21:00:00+00:00,main,116,Insomnia with Alex Ross Perry,Insomnia,Alex Ross Perry,320,Insomnia,2002-05-24,6.94
 2017-07-16T21:00:00+00:00,main,117,Batman Begins,Batman Begins,,272,Batman Begins,2005-06-10,7.705
 2017-07-23T21:00:00+00:00,main,118,The Prestige with Alison Willmore,The Prestige,Alison Willmore,1124,The Prestige,2006-10-17,8.203
 2017-07-30T21:00:00+00:00,main,119,The Dark Knight,The Dark Knight,,155,The Dark Knight,2008-07-16,8.5
 2017-08-06T22:02:29+00:00,main,120,Inception,Inception,,27205,Inception,2010-07-15,8.368
 2017-08-13T21:00:00+00:00,main,121,The Dark Knight Rises,The Dark Knight Rises,,49026,The Dark Knight Rises,2012-07-17,7.779
+2017-08-13T21:00:00+00:00,main,122,Talking Maul,Talking Maul,,1000003,Television override,9999-09-09,7
 2017-08-27T21:00:00+00:00,main,123,Interstellar,Interstellar,,157336,Interstellar,2014-11-05,8.434
 2017-09-03T21:00:00+00:00,main,124,Dunkirk with Bilge Ebiri,Dunkirk,Bilge Ebiri,374720,Dunkirk,2017-07-19,7.454
 2017-09-10T21:05:56+00:00,main,126,The Devil Wears Prada with Romilly Newman,The Devil Wears Prada,Romilly Newman,350,The Devil Wears Prada,2006-06-29,7.395
@@ -182,7 +183,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2019-03-21T04:00:01+00:00,patreon,13,The Avengers,The Avengers,,24428,The Avengers,2012-04-25,7.7
 2019-03-24T04:00:00+00:00,main,209,Sweeney Todd: The Demon Barber of Fleet Street with Michael Cerveris,Sweeney Todd: The Demon Barber of Fleet Street,Michael Cerveris,13885,Sweeney Todd: The Demon Barber of Fleet Street,2007-12-20,7.181
 2019-03-31T05:44:15+00:00,main,210,Alice in Wonderland with Todd VanDerWerff,Alice in Wonderland,Todd VanDerWerff,12155,Alice in Wonderland,2010-03-03,6.635
-2019-04-01T04:01:00+00:00,patreon,16,Iron Man 3,Iron Man 3,,68721,Iron Man 3,2013-04-18,6.9
+2019-04-01T04:01:00+00:00,patreon,16,Iron Man 3,Iron Man 3,,68721,Iron Man 3,2013-04-18,6.928
 2019-04-07T04:00:00+00:00,main,211,Dark Shadows with Jamie Loftus,Dark Shadows,Jamie Loftus,62213,Dark Shadows,2012-05-09,6.062
 2019-04-11T21:01:00+00:00,patreon,17,Frankenweenie with Jordan Fish,Frankenweenie,Jordan Fish,62214,Frankenweenie,2012-10-04,6.958
 2019-04-14T04:00:00+00:00,main,212,Big Eyes with Richard Lawson,Big Eyes,Richard Lawson,87093,Big Eyes,2014-12-24,6.988
@@ -427,7 +428,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2021-12-19T05:00:00+00:00,main,355,West Side Story (2021),West Side Story (2021),,511809,West Side Story,2021-12-08,7.012
 2021-12-21T05:00:41+00:00,patreon,125,The Santa Clause 3,The Santa Clause 3,,13767,The Santa Clause 3: The Escape Clause,2006-11-02,5.5
 2022-01-01T05:00:07+00:00,patreon,126,Ghostbusters,Ghostbusters,,620,Ghostbusters,1984-06-08,7.5
-2022-01-02T08:00:01+00:00,main,356,The Matrix Resurrections,The Matrix Resurrections,,624860,The Matrix Resurrections,2021-12-16,6.4
+2022-01-02T08:00:01+00:00,main,356,The Matrix Resurrections,The Matrix Resurrections,,624860,The Matrix Resurrections,2021-12-16,6.434
 2022-01-09T05:00:00+00:00,main,357,Two Friends,Two Friends,,123067,Two Friends,1986-05-13,5.9
 2022-01-16T05:00:00+00:00,main,358,Sweetie with Sarah-Violet Bliss,Sweetie,Sarah-Violet Bliss,65015,Sweetie,1989-09-28,6.0
 2022-01-21T05:00:02+00:00,patreon,128,Ghostbusters II,Ghostbusters II,,2978,Ghostbusters II,1989-06-16,6.563
@@ -451,7 +452,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2022-04-10T04:00:00+00:00,main,370,Darkman with Chris Weitz,Darkman,Chris Weitz,9556,Darkman,1990-08-24,6.429
 2022-04-11T04:01:02+00:00,patreon,139,Evil Dead (2013) with Marie Bardi,Evil Dead (2013),Marie Bardi,109428,Evil Dead,2013-04-05,6.534
 2022-04-17T04:00:00+00:00,main,371,Army of Darkness with Eva Anderson,Army of Darkness,Eva Anderson,766,Army of Darkness,1992-10-31,7.26
-2022-04-21T06:30:10+00:00,patreon,140,The Matrix Resurrections,The Matrix Resurrections,,624860,The Matrix Resurrections,2021-12-16,6.4
+2022-04-21T06:30:10+00:00,patreon,140,The Matrix Resurrections,The Matrix Resurrections,,624860,The Matrix Resurrections,2021-12-16,6.434
 2022-04-24T04:00:00+00:00,main,372,The Quick and The Dead with Roman Mars,The Quick and The Dead,Roman Mars,12106,The Quick and the Dead,1995-02-09,6.545
 2022-05-01T04:00:00+00:00,main,373,A Simple Plan with Kevin Smith,A Simple Plan,Kevin Smith,10223,A Simple Plan,1998-12-11,7.171
 2022-05-01T04:35:48+00:00,patreon,141,Batman (1966),Batman (1966),,2661,Batman,1966-07-30,6.383
@@ -497,7 +498,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2022-10-11T04:01:00+00:00,patreon,159,For Your Eyes Only,For Your Eyes Only,,699,For Your Eyes Only,1981-06-24,6.521
 2022-10-16T04:00:00+00:00,main,397,A Clockwork Orange with Alex Ross Perry,A Clockwork Orange,Alex Ross Perry,185,A Clockwork Orange,1971-12-19,8.206
 2022-10-21T04:01:00+00:00,patreon,160,2010: The Year We Make Contact,2010: The Year We Make Contact,,4437,2010,1984-12-06,6.654
-2022-10-23T04:00:00+00:00,main,398,Barry Lyndon with Karina Longworth,Barry Lyndon,Karina Longworth,3175,Barry Lyndon,1975-12-18,8.004
+2022-10-23T04:00:00+00:00,main,398,Barry Lyndon with Karina Longworth,Barry Lyndon,Karina Longworth,3175,Barry Lyndon,1975-12-18,8.0
 2022-10-30T04:00:00+00:00,main,399,The Shining with Timothy Simons,The Shining,Timothy Simons,694,The Shining,1980-05-23,8.216
 2022-11-01T04:00:07+00:00,patreon,161,Octopussy,Octopussy,,700,Octopussy,1983-06-05,6.327
 2022-11-06T04:00:00+00:00,main,400,Full Metal Jacket with Jon Gabrus,Full Metal Jacket,Jon Gabrus,600,Full Metal Jacket,1987-06-26,8.134
@@ -616,6 +617,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2024-02-01T20:25:09+00:00,patreon,215,Terminator 2: Judgment Day,Terminator 2: Judgment Day,,280,Terminator 2: Judgment Day,1991-07-03,8.114
 2024-02-04T20:25:09+00:00,main,463,The Mirror Has Two Faces,The Mirror Has Two Faces,,25189,The Mirror Has Two Faces,1996-11-15,6.7
 2024-02-11T20:25:09+00:00,main,464,Nomads,Nomads,,26725,Nomads,1986-03-07,4.901
+2024-02-11T20:25:09+00:00,patreon,216,T2 3-D: Battle Across Time,T2 3-D: Battle Across Time,,1000090,Television override,9999-09-09,7
 2024-02-18T20:25:09+00:00,main,465,Predator,Predator,,106,Predator,1987-06-12,7.525
 2024-02-21T20:25:09+00:00,patreon,217,Terminator 3: Rise of the Machines,Terminator 3: Rise of the Machines,,296,Terminator 3: Rise of the Machines,2003-07-02,6.16
 2024-02-25T20:25:09+00:00,main,466,Die Hard,Die Hard,,562,Die Hard,1988-07-15,7.786

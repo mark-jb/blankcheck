@@ -652,6 +652,7 @@ movie_id,name
 1000002,Tatyana Yassukovich
 1000002,Terrence 'T.C.' Carson
 1000002,Tom Kane
+1000003,Peter Serafinowicz
 1000010,Byron Coll
 1000010,Cohen Holloway
 1000010,David Wenham
@@ -1864,3 +1865,12 @@ movie_id,name
 1000072,Alfred Hitchcock
 1000080,Orlando Bloom
 1000080,Kate Beckinsale
+1000090,Arnold Schwarzenegger
+1000090,Linda Hamilton
+1000090,Robert Patrick
+1000090,Edward Furlong
+1000090,Jim Cummings
+1000090,Shaquille O'Neal
+1000090,Michael Biehn
+1000090,Earl Boen
+1000090,Mark Kriski

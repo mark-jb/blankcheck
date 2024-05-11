@@ -38,6 +38,7 @@ replacements = { "main": {
         "110": 2778,  # Clifford
         "111": 297762, # Wonder Woman
         "116": 320,    # Insomnia
+        "122": 1000003, # Insomnia
         "130": 1089,   # Point Break
         "137": 141052, # Justice League
         "142": 12775,  # Flesh + Blood
@@ -47,6 +48,7 @@ replacements = { "main": {
         "173": 4584,  # Sense and Sensibility
         "174a": 76492, # Hotel Transylvania
         "177": 146,   # Crouching Tiger Hidden Dragon
+        "184": 30091,  # Chosen: The Hire
         "185": 2300,  # Space Jam
         "198": 268,   # Batman
         "200": 450465, # Glass
@@ -187,6 +189,7 @@ replacements = { "main": {
         "189": "299",    # Ocean's 11 (1960)
         "192": "161",    # Ocean's 11
         "195": 1000030, # Little Drummer Girl
+        "216": 1000090, # T2: 3-D
         "225": "1498", # TMNT 1
         "227": 1000001, # Paranoia Agent
         "228": "1499", # TMNT 3 
