@@ -11,7 +11,7 @@
 116: Insomnia
 221: Heat
 222: The Insider
-SF-196: Ocean’s Thirteen
+SF-195: Ocean’s Thirteen
 483: Scent of a Woman
 485a: Gigli
 
@@ -237,7 +237,7 @@ SF-100: Star Trek VI: The Undiscovered Country
 144: Total Recall
 148: Starship Troopers
 161: How Do You Know
-SF-215: Terminator 2: Judgment Day
+SF-212: Terminator 2: Judgment Day
 
 ==== Debbie Lee Carrington ====
 36: Star Wars: Return of the Jedi
@@ -269,7 +269,7 @@ SF-60: The Rise of Skywalker
 201: Batman Returns
 405: Monkeybone
 SF-174: Men in Black II
-SF-243: Ouija: Origin of Evil
+SF-241: Ouija: Origin of Evil
 
 ==== Elizabeth Daily ====
 194a: Wreck-it Ralph
@@ -293,7 +293,7 @@ SF-103: New Moon
 SF-105: Eclipse
 SF-106: Breaking Dawn – Part 1
 SF-108: Breaking Dawn: Part 2
-SF-243: Ouija: Origin of Evil
+SF-241: Ouija: Origin of Evil
 
 ==== Enn Reitel ====
 12: The Judge
@@ -309,7 +309,7 @@ SF-125: The Santa Clause 3
 490: Twin Peaks Season 1
 493: The Straight Story
 497: Twin Peaks The Return
-SF-242: Twin Peaks season 2
+SF-240: Twin Peaks season 2
 
 ==== Frances Bay ====
 348: In the Mouth of Madness
@@ -317,7 +317,7 @@ SF-242: Twin Peaks season 2
 488: Blue Velvet
 489: Wild at Heart
 491: Twin Peaks: Fire Walk with Me
-SF-242: Twin Peaks season 2
+SF-240: Twin Peaks season 2
 
 ==== Gary A. Hecker ====
 53: Batman v Superman: Dawn of Justice
@@ -397,7 +397,7 @@ SF-100: Star Trek VI: The Undiscovered Country
 197: Aquaman
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
-457a: Aquaman 2: The Lost Kingdom
+457b: Aquaman and the Lost Kingdom
 
 ==== Jeff Garlin ====
 250: The Rise of Skywalker
@@ -405,7 +405,7 @@ SF-60: The Rise of Skywalker
 SF-64: Toy Story 3
 SF-65d: Hawaiian Vacation
 SF-66: Toy Story 4
-SF-208: Austin Powers: The Spy Who Shagged Me
+SF-206: Austin Powers: The Spy Who Shagged Me
 
 ==== Jeff Pidgeon ====
 164: The Incredibles
@@ -437,7 +437,7 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 82: Titanic
 128: Near Dark
 SF-78: Aliens
-SF-215: Terminator 2: Judgment Day
+SF-212: Terminator 2: Judgment Day
 
 ==== Jesse Eisenberg ====
 45: The Village
@@ -454,14 +454,6 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 258b: The Manchurian Candidate
 259: Rachel Getting Married
 261: Ricki and the Flash
-
-==== Jimmy Smits ====
-13: Star Wars: Attack of the Clones
-24: Star Wars: Revenge of the Sith
-88: Rogue One: A Star Wars Story
-122: Talking Maul
-151: Running Scared
-SF-46: Rogue One
 
 ==== Jimmy Vee ====
 37: Star Wars: The Force Awakens
@@ -511,6 +503,14 @@ SF-48: Star Wars
 SF-50: The Empire Strikes Back
 SF-51: Return of the Jedi
 
+==== John DiMaggio ====
+30: Star Wars: The Clone Wars
+61: The Animatrix
+194a: Wreck-it Ralph
+194b: Ralph Breaks the Internet
+236: Princess Mononoke
+SF-227: TMNT
+
 ==== John Krasinski ====
 72: Aloha
 136: Detroit
@@ -523,7 +523,7 @@ SF-51: Return of the Jedi
 123: Interstellar
 153: Terms of Endearment
 273: Twilight Zone: Nightmare at 20,000 Feet
-SF-80c: Tales from the Crypt: You Monster
+SF-80c: Tales from the Crypt: You, Murderer
 385: All That Jazz
 SF-160: 2010: The Year We Make Contact
 
@@ -636,7 +636,7 @@ SF-100: Star Trek VI: The Undiscovered Country
 279: Michael
 281: Lucky Numbers
 SF-145: Old Dogs
-SF-196: Ocean’s Thirteen
+SF-195: Ocean’s Thirteen
 475: Basic
 
 ==== Marion Cotillard ====
@@ -668,8 +668,8 @@ SF-50: The Empire Strikes Back
 77: Aliens
 78: The Abyss
 SF-78: Aliens
-SF-213: The Terminator
-SF-216: T2 3-D: Battle Across Time
+SF-211: The Terminator
+SF-213: T2-3D: Battle Across Bab's Basement
 
 ==== Michael Douglas ====
 145: Basic Instinct
@@ -692,7 +692,7 @@ SF-61: Babe
 269: Babe: Pig in the City
 270: Happy Feet
 404: James and the Giant Peach
-454: I Love You To Death
+454: I Love You to Death
 460: Yentl
 
 ==== Molly Shannon ====
@@ -700,8 +700,8 @@ SF-61: Babe
 174b: Hotel Transylvania 2
 174c: Hotel Transylvania 3
 SF-123: The Santa Clause 2
-SF-242: Twin Peaks season 2
-SF-244: Analyze This
+SF-240: Twin Peaks season 2
+SF-242: Analyze This
 
 ==== Monica Bellucci ====
 55: The Matrix Reloaded
@@ -741,7 +741,7 @@ SF-62: Toy Story
 312: Aladdin
 313: Hercules
 314: Treasure Planet
-SF-213: The Terminator
+SF-211: The Terminator
 
 ==== Patrick Wilson ====
 53: Batman v Superman: Dawn of Justice
@@ -749,7 +749,7 @@ SF-213: The Terminator
 SF-82: Prometheus
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
-457a: Aquaman 2: The Lost Kingdom
+457b: Aquaman and the Lost Kingdom
 
 ==== Peter Diamond ====
 34: Star Wars: A New Hope
@@ -805,22 +805,22 @@ SF-7: What Men Want
 SF-175: 28 Weeks Later
 422: T2 Trainspotting
 423: Yesterday
-SF-203: The World Is Not Enough
+SF-202: The World Is Not Enough
 
 ==== Robert De Niro ====
 192: The Intern
 221: Heat
 239: Joker
 482: Midnight Run
-SF-244: Analyze This
-SF-247: Analyze That
+SF-242: Analyze This
+SF-245: Analyze That
 
 ==== Robert Patrick ====
 79: Terminator 2: Judgement Day
 326: Rosewood
-SF-215: Terminator 2: Judgment Day
-SF-216: T2 3-D: Battle Across Time
-SF-219: Die Hard 2
+SF-212: Terminator 2: Judgment Day
+SF-213: T2-3D: Battle Across Bab's Basement
+SF-217: Die Hard 2: Die Harder
 470: Last Action Hero
 
 ==== Robert W. Castle ====
@@ -885,7 +885,7 @@ SF-74: The Way of the Gun
 490: Twin Peaks Season 1
 491: Twin Peaks: Fire Walk with Me
 497: Twin Peaks The Return
-SF-242: Twin Peaks season 2
+SF-240: Twin Peaks season 2
 
 ==== Stephanie Silva ====
 37: Star Wars: The Force Awakens
@@ -933,7 +933,7 @@ SF-83: Armageddon
 236: Princess Mononoke
 237: Spirited Away
 SF-65a: Toy Story of Terror
-SF-229: TMNT
+SF-227: TMNT
 
 ==== Taylor Lautner ====
 SF-102: Twilight
@@ -999,14 +999,6 @@ SF-44: Solo
 SF-46: Rogue One
 287: The Old Guard
 
-==== Tom Kane ====
-37: Star Wars: The Force Awakens
-88: Rogue One: A Star Wars Story
-140: The Last Jedi
-SF-46: Rogue One
-SF-55: The Force Awakens
-SF-57: The Last Jedi
-
 ==== Tom Sizemore ====
 95: Saving Private Ryan
 129: Blue Steel
@@ -1045,7 +1037,7 @@ SF-100: Star Trek VI: The Undiscovered Country
 221: Heat
 297: Contact
 SF-83: Armageddon
-SF-231: Teenage Mutant Ninja Turtles (2014)
+SF-229: Teenage Mutant Ninja Turtles (2014)
 
 ==== William Shatner ====
 SF-90: Star Trek: The Motion Picture

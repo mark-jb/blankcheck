@@ -7,6 +7,7 @@ date,feed,ep_num,title,movie,guest
 2015-09-14T18:21:55+00:00,main,23c,The Podcastic Two,Fantastic Four: Rise of the Silver Surfer,
 2015-09-14T18:21:55+00:00,main,23d,The Podcastic Two,Fant4stic,
 2015-09-21T20:23:38+00:00,main,24,The Beginning of The End - Revenge Of The Podcast,Star Wars: Revenge of the Sith,
+2015-11-07T00:08:28+00:00,main,30,The Clone Wars Animated Series with Jonathan Braylock - Revenge Of The Podcast,Star Wars: The Clone Wars,Jonathan Braylock - Revenge Of The Podcast
 2015-12-07T07:15:24+00:00,main,34,A New Podcast,Star Wars: A New Hope,
 2015-12-14T20:59:35+00:00,main,35,The Podcast Strikes Back,Star Wars: The Empire Strikes Back,
 2015-12-17T05:00:00+00:00,main,36,Return of the Podcast,Star Wars: Return of the Jedi,
@@ -71,7 +72,7 @@ date,feed,ep_num,title,movie,guest
 2017-03-18T00:00:00+00:00,main,100,Blank Check,Blank Check,
 2017-03-26T00:00:00+00:00,main,101,The Terminal with Jerah Milligan,The Terminal,Jerah Milligan
 2017-04-03T00:00:00+00:00,main,102,War of the Worlds with J.D. Amato,War of the Worlds,J.D. Amato
-2017-04-10T00:00:00+00:00,main,103,Munich with Todd VanDerWerff,Munich,Todd VanDerWerff
+2017-04-10T00:00:00+00:00,main,103,Munich with Emily St. James,Munich,Emily St. James
 2017-04-16T00:00:00+00:00,main,104,Indiana Jones and the Kingdom of the Crystal Skull with David Ehrlich,Indiana Jones and the Kingdom of the Crystal Skull,David Ehrlich
 2017-04-23T00:00:00+00:00,main,105,The Adventures of Tintin with Joe Garden,The Adventures of Tintin,Joe Garden
 2017-04-30T00:00:00+00:00,main,106,War Horse with Pilot Viruet,War Horse,Pilot Viruet
@@ -89,7 +90,7 @@ date,feed,ep_num,title,movie,guest
 2017-07-30T21:00:00+00:00,main,119,The Dark Knight,The Dark Knight,
 2017-08-06T22:02:29+00:00,main,120,Inception,Inception,
 2017-08-13T21:00:00+00:00,main,121,The Dark Knight Rises,The Dark Knight Rises,
-2017-08-13T21:00:00+00:00,main,122,Talking Maul,Talking Maul,
+2017-08-20T21:00:00+00:00,main,122,Talking Maul Live @ DCM19 with Peter Serafinowicz,Talking Maul Live @ DCM19,Peter Serafinowicz
 2017-08-27T21:00:00+00:00,main,123,Interstellar,Interstellar,
 2017-09-03T21:00:00+00:00,main,124,Dunkirk with Bilge Ebiri,Dunkirk,Bilge Ebiri
 2017-09-10T21:05:56+00:00,main,126,The Devil Wears Prada with Romilly Newman,The Devil Wears Prada,Romilly Newman
@@ -131,6 +132,7 @@ date,feed,ep_num,title,movie,guest
 2018-06-10T21:00:00+00:00,main,167,Mission: Impossible – Ghost Protocol,Mission: Impossible – Ghost Protocol,
 2018-06-17T21:00:00+00:00,main,168,Tomorrowland,Tomorrowland,
 2018-06-24T21:00:00+00:00,main,169,Incredibles 2,Incredibles 2,
+2018-06-28T08:00:00+00:00,main,170,Family Dog - Amazing Stories,Family Dog - Amazing Stories,
 2018-07-01T21:00:00+00:00,main,171a,Pushing Hands/The Wedding Banquet,Pushing Hands,
 2018-07-01T21:00:00+00:00,main,171b,Pushing Hands/The Wedding Banquet,The Wedding Banquet,
 2018-07-08T21:00:00+00:00,main,172,Eat Drink Man Woman with Alison Willmore,Eat Drink Man Woman,Alison Willmore
@@ -182,7 +184,7 @@ date,feed,ep_num,title,movie,guest
 2019-03-17T08:00:00+00:00,main,208,Charlie and the Chocolate Factory with Pilot Viruet,Charlie and the Chocolate Factory,Pilot Viruet
 2019-03-21T04:00:01+00:00,patreon,13,The Avengers,The Avengers,
 2019-03-24T04:00:00+00:00,main,209,Sweeney Todd: The Demon Barber of Fleet Street with Michael Cerveris,Sweeney Todd: The Demon Barber of Fleet Street,Michael Cerveris
-2019-03-31T05:44:15+00:00,main,210,Alice in Wonderland with Todd VanDerWerff,Alice in Wonderland,Todd VanDerWerff
+2019-03-31T05:44:15+00:00,main,210,Alice in Wonderland with Emily St. James,Alice in Wonderland,Emily St. James
 2019-04-01T04:01:00+00:00,patreon,16,Iron Man 3,Iron Man 3,
 2019-04-07T04:00:00+00:00,main,211,Dark Shadows with Jamie Loftus,Dark Shadows,Jamie Loftus
 2019-04-11T21:01:00+00:00,patreon,17,Frankenweenie with Jordan Fish,Frankenweenie,Jordan Fish
@@ -210,6 +212,7 @@ date,feed,ep_num,title,movie,guest
 2019-07-21T04:00:00+00:00,main,226b,The Lion King,Cats,
 2019-07-21T04:01:00+00:00,patreon,28,Doctor Strange,Doctor Strange,
 2019-07-28T05:00:00+00:00,main,227,Public Enemies with Fran Hoepfner,Public Enemies,Fran Hoepfner
+2019-08-01T04:00:00+00:00,main,228,Miami Vice - Pilot Episode,Miami Vice - Pilot Episode,
 2019-08-01T04:00:02+00:00,patreon,29,Guardians of the Galaxy Vol. 2 with David Ehrlich,Guardians of the Galaxy Vol. 2,David Ehrlich
 2019-08-04T04:00:00+00:00,main,229,Blackhat with Bilge Ebiri,Blackhat,Bilge Ebiri
 2019-08-11T04:00:00+00:00,main,230,The Castle of Cagliostro,The Castle of Cagliostro,
@@ -248,7 +251,7 @@ date,feed,ep_num,title,movie,guest
 2019-12-22T05:00:00+00:00,main,250,The Rise of Skywalker ,The Rise of Skywalker,
 2020-01-01T05:01:00+00:00,patreon,44,Solo,Solo,
 2020-01-05T05:00:00+00:00,main,251,Married to the Mob with Ang Ferraguto,Married to the Mob,Ang Ferraguto
-2020-01-12T05:00:00+00:00,main,252,Silence of the Lambs with Emily Vanderwerff,Silence of the Lambs,Emily Vanderwerff
+2020-01-12T05:00:00+00:00,main,252,Silence of the Lambs with Emily St. James,Silence of the Lambs,Emily St. James
 2020-01-19T05:00:00+00:00,main,253,Philadelphia with Richard Lawson,Philadelphia,Richard Lawson
 2020-01-21T05:01:04+00:00,patreon,46,Rogue One with Chris Weitz,Rogue One,Chris Weitz
 2020-01-26T05:00:00+00:00,main,254,Beloved with Jourdain Searles ,Beloved,Jourdain Searles 
@@ -286,11 +289,11 @@ date,feed,ep_num,title,movie,guest
 2020-05-31T03:30:00+00:00,main,274,Stargate,Stargate,
 2020-06-01T04:01:01+00:00,patreon,64,Toy Story 3,Toy Story 3,
 2020-06-07T04:21:50+00:00,main,275,When Harry Met Sally... with Dana Stevens,When Harry Met Sally...,Dana Stevens
-2020-06-11T04:00:01+00:00,patreon,65a,Toy Story of Terror,Toy Story of Terror,
-2020-06-11T04:00:01+00:00,patreon,65b,Toy Story That Time Forgot,Toy Story That Time Forgot,
-2020-06-11T04:00:01+00:00,patreon,65c,Small Fry,Small Fry,
-2020-06-11T04:00:01+00:00,patreon,65d,Hawaiian Vacation,Hawaiian Vacation,
-2020-06-11T04:00:01+00:00,patreon,65e,Partysaurus Rex,Partysaurus Rex,
+2020-06-11T04:00:01+00:00,patreon,65a,Toy Story Toons,Toy Story of Terror,
+2020-06-11T04:00:01+00:00,patreon,65b,Toy Story Toons,Toy Story That Time Forgot,
+2020-06-11T04:00:01+00:00,patreon,65c,Toy Story Toons,Small Fry,
+2020-06-11T04:00:01+00:00,patreon,65d,Toy Story Toons,Hawaiian Vacation,
+2020-06-11T04:00:01+00:00,patreon,65e,Toy Story Toons,Partysaurus Rex,
 2020-06-14T04:00:00+00:00,main,276,This Is My Life with Michelle Collins,This Is My Life,Michelle Collins
 2020-06-21T04:00:00+00:00,main,277,Sleepless in Seattle with Katey Rich,Sleepless in Seattle,Katey Rich
 2020-06-21T04:00:01+00:00,patreon,66,Toy Story 4,Toy Story 4,
@@ -326,9 +329,9 @@ date,feed,ep_num,title,movie,guest
 2020-11-01T04:00:00+00:00,main,296,Forrest Gump with Jamelle Bouie,Forrest Gump,Jamelle Bouie
 2020-11-01T04:00:03+00:00,patreon,79,Alien 3,Alien3,
 2020-11-08T14:11:49+00:00,main,297,Contact with Jamie Bell,Contact,Jamie Bell
-2020-11-11T04:00:03+00:00,patreon,80a,Tales from the Crypt: And All Through The House,Tales from the Crypt: And All Through the House,
-2020-11-11T04:00:03+00:00,patreon,80b,Tales from the Crypt: Yellow,Tales from the Crypt: Yellow,
-2020-11-11T04:00:03+00:00,patreon,80c,Tales from the Crypt: You Monster,Tales from the Crypt: You Monster,
+2020-11-11T05:01:01+00:00,patreon,80a,Tales from the Crypt,Tales from the Crypt: And All Through the Night,
+2020-11-11T05:01:01+00:00,patreon,80b,Tales from the Crypt,Tales from the Crypt: Yellow,
+2020-11-11T05:01:01+00:00,patreon,80c,Tales from the Crypt,"Tales from the Crypt: You, Murderer",
 2020-11-15T04:45:00+00:00,main,298,What Lies Beneath with Starlee Kine,What Lies Beneath,Starlee Kine
 2020-11-21T17:01:01+00:00,patreon,81,Alien: Resurrection,Alien: Resurrection,
 2020-11-22T05:01:38+00:00,main,299,Cast Away with Nia DaCosta,Cast Away,Nia DaCosta
@@ -336,7 +339,7 @@ date,feed,ep_num,title,movie,guest
 2020-12-01T05:01:01+00:00,patreon,82,Prometheus,Prometheus,
 2020-12-06T05:00:00+00:00,main,301,Beowulf with Jordan Hoffman,Beowulf,Jordan Hoffman
 2020-12-11T05:16:20+00:00,patreon,83,Drive-In Special,Armageddon,
-2020-12-13T05:34:10+00:00,main,302,A Christmas Carol with Emily VanDerWerff,A Christmas Carol,Emily VanDerWerff
+2020-12-13T05:34:10+00:00,main,302,A Christmas Carol with Emily St. James,A Christmas Carol,Emily St. James
 2020-12-20T05:00:00+00:00,main,303,Flight with Olivia Craighead,Flight,Olivia Craighead
 2020-12-21T05:00:02+00:00,patreon,84,Alien: Covenant,Alien: Covenant,
 2020-12-27T05:30:00+00:00,main,304,The Walk with J.D. Amato,The Walk,J.D. Amato
@@ -401,8 +404,8 @@ date,feed,ep_num,title,movie,guest
 2021-09-01T04:01:03+00:00,patreon,112,Riddick,Riddick,
 2021-09-05T04:00:00+00:00,main,340,Escape from New York with Karen Han,Escape from New York,Karen Han
 2021-09-11T04:01:01+00:00,patreon,113,Someone's Watching Me!,Someone's Watching Me!,
-2021-09-12T04:00:00+00:00,main,341a,The Thing with Emily VanDerWerff,The Thing,Emily VanDerWerff
-2021-09-12T04:00:00+00:00,main,341b,The Thing with Emily VanDerWerff,The Thing from Another World,Emily VanDerWerff
+2021-09-12T04:00:00+00:00,main,341a,The Thing with Emily St. James,The Thing,Emily St. James
+2021-09-12T04:00:00+00:00,main,341b,The Thing with Emily St. James,The Thing from Another World,Emily St. James
 2021-09-19T04:00:00+00:00,main,342,Christine with Scott Wampler & Eric Vespe,Christine,Scott Wampler & Eric Vespe
 2021-09-22T04:00:24+00:00,patreon,115,The Mummy (1999),The Mummy (1999),
 2021-09-26T04:00:00+00:00,main,343,Starman with Katey Rich,Starman,Katey Rich
@@ -573,78 +576,80 @@ date,feed,ep_num,title,movie,guest
 2023-07-30T04:00:00+00:00,main,436,Oppenheimer with Marie Bardi,Oppenheimer,Marie Bardi
 2023-08-01T04:00:04+00:00,patreon,193,Ocean's Twelve,Ocean's Twelve,
 2023-08-06T04:00:00+00:00,main,437,"I'm a Cyborg, But That's OK with Karen Chee","I'm a Cyborg, But That's OK",Karen Chee
-2023-08-11T04:00:04+00:00,patreon,195,The Little Drummer Girl with Whitney McIntosh,The Little Drummer Girl,Whitney McIntosh
+2023-08-11T04:00:04+00:00,patreon,194,The Little Drummer Girl with Whitney McIntosh,The Little Drummer Girl,Whitney McIntosh
 2023-08-13T04:00:00+00:00,main,438,Thirst with Hoai-Tran Bui,Thirst,Hoai-Tran Bui
 2023-08-20T04:00:00+00:00,main,439,Stoker with Emily St. James,Stoker,Emily St. James
-2023-08-21T04:00:01+00:00,patreon,196,Ocean’s Thirteen,Ocean’s Thirteen,
+2023-08-21T04:00:01+00:00,patreon,195,Ocean’s Thirteen,Ocean’s Thirteen,
 2023-08-27T04:00:00+00:00,main,440, The Handmaiden with Emily Yoshida,The Handmaiden,Emily Yoshida
-2023-09-01T04:00:01+00:00,patreon,197,Ocean's 8,Ocean's 8,
+2023-09-01T04:00:01+00:00,patreon,196,Ocean's 8,Ocean's 8,
 2023-09-03T04:00:00+00:00,main,441,Decision to Leave with Tatiana Maslany,Decision to Leave,Tatiana Maslany
 2023-09-10T04:00:00+00:00,main,442,Alien³ with Matt Singer,Alien³,Matt Singer
-2023-09-11T04:00:03+00:00,patreon,198a,Alien vs. Predator / Aliens vs. Predator: Requiem,Alien vs. Predator,
-2023-09-11T04:00:03+00:00,patreon,198b,Alien vs. Predator / Aliens vs. Predator: Requiem,Aliens vs. Predator: Requiem,
+2023-09-11T04:00:03+00:00,patreon,197a,Alien vs. Predator / Aliens vs. Predator: Requiem,Alien vs. Predator,
+2023-09-11T04:00:03+00:00,patreon,197b,Alien vs. Predator / Aliens vs. Predator: Requiem,Aliens vs. Predator: Requiem,
 2023-09-17T04:00:00+00:00,main,443, Se7en with Mike Mitchell & Nick Wiger,Se7en,Mike Mitchell & Nick Wiger
-2023-09-21T04:00:04+00:00,patreon,199,GoldenEye,GoldenEye,
+2023-09-21T04:00:04+00:00,patreon,198,GoldenEye,GoldenEye,
 2023-09-24T04:00:00+00:00,main,444, The Game with Brendan Hines,The Game,Brendan Hines
 2023-10-01T04:00:00+00:00,main,445,Fight Club with Alex Ross Perry,Fight Club,Alex Ross Perry
-2023-10-01T04:00:05+00:00,patreon,200,Tomorrow Never Dies with Jason Mantzoukas,Tomorrow Never Dies,Jason Mantzoukas
+2023-10-01T04:00:05+00:00,patreon,199,Tomorrow Never Dies with Jason Mantzoukas,Tomorrow Never Dies,Jason Mantzoukas
 2023-10-08T04:00:00+00:00,main,446,Panic Room with Eva Anderson,Panic Room,Eva Anderson
+2023-10-11T04:00:03+00:00,patreon,201,David Fincher Music Videos,David Fincher Music Videos,
 2023-10-15T04:00:00+00:00,main,447,Zodiac with Leslye Headland,Zodiac,Leslye Headland
-2023-10-21T04:00:02+00:00,patreon,203,The World Is Not Enough,The World Is Not Enough,
+2023-10-21T04:00:02+00:00,patreon,202,The World Is Not Enough,The World Is Not Enough,
 2023-10-22T04:00:00+00:00,main,448,The Curious Case of Benjamin Button with Richard Lawson,The Curious Case of Benjamin Button,Richard Lawson
-2023-10-29T20:25:09+00:00,main,449,The Social Network,The Social Network,
-2023-11-01T20:25:09+00:00,patreon,204,Die Another Day,Die Another Day,
-2023-11-05T20:25:09+00:00,main,450,The Girl with the Dragon Tattoo,The Girl with the Dragon Tattoo,the Dragon Tattoo
-2023-11-01T20:25:09+00:00,patreon,205,The Empty Man,The Empty Man,
-2023-11-12T20:25:09+00:00,main,451,Gone Girl,Gone Girl,
-2023-11-16T20:25:09+00:00,patreon,206,Mindhunter,Mindhunter,
-2023-11-19T20:25:09+00:00,main,452,Mank,Mank,
-2023-11-21T20:25:09+00:00,patreon,207,Austin Powers: International Man of Mystery,Austin Powers: International Man of Mystery,
-2023-11-26T20:25:09+00:00,main,453,The Killer,The Killer,
-2023-12-01T20:25:09+00:00,patreon,208,Austin Powers: The Spy Who Shagged Me,Austin Powers: The Spy Who Shagged Me,
-2023-12-03T20:25:09+00:00,main,454,I Love You To Death,I Love You To Death,
-2023-12-10T20:25:09+00:00,main,455,The Boy and the Heron,The Boy and the Heron,
-2023-12-11T20:25:09+00:00,patreon,209,Austin Powers in Goldmember,Austin Powers in Goldmember,
-2023-12-17T20:25:09+00:00,main,456,Maestro,Maestro,
-2023-12-31T20:25:09+00:00,main,457a,Aquaman 2: The Lost Kingdom,Aquaman 2: The Lost Kingdom,
-2023-12-31T20:25:09+00:00,main,457b,Wonka,Wonka,
-2024-01-01T20:25:09+00:00,patreon,211,The Love Guru,The Love Guru,
-2024-01-07T20:25:09+00:00,main,458,Ferrari,Ferrari,
-2024-01-14T20:25:09+00:00,main,459,A Star Is Born,A Star Is Born,
-2024-01-21T20:25:09+00:00,main,460,Yentl,Yentl,
-2024-01-21T20:25:09+00:00,patreon,213,The Terminator,The Terminator,
-2024-01-28T20:25:09+00:00,main,462,The Prince of Tides,The Prince of Tides,
-2024-02-01T20:25:09+00:00,patreon,215,Terminator 2: Judgment Day,Terminator 2: Judgment Day,
-2024-02-04T20:25:09+00:00,main,463,The Mirror Has Two Faces,The Mirror Has Two Faces,
-2024-02-11T20:25:09+00:00,main,464,Nomads,Nomads,
-2024-02-11T20:25:09+00:00,patreon,216,T2 3-D: Battle Across Time,T2 3-D: Battle Across Time,
-2024-02-18T20:25:09+00:00,main,465,Predator,Predator,
-2024-02-21T20:25:09+00:00,patreon,217,Terminator 3: Rise of the Machines,Terminator 3: Rise of the Machines,
-2024-02-25T20:25:09+00:00,main,466,Die Hard,Die Hard,
-2024-03-01T20:25:09+00:00,patreon,218,Terminator Salvation,Terminator Salvation,
-2024-03-10T20:25:09+00:00,main,468,The Hunt for Red October,The Hunt for Red October,
-2024-03-11T20:25:09+00:00,patreon,219,Die Hard 2,Die Hard 2,
-2024-03-17T20:25:09+00:00,main,469,Medicine Man,Medicine Man,
-2024-03-21T20:25:09+00:00,patreon,221,Terminator Genisys,Terminator Genisys,
-2024-03-24T20:25:09+00:00,main,470,Last Action Hero,Last Action Hero,
-2024-03-31T20:25:09+00:00,main,471,Die Hard with a Vengeance,Die Hard with a Vengeance,
-2024-04-07T20:25:09+00:00,main,472,The Thomas Crown Affair,The Thomas Crown Affair,
-2024-04-01T20:25:09+00:00,patreon,222,Terminator: Dark Fate,Terminator: Dark Fate,
-2024-04-14T20:25:09+00:00,main,473,The 13th Warrior,The 13th Warrior,
-2024-04-21T20:25:09+00:00,main,474,Rollerball,Rollerball,
-2024-04-21T20:25:09+00:00,patreon,225,Teenage Mutant Ninja Turtles (1990),Teenage Mutant Ninja Turtles (1990),
-2024-04-28T20:25:09+00:00,main,475,Basic,Basic,
-2024-05-01T20:25:09+00:00,patreon,226,Teenage Mutant Ninja Turtles: The Secret of the Ooze,Teenage Mutant Ninja Turtles: The Secret of the Ooze,
-2024-05-05T20:25:09+00:00,main,476,Perfect Blue,Perfect Blue,
-2024-05-11T20:25:09+00:00,patreon,227,Paranoia Agent,Paranoia Agent,
-2024-05-12T20:25:09+00:00,main,477,Millennium Actress,Millennium Actress,
+2023-10-29T04:00:00+00:00,main,449,The Social Network,The Social Network,
+2023-11-01T04:00:05+00:00,patreon,203,Die Another Day,Die Another Day,
+2023-11-05T04:00:00+00:00,main,450, The Girl with the Dragon Tattoo with Fran Hoepfner,The Girl with the Dragon Tattoo,the Dragon Tattoo
+2023-11-11T05:00:03+00:00,patreon,204,The Empty Man,The Empty Man,
+2023-11-12T05:00:00+00:00,main,451,Gone Girl with Esther Zuckerman,Gone Girl,Esther Zuckerman
+2023-11-19T05:00:00+00:00,main,452,Mank with Sean Fennessey,Mank,Sean Fennessey
+2023-11-21T05:00:02+00:00,patreon,205,Austin Powers: International Man of Mystery,Austin Powers: International Man of Mystery,
+2023-11-26T05:00:00+00:00,main,453,The Killer with Marie Bardi,The Killer,Marie Bardi
+2023-12-01T05:00:03+00:00,patreon,206,Austin Powers: The Spy Who Shagged Me,Austin Powers: The Spy Who Shagged Me,
+2023-12-03T05:00:00+00:00,main,454,I Love You to Death,I Love You to Death,
+2023-12-10T05:00:00+00:00,main,455,The Boy and the Heron with J.D. Amato,The Boy and the Heron,J.D. Amato
+2023-12-11T05:00:04+00:00,patreon,207,Austin Powers in Goldmember,Austin Powers in Goldmember,
+2023-12-17T05:00:00+00:00,main,456,Maestro with Marie Bardi-Salinas,Maestro,Marie Bardi-Salinas
+2023-12-31T05:00:00+00:00,main,457a,Wonkquaman with Marie Bardi-Salinas,Wonka,Marie Bardi-Salinas
+2023-12-31T05:00:00+00:00,main,457b,Wonkquaman with Marie Bardi-Salinas,Aquaman and the Lost Kingdom,Marie Bardi-Salinas
+2024-01-01T05:00:05+00:00,patreon,209,The Love Guru,The Love Guru,
+2024-01-07T05:00:00+00:00,main,458,Ferrari with Bilge Ebiri,Ferrari,Bilge Ebiri
+2024-01-14T05:00:00+00:00,main,459,A Star Is Born (1976) with Rachel Zegler,A Star Is Born (1976),Rachel Zegler
+2024-01-21T05:00:00+00:00,main,460,Yentl with Jordan Hoffman,Yentl,Jordan Hoffman
+2024-01-21T06:47:24+00:00,patreon,211,The Terminator,The Terminator,
+2024-01-24T05:00:00+00:00,main,461,A Conversation with Amy Irving,A Conversation,Amy Irving
+2024-01-28T05:00:00+00:00,main,462,The Prince of Tides with Katey Rich,The Prince of Tides,Katey Rich
+2024-02-01T05:00:11+00:00,patreon,212,Terminator 2: Judgment Day,Terminator 2: Judgment Day,
+2024-02-04T05:00:00+00:00,main,463,The Mirror Has Two Faces with Bobby Finger & Lindsey Weber,The Mirror Has Two Faces,Bobby Finger & Lindsey Weber
+2024-02-11T05:00:00+00:00,main,464,Nomads,Nomads,
+2024-02-11T05:00:03+00:00,patreon,213,T2-3D: Battle Across Bab's Basement,T2-3D: Battle Across Bab's Basement,
+2024-02-18T05:00:00+00:00,main,465,Predator with Jon Gabrus,Predator,Jon Gabrus
+2024-02-21T05:00:04+00:00,patreon,214,Terminator 3: Rise of the Machines,Terminator 3: Rise of the Machines,
+2024-02-25T05:00:00+00:00,main,466,Die Hard with Kevin Smith,Die Hard,Kevin Smith
+2024-03-01T05:00:06+00:00,patreon,216,Terminator Salvation,Terminator Salvation,
+2024-03-10T05:00:00+00:00,main,468,The Hunt For Red October with Jamelle Bouie,The Hunt For Red October,Jamelle Bouie
+2024-03-11T04:00:05+00:00,patreon,217,Die Hard 2: Die Harder,Die Hard 2: Die Harder,
+2024-03-17T04:00:00+00:00,main,469,Medicine Man with Jamie Lee,Medicine Man,Jamie Lee
+2024-03-21T04:00:04+00:00,patreon,219,Terminator Genisys,Terminator Genisys,
+2024-03-24T04:00:00+00:00,main,470,Last Action Hero with Paul Scheer & Jason Mantzoukas,Last Action Hero,Paul Scheer & Jason Mantzoukas
+2024-03-31T04:00:00+00:00,main,471,Die Hard with a Vengeance with Shea Serrano,Die Hard,a Vengeance
+2024-04-01T04:00:07+00:00,patreon,221,Terminator: Dark Fate,Terminator: Dark Fate,
+2024-04-07T04:00:00+00:00,main,472,The Thomas Crown Affair (1999) with Amanda Dobbins,The Thomas Crown Affair (1999),Amanda Dobbins
+2024-04-11T04:00:05+00:00,patreon,222,Sin Eater: The Crimes of Anthony Pellicano,Sin Eater: The Crimes of Anthony Pellicano,
+2024-04-14T04:00:00+00:00,main,473,The 13th Warrior with David Lowery,The 13th Warrior,David Lowery
+2024-04-21T04:00:00+00:00,main,474,Rollerball with Zach Cherry,Rollerball,Zach Cherry
+2024-04-21T04:00:05+00:00,patreon,223,Teenage Mutant Ninja Turtles,Teenage Mutant Ninja Turtles,
+2024-04-28T04:00:00+00:00,main,475,Basic with BenDavid Grabinski,Basic,BenDavid Grabinski
+2024-05-01T04:00:09+00:00,patreon,224,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,
+2024-05-05T04:00:00+00:00,main,476,Perfect Blue with Bowen Yang,Perfect Blue,Bowen Yang
+2024-05-11T04:00:00+00:00,patreon,225,Paranoia Agent with Nick Wiger,Paranoia Agent,Nick Wiger
+2024-05-12T04:00:00+00:00,main,477,Millennium Actress with Hoai-Tran Bui,Millennium Actress,Hoai-Tran Bui
 2024-05-19T20:25:09+00:00,main,478,Tokyo Godfathers,Tokyo Godfathers,
-2024-05-21T20:25:09+00:00,patreon,228,Teenage Mutant Ninja Turtles III,Teenage Mutant Ninja Turtles III,
+2024-05-21T20:25:09+00:00,patreon,226,Teenage Mutant Ninja Turtles III,Teenage Mutant Ninja Turtles III,
 2024-05-26T20:25:09+00:00,main,479,Paprika,Paprika,
-2024-06-01T20:25:09+00:00,patreon,229,TMNT,TMNT,
-2024-06-21T20:25:09+00:00,patreon,231,Teenage Mutant Ninja Turtles (2014),Teenage Mutant Ninja Turtles (2014),
-2024-07-01T20:25:09+00:00,patreon,232,Teenage Mutant Ninja Turtles: Out of the Shadows,Teenage Mutant Ninja Turtles: Out of the Shadows,
-2024-07-21T20:25:09+00:00,patreon,234,Teenage Mutant Ninja Turtles: Mutant Mayhem,Teenage Mutant Ninja Turtles: Mutant Mayhem,
+2024-06-01T20:25:09+00:00,patreon,227,TMNT,TMNT,
+2024-06-21T20:25:09+00:00,patreon,229,Teenage Mutant Ninja Turtles (2014),Teenage Mutant Ninja Turtles (2014),
+2024-07-01T20:25:09+00:00,patreon,230,Teenage Mutant Ninja Turtles: Out of the Shadows,Teenage Mutant Ninja Turtles: Out of the Shadows,
+2024-07-21T20:25:09+00:00,patreon,232,Teenage Mutant Ninja Turtles: Mutant Mayhem,Teenage Mutant Ninja Turtles: Mutant Mayhem,
 2024-05-26T20:25:09+00:00,main,479b,Hot Tomorrows,Hot Tomorrows,
 2024-05-26T20:25:09+00:00,main,480,Going in Style,Going in Style,
 2024-05-26T20:25:09+00:00,main,481,Beverly Hills Cop,Beverly Hills Cop,
@@ -664,16 +669,16 @@ date,feed,ep_num,title,movie,guest
 2024-08-01T20:25:09+00:00,main,494,Mulholland Drive,Mulholland Drive,
 2024-08-01T20:25:09+00:00,main,495,Inland Empire,Inland Empire,
 2024-08-01T20:25:09+00:00,main,497,Twin Peaks The Return,Twin Peaks The Return,
-2024-08-01T20:25:09+00:00,patreon,235,Clue,Clue,
-2024-08-21T20:25:09+00:00,patreon,237,Battleship,Battleship,
-2024-09-01T20:25:09+00:00,patreon,238,Dungeons & Dragons,Dungeons & Dragons,
-2024-09-21T20:25:09+00:00,patreon,240,Dungeons & Dragons: Honor Among Thieves,Dungeons & Dragons: Honor Among Thieves,
-2024-10-01T20:25:09+00:00,patreon,241,Ouija,Ouija,
-2024-10-01T20:25:09+00:00,patreon,242,Twin Peaks season 2,Twin Peaks season 2,
-2024-10-21T20:25:09+00:00,patreon,243,Ouija: Origin of Evil,Ouija: Origin of Evil,
-2024-11-01T20:25:09+00:00,patreon,244,Analyze This,Analyze This,
-2024-11-21T20:25:09+00:00,patreon,246,Mickey Blue Eyes,Mickey Blue Eyes,
-2024-12-01T20:25:09+00:00,patreon,247,Analyze That,Analyze That,
+2024-08-01T20:25:09+00:00,patreon,233,Clue,Clue,
+2024-08-21T20:25:09+00:00,patreon,235,Battleship,Battleship,
+2024-09-01T20:25:09+00:00,patreon,236,Dungeons & Dragons,Dungeons & Dragons,
+2024-09-21T20:25:09+00:00,patreon,238,Dungeons & Dragons: Honor Among Thieves,Dungeons & Dragons: Honor Among Thieves,
+2024-10-01T20:25:09+00:00,patreon,239,Ouija,Ouija,
+2024-10-01T20:25:09+00:00,patreon,240,Twin Peaks season 2,Twin Peaks season 2,
+2024-10-21T20:25:09+00:00,patreon,241,Ouija: Origin of Evil,Ouija: Origin of Evil,
+2024-11-01T20:25:09+00:00,patreon,242,Analyze This,Analyze This,
+2024-11-21T20:25:09+00:00,patreon,244,Mickey Blue Eyes,Mickey Blue Eyes,
+2024-12-01T20:25:09+00:00,patreon,245,Analyze That,Analyze That,
 2024-01-03T20:25:09+00:00,main,500,Furiosa,Furiosa,
 2024-01-03T20:25:09+00:00,main,501,Trap,Trap,
 2024-01-03T20:25:09+00:00,main,502,Beetlejuice Beetlejuice,Beetlejuice Beetlejuice

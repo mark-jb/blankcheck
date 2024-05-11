@@ -20,6 +20,8 @@ def add_feed(filename, shortform, dateformat):
     for episode in reversed(items):
         date = episode.find('.//pubDate')
         title = episode.find('.//title')
+        if title.text == 'Blank Check with Griffin & David Trailer':
+            continue
         #print(date.text, title.text)
         date = datetime.datetime.strptime(date.text, dateformat)
         date = date.replace(tzinfo=timezone.utc)

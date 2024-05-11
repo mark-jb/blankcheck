@@ -45,6 +45,7 @@ replacements = { "main": {
         "143": 5548,  # Robert Cop
         "144": 861,   # Total Recall
         "151": 15698, # Running Scared
+        "170": 1000100, #aFamily Dog
         "173": 4584,  # Sense and Sensibility
         "174a": 76492, # Hotel Transylvania
         "177": 146,   # Crouching Tiger Hidden Dragon
@@ -122,6 +123,7 @@ replacements = { "main": {
         "444": 2649,  # the game
         "450": 65754, # Dragon tatoo
         "459": 19610, # A Star Is Born
+        "472": 913, # The Thomas Crown Affair 
         "474": 11535, # Rollerball 
         "479": 4977,  # Paprika
         "487": 841,  # Dune
@@ -188,14 +190,15 @@ replacements = { "main": {
         "184f": "45807",   # Buster Keaton Shorts
         "189": "299",    # Ocean's 11 (1960)
         "192": "161",    # Ocean's 11
-        "195": 1000030, # Little Drummer Girl
-        "216": 1000090, # T2: 3-D
-        "225": "1498", # TMNT 1
-        "227": 1000001, # Paranoia Agent
-        "228": "1499", # TMNT 3 
-        "229": "1273", # TMNT 4 
-        "231": "98566", # TMNT 5 
-        "242": 1000052 # Twin Peaks season 2
+        "194": 1000030, # Little Drummer Girl
+        "201": 1000110, # Fincher Music Videos
+        "213": 1000090, # T2: 3-D
+        "223": "1498", # TMNT 1
+        "225": 1000001, # Paranoia Agent
+        "226": "1499", # TMNT 3 
+        "227": "1273", # TMNT 4 
+        "229": "98566", # TMNT 5 
+        "240": 1000052 # Twin Peaks season 2
     }
 }
 

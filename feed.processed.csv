@@ -101,7 +101,7 @@ date,feed,ep_num,title
 2017-03-18T00:00:00+00:00,main,100,Blank Check
 2017-03-26T00:00:00+00:00,main,101,The Terminal with Jerah Milligan
 2017-04-03T00:00:00+00:00,main,102,War of the Worlds with J.D. Amato
-2017-04-10T00:00:00+00:00,main,103,Munich with Todd VanDerWerff
+2017-04-10T00:00:00+00:00,main,103,Munich with Emily St. James
 2017-04-16T00:00:00+00:00,main,104,Indiana Jones and the Kingdom of the Crystal Skull with David Ehrlich
 2017-04-23T00:00:00+00:00,main,105,The Adventures of Tintin with Joe Garden
 2017-04-30T00:00:00+00:00,main,106,War Horse with Pilot Viruet
@@ -223,7 +223,7 @@ date,feed,ep_num,title
 2019-03-24T04:00:00+00:00,main,209,Sweeney Todd: The Demon Barber of Fleet Street with Michael Cerveris
 2019-03-24T04:01:00+00:00,patreon,14,The U.K. Bit with Michael Cerveris
 2019-03-29T04:00:01+00:00,patreon,15,March Madness 2019 Recap - Round 3 with Alex Ross Perry
-2019-03-31T05:44:15+00:00,main,210,Alice in Wonderland with Todd VanDerWerff
+2019-03-31T05:44:15+00:00,main,210,Alice in Wonderland with Emily St. James
 2019-04-01T04:01:00+00:00,patreon,16,Iron Man 3
 2019-04-07T04:00:00+00:00,main,211,Dark Shadows with Jamie Loftus
 2019-04-11T21:01:00+00:00,patreon,17,Frankenweenie with Jordan Fish
@@ -295,7 +295,7 @@ date,feed,ep_num,title
 2020-01-01T05:01:00+00:00,patreon,44,Solo
 2020-01-05T05:00:00+00:00,main,251,Married to the Mob with Ang Ferraguto
 2020-01-11T05:00:59+00:00,patreon,45,Marvel Performance Review Special with Chris Gethard
-2020-01-12T05:00:00+00:00,main,252,Silence of the Lambs with Emily Vanderwerff
+2020-01-12T05:00:00+00:00,main,252,Silence of the Lambs with Emily St. James
 2020-01-19T05:00:00+00:00,main,253,Philadelphia with Richard Lawson
 2020-01-21T05:01:04+00:00,patreon,46,Rogue One with Chris Weitz
 2020-01-26T05:00:00+00:00,main,254,Beloved with Jourdain Searles 
@@ -383,7 +383,7 @@ date,feed,ep_num,title
 2020-12-01T05:01:01+00:00,patreon,82,Prometheus
 2020-12-06T05:00:00+00:00,main,301,Beowulf with Jordan Hoffman
 2020-12-11T05:16:20+00:00,patreon,83,Drive-In Special
-2020-12-13T05:34:10+00:00,main,302,A Christmas Carol with Emily VanDerWerff
+2020-12-13T05:34:10+00:00,main,302,A Christmas Carol with Emily St. James
 2020-12-20T05:00:00+00:00,main,303,Flight with Olivia Craighead
 2020-12-21T05:00:02+00:00,patreon,84,Alien: Covenant
 2020-12-27T05:30:00+00:00,main,304,The Walk with J.D. Amato
@@ -452,7 +452,7 @@ date,feed,ep_num,title
 2021-09-01T04:01:03+00:00,patreon,112,Riddick
 2021-09-05T04:00:00+00:00,main,340,Escape from New York with Karen Han
 2021-09-11T04:01:01+00:00,patreon,113,Someone's Watching Me!
-2021-09-12T04:00:00+00:00,main,341,The Thing with Emily VanDerWerff
+2021-09-12T04:00:00+00:00,main,341,The Thing with Emily St. James
 2021-09-19T04:00:00+00:00,main,342,Christine with Scott Wampler & Eric Vespe
 2021-09-21T04:00:02+00:00,patreon,114,Someone's Watching Me! (Someone’s Listening to Me! 3D Edition)
 2021-09-22T04:00:24+00:00,patreon,115,The Mummy (1999)
@@ -628,36 +628,76 @@ date,feed,ep_num,title
 2023-07-23T04:00:00+00:00,main,435,Mission: Impossible - Dead Reckoning Part One with Marie Bardi
 2023-07-30T04:00:00+00:00,main,436,Oppenheimer with Marie Bardi
 2023-08-01T04:00:04+00:00,patreon,193,Ocean's Twelve
-2023-08-05T14:16:10+00:00,patreon,194,Blank Check presents...Congratulations
 2023-08-06T04:00:00+00:00,main,437,"I'm a Cyborg, But That's OK with Karen Chee"
-2023-08-11T04:00:04+00:00,patreon,195,The Little Drummer Girl with Whitney McIntosh
+2023-08-11T04:00:04+00:00,patreon,194,The Little Drummer Girl with Whitney McIntosh
 2023-08-13T04:00:00+00:00,main,438,Thirst with Hoai-Tran Bui
 2023-08-20T04:00:00+00:00,main,439,Stoker with Emily St. James
-2023-08-21T04:00:01+00:00,patreon,196,Ocean’s Thirteen
+2023-08-21T04:00:01+00:00,patreon,195,Ocean’s Thirteen
 2023-08-27T04:00:00+00:00,main,440, The Handmaiden with Emily Yoshida
-2023-09-01T04:00:01+00:00,patreon,197,Ocean's 8
+2023-09-01T04:00:01+00:00,patreon,196,Ocean's 8
 2023-09-03T04:00:00+00:00,main,441,Decision to Leave with Tatiana Maslany
 2023-09-10T04:00:00+00:00,main,442,Alien³ with Matt Singer
-2023-09-11T04:00:03+00:00,patreon,198,Alien vs. Predator / Aliens vs. Predator: Requiem
+2023-09-11T04:00:03+00:00,patreon,197,Alien vs. Predator / Aliens vs. Predator: Requiem
 2023-09-17T04:00:00+00:00,main,443, Se7en with Mike Mitchell & Nick Wiger
-2023-09-21T04:00:04+00:00,patreon,199,GoldenEye
+2023-09-21T04:00:04+00:00,patreon,198,GoldenEye
 2023-09-24T04:00:00+00:00,main,444, The Game with Brendan Hines
 2023-10-01T04:00:00+00:00,main,445,Fight Club with Alex Ross Perry
-2023-10-01T04:00:05+00:00,patreon,200,Tomorrow Never Dies with Jason Mantzoukas
-2023-10-01T04:00:05+00:00,patreon,201,Fight Club with Alex Ross Perry (The First Rule Cut)
+2023-10-01T04:00:05+00:00,patreon,199,Tomorrow Never Dies with Jason Mantzoukas
+2023-10-01T04:00:05+00:00,patreon,200,Fight Club with Alex Ross Perry (The First Rule Cut)
 2023-10-08T04:00:00+00:00,main,446,Panic Room with Eva Anderson
-2023-10-11T04:00:03+00:00,patreon,202,David Fincher Music Videos
+2023-10-11T04:00:03+00:00,patreon,201,David Fincher Music Videos
 2023-10-15T04:00:00+00:00,main,447,Zodiac with Leslye Headland
-2023-10-21T04:00:02+00:00,patreon,203,The World Is Not Enough
+2023-10-21T04:00:02+00:00,patreon,202,The World Is Not Enough
 2023-10-22T04:00:00+00:00,main,448,The Curious Case of Benjamin Button with Richard Lawson
-2023-10-29T20:25:09+00:00,main,449,The Social Network
-2023-11-01T20:25:09+00:00,patreon,204,Die Another Day
-2023-11-05T20:25:09+00:00,main,450,The Girl with the Dragon Tattoo
-2023-11-01T20:25:09+00:00,patreon,205,The Empty Man
-2023-11-12T20:25:09+00:00,main,451,Gone Girl
-2023-11-16T20:25:09+00:00,patreon,206,Mindhunter
-2023-11-19T20:25:09+00:00,main,452,Mank
-2023-11-26T20:25:09+00:00,main,453,The Killer
-2023-09-03T20:25:09+00:00,main,500,Ferrari
-2023-09-03T20:25:09+00:00,main,501,The Boy and the Heron
-2023-09-03T20:25:09+00:00,main,502,Maestro
+2023-10-29T04:00:00+00:00,main,449,The Social Network
+2023-11-01T04:00:05+00:00,patreon,203,Die Another Day
+2023-11-05T04:00:00+00:00,main,450, The Girl with the Dragon Tattoo with Fran Hoepfner
+2023-11-11T05:00:03+00:00,patreon,204,The Empty Man
+2023-11-12T05:00:00+00:00,main,451,Gone Girl with Esther Zuckerman
+2023-11-19T05:00:00+00:00,main,452,Mank with Sean Fennessey
+2023-11-21T05:00:02+00:00,patreon,205,Austin Powers: International Man of Mystery
+2023-11-26T05:00:00+00:00,main,453,The Killer with Marie Bardi
+2023-12-01T05:00:03+00:00,patreon,206,Austin Powers: The Spy Who Shagged Me
+2023-12-03T05:00:00+00:00,main,454,I Love You to Death
+2023-12-10T05:00:00+00:00,main,455,The Boy and the Heron with J.D. Amato
+2023-12-11T05:00:04+00:00,patreon,207,Austin Powers in Goldmember
+2023-12-17T05:00:00+00:00,main,456,Maestro with Marie Bardi-Salinas
+2023-12-21T05:00:06+00:00,patreon,208,Talking the Walk 2023: Pitching the Walk with J.D. Amato
+2023-12-31T05:00:00+00:00,main,457,Wonkquaman with Marie Bardi-Salinas
+2024-01-01T05:00:05+00:00,patreon,209,The Love Guru
+2024-01-07T05:00:00+00:00,main,458,Ferrari with Bilge Ebiri
+2024-01-11T05:00:03+00:00,patreon,210,The Eighth Blank Check Mailbag
+2024-01-14T05:00:00+00:00,main,459,A Star Is Born (1976) with Rachel Zegler
+2024-01-21T05:00:00+00:00,main,460,Yentl with Jordan Hoffman
+2024-01-21T06:47:24+00:00,patreon,211,The Terminator
+2024-01-24T05:00:00+00:00,main,461,A Conversation with Amy Irving
+2024-01-28T05:00:00+00:00,main,462,The Prince of Tides with Katey Rich
+2024-02-01T05:00:11+00:00,patreon,212,Terminator 2: Judgment Day
+2024-02-04T05:00:00+00:00,main,463,The Mirror Has Two Faces with Bobby Finger & Lindsey Weber
+2024-02-11T05:00:00+00:00,main,464,Nomads
+2024-02-11T05:00:03+00:00,patreon,213,T2-3D: Battle Across Bab's Basement
+2024-02-18T05:00:00+00:00,main,465,Predator with Jon Gabrus
+2024-02-21T05:00:04+00:00,patreon,214,Terminator 3: Rise of the Machines
+2024-02-25T05:00:00+00:00,main,466,Die Hard with Kevin Smith
+2024-02-29T17:46:23+00:00,patreon,215,2024 MARCH MADNESS PREVIEW
+2024-03-01T05:00:06+00:00,patreon,216,Terminator Salvation
+2024-03-03T05:00:00+00:00,main,467,The Ninth Annual Blank Check Awards with Joe Reid
+2024-03-10T05:00:00+00:00,main,468,The Hunt For Red October with Jamelle Bouie
+2024-03-11T04:00:05+00:00,patreon,217,Die Hard 2: Die Harder
+2024-03-17T04:00:00+00:00,main,469,Medicine Man with Jamie Lee
+2024-03-19T21:20:17+00:00,patreon,218,2024 March Madness Update 1
+2024-03-21T04:00:04+00:00,patreon,219,Terminator Genisys
+2024-03-24T04:00:00+00:00,main,470,Last Action Hero with Paul Scheer & Jason Mantzoukas
+2024-03-29T14:02:56+00:00,patreon,220,2024 March Madness Update 2
+2024-03-31T04:00:00+00:00,main,471,Die Hard with a Vengeance with Shea Serrano
+2024-04-01T04:00:07+00:00,patreon,221,Terminator: Dark Fate
+2024-04-07T04:00:00+00:00,main,472,The Thomas Crown Affair (1999) with Amanda Dobbins
+2024-04-11T04:00:05+00:00,patreon,222,Sin Eater: The Crimes of Anthony Pellicano
+2024-04-14T04:00:00+00:00,main,473,The 13th Warrior with David Lowery
+2024-04-21T04:00:00+00:00,main,474,Rollerball with Zach Cherry
+2024-04-21T04:00:05+00:00,patreon,223,Teenage Mutant Ninja Turtles
+2024-04-28T04:00:00+00:00,main,475,Basic with BenDavid Grabinski
+2024-05-01T04:00:09+00:00,patreon,224,Teenage Mutant Ninja Turtles II: The Secret of the Ooze
+2024-05-05T04:00:00+00:00,main,476,Perfect Blue with Bowen Yang
+2024-05-11T04:00:00+00:00,patreon,225,Paranoia Agent with Nick Wiger
+2024-05-12T04:00:00+00:00,main,477,Millennium Actress with Hoai-Tran Bui
