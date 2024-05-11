@@ -61,7 +61,7 @@ def get_actor_id(actor):
     return actor
 
 def create_actor(actor_id, actor):
-    name = actor["original_name"]
+    name = actor["name"]
     master_cast_list[actor_id] = {}
     master_cast_list[actor_id]["name"] = name
     master_cast_list[actor_id]["info"] = actor
@@ -132,7 +132,7 @@ with open(in_csv, mode='r') as csv_movielist:
         if int(movie_id) < 1000000: # don't bother if TV
             movie_cast = get_cast_from_id(movie_id)
             for actor in movie_cast:
-                print('Adding movie {:s} to actor {:s}'.format(movie, actor["original_name"]))
+                print('Adding movie {:s} to actor {:s}'.format(movie, actor["name"]))
                 actor_id = actor["id"]
                 if not actor["id"] in master_cast_list:
                     create_actor(actor_id, actor)

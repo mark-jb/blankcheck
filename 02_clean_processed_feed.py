@@ -9,8 +9,8 @@ import re
 import string
 
 new_list = []
-main_ep_nums_delete = [2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,25,26,27,28,29,31,32,33,39,83,86,89,90,91,122,125,158,170,228,263]
-patreon_ep_nums_delete = [1,5,14,20,21,27,30,33,39,45,47,49,65,77,80,89,101,114,118,124,142,147,165,187,190,191,194,201,202]
+main_ep_nums_delete = [2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,25,26,27,28,29,31,32,33,39,83,86,89,90,91,122,125,158,170,263]
+patreon_ep_nums_delete = [1,5,14,20,21,27,30,33,39,45,47,49,65,77,89,101,114,118,124,142,147,165,187,190,191,194,201,202]
 
 main_replacements = {
         "1": ["Star Wars: The Phantom Menace"],
@@ -50,6 +50,7 @@ patreon_replacements = {
         "69": ["Mission: Impossible II"],
         "70": ["Mission: Impossible III"],
         "79": ["Alien3"],
+        "80": ["Tales from the Crypt: And All Through the Night","Tales from the Crypt: Yellow","Tales from the Crypt: You, Murderer"],
         "83": ["Armageddon"],
         "93": ["The Return of Jafar","Aladdin and the King of Thieves"],
         "98": ["Ömer the Tourist in Star Trek"],

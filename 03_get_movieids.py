@@ -24,6 +24,7 @@ replacements = { "main": {
         "54": "603",    # The Matrix
         "60": 1000040, # Sense8
         "62": "9749",   # Fletch
+        "68": 1000080,  # Denim Invasion
         "69": "297761", # Suicide Squad
         "72": "222936", # Aloha
         "73": 1000020, # Roadies
@@ -71,6 +72,7 @@ replacements = { "main": {
         "258a": "982",   # Manchurian Candidate
         "258b": "14462", # Manchurian Candidate
         "264": "9659",  # Mad Max
+        "273": 1000060, # 20,000 feet
         "279": "2928",  # Michael
         "297": "686" ,  # Contact
         "302": "17979", # Christmas Carol
@@ -146,6 +148,9 @@ replacements = { "main": {
         "69": "955",    # Mission Impossible 2
         "76": "348",    # Alien
         "78": "679",    # Aliens
+        "80a": 1000070, # TftC: 1
+        "80b": 1000071, # TftC: 2
+        "80c": 1000072, # TftC: 3
         "105": "24021", # Twilight Eclipse
         "115": "564",   # The Mummy
         "117": "40047", # Elvis
@@ -187,7 +192,7 @@ replacements = { "main": {
         "228": "1499", # TMNT 3 
         "229": "1273", # TMNT 4 
         "231": "98566", # TMNT 5 
-        "490": 1000052 # Twin Peaks season 2
+        "242": 1000052 # Twin Peaks season 2
     }
 }
 
