@@ -16,18 +16,21 @@ replacements = { "main": {
         "23a": "22059",   # Fantastic Four 2004
         "23b": "9738",   # Fantastic Four 2004
         "23d": "166424", # Fantastic Four 2015
+        "30": "1000002", # Star Wars: The Clone Wars
         "34": "11",      # Star Wars
         "37": "140607",  # The Force Awakens
         "45": "6947",   # The Village
         "52": "9303",   # Bound
         "54": "603",    # The Matrix
+        "60": 1000040, # Sense8
         "62": "9749",   # Fletch
+        "69": "297761", # Suicide Squad
         "72": "222936", # Aloha
+        "73": 1000020, # Roadies
         "77": "679",    # Aliens
         "79": "280",    # T2
         "82": "597",    # Titanic
         "85": "19995",  # Avatar
-        "69": "297761", # Suicide Squad
         "102": "74",    # War of the Worlds
         "103": "612",   # Munich
         "107": "72976", # Lincoln
@@ -57,6 +60,7 @@ replacements = { "main": {
         "226a": "420818", # Lion King
         "226b": "536869", # Cats
         "227": "11322",  # Public Enemies
+        "228": 1000003, # Miami Vice Pilot
         "232": "10515",  # Castle in the Sky
         "233": "8392",   # My Neighbour Totoro
         "237": "129",    # Spirited Away
@@ -114,9 +118,11 @@ replacements = { "main": {
         "444": "2649",  # the game
         "450": "65754", # Dragon tatoo
         "459": "19610", # A Star Is Born
-        "474": "11535",  # Rollerball 
+        "474": "11535", # Rollerball 
         "479": "4977",  # Paprika
         "487": "841",  # Dune
+        "490": 1000051, # Twin Peaks season 1
+        "497": 1000053, # Twin Peaks the return
         "503": "537921", # Fixed
         "504": "940139" # Here
     },
@@ -150,8 +156,10 @@ replacements = { "main": {
         "126": "620",    # Ghostbusters
         "128": "2978",   # Ghostbusters 2
         "129": "43074",  # Ghostbusters 2016
+        "130": 1000010,  # Top of the Lake
         "131": "425909", # Ghostbusters Afterlife
         "133": "603",    # The Matrix
+        "134": 1000011,  # Top of the Lake season 2
         "139": "109428", # Evil dead 2013
         "141": "2661",   # Batman 1966
         "148": "209112", # Batman v Superman
@@ -173,16 +181,20 @@ replacements = { "main": {
         "184f": "45807",   # Buster Keaton Shorts
         "189": "299",    # Ocean's 11 (1960)
         "192": "161",    # Ocean's 11
+        "195": 1000030, # Little Drummer Girl
         "225": "1498", # TMNT 1
-        "227": "1000001", # Paranoia Agent
+        "227": 1000001, # Paranoia Agent
         "228": "1499", # TMNT 3 
         "229": "1273", # TMNT 4 
-        "231": "98566" # TMNT 5 
+        "231": "98566", # TMNT 5 
+        "490": 1000052 # Twin Peaks season 2
     }
 }
 
 def get_movie_data_from_id(movie_id):
     """ Get a movie details from id"""
+    if int(movie_id) > 1000000:
+        return {'release_date': '9999-09-09', 'id':movie_id, 'vote_average': 7, 'original_title': 'Television override'}
     url = 'https://api.themoviedb.org/3/movie/' + movie_id + '?api_key=' + key
     response = session.get(url)
     responsedict = response.json()

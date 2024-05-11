@@ -9,7 +9,7 @@ import re
 import string
 
 new_list = []
-main_ep_nums_delete = [2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,25,26,27,28,29,30,31,32,33,39,83,86,89,90,91,122,125,158,170,228,263]
+main_ep_nums_delete = [2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,25,26,27,28,29,31,32,33,39,83,86,89,90,91,122,125,158,170,228,263]
 patreon_ep_nums_delete = [1,5,14,20,21,27,30,33,39,45,47,49,65,77,80,89,101,114,118,124,142,147,165,187,190,191,194,201,202]
 
 main_replacements = {
@@ -18,6 +18,7 @@ main_replacements = {
         "13": ["Star Wars: Attack of the Clones"],
         "23": ["The Fantastic Four", "Fantastic Four", "Fantastic Four: Rise of the Silver Surfer", "Fant4stic"],
         "24": ["Star Wars: Revenge of the Sith"],
+        "30": ["Star Wars: The Clone Wars"],
         "34": ["Star Wars: A New Hope"],
         "35": ["Star Wars: The Empire Strikes Back"],
         "36": ["Star Wars: Return of the Jedi"],
