@@ -126,9 +126,9 @@ replacements = { "main": {
         "472": 913, # The Thomas Crown Affair 
         "474": 11535, # Rollerball 
         "479": 4977,  # Paprika
-        "487": 841,  # Dune
-        "490": 1000051, # Twin Peaks season 1
-        "497": 1000053, # Twin Peaks the return
+        "497": 841,  # Dune
+        "500": 1000051, # Twin Peaks season 1
+        "506": 1000053, # Twin Peaks the return
         "503": 537921, # Fixed
         "504": 940139 # Here
     },
@@ -241,6 +241,8 @@ out_csv = 'movies.with.ids.csv'
 new_master_list = []
 failures = []
 id_map = {}
+id_map_old = {}
+id_map_new = {}
 
 debug = False
 if debug:
@@ -262,7 +264,8 @@ with open(in_existing_csv, mode='r') as csv_idlist:
     csv_reader = csv.DictReader(csv_idlist)
     for row in csv_reader:
         print('Caching {:s} -> {:s}'.format(row["feed"]+row["ep_num"], row["movie_id"]))
-        id_map[row["feed"]+row["ep_num"]] = row["movie_id"]
+        id_map_old[row["feed"]+row["ep_num"]] = int(row["movie_id"])
+        id_map[int(row["movie_id"])] = row["movie"]
 
 # Read list of movies
 with open(in_csv, mode='r') as csv_movielist:
@@ -293,6 +296,8 @@ with open(in_csv, mode='r') as csv_movielist:
             if (movie != movie_data['original_title']):
                 print("\tWARNING: '{:s}' does not match ({:s} {:s})".format(movie,row["feed"],row["ep_num"]))
             new_master_list.append(row)
+            id_map_new[row["feed"]+row["ep_num"]] = int(row["movie_id"])
+            id_map[int(row["movie_id"])] = row["movie_original_title"]
         else:
             print("\tWARNING: Movie '{:s}' not found".format(movie))
             failures.append(movie)
@@ -308,7 +313,28 @@ with open(out_csv, 'w', newline='') as f:
     for e in new_master_list:
         writer.writerow(e)
 
-print("\nFailures:")
-for fail in failures:
-    print(fail)
-     
+if failures:
+    print("\nFailures:")
+    for fail in failures:
+        print(fail)
+
+intersection_ids = sorted(id_map_new.keys() & id_map_old.keys())
+#print(id_map_old)
+#print(id_map_new)
+#print(id_map)
+#print(intersection_ids)
+print("Audit of Changes:")
+for episode in intersection_ids:
+    if id_map_new[episode] != id_map_old[episode]:
+        print("{} is changed from {}: {} to {}: {}".format(episode, id_map_old[episode], id_map[id_map_old[episode]], id_map_new[episode], id_map[id_map_new[episode]]))
+
+for episode, movie_id in id_map_new.items():
+    if episode not in intersection_ids:
+        print("{} is added. ID {}: {}".format(episode, id_map_new[episode], id_map[id_map_new[episode]]))
+
+for episode, movie_id in id_map_old.items():
+    if episode not in intersection_ids:
+        print("{} is removed. ID {}: {}".format(episode, id_map_old[episode], id_map[id_map_old[episode]]))
+        
+
+
