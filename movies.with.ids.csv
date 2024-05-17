@@ -7,7 +7,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2015-09-14T18:21:55+00:00,main,23c,The Podcastic Two,Fantastic Four: Rise of the Silver Surfer,,1979,Fantastic Four: Rise of the Silver Surfer,2007-06-13,5.603
 2015-09-14T18:21:55+00:00,main,23d,The Podcastic Two,Fant4stic,,166424,Fantastic Four,2015-08-05,4.418
 2015-09-21T20:23:38+00:00,main,24,The Beginning of The End - Revenge Of The Podcast,Star Wars: Revenge of the Sith,,1895,Star Wars: Episode III - Revenge of the Sith,2005-05-17,7.424
-2015-11-07T00:08:28+00:00,main,30,The Clone Wars Animated Series with Jonathan Braylock - Revenge Of The Podcast,Star Wars: The Clone Wars,Jonathan Braylock - Revenge Of The Podcast,1000002,Television override,9999-09-09,7
+2015-11-07T00:08:28+00:00,main,30,The Clone Wars Animated Series with Jonathan Braylock - Revenge Of The Podcast,Star Wars: The Clone Wars,Jonathan Braylock - Revenge Of The Podcast,10000002,Television override,9999-09-09,7
 2015-12-07T07:15:24+00:00,main,34,A New Podcast,Star Wars: A New Hope,,11,Star Wars,1977-05-25,8.203
 2015-12-14T20:59:35+00:00,main,35,The Podcast Strikes Back,Star Wars: The Empire Strikes Back,,1891,The Empire Strikes Back,1980-05-20,8.39
 2015-12-17T05:00:00+00:00,main,36,Return of the Podcast,Star Wars: Return of the Jedi,,1892,Return of the Jedi,1983-05-25,7.894
@@ -33,7 +33,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2016-05-16T16:59:37+00:00,main,57,Speed Racer with Emily Yoshida and J.D. Amato,Speed Racer,Emily Yoshida and J.D. Amato,7459,Speed Racer,2008-05-07,6.258
 2016-05-20T00:00:00+00:00,main,58,Cloud Atlas with Bobby Finger,Cloud Atlas,Bobby Finger,83542,Cloud Atlas,2012-10-26,6.885
 2016-05-27T22:45:02+00:00,main,59,Jupiter Ascending,Jupiter Ascending,,76757,Jupiter Ascending,2015-02-04,5.451
-2016-06-03T23:19:16+00:00,main,60,Sense8,Sense8,,1000040,Television override,9999-09-09,7
+2016-06-03T23:19:16+00:00,main,60,Sense8,Sense8,,10000040,Television override,9999-09-09,7
 2016-06-10T18:46:53+00:00,main,61,The Animatrix,The Animatrix,,55931,The Animatrix,2003-05-09,7.186
 2016-06-17T20:09:34+00:00,main,62,Fletch,Fletch,,9749,Fletch,1985-05-31,6.747
 2016-06-23T15:41:18+00:00,main,63,Say Anything…,Say Anything…,,2028,Say Anything...,1989-04-14,7.053
@@ -41,12 +41,12 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2016-07-07T17:33:40+00:00,main,65,Jerry Maguire,Jerry Maguire,,9390,Jerry Maguire,1996-12-13,6.961
 2016-07-15T19:18:49+00:00,main,66,Almost Famous,Almost Famous,,786,Almost Famous,2000-09-15,7.5
 2016-07-22T23:01:51+00:00,main,67,Vanilla Sky with Richard Lawson,Vanilla Sky,Richard Lawson,1903,Vanilla Sky,2001-12-14,6.819
-2016-07-26T20:59:32+00:00,main,68,Denim Invasion Live @ DCM18 with John Trowbridge,Denim Invasion Live @ DCM18,John Trowbridge,1000080,Television override,9999-09-09,7
+2016-07-26T20:59:32+00:00,main,68,Denim Invasion Live @ DCM18 with John Trowbridge,Denim Invasion Live @ DCM18,John Trowbridge,10000080,Television override,9999-09-09,7
 2016-08-06T22:42:43+00:00,main,69,Suicide Squad,Suicide Squad,,297761,Suicide Squad,2016-08-03,5.912
 2016-08-11T19:54:10+00:00,main,70,Elizabethtown,Elizabethtown,,9621,Elizabethtown,2005-10-14,6.191
 2016-08-22T00:22:05+00:00,main,71,We Bought a Zoo,We Bought a Zoo,,74465,We Bought a Zoo,2011-12-08,6.78
 2016-08-26T22:38:02+00:00,main,72,Aloha with Esther Zuckerman,Aloha,Esther Zuckerman,222936,Aloha,2015-05-29,5.494
-2016-09-04T21:16:18+00:00,main,73,Roadies with Layne Montgomery,Roadies,Layne Montgomery,1000020,Television override,9999-09-09,7
+2016-09-04T21:16:18+00:00,main,73,Roadies with Layne Montgomery,Roadies,Layne Montgomery,10000020,Television override,9999-09-09,7
 2016-09-07T17:11:30+00:00,main,74,Under Siege 2: Dark Territory,Under Siege 2: Dark Territory,,3512,Under Siege 2: Dark Territory,1995-07-13,5.822
 2016-09-18T22:00:00+00:00,main,75,Piranha II: The Spawning,Piranha II: The Spawning,,31646,Piranha II: The Spawning,1982-08-14,4.3
 2016-09-25T22:00:00+00:00,main,76,The Terminator with Rachel Sanders,The Terminator,Rachel Sanders,218,The Terminator,1984-10-26,7.664
@@ -90,7 +90,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2017-07-30T21:00:00+00:00,main,119,The Dark Knight,The Dark Knight,,155,The Dark Knight,2008-07-16,8.515
 2017-08-06T22:02:29+00:00,main,120,Inception,Inception,,27205,Inception,2010-07-15,8.368
 2017-08-13T21:00:00+00:00,main,121,The Dark Knight Rises,The Dark Knight Rises,,49026,The Dark Knight Rises,2012-07-17,7.779
-2017-08-20T21:00:00+00:00,main,122,Talking Maul Live @ DCM19 with Peter Serafinowicz,Talking Maul Live @ DCM19,Peter Serafinowicz,1000003,Television override,9999-09-09,7
+2017-08-20T21:00:00+00:00,main,122,Talking Maul Live @ DCM19 with Peter Serafinowicz,Talking Maul Live @ DCM19,Peter Serafinowicz,10000004,Television override,9999-09-09,7
 2017-08-27T21:00:00+00:00,main,123,Interstellar,Interstellar,,157336,Interstellar,2014-11-05,8.434
 2017-09-03T21:00:00+00:00,main,124,Dunkirk with Bilge Ebiri,Dunkirk,Bilge Ebiri,374720,Dunkirk,2017-07-19,7.454
 2017-09-10T21:05:56+00:00,main,126,The Devil Wears Prada with Romilly Newman,The Devil Wears Prada,Romilly Newman,350,The Devil Wears Prada,2006-06-29,7.4
@@ -132,7 +132,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2018-06-10T21:00:00+00:00,main,167,Mission: Impossible – Ghost Protocol,Mission: Impossible – Ghost Protocol,,56292,Mission: Impossible - Ghost Protocol,2011-12-07,7.081
 2018-06-17T21:00:00+00:00,main,168,Tomorrowland,Tomorrowland,,158852,Tomorrowland,2015-05-19,6.266
 2018-06-24T21:00:00+00:00,main,169,Incredibles 2,Incredibles 2,,260513,Incredibles 2,2018-06-14,7.468
-2018-06-28T08:00:00+00:00,main,170,Family Dog - Amazing Stories,Family Dog - Amazing Stories,,1000100,Television override,9999-09-09,7
+2018-06-28T08:00:00+00:00,main,170,Family Dog - Amazing Stories,Family Dog - Amazing Stories,,10000100,Television override,9999-09-09,7
 2018-07-01T21:00:00+00:00,main,171a,Pushing Hands/The Wedding Banquet,Pushing Hands,,25296,推手,1991-12-07,7.2
 2018-07-01T21:00:00+00:00,main,171b,Pushing Hands/The Wedding Banquet,The Wedding Banquet,,9261,喜宴,1993-03-01,7.2
 2018-07-08T21:00:00+00:00,main,172,Eat Drink Man Woman with Alison Willmore,Eat Drink Man Woman,Alison Willmore,10451,飲食男女,1994-08-03,7.555
@@ -212,7 +212,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2019-07-21T04:00:00+00:00,main,226b,The Lion King,Cats,,536869,Cats,2019-12-19,4.113
 2019-07-21T04:01:00+00:00,patreon,28,Doctor Strange,Doctor Strange,,284052,Doctor Strange,2016-10-25,7.423
 2019-07-28T05:00:00+00:00,main,227,Public Enemies with Fran Hoepfner,Public Enemies,Fran Hoepfner,11322,Public Enemies,2009-07-01,6.681
-2019-08-01T04:00:00+00:00,main,228,Miami Vice - Pilot Episode,Miami Vice - Pilot Episode,,1000003,Television override,9999-09-09,7
+2019-08-01T04:00:00+00:00,main,228,Miami Vice - Pilot Episode,Miami Vice - Pilot Episode,,10000003,Television override,9999-09-09,7
 2019-08-01T04:00:02+00:00,patreon,29,Guardians of the Galaxy Vol. 2 with David Ehrlich,Guardians of the Galaxy Vol. 2,David Ehrlich,283995,Guardians of the Galaxy Vol. 2,2017-04-19,7.621
 2019-08-04T04:00:00+00:00,main,229,Blackhat with Bilge Ebiri,Blackhat,Bilge Ebiri,201088,Blackhat,2015-01-13,5.484
 2019-08-11T04:00:00+00:00,main,230,The Castle of Cagliostro,The Castle of Cagliostro,,15371,ルパン三世 カリオストロの城,1979-12-15,7.5
@@ -284,8 +284,8 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2020-05-11T04:01:00+00:00,patreon,62,Toy Story,Toy Story,,862,Toy Story,1995-10-30,7.971
 2020-05-17T16:38:03+00:00,main,271,Happy Feet Two with Sara Rubin,Happy Feet Two,Sara Rubin,65759,Happy Feet Two,2011-11-17,6.13
 2020-05-21T04:00:03+00:00,patreon,63,Toy Story 2,Toy Story 2,,863,Toy Story 2,1999-10-30,7.594
-2020-05-24T04:48:02+00:00,main,272,Mad Max: Fury Road with Emily Yoshida,Mad Max: Fury Road,Emily Yoshida,76341,Mad Max: Fury Road,2015-05-13,7.592
-2020-05-28T08:00:00+00:00,main,273,"Twilight Zone: Nightmare at 20,000 Feet","Twilight Zone: Nightmare at 20,000 Feet",,1000060,Television override,9999-09-09,7
+2020-05-24T04:48:02+00:00,main,272,Mad Max: Fury Road with Emily Yoshida,Mad Max: Fury Road,Emily Yoshida,76341,Mad Max: Fury Road,2015-05-13,7.6
+2020-05-28T08:00:00+00:00,main,273,"Twilight Zone: Nightmare at 20,000 Feet","Twilight Zone: Nightmare at 20,000 Feet",,10000060,Television override,9999-09-09,7
 2020-05-31T03:30:00+00:00,main,274,Stargate,Stargate,,2164,Stargate,1994-10-28,7.002
 2020-06-01T04:01:01+00:00,patreon,64,Toy Story 3,Toy Story 3,,10193,Toy Story 3,2010-06-16,7.796
 2020-06-07T04:21:50+00:00,main,275,When Harry Met Sally... with Dana Stevens,When Harry Met Sally...,Dana Stevens,639,When Harry Met Sally...,1989-07-21,7.404
@@ -329,9 +329,9 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2020-11-01T04:00:00+00:00,main,296,Forrest Gump with Jamelle Bouie,Forrest Gump,Jamelle Bouie,13,Forrest Gump,1994-06-23,8.475
 2020-11-01T04:00:03+00:00,patreon,79,Alien 3,Alien3,,8077,Alien³,1992-05-22,6.357
 2020-11-08T14:11:49+00:00,main,297,Contact with Jamie Bell,Contact,Jamie Bell,686,Contact,1997-07-11,7.429
-2020-11-11T05:01:01+00:00,patreon,80a,Tales from the Crypt,Tales from the Crypt: And All Through the Night,,1000070,Television override,9999-09-09,7
-2020-11-11T05:01:01+00:00,patreon,80b,Tales from the Crypt,Tales from the Crypt: Yellow,,1000071,Television override,9999-09-09,7
-2020-11-11T05:01:01+00:00,patreon,80c,Tales from the Crypt,"Tales from the Crypt: You, Murderer",,1000072,Television override,9999-09-09,7
+2020-11-11T05:01:01+00:00,patreon,80a,Tales from the Crypt,Tales from the Crypt: And All Through the Night,,10000070,Television override,9999-09-09,7
+2020-11-11T05:01:01+00:00,patreon,80b,Tales from the Crypt,Tales from the Crypt: Yellow,,10000071,Television override,9999-09-09,7
+2020-11-11T05:01:01+00:00,patreon,80c,Tales from the Crypt,"Tales from the Crypt: You, Murderer",,10000072,Television override,9999-09-09,7
 2020-11-15T04:45:00+00:00,main,298,What Lies Beneath with Starlee Kine,What Lies Beneath,Starlee Kine,2655,What Lies Beneath,2000-07-21,6.41
 2020-11-21T17:01:01+00:00,patreon,81,Alien: Resurrection,Alien: Resurrection,,8078,Alien Resurrection,1997-11-12,6.148
 2020-11-22T05:01:38+00:00,main,299,Cast Away with Nia DaCosta,Cast Away,Nia DaCosta,8358,Cast Away,2000-12-22,7.665
@@ -355,7 +355,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2021-02-14T06:00:00+00:00,main,311,The Little Mermaid with Esther Zuckerman,The Little Mermaid,Esther Zuckerman,10144,The Little Mermaid,1989-11-17,7.354
 2021-02-21T05:00:00+00:00,main,312,Aladdin with Jerah Milligan,Aladdin,Jerah Milligan,812,Aladdin,1992-11-25,7.652
 2021-02-21T12:00:02+00:00,patreon,90,Star Trek: The Motion Picture,Star Trek: The Motion Picture,,152,Star Trek: The Motion Picture,1979-12-07,6.486
-2021-02-28T04:58:00+00:00,main,313,Hercules with Larry Owens,Hercules,Larry Owens,11970,Hercules,1997-06-13,7.5
+2021-02-28T04:58:00+00:00,main,313,Hercules with Larry Owens,Hercules,Larry Owens,11970,Hercules,1997-06-13,7.503
 2021-03-01T04:58:00+00:00,patreon,91,Star Trek II: The Wrath of Khan,Star Trek II: The Wrath of Khan,,154,Star Trek II: The Wrath of Khan,1982-06-04,7.5
 2021-03-07T05:00:00+00:00,main,314,Treasure Planet with Emma Stefansky,Treasure Planet,Emma Stefansky,9016,Treasure Planet,2002-11-26,7.539
 2021-03-11T05:00:03+00:00,patreon,93a,The Return of Jafar + Aladdin and the King of Thieves,The Return of Jafar,,15969,The Return of Jafar,1994-05-20,6.251
@@ -402,7 +402,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2021-08-22T04:00:00+00:00,main,338,Halloween with Alex Ross Perry,Halloween,Alex Ross Perry,948,Halloween,1978-10-24,7.555
 2021-08-29T04:00:00+00:00,main,339,The Fog with Nia DaCosta,The Fog,Nia DaCosta,790,The Fog,1980-02-08,6.7
 2021-09-01T04:01:03+00:00,patreon,112,Riddick,Riddick,,87421,Riddick,2013-09-02,6.305
-2021-09-05T04:00:00+00:00,main,340,Escape from New York with Karen Han,Escape from New York,Karen Han,1103,Escape from New York,1981-05-23,7.071
+2021-09-05T04:00:00+00:00,main,340,Escape from New York with Karen Han,Escape from New York,Karen Han,1103,Escape from New York,1981-05-23,7.072
 2021-09-11T04:01:01+00:00,patreon,113,Someone's Watching Me!,Someone's Watching Me!,,31428,Someone's Watching Me!,1978-11-29,6.18
 2021-09-12T04:00:00+00:00,main,341a,The Thing with Emily St. James,The Thing,Emily St. James,60935,The Thing,2011-10-12,6.21
 2021-09-12T04:00:00+00:00,main,341b,The Thing with Emily St. James,The Thing from Another World,Emily St. James,10785,The Thing from Another World,1951-04-05,6.7
@@ -439,14 +439,14 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2022-01-30T05:00:00+00:00,main,360,The Piano with Esther Zuckerman,The Piano,Esther Zuckerman,713,The Piano,1993-05-19,7.4
 2022-02-01T04:59:09+00:00,patreon,129,Ghostbusters: Answer the Call,Ghostbusters: Answer the Call,,43074,Ghostbusters,2016-07-14,5.4
 2022-02-06T05:00:00+00:00,main,361,The Portrait of a Lady with Marie Bardi,The Portrait of a Lady,Marie Bardi,36758,The Portrait of a Lady,1996-10-17,6.0
-2022-02-11T05:01:02+00:00,patreon,130,Top of the Lake with Sonia Saraiya,Top of the Lake,Sonia Saraiya,1000010,Television override,9999-09-09,7
+2022-02-11T05:01:02+00:00,patreon,130,Top of the Lake with Sonia Saraiya,Top of the Lake,Sonia Saraiya,10000010,Television override,9999-09-09,7
 2022-02-13T05:00:00+00:00,main,362,Holy Smoke! with Kyle Buchanan,Holy Smoke!,Kyle Buchanan,13787,Holy Smoke,1999-09-04,5.6
 2022-02-20T05:00:00+00:00,main,363,In the Cut with Jourdain Searles,In the Cut,Jourdain Searles,10944,In the Cut,2003-10-22,5.2
 2022-02-21T05:01:01+00:00,patreon,131,Ghostbusters: Afterlife,Ghostbusters: Afterlife,,425909,Ghostbusters: Afterlife,2021-11-18,7.402
 2022-02-27T05:00:00+00:00,main,364,Bright Star with Fran Hoepfner,Bright Star,Fran Hoepfner,29963,Bright Star,2009-09-18,6.623
 2022-03-01T06:16:10+00:00,patreon,133,The Matrix,The Matrix,,603,The Matrix,1999-03-31,8.215
 2022-03-06T05:00:00+00:00,main,365,The Power of The Dog with Richard Lawson,The Power of The Dog,Richard Lawson,600583,The Power of the Dog,2021-10-25,6.785
-2022-03-11T05:00:32+00:00,patreon,134,Top of the Lake: China Girl with Alan Sepinwall,Top of the Lake: China Girl,Alan Sepinwall,1000011,Television override,9999-09-09,7
+2022-03-11T05:00:32+00:00,patreon,134,Top of the Lake: China Girl with Alan Sepinwall,Top of the Lake: China Girl,Alan Sepinwall,10000011,Television override,9999-09-09,7
 2022-03-20T04:00:00+00:00,main,367,The Evil Dead,The Evil Dead,,764,The Evil Dead,1981-09-10,7.308
 2022-03-21T04:05:02+00:00,patreon,136,The Matrix Reloaded,The Matrix Reloaded,,604,The Matrix Reloaded,2003-05-15,7.0
 2022-03-27T04:00:00+00:00,main,368,Crimewave with Brendan Hines,Crimewave,Brendan Hines,21627,Crimewave,1985-04-12,5.527
@@ -576,7 +576,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2023-07-30T04:00:00+00:00,main,436,Oppenheimer with Marie Bardi,Oppenheimer,Marie Bardi,872585,Oppenheimer,2023-07-19,8.103
 2023-08-01T04:00:04+00:00,patreon,193,Ocean's Twelve,Ocean's Twelve,,163,Ocean's Twelve,2004-12-09,6.565
 2023-08-06T04:00:00+00:00,main,437,"I'm a Cyborg, But That's OK with Karen Chee","I'm a Cyborg, But That's OK",Karen Chee,5488,싸이보그지만 괜찮아,2006-12-07,7.094
-2023-08-11T04:00:04+00:00,patreon,194,The Little Drummer Girl with Whitney McIntosh,The Little Drummer Girl,Whitney McIntosh,1000030,Television override,9999-09-09,7
+2023-08-11T04:00:04+00:00,patreon,194,The Little Drummer Girl with Whitney McIntosh,The Little Drummer Girl,Whitney McIntosh,10000030,Television override,9999-09-09,7
 2023-08-13T04:00:00+00:00,main,438,Thirst with Hoai-Tran Bui,Thirst,Hoai-Tran Bui,22536,박쥐,2009-04-30,7.08
 2023-08-20T04:00:00+00:00,main,439,Stoker with Emily St. James,Stoker,Emily St. James,86825,Stoker,2013-02-28,6.661
 2023-08-21T04:00:01+00:00,patreon,195,Ocean’s Thirteen,Ocean’s Thirteen,,298,Ocean's Thirteen,2007-06-05,6.725
@@ -592,7 +592,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2023-10-01T04:00:00+00:00,main,445,Fight Club with Alex Ross Perry,Fight Club,Alex Ross Perry,550,Fight Club,1999-10-15,8.441
 2023-10-01T04:00:05+00:00,patreon,199,Tomorrow Never Dies with Jason Mantzoukas,Tomorrow Never Dies,Jason Mantzoukas,714,Tomorrow Never Dies,1997-12-11,6.357
 2023-10-08T04:00:00+00:00,main,446,Panic Room with Eva Anderson,Panic Room,Eva Anderson,4547,Panic Room,2002-03-29,6.776
-2023-10-11T04:00:03+00:00,patreon,201,David Fincher Music Videos,David Fincher Music Videos,,1000110,Television override,9999-09-09,7
+2023-10-11T04:00:03+00:00,patreon,201,David Fincher Music Videos,David Fincher Music Videos,,10000110,Television override,9999-09-09,7
 2023-10-15T04:00:00+00:00,main,447,Zodiac with Leslye Headland,Zodiac,Leslye Headland,1949,Zodiac,2007-03-02,7.522
 2023-10-21T04:00:02+00:00,patreon,202,The World Is Not Enough,The World Is Not Enough,,36643,The World Is Not Enough,1999-11-17,6.266
 2023-10-22T04:00:00+00:00,main,448,The Curious Case of Benjamin Button with Richard Lawson,The Curious Case of Benjamin Button,Richard Lawson,4922,The Curious Case of Benjamin Button,2008-12-25,7.584
@@ -621,17 +621,17 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2024-02-01T05:00:11+00:00,patreon,212,Terminator 2: Judgment Day,Terminator 2: Judgment Day,,280,Terminator 2: Judgment Day,1991-07-03,8.115
 2024-02-04T05:00:00+00:00,main,463,The Mirror Has Two Faces with Bobby Finger & Lindsey Weber,The Mirror Has Two Faces,Bobby Finger & Lindsey Weber,25189,The Mirror Has Two Faces,1996-11-15,6.703
 2024-02-11T05:00:00+00:00,main,464,Nomads,Nomads,,26725,Nomads,1986-03-07,4.901
-2024-02-11T05:00:03+00:00,patreon,213,T2-3D: Battle Across Bab's Basement,T2-3D: Battle Across Bab's Basement,,1000090,Television override,9999-09-09,7
+2024-02-11T05:00:03+00:00,patreon,213,T2-3D: Battle Across Bab's Basement,T2-3D: Battle Across Bab's Basement,,10000090,Television override,9999-09-09,7
 2024-02-18T05:00:00+00:00,main,465,Predator with Jon Gabrus,Predator,Jon Gabrus,106,Predator,1987-06-12,7.526
 2024-02-21T05:00:04+00:00,patreon,214,Terminator 3: Rise of the Machines,Terminator 3: Rise of the Machines,,296,Terminator 3: Rise of the Machines,2003-07-02,6.159
 2024-02-25T05:00:00+00:00,main,466,Die Hard with Kevin Smith,Die Hard,Kevin Smith,562,Die Hard,1988-07-15,7.8
 2024-03-01T05:00:06+00:00,patreon,216,Terminator Salvation,Terminator Salvation,,534,Terminator Salvation,2009-05-20,6.058
-2024-03-10T05:00:00+00:00,main,468,The Hunt For Red October with Jamelle Bouie,The Hunt For Red October,Jamelle Bouie,1669,The Hunt for Red October,1990-03-02,7.392
+2024-03-10T05:00:00+00:00,main,468,The Hunt For Red October with Jamelle Bouie,The Hunt For Red October,Jamelle Bouie,1669,The Hunt for Red October,1990-03-02,7.391
 2024-03-11T04:00:05+00:00,patreon,217,Die Hard 2: Die Harder,Die Hard 2: Die Harder,,1573,Die Hard 2,1990-07-03,6.946
 2024-03-17T04:00:00+00:00,main,469,Medicine Man with Jamie Lee,Medicine Man,Jamie Lee,9096,Medicine Man,1992-02-07,6.0
 2024-03-21T04:00:04+00:00,patreon,219,Terminator Genisys,Terminator Genisys,,87101,Terminator Genisys,2015-06-23,5.94
 2024-03-24T04:00:00+00:00,main,470,Last Action Hero with Paul Scheer & Jason Mantzoukas,Last Action Hero,Paul Scheer & Jason Mantzoukas,9593,Last Action Hero,1993-06-18,6.5
-2024-03-31T04:00:00+00:00,main,471,Die Hard with a Vengeance with Shea Serrano,Die Hard,a Vengeance,562,Die Hard,1988-07-15,7.8
+2024-03-31T04:00:00+00:00,main,471,Die Hard with a Vengeance with Shea Serrano,Die Hard with a Vengeance,Shea Serrano,1572,Die Hard: With a Vengeance,1995-05-19,7.267
 2024-04-01T04:00:07+00:00,patreon,221,Terminator: Dark Fate,Terminator: Dark Fate,,290859,Terminator: Dark Fate,2019-10-23,6.454
 2024-04-07T04:00:00+00:00,main,472,The Thomas Crown Affair (1999) with Amanda Dobbins,The Thomas Crown Affair (1999),Amanda Dobbins,913,The Thomas Crown Affair,1999-08-06,6.743
 2024-04-11T04:00:05+00:00,patreon,222,Sin Eater: The Crimes of Anthony Pellicano,Sin Eater: The Crimes of Anthony Pellicano,,1099390,Sin Eater: The Crimes of Anthony Pellicano,2023-03-10,7.0
@@ -641,7 +641,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2024-04-28T04:00:00+00:00,main,475,Basic with BenDavid Grabinski,Basic,BenDavid Grabinski,10782,Basic,2003-04-18,6.506
 2024-05-01T04:00:09+00:00,patreon,224,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,,1497,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,1991-03-22,6.111
 2024-05-05T04:00:00+00:00,main,476,Perfect Blue with Bowen Yang,Perfect Blue,Bowen Yang,10494,PERFECT BLUE,1998-02-28,8.306
-2024-05-11T04:00:00+00:00,patreon,225,Paranoia Agent with Nick Wiger,Paranoia Agent,Nick Wiger,1000001,Television override,9999-09-09,7
+2024-05-11T04:00:00+00:00,patreon,225,Paranoia Agent with Nick Wiger,Paranoia Agent,Nick Wiger,10000001,Television override,9999-09-09,7
 2024-05-12T04:00:00+00:00,main,477,Millennium Actress with Hoai-Tran Bui,Millennium Actress,Hoai-Tran Bui,33320,千年女優,2002-09-14,7.818
 2024-05-19T20:25:09+00:00,main,478,Tokyo Godfathers,Tokyo Godfathers,,13398,東京ゴッドファーザーズ,2003-12-05,7.9
 2024-05-21T20:25:09+00:00,patreon,226,Teenage Mutant Ninja Turtles III,Teenage Mutant Ninja Turtles III,,1499,Teenage Mutant Ninja Turtles III,1993-03-17,5.377
@@ -659,7 +659,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2024-07-21T20:25:09+00:00,patreon,232,Teenage Mutant Ninja Turtles: Mutant Mayhem,Teenage Mutant Ninja Turtles: Mutant Mayhem,,614930,Teenage Mutant Ninja Turtles: Mutant Mayhem,2023-07-31,7.25
 2024-07-14T20:25:09+00:00,main,486,Gigli,Gigli,,8046,Gigli,2003-08-01,4.04
 2024-07-21T20:25:09+00:00,main,487,Dances with Wolves,Dances with Wolves,,581,Dances with Wolves,1990-03-30,7.848
-2024-07-28T20:25:09+00:00,main,488,Waterworld,Waterworld,,9804,Waterworld,1995-07-28,6.2
+2024-07-28T20:25:09+00:00,main,488,Waterworld,Waterworld,,9804,Waterworld,1995-07-28,6.209
 2024-08-01T20:25:09+00:00,patreon,233,Clue,Clue,,15196,Clue,1985-12-13,7.2
 2024-08-04T20:25:09+00:00,main,489,The Postman,The Postman,,9922,The Postman,1997-12-25,6.2
 2024-08-11T20:25:09+00:00,main,490,Open Range,Open Range,,2055,Open Range,2003-08-29,7.2
@@ -672,14 +672,14 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2024-08-01T20:25:09+00:00,main,497,Dune,Dune,,841,Dune,1984-12-14,6.186
 2024-08-01T20:25:09+00:00,main,498,Blue Velvet,Blue Velvet,,793,Blue Velvet,1986-09-19,7.623
 2024-08-01T20:25:09+00:00,main,499,Wild at Heart,Wild at Heart,,483,Wild at Heart,1990-08-17,7.027
-2024-08-01T20:25:09+00:00,main,500,Twin Peaks Season 1,Twin Peaks Season 1,,1000051,Television override,9999-09-09,7
-2024-10-01T20:25:09+00:00,patreon,240,Twin Peaks Season 2,Twin Peaks Season 2,,1000052,Television override,9999-09-09,7
+2024-08-01T20:25:09+00:00,main,500,Twin Peaks Season 1,Twin Peaks Season 1,,10000051,Television override,9999-09-09,7
+2024-10-01T20:25:09+00:00,patreon,240,Twin Peaks Season 2,Twin Peaks Season 2,,10000052,Television override,9999-09-09,7
 2024-08-01T20:25:09+00:00,main,501,Twin Peaks: Fire Walk with Me,Twin Peaks: Fire Walk with Me,,1923,Twin Peaks: Fire Walk with Me,1992-06-03,7.4
 2024-08-01T20:25:09+00:00,main,502,Lost Highway,Lost Highway,,638,Lost Highway,1997-01-15,7.6
 2024-08-01T20:25:09+00:00,main,503,The Straight Story,The Straight Story,,537921,Fixed,,0.0
 2024-08-01T20:25:09+00:00,main,504,Mulholland Drive,Mulholland Drive,,940139,Here,2024-11-22,0.0
 2024-08-01T20:25:09+00:00,main,505,Inland Empire,Inland Empire,,1730,Inland Empire,2006-12-06,7.0
-2024-08-01T20:25:09+00:00,main,506,Twin Peaks The Return,Twin Peaks The Return,,1000053,Television override,9999-09-09,7
+2024-08-01T20:25:09+00:00,main,506,Twin Peaks The Return,Twin Peaks The Return,,10000053,Television override,9999-09-09,7
 2024-08-21T20:25:09+00:00,patreon,235,Battleship,Battleship,,44833,Battleship,2012-04-11,5.84
 2024-09-01T20:25:09+00:00,patreon,236,Dungeons & Dragons,Dungeons & Dragons,,11849,Dungeons & Dragons,2000-12-08,4.358
 2024-09-21T20:25:09+00:00,patreon,238,Dungeons & Dragons: Honor Among Thieves,Dungeons & Dragons: Honor Among Thieves,,493529,Dungeons & Dragons: Honor Among Thieves,2023-03-23,7.378
