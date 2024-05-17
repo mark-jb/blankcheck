@@ -42,7 +42,8 @@ main_replacements = {
         "341": ["The Thing","The Thing from Another World"],
         "387": ["Fear and Desire","Killer's Kiss"],
         "450": ["The Girl with the Dragon Tattoo"],
-        "457": ["Wonka","Aquaman and the Lost Kingdom"]
+        "457": ["Wonka","Aquaman and the Lost Kingdom"],
+        "471": ["Die Hard with a Vengeance"]
         }
 patreon_replacements = {
         "3": ["Hulk Live"],

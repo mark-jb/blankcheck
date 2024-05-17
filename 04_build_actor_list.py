@@ -41,13 +41,13 @@ def get_actor_id(actor):
     if actor in actor_name_to_id:
         return actor_name_to_id[actor]
     if not len(actor_name_to_id) == len(master_cast_list):
-        print("refresh actor name to id map")
+        # print("refresh actor name to id map")
         for actor_id, actor_info in master_cast_list.items():
             actor_name_to_id[actor_info["name"]] = actor_id
         if actor in actor_name_to_id:
-            print("Actor found after refresh")
+            # print("Actor found after refresh")
             return actor_name_to_id[actor]
-    print("Manual actor not found, adding...")
+    # print("Manual actor not found, adding...")
     actor_new = {}
     actor_new["original_name"] = actor
     actor_new["movies_dict"] = []
@@ -68,13 +68,13 @@ def create_actor(actor_id, actor):
     master_cast_list[actor_id]["popularity"] = actor["popularity"]
     # If the *name* is in the list, it's manual and should be converted
     if name in master_cast_list:
-        print("Convert {:s} to actor_id".format(name))
+        # print("Convert {:s} to actor_id".format(name))
         master_cast_list[actor_id]["movies_dict"] = master_cast_list[name]["movies_dict"]
         master_cast_list[actor_id]["movies_ep_id"] = master_cast_list[name]["movies_ep_id"]
         actor_name_to_id[name] = actor_id
         del master_cast_list[name]
     else: # no conversion, just create
-        print("Create new actor {:s}".format(name))
+        # print("Create new actor {:s}".format(name))
         master_cast_list[actor_id]["movies_dict"] = []
         master_cast_list[actor_id]["movies_ep_id"] = []
 
@@ -106,7 +106,7 @@ with open(in_castlist_csv, mode='r') as csv_castlist:
             manual_castlist[movie_id] = []
         manual_castlist[movie_id].append(row["name"])
        
-print(manual_castlist)
+# print(manual_castlist)
 
 
 with open(in_csv, mode='r') as csv_movielist:
@@ -129,7 +129,7 @@ with open(in_csv, mode='r') as csv_movielist:
         # search IDs of movie
         movie_id = row["movie_id"]
         print("Getting cast for {:s} ID {:s}".format(movie, movie_id))
-        if int(movie_id) < 1000000: # don't bother if TV
+        if int(movie_id) < 10000000: # don't bother if TV
             movie_cast = get_cast_from_id(movie_id)
             for actor in movie_cast:
                 print('Adding movie {:s} to actor {:s}'.format(movie, actor["name"]))
@@ -143,9 +143,9 @@ with open(in_csv, mode='r') as csv_movielist:
             print("Add override cast")
             for actor_name in manual_castlist[movie_id]:
                 actor_id = get_actor_id(actor_name)
-                print("{} - {:s}".format(actor_id,actor_name))
+                # print("{} - {:s}".format(actor_id,actor_name))
                 if not actor_id == 0:
-                    print("Actor ID: {} type: {}".format(actor_id, type(actor_id)))
+                    # print("Actor ID: {} type: {}".format(actor_id, type(actor_id)))
                     master_cast_list[actor_id]["movies_dict"].append(movie_dict)
                     master_cast_list[actor_id]["movies_ep_id"].append(ep_id)
 
