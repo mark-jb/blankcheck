@@ -40,6 +40,11 @@ def actor_in_episode(actor, ep_num):
         return False
     return True
 
+def guest_in_episode(actor, ep_num):
+    if len(list(filter(lambda guest_filter: ep_num in ep_filter.keys(), actor["movies_dict"]))) == 0:
+        return False
+    return True
+
 def actor_in_movie(actor, movie_name):
     if len(list(filter(lambda movie_filter: movie_name in ':'.join(list(movie_filter.values())).lower(), actor["movies_dict"]))) == 0:
         return False
@@ -61,6 +66,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--episode', help='episode number to filter on')
 parser.add_argument('--actor', help='actor to filter on')
 parser.add_argument('--movie', help='movie to filter on')
+parser.add_argument('--guest', help='filter by guest')
 parser.add_argument('--min', help='only output actors with X movies or more')
 parser.add_argument('--max', help='only output actors with X movies or less')
 parser.add_argument('--pop', help='sort by popularity', action="store_true")
@@ -86,6 +92,10 @@ if args.actor:
 if args.movie:
     args.movie = args.movie.lower()
     print("Filtering on movie " + args.movie)
+    args.screen = True
+if args.guest:
+    args.guest = args.guest.lower()
+    print("Filtering on guest " + args.guest)
     args.screen = True
 if args.metadata:
     print_metadata = args.metadata
@@ -127,6 +137,8 @@ if args.episode:
     actors = list(filter(lambda actor_filter: actor_in_episode(actor_filter, args.episode), actors))
 if args.movie:
     actors = list(filter(lambda actor_filter: actor_in_movie(actor_filter, args.movie), actors))
+if args.guest:
+    actors = list(filter(lambda actor_filter: guest_in_episode(actor_filter, args.guest), actors))
 if args.ignore:
     ignorefile = open(ignore, "r")
     ignore_actor_list = []
