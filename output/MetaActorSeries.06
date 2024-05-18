@@ -12,8 +12,8 @@
 221: Heat
 222: The Insider
 SF-195: Ocean’s Thirteen
-483: Scent of a Woman
-485a: Gigli
+484: Scent of a Woman
+486: Gigli
 
 ==== Alice Marie Crowe ====
 64: Singles
@@ -102,14 +102,6 @@ SF-60: The Rise of Skywalker
 SF-55: The Force Awakens
 SF-57: The Last Jedi
 SF-60: The Rise of Skywalker
-
-==== Brent Briscoe ====
-121: The Dark Knight Rises
-373: A Simple Plan
-377: Spider-Man 2
-SF-166: National Treasure: Book of Secrets
-494: Mulholland Drive
-497: Twin Peaks The Return
 
 ==== Brian Schaeffer ====
 SF-6: Iron Man 2
@@ -215,6 +207,14 @@ SF-55: The Force Awakens
 SF-181: 2012 Summer Olympics Opening Ceremony
 450: The Girl with the Dragon Tattoo
 
+==== Daniel von Bargen ====
+94: Amistad
+145: Basic Instinct
+252: Silence of the Lambs
+253: Philadelphia
+327b: Shaft
+489: The Postman
+
 ==== David M. Santana ====
 37: Star Wars: The Force Awakens
 88: Rogue One: A Star Wars Story
@@ -311,21 +311,13 @@ SF-241: Ouija: Origin of Evil
 SF-11: Corpse Bride
 SF-125: The Santa Clause 3
 
-==== Everett McGill ====
-74: Under Siege 2: Dark Territory
-487: Dune
-490: Twin Peaks Season 1
-493: The Straight Story
-497: Twin Peaks The Return
-SF-240: Twin Peaks season 2
-
 ==== Frances Bay ====
 348: In the Mouth of Madness
 464: Nomads
-488: Blue Velvet
-489: Wild at Heart
-491: Twin Peaks: Fire Walk with Me
-SF-240: Twin Peaks season 2
+498: Blue Velvet
+499: Wild at Heart
+SF-240: Twin Peaks Season 2
+501: Twin Peaks: Fire Walk with Me
 
 ==== Gary A. Hecker ====
 53: Batman v Superman: Dawn of Justice
@@ -367,6 +359,14 @@ SF-175: 28 Weeks Later
 SF-83: Armageddon
 447: Zodiac
 
+==== Jack Kehler ====
+130: Point Break
+SF-174: Men in Black II
+SF-206: Austin Powers: The Spy Who Shagged Me
+454: I Love You to Death
+488: Waterworld
+502: Lost Highway
+
 ==== Jack Purvis ====
 34: Star Wars: A New Hope
 35: Star Wars: The Empire Strikes Back
@@ -390,6 +390,30 @@ SF-95: Star Trek III: The Search for Spock
 SF-97: Star Trek IV: The Voyage Home
 SF-99: Star Trek V: The Final Frontier
 SF-100: Star Trek VI: The Undiscovered Country
+
+==== James Rebhorn ====
+100: Blank Check
+145: Basic Instinct
+268: Lorenzo's Oil
+444: The Game
+SF-201: David Fincher Music Videos
+484: Scent of a Woman
+
+==== James Russo ====
+227: Public Enemies
+482: Beverly Hills Cop
+489: The Postman
+490: Open Range
+491: Horizon: An American Saga – Chapter 1
+492: Horizon: An American Saga – Chapter 2
+
+==== Jamie Campbell Bower ====
+209: Sweeney Todd: The Demon Barber of Fleet Street
+SF-103: New Moon
+SF-106: Breaking Dawn – Part 1
+SF-108: Breaking Dawn: Part 2
+491: Horizon: An American Saga – Chapter 1
+492: Horizon: An American Saga – Chapter 2
 
 ==== Jamie Lee Curtis ====
 81: True Lies
@@ -431,14 +455,6 @@ SF-66: Toy Story 4
 327b: Shaft
 SF-152: The Batman
 
-==== Jena Malone ====
-53: Batman v Superman: Dawn of Justice
-238: Howl's Moving Castle
-297: Contact
-374: For Love of the Game
-SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
-SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
-
 ==== Jenette Goldstein ====
 77: Aliens
 79: Terminator 2: Judgement Day
@@ -462,6 +478,14 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 258b: The Manchurian Candidate
 259: Rachel Getting Married
 261: Ricki and the Flash
+
+==== Jimmy Smits ====
+13: Star Wars: Attack of the Clones
+24: Star Wars: Revenge of the Sith
+88: Rogue One: A Star Wars Story
+151: Running Scared
+228: Miami Vice - Pilot Episode
+SF-46: Rogue One
 
 ==== Jimmy Vee ====
 37: Star Wars: The Force Awakens
@@ -575,14 +599,6 @@ SF-37: Ant-Man and the Wasp
 234: Kiki's Delivery Service
 SF-123: The Santa Clause 2
 
-==== Kathryn Hahn ====
-50: The Visit
-161: How Do You Know
-168: Tomorrowland
-174c: Hotel Transylvania 3
-190: The Holiday
-503: Fixed
-
 ==== Kellan Lutz ====
 SF-7: What Men Want
 SF-102: Twilight
@@ -618,10 +634,10 @@ SF-55: The Force Awakens
 ==== Laura Dern ====
 140: The Last Jedi
 SF-57: The Last Jedi
-488: Blue Velvet
-489: Wild at Heart
-495: Inland Empire
-497: Twin Peaks The Return
+498: Blue Velvet
+499: Wild at Heart
+505: Inland Empire
+506: Twin Peaks The Return
 
 ==== Leonard Nimoy ====
 SF-90: Star Trek: The Motion Picture
@@ -630,6 +646,14 @@ SF-95: Star Trek III: The Search for Spock
 SF-97: Star Trek IV: The Voyage Home
 SF-99: Star Trek V: The Final Frontier
 SF-100: Star Trek VI: The Undiscovered Country
+
+==== Leslie Zemeckis ====
+300: The Polar Express
+301: Beowulf
+302: A Christmas Carol
+308: Welcome to Marwen
+504: Mulholland Drive
+504: Here
 
 ==== Marc McClure ====
 137: Justice League
@@ -669,7 +693,7 @@ SF-50: The Empire Strikes Back
 253: Philadelphia
 294: Back to the Future Part III
 333: Clifford 2: Hyper-Clifford
-495: Inland Empire
+505: Inland Empire
 
 ==== Michael Biehn ====
 76: The Terminator
@@ -686,6 +710,14 @@ SF-37: Ant-Man and the Wasp
 SF-40: Avengers: Endgame
 290: Romancing the Stone
 444: The Game
+
+==== Michael Rooker ====
+SF-22: Guardians of the Galaxy
+SF-29: Guardians of the Galaxy Vol. 2
+326: Rosewood
+SF-110: F9
+491: Horizon: An American Saga – Chapter 1
+492: Horizon: An American Saga – Chapter 2
 
 ==== Michael Stuhlbarg ====
 107: Lincoln
@@ -708,16 +740,8 @@ SF-61: Babe
 174b: Hotel Transylvania 2
 174c: Hotel Transylvania 3
 SF-123: The Santa Clause 2
-SF-240: Twin Peaks season 2
+SF-240: Twin Peaks Season 2
 SF-242: Analyze This
-
-==== Monica Bellucci ====
-55: The Matrix Reloaded
-56: The Matrix Revolutions
-SF-136: The Matrix Reloaded
-SF-138: The Matrix Revolutions
-497: Twin Peaks The Return
-502: Beetlejuice Beetlejuice
 
 ==== Nichelle Nichols ====
 SF-90: Star Trek: The Motion Picture
@@ -819,7 +843,7 @@ SF-202: The World Is Not Enough
 192: The Intern
 221: Heat
 239: Joker
-482: Midnight Run
+483: Midnight Run
 SF-242: Analyze This
 SF-245: Analyze That
 
@@ -889,11 +913,11 @@ SF-74: The Way of the Gun
 
 ==== Sheryl Lee ====
 351: John Carpenter’s Vampires
-489: Wild at Heart
-490: Twin Peaks Season 1
-491: Twin Peaks: Fire Walk with Me
-497: Twin Peaks The Return
-SF-240: Twin Peaks season 2
+499: Wild at Heart
+500: Twin Peaks Season 1
+SF-240: Twin Peaks Season 2
+501: Twin Peaks: Fire Walk with Me
+506: Twin Peaks The Return
 
 ==== Stephanie Silva ====
 37: Star Wars: The Force Awakens
@@ -959,6 +983,14 @@ SF-44: Solo
 SF-69: Mission: Impossible II
 SF-111: The Chronicles of Riddick
 
+==== Thomas Haden Church ====
+71: We Bought a Zoo
+160: Spanglish
+378: Spider-Man 3
+405: Monkeybone
+491: Horizon: An American Saga – Chapter 1
+492: Horizon: An American Saga – Chapter 2
+
 ==== Tim Blake Nelson ====
 23d: Fant4stic
 98: Minority Report
@@ -1007,13 +1039,21 @@ SF-44: Solo
 SF-46: Rogue One
 287: The Old Guard
 
+==== Tom Everett ====
+448: The Curious Case of Benjamin Button
+SF-217: Die Hard 2: Die Harder
+482: Beverly Hills Cop
+487: Dances with Wolves
+491: Horizon: An American Saga – Chapter 1
+492: Horizon: An American Saga – Chapter 2
+
 ==== Tom Sizemore ====
 95: Saving Private Ryan
 129: Blue Steel
 130: Point Break
 131: Strange Days
 221: Heat
-497: Twin Peaks The Return
+506: Twin Peaks The Return
 
 ==== Tommy Lee Jones ====
 107: Lincoln
@@ -1022,6 +1062,14 @@ SF-144: Batman Forever
 SF-172: Men in Black
 SF-174: Men in Black II
 SF-177: Men in Black 3
+
+==== Tony Cox ====
+36: Star Wars: Return of the Jedi
+196: Beetlejuice
+SF-51: Return of the Jedi
+SF-65e: Partysaurus Rex
+380: Oz the Great and Powerful
+494: Beetlejuice Beetlejuice
 
 ==== Ukee Washington ====
 42: Unbreakable
