@@ -491,7 +491,7 @@ date,feed,ep_num,title,movie,guest
 2022-09-01T04:01:24+00:00,patreon,155,The Man with the Golden Gun,The Man,the Golden Gun
 2022-09-04T04:00:00+00:00,main,391,Lolita with Fran Hoepfner,Lolita,Fran Hoepfner
 2022-09-11T04:00:00+00:00,main,392,Three Thousand Years of Longing,Three Thousand Years of Longing,
-2022-09-11T04:01:01+00:00,patreon,156,The Spy Who Loved Me,The Man with the Golden Gun,
+2022-09-11T04:01:01+00:00,patreon,156,The Spy Who Loved Me,The Spy Who Loved Me,
 2022-09-18T04:00:00+00:00,main,393,Pinocchio (2022) with Podcast: The Ride,Pinocchio (2022),Podcast: The Ride
 2022-09-21T04:06:06+00:00,patreon,157,"Confess, Fletch","Confess, Fletch",
 2022-09-25T04:00:00+00:00,main,394,The Woman King,The Woman King,
@@ -648,10 +648,11 @@ date,feed,ep_num,title,movie,guest
 2024-05-26T20:25:09+00:00,main,479,Paprika,Paprika,
 2024-06-01T20:25:09+00:00,patreon,227,TMNT,TMNT,
 2024-06-02T20:25:09+00:00,main,480,Furiosa,Furiosa,
-2024-06-09T20:25:09+00:00,main,481a,Hot Tomorrows,Hot Tomorrows,
-2024-06-09T20:25:09+00:00,main,481b,Going in Style,Going in Style,
-2024-06-21T20:25:09+00:00,patreon,229,Teenage Mutant Ninja Turtles (2014),Teenage Mutant Ninja Turtles (2014),
+2024-06-09T20:25:09+00:00,main,481,Going in Style,Going in Style,
+2024-06-11T20:25:09+00:00,patreon,228a,Hot Dogs for Gauguin,Hot Dogs for Gauguin,
+2024-06-11T20:25:09+00:00,patreon,228b,Hot Tomorrows,Hot Tomorrows,
 2024-06-16T20:25:09+00:00,main,482,Beverly Hills Cop,Beverly Hills Cop,
+2024-06-21T20:25:09+00:00,patreon,229,Teenage Mutant Ninja Turtles (2014),Teenage Mutant Ninja Turtles (2014),
 2024-06-23T20:25:09+00:00,main,483,Midnight Run,Midnight Run,
 2024-07-01T20:25:09+00:00,patreon,230,Teenage Mutant Ninja Turtles: Out of the Shadows,Teenage Mutant Ninja Turtles: Out of the Shadows,
 2024-06-30T20:25:09+00:00,main,484,Scent of a Woman,Scent of a Woman,

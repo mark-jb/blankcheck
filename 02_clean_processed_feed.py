@@ -63,7 +63,7 @@ patreon_replacements = {
         "149": ["Batman v Superman: Dawn of Justice - The Lost Episode"],
         "151": ["Liza with a Z"],
         "153": ["Sully"],
-        "156": ["The Man with the Golden Gun"],
+        "155": ["The Man with the Golden Gun"],
         "184": ["The Cook","One Week","The High Sign","The Playhouse","Cops","The Balloonatic"]
         }
 

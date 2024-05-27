@@ -96,7 +96,7 @@ replacements = { "main": {
         "337": 17814, # Assault on Precinct 13
         "338": 948,  # Halloween
         "339": 790,  # The Fog
-        "341": 1091, # The Thing
+        "341a": 1091, # The Thing
         "345": 8852,  # Prince of Darkness
         "346": 8337,  # They Live
         "349": 12122,  # Village of the Damned
