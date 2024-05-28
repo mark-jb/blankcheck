@@ -127,6 +127,7 @@ replacements = { "main": {
         "474": 11535, # Rollerball 
         "479": 4977,  # Paprika
         "497": 841,  # Dune
+        "481": 65066,  # Going in Style
         "500": 10000051, # Twin Peaks season 1
         "506": 10000053, # Twin Peaks the return
         "503": 537921, # Fixed
@@ -205,7 +206,7 @@ replacements = { "main": {
 def get_movie_data_from_id(movie_id):
     """ Get a movie details from id"""
     if int(movie_id) >= 10000000:
-        return {'release_date': '9999-09-09', 'id':movie_id, 'vote_average': 7, 'original_title': 'Television override'}
+        return {'release_date': '9999-09-09', 'id':movie_id, 'vote_average': 0, 'vote_count': 0, 'original_title': 'Television override'}
     url = 'https://api.themoviedb.org/3/movie/' + str(movie_id) + '?api_key=' + key
     response = session.get(url)
     responsedict = response.json()
@@ -280,14 +281,15 @@ with open(in_csv, mode='r') as csv_movielist:
 
         # search IDs of movie
         if row["ep_num"] in replacements[row["feed"]]:
+            print("   OVERRIDE {}-{}:".format(row["feed"],row["ep_num"]))
             movie_data = get_movie_data_from_id(replacements[row["feed"]][row["ep_num"]])
-            print("   OVERRIDE:")
         else:
             movie_data = get_movie_data_from_title(movie)
         if movie_data:
             row["movie_id"] = movie_data['id']
             row["movie_original_title"] = movie_data['original_title']
             row["vote_average"] = movie_data['vote_average']
+            row["vote_count"] = movie_data['vote_count']
             if 'release_date' in movie_data:
                 row["release_date"] = movie_data['release_date']
             else:
@@ -305,7 +307,7 @@ with open(in_csv, mode='r') as csv_movielist:
         line_count += 1
     print('Processed {:d} movies.'.format(line_count))
 
-columns = ["date","feed","ep_num","title","movie","guest","movie_id","movie_original_title","release_date","vote_average"]
+columns = ["date","feed","ep_num","title","movie","guest","movie_id","movie_original_title","release_date","vote_average","vote_count"]
 
 with open(out_csv, 'w', newline='') as f:
     writer = csv.DictWriter(f, fieldnames=columns)
