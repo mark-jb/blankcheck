@@ -126,8 +126,9 @@ replacements = { "main": {
         "472": 913, # The Thomas Crown Affair 
         "474": 11535, # Rollerball 
         "479": 4977,  # Paprika
-        "497": 841,  # Dune
         "481": 65066,  # Going in Style
+        "482": 90,      # Beverly Hills Cop
+        "497": 841,   # Dune
         "500": 10000051, # Twin Peaks season 1
         "506": 10000053, # Twin Peaks the return
         "503": 537921, # Fixed
