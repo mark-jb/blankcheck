@@ -122,17 +122,21 @@ replacements = { "main": {
         "442": 8077,  # Alien 3
         "444": 2649,  # the game
         "450": 65754, # Dragon tatoo
+        "453": 800158, # The Killer
         "459": 19610, # A Star Is Born
-        "472": 913, # The Thomas Crown Affair 
+        "472": 913,   # The Thomas Crown Affair 
         "474": 11535, # Rollerball 
         "479": 4977,  # Paprika
         "481": 65066,  # Going in Style
         "482": 90,      # Beverly Hills Cop
-        "497": 841,   # Dune
-        "500": 10000051, # Twin Peaks season 1
-        "506": 10000053, # Twin Peaks the return
-        "503": 537921, # Fixed
-        "504": 940139 # Here
+        "494": 841,     # Dune
+        "497": 10000051, # Twin Peaks season 1
+        "503": 940139,   # Here
+        "506": 10000053, # Twin Peaks the return 1-7
+        "507": 10000054, # Twin Peaks the return 8
+        "508": 10000055, # Twin Peaks the return 9-13
+        "509": 10000056, # Twin Peaks the return 14-18
+        "523": 537921,   # Fixed
     },
     "patreon": {
         "2": "1726",    # Iron Man
