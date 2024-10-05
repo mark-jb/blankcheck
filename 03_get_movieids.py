@@ -114,6 +114,7 @@ replacements = { "main": {
         "395": 935,    # Dr Strangelove
         "406": 76600,  # Avatar 2
         "416": 13373,  # Millions
+        "417": 1272,  # Sunshine
         "426b": 33015,  # Go West
         "428a": 34847,  # College
         "430b": 262097, # Trio
@@ -136,7 +137,7 @@ replacements = { "main": {
         "507": 10000054, # Twin Peaks the return 8
         "508": 10000055, # Twin Peaks the return 9-13
         "509": 10000056, # Twin Peaks the return 14-18
-        "523": 537921,   # Fixed
+        "599": 537921,   # Fixed
     },
     "patreon": {
         "2": "1726",    # Iron Man
