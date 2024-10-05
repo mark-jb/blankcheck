@@ -89,7 +89,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2017-07-23T21:00:00+00:00,main,118,The Prestige with Alison Willmore,The Prestige,Alison Willmore,1124,The Prestige,2006-10-17,8.204,15873
 2017-07-30T21:00:00+00:00,main,119,The Dark Knight,The Dark Knight,,155,The Dark Knight,2008-07-16,8.516,32639
 2017-08-06T22:02:29+00:00,main,120,Inception,Inception,,27205,Inception,2010-07-15,8.369,36340
-2017-08-13T21:00:00+00:00,main,121,The Dark Knight Rises,The Dark Knight Rises,,49026,The Dark Knight Rises,2012-07-17,7.78,22517
+2017-08-13T21:00:00+00:00,main,121,The Dark Knight Rises,The Dark Knight Rises,,49026,The Dark Knight Rises,2012-07-17,7.78,22518
 2017-08-20T21:00:00+00:00,main,122,Talking Maul Live @ DCM19 with Peter Serafinowicz,Talking Maul Live @ DCM19,Peter Serafinowicz,10000004,Television override,9999-09-09,0,0
 2017-08-27T21:00:00+00:00,main,123,Interstellar,Interstellar,,157336,Interstellar,2014-11-05,8.441,35294
 2017-09-03T21:00:00+00:00,main,124,Dunkirk with Bilge Ebiri,Dunkirk,Bilge Ebiri,374720,Dunkirk,2017-07-19,7.456,16335
@@ -160,7 +160,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2018-11-18T22:00:00+00:00,main,192,The Intern with Jamie Lee,The Intern,Jamie Lee,257211,The Intern,2015-09-23,7.215,6613
 2018-11-25T22:00:00+00:00,main,193,Home Again with Richard Lawson,Home Again,Richard Lawson,427900,Home Again,2017-09-07,6.118,1173
 2018-12-02T22:00:00+00:00,main,194a,Ralph Breaks the Internet,Wreck-it Ralph,,82690,Wreck-It Ralph,2012-11-01,7.339,12185
-2018-12-02T22:00:00+00:00,main,194b,Ralph Breaks the Internet,Ralph Breaks the Internet,,404368,Ralph Breaks the Internet,2018-11-20,7.185,7476
+2018-12-02T22:00:00+00:00,main,194b,Ralph Breaks the Internet,Ralph Breaks the Internet,,404368,Ralph Breaks the Internet,2018-11-20,7.184,7477
 2018-12-09T22:00:00+00:00,main,195,Pee-wee's Big Adventure,Pee-wee's Big Adventure,,5683,Pee-wee's Big Adventure,1985-07-26,6.4,758
 2018-12-16T22:00:00+00:00,main,196,Beetlejuice with Rebecca Bulnes,Beetlejuice,Rebecca Bulnes,4011,Beetlejuice,1988-03-30,7.375,7189
 2018-12-23T22:00:00+00:00,main,197,Aquaman,Aquaman,,297802,Aquaman,2018-12-07,6.9,13923
@@ -182,7 +182,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2019-03-10T05:00:00+00:00,main,207,Big Fish with Chris Gethard,Big Fish,Chris Gethard,587,Big Fish,2003-12-25,7.761,7091
 2019-03-11T04:00:02+00:00,patreon,11,Corpse Bride with J.D. Amato,Corpse Bride,J.D. Amato,3933,Corpse Bride,2005-09-12,7.566,8992
 2019-03-17T08:00:00+00:00,main,208,Charlie and the Chocolate Factory with Pilot Viruet,Charlie and the Chocolate Factory,Pilot Viruet,118,Charlie and the Chocolate Factory,2005-07-13,7.052,15010
-2019-03-21T04:00:01+00:00,patreon,13,The Avengers,The Avengers,,24428,The Avengers,2012-04-25,7.718,30547
+2019-03-21T04:00:01+00:00,patreon,13,The Avengers,The Avengers,,24428,The Avengers,2012-04-25,7.718,30549
 2019-03-24T04:00:00+00:00,main,209,Sweeney Todd: The Demon Barber of Fleet Street with Michael Cerveris,Sweeney Todd: The Demon Barber of Fleet Street,Michael Cerveris,13885,Sweeney Todd: The Demon Barber of Fleet Street,2007-12-20,7.183,5792
 2019-03-31T05:44:15+00:00,main,210,Alice in Wonderland with Emily St. James,Alice in Wonderland,Emily St. James,12155,Alice in Wonderland,2010-03-03,6.639,13831
 2019-04-01T04:01:00+00:00,patreon,16,Iron Man 3,Iron Man 3,,68721,Iron Man 3,2013-04-18,6.929,21996
@@ -241,7 +241,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2019-11-10T05:00:00+00:00,main,244c,Caged Heat/ Crazy Mama/ Fighting Mad,Fighting Mad,,86209,Fighting Mad,1976-02-21,5.3,6
 2019-11-17T05:00:00+00:00,main,245a,Citizens Band/ Last Embrace with Justin McElroy ,Citizens Band,Justin McElroy ,85325,Citizens Band,1977-05-18,4.964,14
 2019-11-17T05:00:00+00:00,main,245b,Citizens Band/ Last Embrace with Justin McElroy ,Last Embrace,Justin McElroy ,37923,Last Embrace,1979-05-04,5.4,63
-2019-11-21T05:00:01+00:00,patreon,40,Avengers: Endgame,Avengers: Endgame,,299534,Avengers: Endgame,2019-04-24,8.251,25425
+2019-11-21T05:00:01+00:00,patreon,40,Avengers: Endgame,Avengers: Endgame,,299534,Avengers: Endgame,2019-04-24,8.251,25426
 2019-11-24T05:00:00+00:00,main,246,Melvin and Howard (and Jordan Hoffman),Melvin and Howard,,38772,Melvin and Howard,1980-09-19,6.4,63
 2019-12-01T05:00:00+00:00,main,247,Swing Shift,Swing Shift,,18446,Swing Shift,1984-04-13,5.721,70
 2019-12-01T05:01:01+00:00,patreon,41,Spider-Man: Far From Home,Spider-Man: Far From Home,,429617,Spider-Man: Far From Home,2019-06-28,7.426,15503
@@ -357,7 +357,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2021-02-21T12:00:02+00:00,patreon,90,Star Trek: The Motion Picture,Star Trek: The Motion Picture,,152,Star Trek: The Motion Picture,1979-12-07,6.472,1704
 2021-02-28T04:58:00+00:00,main,313,Hercules with Larry Owens,Hercules,Larry Owens,11970,Hercules,1997-06-13,7.507,7310
 2021-03-01T04:58:00+00:00,patreon,91,Star Trek II: The Wrath of Khan,Star Trek II: The Wrath of Khan,,154,Star Trek II: The Wrath of Khan,1982-06-04,7.446,1887
-2021-03-07T05:00:00+00:00,main,314,Treasure Planet with Emma Stefansky,Treasure Planet,Emma Stefansky,9016,Treasure Planet,2002-11-26,7.5,4123
+2021-03-07T05:00:00+00:00,main,314,Treasure Planet with Emma Stefansky,Treasure Planet,Emma Stefansky,9016,Treasure Planet,2002-11-26,7.549,4123
 2021-03-11T05:00:03+00:00,patreon,93a,The Return of Jafar + Aladdin and the King of Thieves,The Return of Jafar,,15969,The Return of Jafar,1994-05-20,6.2,3318
 2021-03-11T05:00:03+00:00,patreon,93b,The Return of Jafar + Aladdin and the King of Thieves,Aladdin and the King of Thieves,,11238,Aladdin and the King of Thieves,1996-05-20,6.3,1825
 2021-03-14T05:00:00+00:00,main,315,The Princess and the Frog with James III,The Princess and the Frog,James III,10198,The Princess and the Frog,2009-12-08,7.214,5519
@@ -381,7 +381,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2021-06-06T04:00:00+00:00,main,327a,Shaft with Demi Adejuyigbe,Shaft,Demi Adejuyigbe,482,Shaft,1971-06-25,6.438,356
 2021-06-06T04:00:00+00:00,main,327b,Shaft with Demi Adejuyigbe,Shaft,Demi Adejuyigbe,479,Shaft,2000-06-15,6.013,1250
 2021-06-06T04:00:00+00:00,main,327c,Shaft with Demi Adejuyigbe,Shaft,Demi Adejuyigbe,486131,Shaft,2019-06-14,6.548,1688
-2021-06-11T04:01:00+00:00,patreon,104,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,,10607,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996-01-12,7.015,1289
+2021-06-11T04:01:00+00:00,patreon,104,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,,10607,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996-01-12,7.014,1290
 2021-06-13T04:00:00+00:00,main,328,Baby Boy with Ayo Edebiri,Baby Boy,Ayo Edebiri,16161,Baby Boy,2001-06-27,7.166,296
 2021-06-20T04:00:00+00:00,main,329,2 Fast 2 Furious with Jon Gabrus,2 Fast 2 Furious,Jon Gabrus,584,2 Fast 2 Furious,2003-06-05,6.505,7361
 2021-06-21T04:00:02+00:00,patreon,105,Eclipse,Eclipse,,24021,The Twilight Saga: Eclipse,2010-06-23,6.206,8649
@@ -427,7 +427,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2021-11-28T05:00:00+00:00,main,352,Ghosts of Mars with Dave Schilling & Jonah Ray,Ghosts of Mars,Dave Schilling & Jonah Ray,10016,Ghosts of Mars,2001-08-24,5.113,1065
 2021-12-01T05:00:10+00:00,patreon,123,The Santa Clause 2,The Santa Clause 2,,9021,The Santa Clause 2,2002-09-29,5.967,1276
 2021-12-05T05:00:00+00:00,main,353,The Ward with Drew McWeeny,The Ward,Drew McWeeny,45657,The Ward,2010-09-13,5.776,1183
-2021-12-12T06:00:01+00:00,main,354,Benedetta with Marie Bardi,Benedetta,Marie Bardi,454527,Benedetta,2021-07-09,6.625,973
+2021-12-12T06:00:01+00:00,main,354,Benedetta with Marie Bardi,Benedetta,Marie Bardi,454527,Benedetta,2021-07-09,6.6,973
 2021-12-19T05:00:00+00:00,main,355,West Side Story (2021),West Side Story (2021),,511809,West Side Story,2021-12-08,7.001,1526
 2021-12-21T05:00:41+00:00,patreon,125,The Santa Clause 3,The Santa Clause 3,,13767,The Santa Clause 3: The Escape Clause,2006-11-02,5.513,1048
 2022-01-01T05:00:07+00:00,patreon,126,Ghostbusters,Ghostbusters,,620,Ghostbusters,1984-06-08,7.5,8827
@@ -469,7 +469,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2022-06-11T04:01:01+00:00,patreon,145,"OLD DOGS - Blank Check LIVE! at the Bell House (May 12, 2022)",Old Dogs,,22949,Old Dogs,2009-11-24,5.551,723
 2022-06-12T04:00:00+00:00,main,379,Drag Me to Hell with Jamie Loftus & Caitlin Durante,Drag Me to Hell,Jamie Loftus & Caitlin Durante,16871,Drag Me to Hell,2009-05-27,6.426,3635
 2022-06-19T04:00:00+00:00,main,380,Oz the Great and Powerful with Dana Schwartz,Oz the Great and Powerful,Dana Schwartz,68728,Oz the Great and Powerful,2013-03-07,5.916,6439
-2022-06-21T04:01:00+00:00,patreon,146,Batman & Robin,Batman & Robin,,415,Batman & Robin,1997-06-20,4.36,4939
+2022-06-21T04:01:00+00:00,patreon,146,Batman & Robin,Batman & Robin,,415,Batman & Robin,1997-06-20,4.4,4939
 2022-06-26T04:00:00+00:00,main,381,Doctor Strange in the Multiverse of Madness with Patrick Willems,Doctor Strange in the Multiverse of Madness,Patrick Willems,453395,Doctor Strange in the Multiverse of Madness,2022-05-04,7.286,9003
 2022-07-01T04:01:03+00:00,patreon,148,Batman v Superman: Dawn of Justice (Ultimate Edition),Batman v Superman: Dawn of Justice - Ultimate Edition,,209112,Batman v Superman: Dawn of Justice,2016-03-23,5.971,17805
 2022-07-01T04:01:27+00:00,patreon,149,Batman v Superman: Dawn of Justice - The Lost Episode (Remastered),Batman v Superman: Dawn of Justice - The Lost Episode,,209112,Batman v Superman: Dawn of Justice,2016-03-23,5.971,17805
@@ -488,7 +488,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2022-08-21T04:00:00+00:00,main,389,Paths of Glory with Sarah Marshall,Paths of Glory,Sarah Marshall,975,Paths of Glory,1957-10-25,8.272,2864
 2022-08-21T04:01:00+00:00,patreon,154,Live and Let Die,Live and Let Die,,253,Live and Let Die,1973-06-27,6.502,2004
 2022-08-28T04:00:00+00:00,main,390,Spartacus with Richard Lawson,Spartacus,Richard Lawson,967,Spartacus,1960-10-13,7.551,2106
-2022-09-01T04:01:24+00:00,patreon,155,The Man with the Golden Gun,The Man,the Golden Gun,682,The Man with the Golden Gun,1974-12-04,6.4,1999
+2022-09-01T04:01:24+00:00,patreon,155,The Man with the Golden Gun,The Man with the Golden Gun,,682,The Man with the Golden Gun,1974-12-04,6.4,1999
 2022-09-04T04:00:00+00:00,main,391,Lolita with Fran Hoepfner,Lolita,Fran Hoepfner,802,Lolita,1962-06-13,7.336,2024
 2022-09-11T04:00:00+00:00,main,392,Three Thousand Years of Longing,Three Thousand Years of Longing,,556694,Three Thousand Years of Longing,2022-08-24,6.88,1311
 2022-09-11T04:01:01+00:00,patreon,156,The Spy Who Loved Me,The Spy Who Loved Me,,691,The Spy Who Loved Me,1977-07-07,6.791,1942
@@ -589,7 +589,7 @@ date,feed,ep_num,title,movie,guest,movie_id,movie_original_title,release_date,vo
 2023-09-17T04:00:00+00:00,main,443, Se7en with Mike Mitchell & Nick Wiger,Se7en,Mike Mitchell & Nick Wiger,807,Se7en,1995-09-22,8.375,20820
 2023-09-21T04:00:04+00:00,patreon,198,GoldenEye,GoldenEye,,710,GoldenEye,1995-11-16,6.891,3819
 2023-09-24T04:00:00+00:00,main,444, The Game with Brendan Hines,The Game,Brendan Hines,2649,The Game,1997-09-12,7.568,6468
-2023-10-01T04:00:00+00:00,main,445,Fight Club with Alex Ross Perry,Fight Club,Alex Ross Perry,550,Fight Club,1999-10-15,8.4,29171
+2023-10-01T04:00:00+00:00,main,445,Fight Club with Alex Ross Perry,Fight Club,Alex Ross Perry,550,Fight Club,1999-10-15,8.439,29172
 2023-10-01T04:00:05+00:00,patreon,199,Tomorrow Never Dies with Jason Mantzoukas,Tomorrow Never Dies,Jason Mantzoukas,714,Tomorrow Never Dies,1997-12-11,6.36,3028
 2023-10-08T04:00:00+00:00,main,446,Panic Room with Eva Anderson,Panic Room,Eva Anderson,4547,Panic Room,2002-03-29,6.777,4863
 2023-10-11T04:00:03+00:00,patreon,201,David Fincher Music Videos,David Fincher Music Videos,,10000110,Television override,9999-09-09,0,0
