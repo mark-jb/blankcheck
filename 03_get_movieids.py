@@ -207,7 +207,8 @@ replacements = { "main": {
         "229": "98566", # TMNT 5 
         "237g": 10000207, # Dumbland
         "237i": 10000209, # Lady Blue Shanghai
-        "240": 10000052  # Twin Peaks season 2
+        "240": 10000052,  # Twin Peaks season 2
+        "247": 536869     # Cats
     }
 }
 
