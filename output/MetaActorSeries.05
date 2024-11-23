@@ -6,13 +6,6 @@
 SF-128: Ghostbusters II
 370: Darkman
 
-==== Abbey Lee ====
-272: Mad Max: Fury Road
-335: Old
-480: Furiosa
-491: Horizon: An American Saga – Chapter 1
-510: Horizon: An American Saga – Chapter 2
-
 ==== Adam Sandler ====
 160: Spanglish
 174a: Hotel Transylvania
@@ -62,6 +55,13 @@ SF-46: Rogue One
 SF-48: Star Wars
 401: Eyes Wide Shut
 
+==== Angus Wright ====
+88: Rogue One: A Star Wars Story
+SF-46: Rogue One
+309: The Witches
+393: Pinocchio (2022)
+503: Here
+
 ==== Anna Kendrick ====
 SF-59: Trolls: The Experience
 SF-102: Twilight
@@ -76,12 +76,19 @@ SF-106: Breaking Dawn – Part 1
 311: The Little Mermaid
 517: E.T. the Extra-Terrestrial
 
-==== Anthony Molinari ====
-80b: Jack Reacher: Never Go Back
-SF-38: Captain Marvel
-SF-41: Spider-Man: Far From Home
-306: teneT
-452: Mank
+==== Anthony Lang ====
+34: Star Wars: A New Hope
+36: Star Wars: Return of the Jedi
+SF-48: Star Wars
+SF-51: Return of the Jedi
+398: Barry Lyndon
+
+==== Anthony Zerbe ====
+55: The Matrix Reloaded
+56: The Matrix Revolutions
+SF-136: The Matrix Reloaded
+SF-138: The Matrix Revolutions
+SF-256: Star Trek: Insurrection
 
 ==== Arliss Howard ====
 93: The Lost World: Jurassic Park
@@ -257,6 +264,13 @@ SF-151: The Lego Batman Movie
 321: Ishtar
 333: Clifford 2: Hyper-Clifford
 483: Midnight Run
+
+==== Charlize Theron ====
+272: Mad Max: Fury Road
+287: The Old Guard
+SF-82: Prometheus
+SF-110: F9
+381: Doctor Strange in the Multiverse of Madness
 
 ==== Chris Pratt ====
 135: Zero Dark Thirty
@@ -516,6 +530,13 @@ SF-35: Avengers: Infinity War
 SF-19: Captain America: The Winter Soldier
 SF-26: Captain America: Civil War
 SF-40: Avengers: Endgame
+
+==== Gates McFadden ====
+468: The Hunt For Red October
+SF-253: Star Trek: Generations
+SF-254: Star Trek: First Contact
+SF-256: Star Trek: Insurrection
+SF-257: Star Trek: Nemesis
 
 ==== Gene LeBell ====
 202: Ed Wood
@@ -832,6 +853,13 @@ SF-64: Toy Story 3
 SF-66: Toy Story 4
 314: Treasure Planet
 
+==== LeVar Burton ====
+223: Ali
+SF-253: Star Trek: Generations
+SF-254: Star Trek: First Contact
+SF-256: Star Trek: Insurrection
+SF-257: Star Trek: Nemesis
+
 ==== Lee Pace ====
 107: Lincoln
 113: The Book of Henry
@@ -880,6 +908,13 @@ SF-23: Avengers: Age of Ultron
 198: Batman
 SF-50: The Empire Strikes Back
 SF-78: Aliens
+
+==== Majel Barrett ====
+SF-90: Star Trek: The Motion Picture
+SF-97: Star Trek IV: The Voyage Home
+SF-253: Star Trek: Generations
+SF-254: Star Trek: First Contact
+SF-257: Star Trek: Nemesis
 
 ==== Marianne Muellerleile ====
 76: The Terminator
@@ -972,6 +1007,13 @@ SF-103: New Moon
 SF-106: Breaking Dawn – Part 1
 SF-108: Breaking Dawn: Part 2
 
+==== Michael Welch ====
+SF-102: Twilight
+SF-103: New Moon
+SF-105: Eclipse
+SF-106: Breaking Dawn – Part 1
+SF-256: Star Trek: Insurrection
+
 ==== Michelle Arthur ====
 101: The Terminal
 270: Happy Feet
@@ -1055,6 +1097,13 @@ SF-108: Breaking Dawn: Part 2
 SF-44: Solo
 SF-46: Rogue One
 287: The Old Guard
+
+==== Oprah Winfrey ====
+191: It's Complicated
+254: Beloved
+315: The Princess and the Frog
+SF-195: Ocean’s Thirteen
+520: The Color Purple
 
 ==== Pat Kiernan ====
 SF-13: The Avengers
@@ -1167,13 +1216,6 @@ SF-240: Twin Peaks Season 2
 506: Twin Peaks The Return (1-7)
 508: Twin Peaks The Return (9-13)
 509: Twin Peaks The Return (14-18)
-
-==== Richard Carter ====
-269: Babe: Pig in the City
-270: Happy Feet
-271: Happy Feet Two
-272: Mad Max: Fury Road
-480: Furiosa
 
 ==== Richard Dreyfuss ====
 SF-53b: American Graffiti
@@ -1308,6 +1350,13 @@ SF-161: Octopussy
 450: The Girl with the Dragon Tattoo
 482: Beverly Hills Cop
 
+==== Taraji P. Henson ====
+194b: Ralph Breaks the Internet
+SF-7: What Men Want
+328: Baby Boy
+330: Four Brothers
+448: The Curious Case of Benjamin Button
+
 ==== Ted Levine ====
 221: Heat
 223: Ali
@@ -1362,7 +1411,7 @@ SF-217: Die Hard 2: Die Harder
 121: The Dark Knight Rises
 124: Dunkirk
 272: Mad Max: Fury Road
-480: Furiosa
+SF-257: Star Trek: Nemesis
 
 ==== Tom Holland ====
 SF-26: Captain America: Civil War
@@ -1503,10 +1552,3 @@ SF-75: Mission: Impossible - Fallout
 327b: Shaft
 445: Fight Club
 447: Zodiac
-
-==== Zoë Kravitz ====
-49: After Earth
-272: Mad Max: Fury Road
-SF-151: The Lego Batman Movie
-SF-152: The Batman
-480: Furiosa
