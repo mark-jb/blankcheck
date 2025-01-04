@@ -285,7 +285,7 @@ SF-240: Twin Peaks Season 2
 506: Twin Peaks The Return (1-7)
 508: Twin Peaks The Return (9-13)
 509: Twin Peaks The Return (14-18)
-524: Hook
+522: Hook
 
 ==== Doug Jones ====
 23c: Fantastic Four: Rise of the Silver Surfer
@@ -429,7 +429,7 @@ SF-201: David Fincher Music Videos
 488: The Postman
 489: Open Range
 491: Horizon: An American Saga – Chapter 1
-510: Horizon: An American Saga – Chapter 2
+550: Horizon: An American Saga – Chapter 2
 
 ==== Jamie Campbell Bower ====
 209: Sweeney Todd: The Demon Barber of Fleet Street
@@ -437,7 +437,7 @@ SF-103: New Moon
 SF-106: Breaking Dawn – Part 1
 SF-108: Breaking Dawn: Part 2
 491: Horizon: An American Saga – Chapter 1
-510: Horizon: An American Saga – Chapter 2
+550: Horizon: An American Saga – Chapter 2
 
 ==== Jamie Lee Curtis ====
 81: True Lies
@@ -558,6 +558,14 @@ SF-227: TMNT
 191: It's Complicated
 242: The Wind Rises
 381: Doctor Strange in the Multiverse of Madness
+
+==== John Lithgow ====
+123: Interstellar
+153: Terms of Endearment
+273: Twilight Zone: Nightmare at 20,000 Feet
+SF-80c: Tales from the Crypt: You, Murderer
+385: All That Jazz
+SF-160: 2010: The Year We Make Contact
 
 ==== John Ortiz ====
 94: Amistad
@@ -733,7 +741,7 @@ SF-29: Guardians of the Galaxy Vol. 2
 326: Rosewood
 SF-110: F9
 491: Horizon: An American Saga – Chapter 1
-510: Horizon: An American Saga – Chapter 2
+550: Horizon: An American Saga – Chapter 2
 
 ==== Michael Stuhlbarg ====
 107: Lincoln
@@ -871,14 +879,6 @@ SF-175: 28 Weeks Later
 423: Yesterday
 SF-202: The World Is Not Enough
 
-==== Robert De Niro ====
-192: The Intern
-221: Heat
-239: Joker
-483: Midnight Run
-SF-248: Analyze This
-SF-251: Analyze That
-
 ==== Robert Patrick ====
 79: Terminator 2: Judgement Day
 326: Rosewood
@@ -917,7 +917,7 @@ SF-32: Thor: Ragnarok
 348: In the Mouth of Madness
 360: The Piano
 468: The Hunt For Red October
-525: Jurassic Park
+523: Jurassic Park
 
 ==== Sam Witwer ====
 37: Star Wars: The Force Awakens
@@ -996,8 +996,8 @@ SF-83: Armageddon
 93: The Lost World: Jurassic Park
 SF-172: Men in Black
 SF-207: Austin Powers in Goldmember
-513: Jaws
-519: Indiana Jones and the Temple of Doom
+512: Jaws
+517: Indiana Jones and the Temple of Doom
 
 ==== Susan Sarandon ====
 57: Speed Racer
@@ -1006,14 +1006,6 @@ SF-207: Austin Powers in Goldmember
 267: The Witches of Eastwick
 268: Lorenzo's Oil
 404: James and the Giant Peach
-
-==== Tara Strong ====
-61: The Animatrix
-174c: Hotel Transylvania 3
-236: Princess Mononoke
-237: Spirited Away
-SF-65a: Toy Story of Terror
-SF-227: TMNT
 
 ==== Taylor Lautner ====
 SF-102: Twilight
@@ -1109,7 +1101,7 @@ SF-64: Toy Story 3
 SF-229: Teenage Mutant Ninja Turtles (2014)
 SF-253: Star Trek: Generations
 SF-257: Star Trek: Nemesis
-520: The Color Purple
+518: The Color Purple
 
 ==== William Fichtner ====
 119: The Dark Knight

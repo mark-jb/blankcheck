@@ -25,7 +25,7 @@ SF-46: Rogue One
 194b: Ralph Breaks the Internet
 331: Abduction
 377: Spider-Man 2
-516: Raiders of the Lost Ark
+515: Raiders of the Lost Ark
 
 ==== Alicia Witt ====
 67: Vanilla Sky
@@ -74,7 +74,7 @@ SF-106: Breaking Dawn – Part 1
 145: Basic Instinct
 191: It's Complicated
 311: The Little Mermaid
-517: E.T. the Extra-Terrestrial
+516: E.T. the Extra-Terrestrial
 
 ==== Anthony Lang ====
 34: Star Wars: A New Hope
@@ -144,7 +144,7 @@ SF-242: Jesus Christ Superstar
 SF-16: Iron Man 3
 304: The Walk
 SF-209: The Love Guru
-526: Schindler's List
+524: Schindler's List
 
 ==== Bernie Mac ====
 SF-104: Don't Be a Menace to South Central While Drinking Your Juice in the Hood
@@ -186,7 +186,7 @@ SF-251: Analyze That
 SF-51: Return of the Jedi
 292: Who Framed Roger Rabbit
 SF-198: GoldenEye
-522: Indiana Jones and the Last Crusade
+520: Indiana Jones and the Last Crusade
 
 ==== Billy Zane ====
 82: Titanic
@@ -258,13 +258,6 @@ SF-151: The Lego Batman Movie
 310: The Great Mouse Detective
 447: Zodiac
 
-==== Charles Grodin ====
-110: Clifford
-319: The Heartbreak Kid
-321: Ishtar
-333: Clifford 2: Hyper-Clifford
-483: Midnight Run
-
 ==== Charlize Theron ====
 272: Mad Max: Fury Road
 287: The Old Guard
@@ -333,7 +326,7 @@ SF-207: Austin Powers in Goldmember
 36: Star Wars: Return of the Jedi
 SF-50: The Empire Strikes Back
 SF-51: Return of the Jedi
-522: Indiana Jones and the Last Crusade
+520: Indiana Jones and the Last Crusade
 
 ==== Colleen Camp ====
 175: The Ice Storm
@@ -354,7 +347,7 @@ SF-57: The Last Jedi
 95: Saving Private Ryan
 148: Starship Troopers
 SF-67: Mission: Impossible
-523: Always
+521: Always
 
 ==== Dan Hedaya ====
 151: Running Scared
@@ -431,7 +424,7 @@ SF-203: Die Another Day
 SF-48: Star Wars
 399: The Shining
 460: Yentl
-522: Indiana Jones and the Last Crusade
+520: Indiana Jones and the Last Crusade
 
 ==== Derek Mears ====
 43: Signs
@@ -585,7 +578,7 @@ SF-84: Alien: Covenant
 SF-51: Return of the Jedi
 399: The Shining
 493: The Elephant Man
-519: Indiana Jones and the Temple of Doom
+517: Indiana Jones and the Temple of Doom
 
 ==== Harry Goaz ====
 497: Twin Peaks Season 1
@@ -746,7 +739,7 @@ SF-65e: Partysaurus Rex
 370: Darkman
 377: Spider-Man 2
 SF-188: Battle for the Planet of the Apes
-515: 1941
+514: 1941
 
 ==== John Morris ====
 SF-62: Toy Story
@@ -759,8 +752,8 @@ SF-66: Toy Story 4
 197: Aquaman
 SF-93b: Aladdin and the King of Thieves
 457b: Aquaman and the Lost Kingdom
-516: Raiders of the Lost Ark
-522: Indiana Jones and the Last Crusade
+515: Raiders of the Lost Ark
+520: Indiana Jones and the Last Crusade
 
 ==== John Slattery ====
 SF-6: Iron Man 2
@@ -894,6 +887,13 @@ SF-177: Men in Black 3
 174c: Hotel Transylvania 3
 SF-46: Rogue One
 351: John Carpenter’s Vampires
+
+==== Liang Yang ====
+37: Star Wars: The Force Awakens
+140: The Last Jedi
+SF-55: The Force Awakens
+SF-57: The Last Jedi
+SF-75: Mission: Impossible - Fallout
 
 ==== Lou Ferrigno ====
 178: Hulk
@@ -1089,7 +1089,7 @@ SF-108: Breaking Dawn: Part 2
 398: Barry Lyndon
 399: The Shining
 493: The Elephant Man
-522: Indiana Jones and the Last Crusade
+520: Indiana Jones and the Last Crusade
 
 ==== Obie Matthew ====
 88: Rogue One: A Star Wars Story
@@ -1103,7 +1103,7 @@ SF-46: Rogue One
 254: Beloved
 315: The Princess and the Frog
 SF-195: Ocean’s Thirteen
-520: The Color Purple
+518: The Color Purple
 
 ==== Pat Kiernan ====
 SF-13: The Avengers
@@ -1115,9 +1115,9 @@ SF-129: Ghostbusters: Answer the Call
 ==== Pat Roach ====
 361: The Portrait of a Lady
 398: Barry Lyndon
-516: Raiders of the Lost Ark
-519: Indiana Jones and the Temple of Doom
-522: Indiana Jones and the Last Crusade
+515: Raiders of the Lost Ark
+517: Indiana Jones and the Temple of Doom
+520: Indiana Jones and the Last Crusade
 
 ==== Patrick Fischler ====
 189: Something's Gotta Give
@@ -1161,13 +1161,6 @@ SF-143: Batman: Mask of the Phantasm
 377: Spider-Man 2
 SF-227: TMNT
 
-==== Philip Baker Hall ====
-63: Say Anything…
-222: The Insider
-SF-128: Ghostbusters II
-447: Zodiac
-483: Midnight Run
-
 ==== Philip Harvey ====
 24: Star Wars: Revenge of the Sith
 88: Rogue One: A Star Wars Story
@@ -1188,6 +1181,13 @@ SF-240: Twin Peaks Season 2
 500: Twin Peaks: Fire Walk with Me
 506: Twin Peaks The Return (1-7)
 509: Twin Peaks The Return (14-18)
+
+==== Pierre Bergman ====
+214: Dumbo
+SF-41: Spider-Man: Far From Home
+SF-75: Mission: Impossible - Fallout
+305: Wonder Woman 1984
+457a: Wonka
 
 ==== Rafe Spall ====
 73: Roadies
@@ -1220,9 +1220,9 @@ SF-240: Twin Peaks Season 2
 ==== Richard Dreyfuss ====
 SF-53b: American Graffiti
 404: James and the Giant Peach
-513: Jaws
-514: Close Encounters of the Third Kind
-523: Always
+512: Jaws
+513: Close Encounters of the Third Kind
+521: Always
 
 ==== Richard Kind ====
 110: Clifford
@@ -1252,6 +1252,13 @@ SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 421: Steve Jobs
 
+==== Robert De Niro ====
+192: The Intern
+221: Heat
+239: Joker
+SF-248: Analyze This
+SF-251: Analyze That
+
 ==== Robert Mammone ====
 55: The Matrix Reloaded
 56: The Matrix Revolutions
@@ -1270,8 +1277,8 @@ SF-171: Street Fighter
 245a: Citizens Band
 342: Christine
 372: The Quick and The Dead
-514: Close Encounters of the Third Kind
-523: Always
+513: Close Encounters of the Third Kind
+521: Always
 
 ==== Robyn Nevin ====
 55: The Matrix Reloaded
@@ -1285,7 +1292,7 @@ SF-138: The Matrix Revolutions
 198: Batman
 SF-116: The Mummy Returns
 435: Mission: Impossible - Dead Reckoning Part One
-516: Raiders of the Lost Ark
+515: Raiders of the Lost Ark
 
 ==== Rosario Dawson ====
 162: Josie and the Pussycats
@@ -1306,7 +1313,7 @@ SF-55: The Force Awakens
 406: Avatar: The Way of Water
 SF-216: Terminator Salvation
 491: Horizon: An American Saga – Chapter 1
-510: Horizon: An American Saga – Chapter 2
+550: Horizon: An American Saga – Chapter 2
 
 ==== Scott Coffey ====
 SF-237h: Rabbits
@@ -1376,14 +1383,14 @@ SF-7: What Men Want
 160: Spanglish
 378: Spider-Man 3
 405: Monkeybone
-510: Horizon: An American Saga – Chapter 2
+550: Horizon: An American Saga – Chapter 2
 
 ==== Tim Guinee ====
 SF-2: Iron Man
 SF-6: Iron Man 2
 351: John Carpenter’s Vampires
 491: Horizon: An American Saga – Chapter 1
-510: Horizon: An American Saga – Chapter 2
+550: Horizon: An American Saga – Chapter 2
 
 ==== Tim Roth ====
 SF-4: The Incredible Hulk
@@ -1404,7 +1411,7 @@ SF-4: The Incredible Hulk
 SF-217: Die Hard 2: Die Harder
 482: Beverly Hills Cop
 487: Dances with Wolves
-510: Horizon: An American Saga – Chapter 2
+550: Horizon: An American Saga – Chapter 2
 
 ==== Tom Hardy ====
 120: Inception
@@ -1481,21 +1488,21 @@ SF-163: A View to a Kill
 500: Twin Peaks: Fire Walk with Me
 506: Twin Peaks The Return (1-7)
 509: Twin Peaks The Return (14-18)
-515: 1941
+514: 1941
 
 ==== Wayne Knight ====
 145: Basic Instinct
 185: Space Jam
 SF-63: Toy Story 2
 313: Hercules
-525: Jurassic Park
+523: Jurassic Park
 
 ==== Wendie Jo Sperber ====
 288: I Wanna Hold Your Hand
 289: Used Cars
 291: Back to the Future
 294: Back to the Future Part III
-515: 1941
+514: 1941
 
 ==== Wendy Robie ====
 497: Twin Peaks Season 1
@@ -1538,13 +1545,6 @@ SF-212: Terminator 2: Judgment Day
 SF-17: Frankenweenie
 SF-81: Alien: Resurrection
 495: Beetlejuice Beetlejuice
-
-==== Yang Liang ====
-37: Star Wars: The Force Awakens
-140: The Last Jedi
-SF-55: The Force Awakens
-SF-57: The Last Jedi
-SF-75: Mission: Impossible - Fallout
 
 ==== Zach Grenier ====
 23c: Fantastic Four: Rise of the Silver Surfer

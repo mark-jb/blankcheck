@@ -208,11 +208,11 @@ replacements = { "main": {
         "237g": 10000207, # Dumbland
         "237i": 10000209, # Lady Blue Shanghai
         "240": 10000052,  # Twin Peaks season 2
-        "247": 536869     # Cats
+        "247": 536869,    # Cats
         "249b": 10000301, # Night
         "249c": 10000302, # Night
         "249d": 10000303, # Columbo 
-        "252a": 10000304, # Twilight
+        "252a": 10000304 # Twilight
     }
 }
 
