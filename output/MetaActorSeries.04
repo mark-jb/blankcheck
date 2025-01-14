@@ -99,7 +99,7 @@ SF-197a: Alien vs. Predator
 23a: The Fantastic Four
 99: Catch Me If You Can
 321: Ishtar
-520: Indiana Jones and the Last Crusade
+521: Indiana Jones and the Last Crusade
 
 ==== Alex Meraz ====
 69: Suicide Squad
@@ -285,7 +285,7 @@ SF-185: Escape from the Planet of the Apes
 279: Michael
 292: Who Framed Roger Rabbit
 302: A Christmas Carol
-522: Hook
+523: Hook
 
 ==== Bokeem Woodbine ====
 SF-31: Spider-Man: Homecoming
@@ -593,12 +593,6 @@ SF-138: The Matrix Revolutions
 322: Don Jon
 323: Boyz n the Hood
 
-==== Dabney Coleman ====
-110: Clifford
-246: Melvin and Howard
-280: You've Got Mail
-333: Clifford 2: Hyper-Clifford
-
 ==== Dan Castellaneta ====
 23d: Fant4stic
 63: Say Anything…
@@ -752,8 +746,8 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 ==== Dickey Beer ====
 36: Star Wars: Return of the Jedi
 SF-51: Return of the Jedi
-517: Indiana Jones and the Temple of Doom
-520: Indiana Jones and the Last Crusade
+518: Indiana Jones and the Temple of Doom
+521: Indiana Jones and the Last Crusade
 
 ==== Diego Luna ====
 88: Rogue One: A Star Wars Story
@@ -801,7 +795,7 @@ SF-48: Star Wars
 190: The Holiday
 321: Ishtar
 384: Lenny
-522: Hook
+523: Hook
 
 ==== Dylan Baker ====
 220: The Last of the Mohicans
@@ -873,7 +867,7 @@ SF-205: Austin Powers: International Man of Mystery
 335: Old
 371: Army of Darkness
 450: The Girl with the Dragon Tattoo
-524: Schindler's List
+525: Schindler's List
 
 ==== Emeson Nwolie ====
 88: Rogue One: A Star Wars Story
@@ -992,8 +986,8 @@ SF-206: Austin Powers: The Spy Who Shagged Me
 ==== George Lucas ====
 24: Star Wars: Revenge of the Sith
 SF-172: Men in Black
-517: Indiana Jones and the Temple of Doom
-522: Hook
+518: Indiana Jones and the Temple of Doom
+523: Hook
 
 ==== Gerald W. Abrams ====
 37: Star Wars: The Force Awakens
@@ -1251,7 +1245,7 @@ SF-51: Return of the Jedi
 93: The Lost World: Jurassic Park
 SF-29: Guardians of the Galaxy Vol. 2
 SF-32: Thor: Ragnarok
-523: Jurassic Park
+524: Jurassic Park
 
 ==== Jeff Imada ====
 130: Point Break
@@ -1377,7 +1371,7 @@ SF-146: Batman & Robin
 57: Speed Racer
 303: Flight
 315: The Princess and the Frog
-521: Always
+522: Always
 
 ==== John Hostetter ====
 232: Castle in the Sky
@@ -1390,6 +1384,12 @@ SF-256: Star Trek: Insurrection
 SF-76: Alien
 297: Contact
 493: The Elephant Man
+
+==== John J. Fox ====
+337: Assault on Precinct 13
+SF-113: Someone's Watching Me!
+SF-249c: Night Gallery: Make Me Laugh
+SF-252a: Something Evil
 
 ==== John Mahon ====
 SF-83: Armageddon
@@ -1467,7 +1467,7 @@ SF-240: Twin Peaks Season 2
 35: Star Wars: The Empire Strikes Back
 SF-50: The Empire Strikes Back
 SF-159: For Your Eyes Only
-520: Indiana Jones and the Last Crusade
+521: Indiana Jones and the Last Crusade
 
 ==== Julius Tennon ====
 53: Batman v Superman: Dawn of Justice
@@ -1592,8 +1592,8 @@ SF-199: Tomorrow Never Dies
 ==== Kim Robillard ====
 223: Ali
 SF-214: Terminator 3: Rise of the Machines
-521: Always
-522: Hook
+522: Always
+523: Hook
 
 ==== Koichi Yamadera ====
 234: Kiki's Delivery Service
@@ -1841,6 +1841,12 @@ SF-25: Ant-Man
 306: teneT
 361: The Portrait of a Lady
 
+==== Martin Landau ====
+202: Ed Wood
+205: Sleepy Hollow
+SF-17: Frankenweenie
+SF-252b: Savage
+
 ==== Mary Kay Place ====
 153: Terms of Endearment
 191: It's Complicated
@@ -1983,7 +1989,7 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 35: Star Wars: The Empire Strikes Back
 SF-50: The Empire Strikes Back
 515: Raiders of the Lost Ark
-520: Indiana Jones and the Last Crusade
+521: Indiana Jones and the Last Crusade
 
 ==== Michael York ====
 383: Cabaret
@@ -2151,7 +2157,7 @@ SF-245: The Phantom of the Opera
 36: Star Wars: Return of the Jedi
 SF-51: Return of the Jedi
 SF-67: Mission: Impossible
-520: Indiana Jones and the Last Crusade
+521: Indiana Jones and the Last Crusade
 
 ==== Paul Winfield ====
 76: The Terminator
@@ -2229,7 +2235,7 @@ SF-128: Ghostbusters II
 397: A Clockwork Orange
 398: Barry Lyndon
 399: The Shining
-517: Indiana Jones and the Temple of Doom
+518: Indiana Jones and the Temple of Doom
 
 ==== Pierce Gagnon ====
 168: Tomorrowland
@@ -2259,7 +2265,7 @@ SF-40: Avengers: Endgame
 131: Strange Days
 134: The Hurt Locker
 SF-151: The Lego Batman Movie
-524: Schindler's List
+525: Schindler's List
 
 ==== Ralph Ineson ====
 140: The Last Jedi
@@ -2645,12 +2651,6 @@ SF-18: Thor: The Dark World
 SF-32: Thor: Ragnarok
 SF-236: Battleship
 
-==== Tara Charendoff-Strong ====
-61: The Animatrix
-174c: Hotel Transylvania 3
-SF-65a: Toy Story of Terror
-SF-227: TMNT
-
 ==== Taylor Murphy ====
 1: Star Wars: The Phantom Menace
 95: Saving Private Ryan
@@ -2703,7 +2703,7 @@ SF-201: David Fincher Music Videos
 337: Assault on Precinct 13
 399: The Shining
 SF-240: Twin Peaks Season 2
-522: Hook
+523: Hook
 
 ==== Tony Jay ====
 231: Nausicaä of the Valley of the Wind

@@ -212,7 +212,9 @@ replacements = { "main": {
         "249b": 10000301, # Night
         "249c": 10000302, # Night
         "249d": 10000303, # Columbo 
-        "252a": 10000304 # Twilight
+        "252a": "85483", #Somethign Evilt
+        "252b": "110747", # Savage
+        "252c": 10000304 # Twilight
     }
 }
 

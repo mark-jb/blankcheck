@@ -285,7 +285,7 @@ SF-240: Twin Peaks Season 2
 506: Twin Peaks The Return (1-7)
 508: Twin Peaks The Return (9-13)
 509: Twin Peaks The Return (14-18)
-522: Hook
+523: Hook
 
 ==== Doug Jones ====
 23c: Fantastic Four: Rise of the Silver Surfer
@@ -295,7 +295,7 @@ SF-240: Twin Peaks Season 2
 SF-174: Men in Black II
 SF-339: Ouija: Origin of Evil
 
-==== Elizabeth Daily ====
+==== E. G. Daily ====
 194a: Wreck-it Ralph
 195: Pee-wee's Big Adventure
 268: Lorenzo's Oil
@@ -917,7 +917,7 @@ SF-32: Thor: Ragnarok
 348: In the Mouth of Madness
 360: The Piano
 468: The Hunt For Red October
-523: Jurassic Park
+524: Jurassic Park
 
 ==== Sam Witwer ====
 37: Star Wars: The Force Awakens
@@ -991,14 +991,6 @@ SF-83: Armageddon
 SF-83: Armageddon
 340: Escape from New York
 
-==== Steven Spielberg ====
-67: Vanilla Sky
-93: The Lost World: Jurassic Park
-SF-172: Men in Black
-SF-207: Austin Powers in Goldmember
-512: Jaws
-517: Indiana Jones and the Temple of Doom
-
 ==== Susan Sarandon ====
 57: Speed Racer
 58: Cloud Atlas
@@ -1006,6 +998,14 @@ SF-207: Austin Powers in Goldmember
 267: The Witches of Eastwick
 268: Lorenzo's Oil
 404: James and the Giant Peach
+
+==== Tara Strong ====
+61: The Animatrix
+174c: Hotel Transylvania 3
+236: Princess Mononoke
+237: Spirited Away
+SF-65a: Toy Story of Terror
+SF-227: TMNT
 
 ==== Taylor Lautner ====
 SF-102: Twilight
@@ -1100,8 +1100,8 @@ SF-64: Toy Story 3
 405: Monkeybone
 SF-229: Teenage Mutant Ninja Turtles (2014)
 SF-253: Star Trek: Generations
+519: The Color Purple
 SF-257: Star Trek: Nemesis
-518: The Color Purple
 
 ==== William Fichtner ====
 119: The Dark Knight
