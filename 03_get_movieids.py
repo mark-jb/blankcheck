@@ -18,6 +18,7 @@ replacements = { "main": {
         "23d": 166424, # Fantastic Four 2015
         "30": 10000002, # Star Wars: The Clone Wars
         "34": 11,      # Star Wars
+        "35": 1891,   # Empire Strikes Back
         "37": 140607,  # The Force Awakens
         "45": 6947,   # The Village
         "52": 9303,   # Bound
@@ -46,11 +47,14 @@ replacements = { "main": {
         "144": 861,   # Total Recall
         "151": 15698, # Running Scared
         "170": 10000100, #aFamily Dog
+        "171b": 9261,  # The Wedding Banquet
         "173": 4584,  # Sense and Sensibility
         "174a": 76492, # Hotel Transylvania
         "177": 146,   # Crouching Tiger Hidden Dragon
         "184": 30091,  # Chosen: The Hire
         "185": 2300,  # Space Jam
+        "186": 332562, # A Star is Born
+        "197": 297802, # Aquaman
         "198": 268,   # Batman
         "200": 450465, # Glass
         "206": 869,   # Planet of the Apes
@@ -116,6 +120,7 @@ replacements = { "main": {
         "416": 13373,  # Millions
         "417": 1272,  # Sunshine
         "426b": 33015,  # Go West
+        "427b": 961,    # The General
         "428a": 34847,  # College
         "430b": 262097, # Trio
         "433": 670,    # Oldboy
@@ -137,6 +142,7 @@ replacements = { "main": {
         "507": 10000054, # Twin Peaks the return 8
         "508": 10000055, # Twin Peaks the return 9-13
         "509": 10000056, # Twin Peaks the return 14-18
+        "519": 873,      # The Color Purple
         "599": 537921,   # Fixed
     },
     "patreon": {
@@ -212,9 +218,9 @@ replacements = { "main": {
         "249b": 10000301, # Night
         "249c": 10000302, # Night
         "249d": 10000303, # Columbo 
-        "252a": "85483", #Somethign Evilt
+        "252a": "85483",  # Something Evil
         "252b": "110747", # Savage
-        "252c": 10000304 # Twilight
+        "255a": 10000304  # Twilight Zone: Kick the Can
     }
 }
 
@@ -305,6 +311,10 @@ with open(in_csv, mode='r') as csv_movielist:
             row["movie_original_title"] = movie_data['original_title']
             row["vote_average"] = movie_data['vote_average']
             row["vote_count"] = movie_data['vote_count']
+            if 'runtime' in movie_data:
+                row["runtime"] = movie_data['release_date']
+            else:
+                row["runtime"] = 0
             if 'release_date' in movie_data:
                 row["release_date"] = movie_data['release_date']
             else:
@@ -322,7 +332,7 @@ with open(in_csv, mode='r') as csv_movielist:
         line_count += 1
     print('Processed {:d} movies.'.format(line_count))
 
-columns = ["date","feed","ep_num","title","movie","guest","movie_id","movie_original_title","release_date","vote_average","vote_count"]
+columns = ["date","feed","ep_num","title","movie","guest","movie_id","movie_original_title","release_date","vote_average","vote_count","runtime"]
 
 with open(out_csv, 'w', newline='') as f:
     writer = csv.DictWriter(f, fieldnames=columns)
