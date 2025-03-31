@@ -81,6 +81,7 @@ replacements = { "main": {
         "264": 9659,  # Mad Max
         "273": 10000060, # 20,000 feet
         "279": 2928,  # Michael
+        "286": 241771, # Beyond the Lights
         "297": 686 ,  # Contact
         "302": 17979, # Christmas Carol
         "303": 87502, # Flight
@@ -101,6 +102,7 @@ replacements = { "main": {
         "338": 948,  # Halloween
         "339": 790,  # The Fog
         "341a": 1091, # The Thing
+        "342": 8769, # Christine
         "345": 8852,  # Prince of Darkness
         "346": 8337,  # They Live
         "349": 12122,  # Village of the Damned
@@ -127,6 +129,7 @@ replacements = { "main": {
         "438": 22536, # Thirst
         "442": 8077,  # Alien 3
         "444": 2649,  # the game
+        "447": 1949,  # Zodiac
         "450": 65754, # Dragon tatoo
         "453": 800158, # The Killer
         "459": 19610, # A Star Is Born
@@ -136,6 +139,7 @@ replacements = { "main": {
         "481": 65066,  # Going in Style
         "482": 90,      # Beverly Hills Cop
         "494": 841,     # Dune
+        "495": 917496,   # Beetlejuice 2
         "497": 10000051, # Twin Peaks season 1
         "503": 940139,   # Here
         "506": 10000053, # Twin Peaks the return 1-7
@@ -214,19 +218,23 @@ replacements = { "main": {
         "237g": 10000207, # Dumbland
         "237i": 10000209, # Lady Blue Shanghai
         "240": 10000052,  # Twin Peaks season 2
+        "245": 9833,      # The Phantom of the Opera
         "247": 536869,    # Cats
         "249b": 10000301, # Night
         "249c": 10000302, # Night
         "249d": 10000303, # Columbo 
         "252a": "85483",  # Something Evil
         "252b": "110747", # Savage
-        "255a": 10000304  # Twilight Zone: Kick the Can
+        "255a": 10000304, # Twilight Zone: Kick the Can
+        "255b": 10000305, # Amazing Stories: Ghost Train
+        "255c": 10000306  # Amazing Stories: The Mission
     }
 }
 
 def get_movie_data_from_id(movie_id):
     """ Get a movie details from id"""
     if int(movie_id) >= 10000000:
+        print("Returning TV moviedata")
         return {'release_date': '9999-09-09', 'id':movie_id, 'vote_average': 0, 'vote_count': 0, 'original_title': 'Television override'}
     url = 'https://api.themoviedb.org/3/movie/' + str(movie_id) + '?api_key=' + key
     response = session.get(url)
@@ -334,12 +342,6 @@ with open(in_csv, mode='r') as csv_movielist:
 
 columns = ["date","feed","ep_num","title","movie","guest","movie_id","movie_original_title","release_date","vote_average","vote_count","runtime"]
 
-with open(out_csv, 'w', newline='') as f:
-    writer = csv.DictWriter(f, fieldnames=columns)
-    writer.writeheader()
-    for e in new_master_list:
-        writer.writerow(e)
-
 if failures:
     print("\nFailures:")
     for fail in failures:
@@ -363,5 +365,13 @@ for episode, movie_id in id_map_old.items():
     if episode not in intersection_ids:
         print("{} is removed. ID {}: {}".format(episode, id_map_old[episode], id_map[id_map_old[episode]]))
         
-
-
+write_it = input("Write changes? (y/n)")
+if write_it.lower() == "y":
+    print("\nWriting Changes\n")
+    with open(out_csv, 'w', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=columns)
+        writer.writeheader()
+        for e in new_master_list:
+            writer.writerow(e)
+else:
+    print("Not writing changes")
