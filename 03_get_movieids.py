@@ -148,6 +148,34 @@ replacements = { "main": {
         "509": 10000056, # Twin Peaks the return 14-18
         "519": 873,      # The Color Purple
         "599": 537921,   # Fixed
+        "109": 267935,      # The BFG
+        "124": 374720,      # Dunkirk
+        "129": 9491,      # Blue Steel
+        "209": 13885,      # Sweeney Todd: The Demon Barber of Fleet Street
+        "257": 495764,      # Birds of Prey
+        "276": 41776,      # This Is My Life
+        "360": 713,      # The Piano
+        "367": 764,      # The Evil Dead
+        "372": 12106,      # The Quick and The Dead
+        "409": 9905,      # Shallow Grave
+        "47": 8645,      # The Happening
+        "522": 11352,      # Always
+        "187": 9820,      # The Parent Trap
+        "336": 1410,      # Dark Star
+        "343": 9663,      # Starman
+        "353": 45657,      # The Ward
+        "362": 13787,      # Holy Smoke!
+        "390": 967,      # Spartacus
+        "420": 68727,      # Trance
+        "423": 515195,      # Yesterday
+        "43": 2675,      # Signs
+        "456": 523607,      # Maestro
+        "483": 453127,      # Midnight Run
+        "50": 298312,      # The Visit
+        "548": 10778,      # The Man Who Wasn't There
+        "550": 1120368,      # Horizon: An American Saga - Chapter 2
+        "602": 1100988,      # 28 Years Later
+        "607": 1368337      # The Odyssey
     },
     "patreon": {
         "2": "1726",    # Iron Man
@@ -161,6 +189,7 @@ replacements = { "main": {
         "44": "348350", # Solo
         "46": "330459", # Rogue One
         "48": "11",     # Star Wars
+        "50": 1891,     # The Empire Strikes Back
         "51": "1892",   # Return of the Jedi
         "55": "140607", # The Force Awakens
         "59": "136799", # Trolls
@@ -227,7 +256,16 @@ replacements = { "main": {
         "252b": "110747", # Savage
         "255a": 10000304, # Twilight Zone: Kick the Can
         "255b": 10000305, # Amazing Stories: Ghost Train
-        "255c": 10000306  # Amazing Stories: The Mission
+        "255c": 10000306,  # Amazing Stories: The Mission
+        "13": 24428,      # The Avengers
+        "162": 501170,      # Doctor Sleep
+        "198": 710,      # GoldenEye
+        "4": 1724,      # The Incredible Hulk
+        "53a": 636,      # THX-1138
+        "235": 11849,      # Dungeons & Dragons
+        "237c": 44510,      # The Grandmother
+        "242": 12545,      # Jesus Christ Superstar
+        "260": 1924      # Superman
     }
 }
 
@@ -375,3 +413,7 @@ if write_it.lower() == "y":
             writer.writerow(e)
 else:
     print("Not writing changes")
+    print("To prevent changes, put the following in 03_get_movie_ids.py")
+    for episode in intersection_ids:
+        if id_map_new[episode] != id_map_old[episode]:
+            print('        "{}": {},      # {}'.format(episode, id_map_old[episode], id_map[id_map_old[episode]]))
