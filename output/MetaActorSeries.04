@@ -9,7 +9,7 @@
 SF-19: Captain America: The Winter Soldier
 SF-23: Avengers: Age of Ultron
 306: teneT
-602: 28 Years Later
+534: 28 Years Later
 
 ==== Aasif Mandvi ====
 48: The Last Airbender
@@ -233,12 +233,6 @@ SF-155: The Man with the Golden Gun
 SF-156: The Spy Who Loved Me
 SF-158: Moonraker
 
-==== Beverly D'Angelo ====
-528: National Lampoon's European Vacation
-SF-261a: National Lampoon's Vacation
-SF-261b: National Lampoon's Christmas Vacation
-SF-261c: Vegas Vacation
-
 ==== Bill Hader ====
 109: The BFG
 194b: Ralph Breaks the Internet
@@ -315,7 +309,7 @@ SF-121a: The Scorpion King
 162: Josie and the Pussycats
 222: The Insider
 350: Escape from L.A.
-531: Clueless
+532: Clueless
 
 ==== Brendan Fraser ====
 SF-115: The Mummy (1999)
@@ -389,11 +383,11 @@ SF-79: Alien3
 SF-115: The Mummy (1999)
 442: Alien³
 
-==== Carl Reiner ====
-SF-66: Toy Story 4
-SF-192: Ocean's Eleven
-SF-193: Ocean's Twelve
-SF-195: Ocean’s Thirteen
+==== Carl Gottlieb ====
+512: Jaws
+SF-252a: Something Evil
+527: Johnny Dangerously
+532: Clueless
 
 ==== Carl Weathers ====
 SF-65a: Toy Story of Terror
@@ -435,7 +429,7 @@ SF-57: The Last Jedi
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
-SF-268: Man of Steel
+SF-267: Man of Steel
 
 ==== Chadwick Boseman ====
 SF-26: Captain America: Civil War
@@ -479,6 +473,12 @@ SF-105: Eclipse
 SF-106: Breaking Dawn – Part 1
 SF-108: Breaking Dawn: Part 2
 
+==== Chevy Chase ====
+62: Fletch
+347: Memoirs of an Invisible Man
+470: Last Action Hero
+528: National Lampoon's European Vacation
+
 ==== Chris Coppola ====
 300: The Polar Express
 301: Beowulf
@@ -507,7 +507,7 @@ SF-46: Rogue One
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
-SF-268: Man of Steel
+SF-267: Man of Steel
 
 ==== Christopher Fairbank ====
 198: Batman
@@ -815,6 +815,12 @@ SF-144: Batman Forever
 225: Miami Vice
 SF-70: Mission: Impossible III
 
+==== Edi Gathegi ====
+72: Aloha
+SF-102: Twilight
+SF-103: New Moon
+SF-268: Superman
+
 ==== Edie McClurg ====
 194a: Wreck-it Ralph
 234: Kiki's Delivery Service
@@ -918,6 +924,12 @@ SF-164: National Treasure
 464: Nomads
 
 ==== Frank Silva ====
+297: Contact
+SF-83: Armageddon
+497: Twin Peaks Season 1
+SF-240: Twin Peaks Season 2
+
+==== Frank Silva ====
 500: Twin Peaks: Fire Walk with Me
 506: Twin Peaks The Return (1-7)
 507: Twin Peaks The Return (8)
@@ -1011,7 +1023,7 @@ SF-100: Star Trek VI: The Undiscovered Country
 159: As Good as It Gets
 280: You've Got Mail
 375: The Gift
-532: Loser
+533: Loser
 
 ==== Haley Joel Osment ====
 41: The Sixth Sense
@@ -1059,7 +1071,7 @@ SF-234: Waterworld
 175: The Ice Storm
 SF-67: Mission: Impossible
 435: Mission: Impossible - Dead Reckoning Part One
-601: Mission: Impossible - The Final Reckoning
+531: Mission: Impossible - The Final Reckoning
 
 ==== Henry Frost III ====
 53: Batman v Superman: Dawn of Justice
@@ -1295,6 +1307,12 @@ SF-145: Old Dogs
 SF-166: National Treasure: Book of Secrets
 552: Burn After Reading
 
+==== Jeffrey Weissman ====
+273: Twilight Zone: Nightmare at 20,000 Feet
+293: Back to the Future Part II
+294: Back to the Future Part III
+527: Johnny Dangerously
+
 ==== Jena Malone ====
 238: Howl's Moving Castle
 297: Contact
@@ -1306,12 +1324,6 @@ SF-166: National Treasure: Book of Secrets
 SF-3: Hulk Live
 SF-31: Spider-Man: Homecoming
 325: Higher Learning
-
-==== Jerry Weintraub ====
-SF-192: Ocean's Eleven
-SF-193: Ocean's Twelve
-SF-195: Ocean’s Thirteen
-SF-261c: Vegas Vacation
 
 ==== Jesse Heiman ====
 99: Catch Me If You Can
@@ -1469,16 +1481,10 @@ SF-206: Austin Powers: The Spy Who Shagged Me
 SF-3: Hulk Live
 SF-339: Ouija: Origin of Evil
 
-==== John Randolph ====
-280: You've Got Mail
-SF-185: Escape from the Planet of the Apes
-SF-186: Conquest of the Planet of the Apes
-SF-261b: National Lampoon's Christmas Vacation
-
 ==== Johnny Otto ====
 124: Dunkirk
 SF-16: Iron Man 3
-SF-268: Man of Steel
+SF-267: Man of Steel
 556: Hail, Caesar!
 
 ==== Jonathan Aris ====
@@ -1509,7 +1515,7 @@ SF-140: The Matrix Resurrections
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
-SF-268: Man of Steel
+SF-267: Man of Steel
 
 ==== Jude Ciccolella ====
 101: The Terminal
@@ -1528,12 +1534,6 @@ SF-240: Twin Peaks Season 2
 SF-50: The Empire Strikes Back
 SF-159: For Your Eyes Only
 521: Indiana Jones and the Last Crusade
-
-==== Juliette Lewis ====
-131: Strange Days
-278: Mixed Nuts
-SF-74: The Way of the Gun
-SF-261b: National Lampoon's Christmas Vacation
 
 ==== Julius Tennon ====
 53: Batman v Superman: Dawn of Justice
@@ -1739,12 +1739,6 @@ SF-81: Alien: Resurrection
 350: Escape from L.A.
 443: Se7en
 
-==== Leonard Termo ====
-202: Ed Wood
-223: Ali
-445: Fight Club
-501: Lost Highway
-
 ==== Leslie Stefanson ====
 42: Unbreakable
 159: As Good as It Gets
@@ -1862,8 +1856,8 @@ SF-61: Babe
 ==== Malcolm McDowell ====
 397: A Clockwork Orange
 SF-253: Star Trek: Generations
+536: Vamps
 SF-273: Tank Girl
-534: Vamps
 
 ==== Mandy Patinkin ====
 232: Castle in the Sky
@@ -2139,7 +2133,7 @@ SF-75: Mission: Impossible - Fallout
 167: Mission: Impossible – Ghost Protocol
 SF-72: Mission: Impossible - Ghost Protocol
 474: Rollerball
-SF-268: Man of Steel
+SF-267: Man of Steel
 
 ==== Mike Myers ====
 SF-205: Austin Powers: International Man of Mystery
@@ -2224,12 +2218,6 @@ SF-60: The Rise of Skywalker
 335: Old
 412: Knock at the Cabin
 503: Here
-
-==== Nikki Bond ====
-140: The Last Jedi
-250: The Rise of Skywalker
-SF-57: The Last Jedi
-SF-60: The Rise of Skywalker
 
 ==== Noel Fisher ====
 SF-108: Breaking Dawn: Part 2
@@ -2475,7 +2463,7 @@ SF-247: Cats
 53: Batman v Superman: Dawn of Justice
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
-SF-268: Man of Steel
+SF-267: Man of Steel
 
 ==== Rebecca Hall ====
 109: The BFG
@@ -2555,6 +2543,12 @@ SF-207: Austin Powers in Goldmember
 245a: Citizens Band
 246: Melvin and Howard
 
+==== Robbie Coltrane ====
+SF-193: Ocean's Twelve
+SF-198: GoldenEye
+SF-202: The World Is Not Enough
+528: National Lampoon's European Vacation
+
 ==== Robert Clotworthy ====
 163: The Iron Giant
 SF-19: Captain America: The Winter Soldier
@@ -2601,7 +2595,7 @@ SF-188: Battle for the Planet of the Apes
 95: Saving Private Ryan
 SF-67: Mission: Impossible
 SF-199: Tomorrow Never Dies
-601: Mission: Impossible - The Final Reckoning
+531: Mission: Impossible - The Final Reckoning
 
 ==== Rose Byrne ====
 13: Star Wars: Attack of the Clones
@@ -2655,7 +2649,7 @@ SF-46: Rogue One
 222: The Insider
 SF-120: The Mummy (2017)
 372: The Quick and The Dead
-SF-268: Man of Steel
+SF-267: Man of Steel
 
 ==== Russi Taylor ====
 233: My Neighbor Totoro
@@ -2763,7 +2757,7 @@ SF-196: Ocean's 8
 239: Joker
 SF-110: F9
 435: Mission: Impossible - Dead Reckoning Part One
-601: Mission: Impossible - The Final Reckoning
+531: Mission: Impossible - The Final Reckoning
 
 ==== Shelly Desai ====
 110: Clifford
@@ -2864,8 +2858,8 @@ SF-107: The Host
 ==== Taylor Negron ====
 526: Fast Times at Ridgemont High
 527: Johnny Dangerously
-532: Loser
-534: Vamps
+533: Loser
+536: Vamps
 
 ==== Terry Richards ====
 35: Star Wars: The Empire Strikes Back
@@ -2949,7 +2943,7 @@ SF-55: The Force Awakens
 157: I'll Do Anything
 SF-11: Corpse Bride
 454: I Love You to Death
-533: I Could Never Be Your Woman
+535: I Could Never Be Your Woman
 
 ==== Treat Williams ====
 35: Star Wars: The Empire Strikes Back
@@ -2981,23 +2975,11 @@ SF-44: Solo
 330: Four Brothers
 SF-110: F9
 
-==== Tyson Houseman ====
-SF-103: New Moon
-SF-105: Eclipse
-SF-106: Breaking Dawn – Part 1
-SF-108: Breaking Dawn: Part 2
-
 ==== Valerie Perrine ====
 188: What Women Want
 384: Lenny
 SF-260: Superman
 SF-262: Superman II
-
-==== Vanessa Kirby ====
-59: Jupiter Ascending
-SF-75: Mission: Impossible - Fallout
-435: Mission: Impossible - Dead Reckoning Part One
-601: Mission: Impossible - The Final Reckoning
 
 ==== Verne Troyer ====
 SF-172: Men in Black
@@ -3070,12 +3052,6 @@ SF-217: Die Hard 2: Die Harder
 505: Inland Empire
 543: Barton Fink
 545: Fargo
-
-==== William Hickey ====
-318: A New Leaf
-320: Mikey and Nicky
-403: The Nightmare Before Christmas
-SF-261b: National Lampoon's Christmas Vacation
 
 ==== William Hope ====
 77: Aliens

@@ -114,6 +114,7 @@ replacements = { "main": {
         "376": 557, # Spiderman
         "377": 558, # Spiderman 2
         "378": 559, # Spiderman 3
+        "383": 10784,      # Cabaret
         "388": 247, # The Killing
         "391": 802, # Lolita
         "393": 532639, # pinocchio
@@ -147,6 +148,7 @@ replacements = { "main": {
         "508": 10000055, # Twin Peaks the return 9-13
         "509": 10000056, # Twin Peaks the return 14-18
         "519": 873,      # The Color Purple
+        "533": 10642,      # Loser
         "599": 537921,   # Fixed
         "109": 267935,      # The BFG
         "124": 374720,      # Dunkirk
@@ -174,7 +176,8 @@ replacements = { "main": {
         "50": 298312,      # The Visit
         "548": 10778,      # The Man Who Wasn't There
         "550": 1120368,      # Horizon: An American Saga - Chapter 2
-        "602": 1100988,      # 28 Years Later
+        "534": 1100988,      # 28 Years Later
+        "64": 11068,      # Singles
         "607": 1368337      # The Odyssey
     },
     "patreon": {
@@ -201,6 +204,7 @@ replacements = { "main": {
         "80a": 10000070, # TftC: 1
         "80b": 10000071, # TftC: 2
         "80c": 10000072, # TftC: 3
+        "103": 18239,      # New Moon
         "105": "24021", # Twilight Eclipse
         "115": "564",   # The Mummy
         "117": "40047", # Elvis
@@ -244,6 +248,7 @@ replacements = { "main": {
         "226": "1499", # TMNT 3 
         "227": "1273", # TMNT 4 
         "229": "98566", # TMNT 5 
+        "233": 15196,      # Clue
         "237g": 10000207, # Dumbland
         "237i": 10000209, # Lady Blue Shanghai
         "240": 10000052,  # Twin Peaks season 2
@@ -265,7 +270,9 @@ replacements = { "main": {
         "235": 11849,      # Dungeons & Dragons
         "237c": 44510,      # The Grandmother
         "242": 12545,      # Jesus Christ Superstar
-        "260": 1924      # Superman
+        "261a": 11153,      # Vacation
+        "260": 1924,     # Superman
+        "268": 1061474   # Superman 2025
     }
 }
 

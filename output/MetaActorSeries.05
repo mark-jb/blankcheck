@@ -32,7 +32,7 @@ SF-274: Judge Dredd
 191: It's Complicated
 401: Eyes Wide Shut
 SF-198: GoldenEye
-532: Loser
+533: Loser
 
 ==== Alan Rickman ====
 173: Sense and Sensibility
@@ -40,13 +40,6 @@ SF-198: GoldenEye
 210: Alice in Wonderland
 466: Die Hard
 SF-259: Galaxy Quest
-
-==== Alan Tudyk ====
-88: Rogue One: A Star Wars Story
-194a: Wreck-it Ralph
-194b: Ralph Breaks the Internet
-SF-46: Rogue One
-316: Moana
 
 ==== Alden Ehrenreich ====
 165: Solo: A Star Wars Story
@@ -279,6 +272,13 @@ SF-216: Terminator Salvation
 411: A Life Less Ordinary
 SF-269: The Mask
 
+==== Carl Reiner ====
+SF-66: Toy Story 4
+SF-192: Ocean's Eleven
+SF-193: Ocean's Twelve
+SF-195: Ocean’s Thirteen
+SF-196: Ocean's 8
+
 ==== Casey Affleck ====
 123: Interstellar
 SF-192: Ocean's Eleven
@@ -375,7 +375,7 @@ SF-207: Austin Powers in Goldmember
 188: What Women Want
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
-SF-268: Man of Steel
+SF-267: Man of Steel
 
 ==== Crispin Glover ====
 210: Alice in Wonderland
@@ -601,13 +601,6 @@ SF-46: Rogue One
 508: Twin Peaks The Return (9-13)
 547: O Brother, Where Art Thou?
 
-==== Frank Grillo ====
-98: Minority Report
-135: Zero Dark Thirty
-SF-19: Captain America: The Winter Soldier
-SF-26: Captain America: Civil War
-SF-40: Avengers: Endgame
-
 ==== Gates McFadden ====
 468: The Hunt For Red October
 SF-253: Star Trek: Generations
@@ -761,6 +754,13 @@ SF-274: Judge Dredd
 471: Die Hard with a Vengeance
 472: The Thomas Crown Affair (1999)
 SF-223: Teenage Mutant Ninja Turtles
+
+==== Jeff Bridges ====
+SF-2: Iron Man
+343: Starman
+463: The Mirror Has Two Faces
+546: The Big Lebowski
+554: True Grit
 
 ==== Jeff Imada ====
 130: Point Break
@@ -993,6 +993,13 @@ SF-174: Men in Black II
 SF-177: Men in Black 3
 486: Gigli
 
+==== Leonard Termo ====
+202: Ed Wood
+223: Ali
+445: Fight Club
+501: Lost Highway
+527: Johnny Dangerously
+
 ==== Leonardo DiCaprio ====
 82: Titanic
 99: Catch Me If You Can
@@ -1131,7 +1138,7 @@ SF-161: Octopussy
 67: Vanilla Sky
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
-SF-268: Man of Steel
+SF-267: Man of Steel
 
 ==== Michael Sheen ====
 193: Home Again
@@ -1188,6 +1195,13 @@ SF-64: Toy Story 3
 514: 1941
 SF-260: Superman
 SF-262: Superman II
+
+==== Nicholas Guest ====
+174b: Hotel Transylvania 2
+231: Nausicaä of the Valley of the Wind
+242: The Wind Rises
+SF-91: Star Trek II: The Wrath of Khan
+SF-201: David Fincher Music Videos
 
 ==== Nick Kellington ====
 88: Rogue One: A Star Wars Story
@@ -1327,7 +1341,7 @@ SF-29: Guardians of the Galaxy Vol. 2
 SF-35: Avengers: Infinity War
 SF-40: Avengers: Endgame
 435: Mission: Impossible - Dead Reckoning Part One
-601: Mission: Impossible - The Final Reckoning
+531: Mission: Impossible - The Final Reckoning
 
 ==== Rafe Spall ====
 73: Roadies
@@ -1355,7 +1369,7 @@ SF-180: Men in Black: International
 SF-116: The Mummy Returns
 SF-180: Men in Black: International
 457a: Wonka
-533: I Could Never Be Your Woman
+535: I Could Never Be Your Woman
 
 ==== Rene Russo ====
 192: The Intern
@@ -1405,13 +1419,6 @@ SF-177: Men in Black 3
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 421: Steve Jobs
-
-==== Robbie Coltrane ====
-SF-193: Ocean's Twelve
-SF-198: GoldenEye
-SF-202: The World Is Not Enough
-528: National Lampoon's European Vacation
-SF-261a: National Lampoon's Vacation
 
 ==== Robert De Niro ====
 192: The Intern
@@ -1487,15 +1494,15 @@ SF-195: Ocean’s Thirteen
 143: RoboCop
 526: Fast Times at Ridgemont High
 527: Johnny Dangerously
-532: Loser
-534: Vamps
+533: Loser
+536: Vamps
 
 ==== Simon Kunz ====
 187: The Parent Trap
 SF-9: Captain America: The First Avenger
 420: Trance
 SF-198: GoldenEye
-533: I Could Never Be Your Woman
+535: I Could Never Be Your Woman
 
 ==== Stephen Lang ====
 85: Avatar
@@ -1605,9 +1612,9 @@ SF-18: Thor: The Dark World
 ==== Twink Caplan ====
 529: Look Who's Talking
 530: Look Who's Talking Too
-531: Clueless
-532: Loser
-533: I Could Never Be Your Woman
+532: Clueless
+533: Loser
+535: I Could Never Be Your Woman
 
 ==== Vanessa Ross ====
 60: Sense8
