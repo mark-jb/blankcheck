@@ -148,7 +148,7 @@ replacements = { "main": {
         "508": 10000055, # Twin Peaks the return 9-13
         "509": 10000056, # Twin Peaks the return 14-18
         "519": 873,      # The Color Purple
-        "533": 10642,      # Loser
+        "534": 10642,      # Loser
         "599": 537921,   # Fixed
         "109": 267935,      # The BFG
         "124": 374720,      # Dunkirk
@@ -176,7 +176,7 @@ replacements = { "main": {
         "50": 298312,      # The Visit
         "548": 10778,      # The Man Who Wasn't There
         "560": 1120368,      # Horizon: An American Saga - Chapter 2
-        "534": 1100988,      # 28 Years Later
+        "535": 1100988,      # 28 Years Later
         "64": 11068,      # Singles
         "607": 1368337      # The Odyssey
     },
@@ -254,14 +254,14 @@ replacements = { "main": {
         "240": 10000052,  # Twin Peaks season 2
         "245": 9833,      # The Phantom of the Opera
         "247": 536869,    # Cats
-        "249b": 10000301, # Night
-        "249c": 10000302, # Night
+        "250b": 10000301, # Night
+        "250c": 10000302, # Night
         "249d": 10000303, # Columbo 
-        "252a": "85483",  # Something Evil
-        "252b": "110747", # Savage
-        "255a": 10000304, # Twilight Zone: Kick the Can
-        "255b": 10000305, # Amazing Stories: Ghost Train
-        "255c": 10000306,  # Amazing Stories: The Mission
+        "253a": "85483",  # Something Evil
+        "253b": "110747", # Savage
+        "260a": 10000304, # Twilight Zone: Kick the Can
+        "260b": 10000305, # Amazing Stories: Ghost Train
+        "260c": 10000306,  # Amazing Stories: The Mission
         "13": 24428,      # The Avengers
         "162": 501170,      # Doctor Sleep
         "198": 710,      # GoldenEye
@@ -271,8 +271,8 @@ replacements = { "main": {
         "237c": 44510,      # The Grandmother
         "242": 12545,      # Jesus Christ Superstar
         "261a": 11153,      # Vacation
-        "260": 1924,     # Superman
-        "268": 1061474   # Superman 2025
+        "267": 1924,     # Superman
+        "275": 1061474   # Superman 2025
     }
 }
 

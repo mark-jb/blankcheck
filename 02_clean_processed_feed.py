@@ -64,7 +64,13 @@ patreon_replacements = {
         "150": ["Liza with a Z"],
         "153": ["Sully"],
         "155": ["The Man with the Golden Gun"],
-        "184": ["The Cook","One Week","The High Sign","The Playhouse","Cops","The Balloonatic"]
+        "184": ["The Cook","One Week","The High Sign","The Playhouse","Cops","The Balloonatic"],
+        "197": ["Alien vs. Predator", "Alien vs. Predator: Requiem"],
+        "228": ["Hot Dogs for Gauguin","Hot Tomorrows"],
+        "238": ["Six Men Getting Sick","The Alphabet","The Grandmother","The Amputee","The Cowboy and the Frenchman","Premonition Following an Evil Deed","Dumbland","Rabbits","Lady Blue Shanghai","What Did Jack Do?"],
+        "250": ["Amblin","Night Gallery: Eyes","Night Gallery: Make Me Laugh","Columbo: Murder by the Book"],
+        "253": ["Something Evil","Savage"],
+        "260": ["Twilight Zone: Kick the Can","Amazing Stories: Ghost Train","Amazing Stories: The Mission"],
         }
 
 def clean_main(episode):
@@ -73,6 +79,9 @@ def clean_main(episode):
     if "Mailbag" in episode["movie"]: return []
     if "March Madness" in episode["movie"]: return []
     if "Fanfare" in episode["movie"]: return []
+    if "Spreadmaster" in episode["movie"]: return []
+    if "Burger Report" in episode["movie"]: return []
+    if "Talking the Walk" in episode["movie"]: return []
     if int(episode["ep_num"]) == 40: episode["guest"] = ""
 
     episodes = []

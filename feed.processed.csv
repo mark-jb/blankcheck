@@ -507,7 +507,7 @@ date,feed,ep_num,title
 2022-04-01T04:00:06+00:00,patreon,138,The Matrix Revolutions
 2022-04-03T04:00:00+00:00,main,369,Evil Dead II with John Hodgman
 2022-04-10T04:00:00+00:00,main,370,Darkman with Chris Weitz
-2022-04-11T04:01:02+00:00,patreon,139,Evil Dead (2013) with Marie Bardi
+2022-04-11T04:01:02+00:00,patreon,139,Evil Dead (2013)
 2022-04-17T04:00:00+00:00,main,371,Army of Darkness with Eva Anderson
 2022-04-21T06:30:10+00:00,patreon,140,The Matrix Resurrections
 2022-04-24T04:00:00+00:00,main,372,The Quick and The Dead with Roman Mars
@@ -642,8 +642,8 @@ date,feed,ep_num,title
 2023-09-21T04:00:04+00:00,patreon,198,GoldenEye
 2023-09-24T04:00:00+00:00,main,444, The Game with Brendan Hines
 2023-10-01T04:00:00+00:00,main,445,Fight Club with Alex Ross Perry
-2023-10-01T04:00:05+00:00,patreon,199,Tomorrow Never Dies with Jason Mantzoukas
-2023-10-01T04:00:05+00:00,patreon,200,Fight Club with Alex Ross Perry (The First Rule Cut)
+2023-10-01T04:00:05+00:00,patreon,199,Fight Club with Alex Ross Perry (The First Rule Cut)
+2023-10-01T04:00:05+00:00,patreon,200,Tomorrow Never Dies with Jason Mantzoukas
 2023-10-08T04:00:00+00:00,main,446,Panic Room with Eva Anderson
 2023-10-11T04:00:03+00:00,patreon,201,David Fincher Music Videos
 2023-10-15T04:00:00+00:00,main,447,Zodiac with Leslye Headland
@@ -737,3 +737,72 @@ date,feed,ep_num,title
 2024-09-29T04:00:00+00:00,main,497,Twin Peaks (Season 1) with Eva Anderson
 2024-10-01T04:00:03+00:00,patreon,240,Ouija: Origin of Evil
 2024-10-06T04:00:00+00:00,main,498,Wild at Heart with Tatiana Maslany
+2024-10-11T04:00:09+00:00,patreon,241,Twin Peaks (Season 2) with Connor Ratliff
+2024-10-13T04:00:00+00:00,main,499,Twin Peaks: Fire Walk with Me with Arkasha Stevenson
+2024-10-20T04:00:00+00:00,main,500,Joker: Hallie À Goodrich
+2024-10-21T04:00:07+00:00,patreon,242,Dungeons & Dragons: Honor Among Thieves
+2024-10-27T04:00:00+00:00,main,501,Lost Highway with David Lowery
+2024-11-01T04:00:08+00:00,patreon,243,Jesus Christ Superstar
+2024-11-03T04:00:00+00:00,main,502,The Straight Story with Dana Stevens
+2024-11-10T05:00:00+00:00,main,503,Here
+2024-11-11T05:00:04+00:00,patreon,244,Oops! All Burger Reports: The Return
+2024-11-17T05:00:00+00:00,main,504,Mulholland Drive with Leslye Headland
+2024-11-21T05:00:08+00:00,patreon,245,Evita
+2024-11-24T05:00:00+00:00,main,505,Inland Empire with David Rees
+2024-12-01T05:00:00+00:00,main,506,Twin Peaks: The Return (Episodes 1-7)
+2024-12-01T05:00:02+00:00,patreon,246,The Phantom of the Opera
+2024-12-08T05:00:00+00:00,main,507,Twin Peaks: The Return (Episode 8) with Connor Ratliff
+2024-12-11T05:00:07+00:00,patreon,247,Cats
+2024-12-15T05:00:00+00:00,main,508,Twin Peaks: The Return (Episodes 9-13) with Fran Hoepfner
+2024-12-21T05:00:04+00:00,patreon,248,Talking the Walk 2024: Sitting the Talk with J.D. Amato
+2024-12-22T05:00:00+00:00,main,509,Twin Peaks: The Return (Episodes 14-18) with Jane Schoenbrun
+2025-01-01T05:00:13+00:00,patreon,249,Analyze This
+2025-01-05T05:00:00+00:00,main,510,Duel
+2025-01-11T05:00:04+00:00,patreon,250,Amblin' / Night Gallery / Columbo
+2025-01-12T05:00:00+00:00,main,511,The Sugarland Express with Esther Zuckerman
+2025-01-19T05:00:00+00:00,main,512,Jaws with Timothy Simons
+2025-01-21T05:00:02+00:00,patreon,251,Mickey Blue Eyes
+2025-01-26T05:00:00+00:00,main,513,Close Encounters of the Third Kind with J.D. Amato
+2025-02-01T05:00:10+00:00,patreon,252,Analyze That
+2025-02-02T05:00:00+00:00,main,514,1941 with Mike Mitchell & Nick Wiger
+2025-02-09T05:00:00+00:00,main,515,Raiders of the Lost Ark with Brian Michael Bendis
+2025-02-11T05:00:03+00:00,patreon,253,LA 2017 / Something Evil / Savage
+2025-02-12T21:07:46+00:00,patreon,254,Blank Check LIVE! at On Air Fest
+2025-02-16T05:00:00+00:00,main,516,E.T. the Extra-Terrestrial
+2025-02-21T05:00:08+00:00,patreon,255,Star Trek: Generations
+2025-02-21T22:05:52+00:00,patreon,256,Blank Check: The Art Show
+2025-02-23T05:00:00+00:00,main,517,The Tenth Annual Blank Check Awards with Joe Reid
+2025-02-28T05:00:07+00:00,patreon,257,2025 MARCH MADNESS PREVIEW
+2025-03-01T05:00:09+00:00,patreon,258,Star Trek: First Contact
+2025-03-02T05:00:00+00:00,main,518,Indiana Jones and the Temple of Doom with Olivia Craighead
+2025-03-04T20:28:58+00:00,patreon,259,Blank Check LIVE! at Town Hall (2025) 
+2025-03-07T01:59:00+00:00,main,519,Blank Check LIVE! at Town Hall (2025)
+2025-03-09T05:00:00+00:00,main,520,The Color Purple with Kenice Mobley
+2025-03-11T04:00:06+00:00,patreon,260,Twilight Zone: The Movie / Amazing Stories
+2025-03-16T04:00:00+00:00,main,521,Empire of the Sun with Bilge Ebiri
+2025-03-18T21:32:24+00:00,patreon,261,2025 March Madness Update 1
+2025-03-21T04:00:05+00:00,patreon,262,Star Trek: Insurrection
+2025-03-23T04:00:00+00:00,main,522,Indiana Jones and the Last Crusade with Chris Gethard
+2025-03-29T13:24:33+00:00,patreon,263,2025 March Madness Update 2
+2025-03-30T04:00:00+00:00,main,523,Always with Richard Lawson
+2025-04-01T04:00:05+00:00,patreon,264,Star Trek: Nemesis
+2025-04-06T04:00:00+00:00,main,524,Hook with Lin-Manuel Miranda
+2025-04-11T04:00:39+00:00,patreon,265,Steven Spielberg's Rides and Games with Podcast: The Ride
+2025-04-13T04:00:00+00:00,main,525,Jurassic Park with Sean Fennessey
+2025-04-20T04:00:00+00:00,main,526,Schindler's List with David Ehrlich
+2025-04-21T04:00:05+00:00,patreon,266,Galaxy Quest
+2025-04-27T04:00:00+00:00,main,527,Fast Times at Ridgemont High with Lola Kirke
+2025-05-01T04:00:12+00:00,patreon,267,Superman
+2025-05-04T04:00:00+00:00,main,528,Johnny Dangerously with Josh Gondelman
+2025-05-11T04:00:00+00:00,main,529,National Lampoon's European Vacation with Jon Gabrus
+2025-05-11T04:00:10+00:00,patreon,268,The Ninth Blank Check Mailbag: Live at On Air Fest
+2025-05-18T04:00:00+00:00,main,530,Look Who's Talking with Hillary Busis
+2025-05-21T04:00:06+00:00,patreon,269,Superman II
+2025-05-25T04:00:00+00:00,main,531,Look Who's Talking Too with Max Minghella
+2025-06-01T04:00:00+00:00,main,532,Mission: Impossible – The Final Reckoning
+2025-06-01T04:02:01+00:00,patreon,270,Superman III
+2025-06-08T04:00:00+00:00,main,533,Clueless with Heidi Gardner
+2025-06-11T04:00:08+00:00,patreon,271,Look Who's Talking Now with Rebecca Alter
+2025-06-15T04:00:00+00:00,main,534,Loser with Chandler Levack
+2025-06-21T04:00:02+00:00,patreon,272,Superman IV: The Quest For Peace
+2025-06-22T04:00:00+00:00,main,535,28 Years Later
