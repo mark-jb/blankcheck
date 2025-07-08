@@ -152,6 +152,8 @@ replacements = { "main": {
         "599": 537921,   # Fixed
         "109": 267935,      # The BFG
         "124": 374720,      # Dunkirk
+        "454": 3101,      # I Love You to Death
+        "487": 581,      # Dances with Wolves
         "129": 9491,      # Blue Steel
         "209": 13885,      # Sweeney Todd: The Demon Barber of Fleet Street
         "257": 495764,      # Birds of Prey
@@ -174,10 +176,15 @@ replacements = { "main": {
         "456": 523607,      # Maestro
         "483": 453127,      # Midnight Run
         "50": 298312,      # The Visit
-        "548": 10778,      # The Man Who Wasn't There
-        "560": 1120368,      # Horizon: An American Saga - Chapter 2
+        "590": 1120368,      # Horizon: An American Saga - Chapter 2
         "535": 1100988,      # 28 Years Later
+        "546": 10778,      # The man who wasn't there
+        "489": 2055,      # Open Range
         "64": 11068,      # Singles
+        "81": 36955,      # True Lies
+        "132": 13526,      # The Weight of Water
+        "278": 24070,      # Mixed Nuts
+        "287": 547016,      # The Old Guard
         "607": 1368337      # The Odyssey
     },
     "patreon": {
@@ -206,6 +213,9 @@ replacements = { "main": {
         "80c": 10000072, # TftC: 3
         "103": 18239,      # New Moon
         "105": "24021", # Twilight Eclipse
+        "107": 72710,      # The Host
+        "109": 2787,      # Pitch Black
+        "199": 714,      # Tomorrow Never Dies
         "115": "564",   # The Mummy
         "117": "40047", # Elvis
         "121a": "9334",  # Body Bags
@@ -248,29 +258,30 @@ replacements = { "main": {
         "226": "1499", # TMNT 3 
         "227": "1273", # TMNT 4 
         "229": "98566", # TMNT 5 
-        "233": 15196,      # Clue
-        "237g": 10000207, # Dumbland
-        "237i": 10000209, # Lady Blue Shanghai
-        "240": 10000052,  # Twin Peaks season 2
-        "245": 9833,      # The Phantom of the Opera
-        "247": 536869,    # Cats
+        "234": 15196,     # Clue
+        "238g": 10000207, # Dumbland
+        "238i": 10000209, # Lady Blue Shanghai
+        "241": 10000052,  # Twin Peaks season 2
+        "246": 9833,      # The Phantom of the Opera
+        "248": 536869,    # Cats
         "250b": 10000301, # Night
         "250c": 10000302, # Night
-        "249d": 10000303, # Columbo 
+        "250d": 10000303, # Columbo 
         "253a": "85483",  # Something Evil
         "253b": "110747", # Savage
         "260a": 10000304, # Twilight Zone: Kick the Can
         "260b": 10000305, # Amazing Stories: Ghost Train
         "260c": 10000306,  # Amazing Stories: The Mission
+        "277": 9495,      # The Crow
+        "280": 9482,      # Judge Dredd
         "13": 24428,      # The Avengers
         "162": 501170,      # Doctor Sleep
         "198": 710,      # GoldenEye
         "4": 1724,      # The Incredible Hulk
         "53a": 636,      # THX-1138
-        "235": 11849,      # Dungeons & Dragons
-        "237c": 44510,      # The Grandmother
+        "236": 11849,      # Dungeons & Dragons
+        "238c": 44510,      # The Grandmother
         "242": 12545,      # Jesus Christ Superstar
-        "261a": 11153,      # Vacation
         "267": 1924,     # Superman
         "275": 1061474   # Superman 2025
     }

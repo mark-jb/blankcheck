@@ -8,7 +8,7 @@ SF-55: The Force Awakens
 SF-57: The Last Jedi
 SF-60: The Rise of Skywalker
 458: Ferrari
-555: Inside Llewyn Davis
+554: Inside Llewyn Davis
 
 ==== Alec Baldwin ====
 70: Elizabethtown
@@ -43,17 +43,6 @@ SF-35: Avengers: Infinity War
 SF-40: Avengers: Endgame
 258b: The Manchurian Candidate
 
-==== Bradley Cooper ====
-72: Aloha
-186: A Star Is Born
-SF-22: Guardians of the Galaxy
-SF-29: Guardians of the Galaxy Vol. 2
-SF-35: Avengers: Infinity War
-SF-40: Avengers: Endgame
-456: Maestro
-SF-241: Dungeons & Dragons: Honor Among Thieves
-SF-268: Superman
-
 ==== Brendan Gleeson ====
 45: The Village
 97: A.I. Artificial Intelligence
@@ -61,9 +50,9 @@ SF-268: Superman
 SF-69: Mission: Impossible II
 301: Beowulf
 414: 28 Days Later
-499a: Joker: Folie à Deux
-557: The Ballad of Buster Scruggs
-SF-280: The Tragedy of Macbeth
+500b: Joker: Folie à Deux
+556: The Ballad of Buster Scruggs
+557: The Tragedy of Macbeth
 
 ==== Clem So ====
 37: Star Wars: The Force Awakens
@@ -85,7 +74,7 @@ SF-129: Ghostbusters: Answer the Call
 SF-131: Ghostbusters: Afterlife
 514: 1941
 518: Indiana Jones and the Temple of Doom
-533: Loser
+534: Loser
 
 ==== Desmond Llewelyn ====
 SF-155: The Man with the Golden Gun
@@ -95,7 +84,7 @@ SF-159: For Your Eyes Only
 SF-161: Octopussy
 SF-163: A View to a Kill
 SF-198: GoldenEye
-SF-199: Tomorrow Never Dies
+SF-199: Fight Club
 SF-202: The World Is Not Enough
 
 ==== Don Rickles ====
@@ -137,21 +126,10 @@ SF-146: Batman & Robin
 SF-192: Ocean's Eleven
 SF-193: Ocean's Twelve
 SF-195: Ocean’s Thirteen
-547: O Brother, Where Art Thou?
-549: Intolerable Cruelty
-552: Burn After Reading
-556: Hail, Caesar!
-
-==== Greg Grunberg ====
-37: Star Wars: The Force Awakens
-149: Hollow Man
-186: A Star Is Born
-250: The Rise of Skywalker
-SF-55: The Force Awakens
-SF-60: The Rise of Skywalker
-SF-70: Mission: Impossible III
-402: The Fabelmans
-SF-207: Austin Powers in Goldmember
+545: O Brother, Where Art Thou?
+547: Intolerable Cruelty
+550: Burn After Reading
+555: Hail, Caesar!
 
 ==== Harry Lennix ====
 53: Batman v Superman: Dawn of Justice
@@ -162,7 +140,7 @@ SF-136: The Matrix Reloaded
 SF-138: The Matrix Revolutions
 SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
 SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
-SF-267: Man of Steel
+SF-274: Man of Steel
 
 ==== Harry Northup ====
 244b: Crazy Mama
@@ -185,6 +163,17 @@ SF-267: Man of Steel
 203: Mars Attacks!
 267: The Witches of Eastwick
 399: The Shining
+
+==== Jared Harris ====
+46: Lady in the Water
+107: Lincoln
+138: Lost in Space
+220: The Last of the Mohicans
+307: Allied
+353: The Ward
+SF-193: Ocean's Twelve
+448: The Curious Case of Benjamin Button
+553: A House of Dynamite
 
 ==== Jeff Bennett ====
 SF-17: Frankenweenie
@@ -226,9 +215,20 @@ SF-23: Avengers: Age of Ultron
 SF-35: Avengers: Infinity War
 SF-40: Avengers: Endgame
 SF-177: Men in Black 3
-551: No Country for Old Men
-554: True Grit
-556: Hail, Caesar!
+549: No Country for Old Men
+552: True Grit
+555: Hail, Caesar!
+
+==== Judi Dench ====
+213: Miss Peregrine's Home for Peculiar Children
+226b: Cats
+SF-111: The Chronicles of Riddick
+SF-198: GoldenEye
+SF-199: Fight Club
+SF-202: The World Is Not Enough
+SF-203: Die Another Day
+SF-247: Cats
+SF-248: Talking the Walk 2024: Sitting the Talk
 
 ==== Laura Dern ====
 140: The Last Jedi
@@ -236,21 +236,21 @@ SF-57: The Last Jedi
 496: Blue Velvet
 498: Wild at Heart
 505: Inland Empire
-506: Twin Peaks The Return (1-7)
-508: Twin Peaks The Return (9-13)
-509: Twin Peaks The Return (14-18)
-524: Jurassic Park
+506: Twin Peaks: The Return (Episodes 1-7)
+508: Twin Peaks: The Return (Episodes 9-13)
+509: Twin Peaks: The Return (Episodes 14-18)
+525: Jurassic Park
 
 ==== Naomi Watts ====
 113: The Book of Henry
 269: Babe: Pig in the City
-SF-237h: Rabbits
+SF-238h: Rabbits
 504: Mulholland Drive
 505: Inland Empire
-506: Twin Peaks The Return (1-7)
-508: Twin Peaks The Return (9-13)
-509: Twin Peaks The Return (14-18)
-SF-273: Tank Girl
+506: Twin Peaks: The Return (Episodes 1-7)
+508: Twin Peaks: The Return (Episodes 9-13)
+509: Twin Peaks: The Return (Episodes 14-18)
+SF-279: Tank Girl
 
 ==== Paul Kasey ====
 37: Star Wars: The Force Awakens
@@ -270,9 +270,9 @@ SF-26: Captain America: Civil War
 SF-37: Ant-Man and the Wasp
 SF-40: Avengers: Endgame
 SF-131: Ghostbusters: Afterlife
-SF-232: Teenage Mutant Ninja Turtles: Mutant Mayhem
-532: Clueless
-535: I Could Never Be Your Woman
+SF-233: Teenage Mutant Ninja Turtles: Mutant Mayhem
+533: Clueless
+536: I Could Never Be Your Woman
 
 ==== Robert Pattinson ====
 306: teneT
@@ -284,17 +284,6 @@ SF-108: Breaking Dawn: Part 2
 SF-152: The Batman
 455: The Boy and the Heron
 607: The Odyssey
-
-==== Robin Atkin Downes ====
-53: Batman v Superman: Dawn of Justice
-69: Suicide Squad
-88: Rogue One: A Star Wars Story
-174c: Hotel Transylvania 3
-SF-46: Rogue One
-SF-82: Prometheus
-SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
-SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
-SF-236: Battleship
 
 ==== Robin Wright ====
 42: Unbreakable
@@ -315,8 +304,8 @@ SF-121b: Body Bags
 376: Spider-Man
 377: Spider-Man 2
 379: Drag Me to Hell
-542: Miller's Crossing
-544: The Hudsucker Proxy
+540: Miller's Crossing
+542: The Hudsucker Proxy
 
 ==== Sebastian Stan ====
 SF-9: Captain America: The First Avenger
@@ -347,20 +336,20 @@ SF-207: Austin Powers in Goldmember
 SF-48: Star Wars
 SF-156: The Spy Who Loved Me
 395: Dr. Strangelove...
-SF-260: Superman
-SF-262: Superman II
-SF-263: Superman III
+SF-267: Superman
+SF-269: Superman II
+SF-270: Superman III
 
 ==== Sheryl Lee ====
 351: John Carpenter’s Vampires
-497: Twin Peaks Season 1
+497: Twin Peaks (Season 1)
 498: Wild at Heart
-SF-240: Twin Peaks Season 2
-500: Twin Peaks: Fire Walk with Me
-506: Twin Peaks The Return (1-7)
-507: Twin Peaks The Return (8)
-508: Twin Peaks The Return (9-13)
-509: Twin Peaks The Return (14-18)
+SF-241: Twin Peaks (Season 2)
+499: Twin Peaks: Fire Walk
+506: Twin Peaks: The Return (Episodes 1-7)
+507: Twin Peaks: The Return (Episode 8)
+508: Twin Peaks: The Return (Episodes 9-13)
+509: Twin Peaks: The Return (Episodes 14-18)
 
 ==== Teddy Newton ====
 164: The Incredibles
@@ -381,5 +370,5 @@ SF-40: Avengers: Endgame
 413: The Beach
 448: The Curious Case of Benjamin Button
 453: The Killer
-552: Burn After Reading
-556: Hail, Caesar!
+550: Burn After Reading
+555: Hail, Caesar!
