@@ -132,7 +132,7 @@ with open(in_csv, mode='r') as csv_movielist:
         if int(movie_id) < 10000000: # don't bother if TV
             movie_cast = get_cast_from_id(movie_id)
             for actor in movie_cast:
-                print('Adding movie {:s} to actor {:s}'.format(movie, actor["name"]))
+                print('{:s}, '.format(actor["name"]), end='')
                 actor_id = actor["id"]
                 if not actor["id"] in master_cast_list:
                     create_actor(actor_id, actor)
@@ -143,11 +143,13 @@ with open(in_csv, mode='r') as csv_movielist:
             print("Add override cast")
             for actor_name in manual_castlist[movie_id]:
                 actor_id = get_actor_id(actor_name)
+                print('{:s}, '.format(actor_name), end='')
                 # print("{} - {:s}".format(actor_id,actor_name))
                 if not actor_id == 0:
                     # print("Actor ID: {} type: {}".format(actor_id, type(actor_id)))
                     master_cast_list[actor_id]["movies_dict"].append(movie_dict)
                     master_cast_list[actor_id]["movies_ep_id"].append(ep_id)
+        print("\n{:s} Complete".format(movie))
 
         line_count += 1
     print('Processed {:d} movies.'.format(line_count))

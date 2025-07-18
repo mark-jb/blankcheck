@@ -185,7 +185,9 @@ replacements = { "main": {
         "132": 13526,      # The Weight of Water
         "278": 24070,      # Mixed Nuts
         "287": 547016,      # The Old Guard
-        "607": 1368337      # The Odyssey
+        "607": 1368337,      # The Odyssey
+        "193": 427900,      # Home Again
+        "548": 5516      # The Ladykillers
     },
     "patreon": {
         "2": "1726",    # Iron Man
@@ -278,6 +280,7 @@ replacements = { "main": {
         "162": 501170,      # Doctor Sleep
         "198": 710,      # GoldenEye
         "4": 1724,      # The Incredible Hulk
+        "71": 45602,      # Disappearing Acts
         "53a": 636,      # THX-1138
         "236": 11849,      # Dungeons & Dragons
         "238c": 44510,      # The Grandmother

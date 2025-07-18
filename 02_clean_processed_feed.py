@@ -9,7 +9,7 @@ import re
 import string
 
 new_list = []
-main_ep_nums_delete = [2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,25,26,27,28,29,31,32,33,39,83,86,89,90,91,125,158,263]
+main_ep_nums_delete = [2,3,4,5,6,7,8,9,10,11,14,15,16,17,18,19,20,21,22,25,26,27,28,29,31,32,33,39,83,86,89,90,91,125,158,263,461]
 patreon_ep_nums_delete = [1,5,14,20,21,27,30,33,39,45,47,49,65,77,89,101,114,118,124,142,147,165,187,190,191,200,208]
 
 main_replacements = {
@@ -126,6 +126,9 @@ def clean_patreon(episode):
         if "Mailbag" in episode["movie"]: return []
         if "March Madness" in episode["movie"]: return []
         if "MARCH MADNESS" in episode["movie"]: return []
+        if "Fanfare" in episode["movie"]: return []
+        if "Spreadmaster" in episode["movie"]: return []
+        if "Burger Report" in episode["movie"]: return []
         # Okay, this is an episode to add
         episodes.append(episode)
     for e in episodes: print("Patreon feed:", e["ep_num"], e["movie"])
