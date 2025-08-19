@@ -163,7 +163,7 @@ replacements = { "main": {
         "372": 12106,      # The Quick and The Dead
         "409": 9905,      # Shallow Grave
         "47": 8645,      # The Happening
-        "522": 11352,      # Always
+        "523": 11352,      # Always
         "187": 9820,      # The Parent Trap
         "336": 1410,      # Dark Star
         "343": 9663,      # Starman
