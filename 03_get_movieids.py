@@ -147,7 +147,7 @@ replacements = { "main": {
         "507": 10000054, # Twin Peaks the return 8
         "508": 10000055, # Twin Peaks the return 9-13
         "509": 10000056, # Twin Peaks the return 14-18
-        "519": 873,      # The Color Purple
+        "520": 873,      # The Color Purple
         "534": 10642,      # Loser
         "599": 537921,   # Fixed
         "109": 267935,      # The BFG
