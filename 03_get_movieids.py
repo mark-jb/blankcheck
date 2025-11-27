@@ -187,6 +187,10 @@ replacements = { "main": {
         "287": 547016,      # The Old Guard
         "607": 1368337,      # The Odyssey
         "193": 427900,      # Home Again
+        "176": 22267,      # Ride with the Devil
+        "384": 27094,      # Lenny
+        "40b": 32911,      # Wide Awake
+        "524": 879,      # Hook
         "548": 5516      # The Ladykillers
     },
     "patreon": {
@@ -261,11 +265,12 @@ replacements = { "main": {
         "227": "1273", # TMNT 4 
         "229": "98566", # TMNT 5 
         "234": 15196,     # Clue
+        "238d": 48847,      # The Amputee
         "238g": 10000207, # Dumbland
         "238i": 10000209, # Lady Blue Shanghai
         "241": 10000052,  # Twin Peaks season 2
         "246": 9833,      # The Phantom of the Opera
-        "248": 536869,    # Cats
+        "247": 536869,    # Cats
         "250b": 10000301, # Night
         "250c": 10000302, # Night
         "250d": 10000303, # Columbo 
