@@ -191,6 +191,13 @@ replacements = { "main": {
         "384": 27094,      # Lenny
         "40b": 32911,      # Wide Awake
         "524": 879,      # Hook
+        "136": 407448,      # Detroit
+        "220": 9361,      # The Last of the Mohicans
+        "225": 82,      # Miami Vice
+        "241": 12429,      # Ponyo on the Cliff
+        "477": 33320,      # Millennium Actress
+        "552": 44264,      # True Grit
+        "94": 11831,      # Amistad
         "548": 5516      # The Ladykillers
     },
     "patreon": {
@@ -291,7 +298,11 @@ replacements = { "main": {
         "238c": 44510,      # The Grandmother
         "242": 12545,      # Jesus Christ Superstar
         "267": 1924,     # Superman
-        "275": 1061474   # Superman 2025
+        "275": 1061474,   # Superman 2025
+        "113": 31428,      # Someone's Watching Me!
+        "243": 12545,      # Jesus Christ Superstar
+        "281": 11867,      # Barb Wire
+        "289": 709      # License to Kill
     }
 }
 
