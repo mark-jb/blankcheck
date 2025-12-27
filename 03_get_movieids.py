@@ -204,6 +204,7 @@ replacements = { "main": {
         "2": "1726",    # Iron Man
         "3": "1927",    # Hulk
         "8": "10195",   # Thor
+        "17": 62214,      # Frankenweenie
         "22": "118340", # Guardians Vol 1
         "25": "102899", # Ant-Man
         "28": "284052", # Doctor Strange
@@ -228,7 +229,7 @@ replacements = { "main": {
         "105": "24021", # Twilight Eclipse
         "107": 72710,      # The Host
         "109": 2787,      # Pitch Black
-        "199": 714,      # Tomorrow Never Dies
+        "200": 714,      # Tomorrow Never Dies
         "115": "564",   # The Mummy
         "117": "40047", # Elvis
         "121a": "9334",  # Body Bags
@@ -302,7 +303,8 @@ replacements = { "main": {
         "113": 31428,      # Someone's Watching Me!
         "243": 12545,      # Jesus Christ Superstar
         "281": 11867,      # Barb Wire
-        "289": 709      # License to Kill
+        "289": 709,      # License to Kill
+        "293": 13155      # Return to OZ
     }
 }
 

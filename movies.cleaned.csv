@@ -590,7 +590,7 @@ date,feed,ep_num,title,movie,guest
 2023-09-21T04:00:04+00:00,patreon,198,GoldenEye,GoldenEye,
 2023-09-24T04:00:00+00:00,main,444, The Game with Brendan Hines,The Game,Brendan Hines
 2023-10-01T04:00:00+00:00,main,445,Fight Club with Alex Ross Perry,Fight Club,Alex Ross Perry
-2023-10-01T04:00:05+00:00,patreon,199,Fight Club with Alex Ross Perry (The First Rule Cut),Fight Club,Alex Ross Perry (The First Rule Cut)
+2023-10-01T04:00:05+00:00,patreon,200,Tomorrow Never Dies,Tomorrow Never Dies,
 2023-10-08T04:00:00+00:00,main,446,Panic Room with Eva Anderson,Panic Room,Eva Anderson
 2023-10-11T04:00:03+00:00,patreon,201,David Fincher Music Videos,David Fincher Music Videos,
 2023-10-15T04:00:00+00:00,main,447,Zodiac with Leslye Headland,Zodiac,Leslye Headland
@@ -797,17 +797,23 @@ date,feed,ep_num,title,movie,guest
 2025-11-30T20:25:09+00:00,main,558,Drive-Away Dolls,Drive-Away Dolls,
 2025-12-01T20:25:09+00:00,patreon,287,The Living Daylights,The Living Daylights,
 2025-12-07T20:25:09+00:00,main,559,Honey Don't!,Honey Don't!,
-2025-12-21T20:25:09+00:00,patreon,289,License to Kill,License to Kill,
 2025-12-14T20:25:09+00:00,main,560,Ella McCay,Ella McCay,
+2025-12-21T20:25:09+00:00,patreon,289,License to Kill,License to Kill,
 2025-12-21T20:25:09+00:00,main,561,Avatar: Fire and Ash,Avatar: Fire and Ash,
+2026-01-01T06:00:00+00:00,patreon,290,The Wizard of OZ,The Wizard of OZ,
 2026-01-04T06:00:00+00:00,main,562,Is This Thing On?,Is This Thing On?,
 2026-01-11T06:00:00+00:00,main,563,No Other Choice,No Other Choice,
+2026-01-11T06:00:00+00:00,patreon,291,The Wiz,The Wiz,
 2026-01-18T06:00:00+00:00,main,564,Ratcatcher,Ratcatcher,
+2026-01-21T06:00:00+00:00,patreon,292,28 Years Later: The Bone Temple,28 Years Later: The Bone Temple,
 2026-01-25T06:00:00+00:00,main,565,Morvern Callar,Morvern Callar,
 2026-02-01T06:00:00+00:00,main,566,We Need to Talk About Kevin,We Need to Talk About Kevin,
+2026-02-01T06:00:00+00:00,patreon,293,Return to OZ,Return to OZ,
 2026-02-08T06:00:00+00:00,main,567,You Were Never Really Here,You Were Never Really Here,
 2026-02-15T06:00:00+00:00,main,568,Die My Love,Die My Love,
+2026-02-21T06:00:00+00:00,patreon,297,Wicked,Wicked,
 2026-02-22T06:00:00+00:00,main,569,Send Help,Send Help,
+2026-03-01T06:00:00+00:00,patreon,298,Wicked: For Good,Wicked: For Good,
 2026-03-08T06:00:00+00:00,main,571,The Cars That Ate Paris,The Cars That Ate Paris,
 2026-03-15T06:00:00+00:00,main,572,Picnic at Hanging Rock,Picnic at Hanging Rock,
 2026-03-22T06:00:00+00:00,main,573,The Last Wave,The Last Wave,
