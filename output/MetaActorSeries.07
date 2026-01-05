@@ -8,15 +8,6 @@ SF-121a: The Scorpion King
 466: Die Hard
 470: Last Action Hero
 
-==== Angus MacInnes ====
-34: Star Wars: A New Hope
-88: Rogue One: A Star Wars Story
-SF-46: Rogue One
-SF-48: Star Wars
-401: Eyes Wide Shut
-SF-269: Superman II
-SF-280: Judge Dredd
-
 ==== Barry Dennen ====
 82: Titanic
 110: Clifford
@@ -233,6 +224,15 @@ SF-123: The Santa Clause 2
 555: Hail, Caesar!
 556: The Ballad of Buster Scruggs
 
+==== Deep Roy ====
+36: Star Wars: Return of the Jedi
+206: Planet of the Apes
+207: Big Fish
+SF-11: Corpse Bride
+208: Charlie and the Chocolate Factory
+SF-51: Return of the Jedi
+SF-293: Return to OZ
+
 ==== Earl Boen ====
 76: The Terminator
 79: Terminator 2: Judgement Day
@@ -269,15 +269,6 @@ SF-65e: Partysaurus Rex
 276: This Is My Life
 SF-66: Toy Story 4
 
-==== Everett McGill ====
-74: Under Siege 2: Dark Territory
-494: Dune
-497: Twin Peaks (Season 1)
-SF-241: Twin Peaks (Season 2)
-502: The Straight Story
-508: Twin Peaks: The Return (Episodes 9-13)
-509: Twin Peaks: The Return (Episodes 14-18)
-
 ==== Gal Gadot ====
 53: Batman v Superman: Dawn of Justice
 111: Wonder Woman
@@ -304,6 +295,15 @@ SF-149: Batman v Superman: Dawn of Justice - The Lost Episode
 SF-46: Rogue One
 SF-136: The Matrix Reloaded
 SF-138: The Matrix Revolutions
+
+==== Guy Standeven ====
+36: Star Wars: Return of the Jedi
+SF-51: Return of the Jedi
+391: Lolita
+399: The Shining
+493: The Elephant Man
+518: Indiana Jones and the Temple of Doom
+SF-293: Return to OZ
 
 ==== Ian Whyte ====
 37: Star Wars: The Force Awakens
@@ -413,6 +413,24 @@ SF-50: The Empire Strikes Back
 SF-51: Return of the Jedi
 SF-269: Superman II
 
+==== John Paxton ====
+373: A Simple Plan
+376: Spider-Man
+377: Spider-Man 2
+378: Spider-Man 3
+379: Drag Me to Hell
+380: Oz the Great and Powerful
+SF-281: Barb Wire
+
+==== John Turturro ====
+SF-152: The Batman
+405: Monkeybone
+540: Miller's Crossing
+541: Barton Fink
+544: The Big Lebowski
+545: O Brother, Where Art Thou?
+581: Fearless
+
 ==== Jon Polito ====
 212: Big Eyes
 540: Miller's Crossing
@@ -448,6 +466,15 @@ SF-57: The Last Jedi
 406: Avatar: The Way of Water
 421: Steve Jobs
 561: Avatar: Fire and Ash
+
+==== Kevin Hudson ====
+37: Star Wars: The Force Awakens
+111: Wonder Woman
+165: Solo: A Star Wars Story
+205: Sleepy Hollow
+SF-44: Solo
+SF-55: The Force Awakens
+417: Sunshine
 
 ==== Kirk Thornton ====
 174b: Hotel Transylvania 2
@@ -512,6 +539,24 @@ SF-80a: Tales from the Crypt: And All Through the Night
 SF-128: Ghostbusters II
 466: Die Hard
 
+==== Mel Gibson ====
+43: Signs
+188: What Women Want
+264: Mad Max
+265: Mad Max 2: The Road Warrior
+266: Mad Max Beyond Thunderdome
+575: Gallipoli
+576: The Year of Living Dangerously
+
+==== Michael G. Wilson ====
+SF-156: The Spy Who Loved Me
+SF-158: Moonraker
+SF-161: Octopussy
+SF-163: A View to a Kill
+SF-202: The World Is Not Enough
+SF-203: Die Another Day
+SF-287: The Living Daylights
+
 ==== Michael Giacchino ====
 37: Star Wars: The Force Awakens
 88: Rogue One: A Star Wars Story
@@ -547,6 +592,15 @@ SF-28: Doctor Strange
 SF-177: Men in Black 3
 421: Steve Jobs
 551: A Serious Man
+
+==== Michelle Yeoh ====
+177: Crouching Tiger, Hidden Dragon
+SF-29: Guardians of the Galaxy Vol. 2
+SF-119: The Mummy: Tomb of the Dragon Emperor
+417: Sunshine
+SF-200: Tomorrow Never Dies
+SF-297: Wicked
+SF-298: Wicked: For Good
 
 ==== Oscar Isaac ====
 37: Star Wars: The Force Awakens
@@ -611,14 +665,14 @@ SF-79: Alien3
 404: James and the Giant Peach
 442: Alien³
 
-==== Peter Diamond ====
-34: Star Wars: A New Hope
-35: Star Wars: The Empire Strikes Back
-36: Star Wars: Return of the Jedi
-SF-48: Star Wars
-SF-50: The Empire Strikes Back
-SF-51: Return of the Jedi
-515: Raiders of the Lost Ark
+==== Ralph Fiennes ====
+131: Strange Days
+134: The Hurt Locker
+SF-151: The Lego Batman Movie
+526: Schindler's List
+535: 28 Years Later
+555: Hail, Caesar!
+SF-292: 28 Years Later: The Bone Temple
 
 ==== Richard Schiff ====
 93: The Lost World: Jurassic Park
@@ -627,7 +681,7 @@ SF-51: Return of the Jedi
 443: Se7en
 SF-274: Man of Steel
 542: The Hudsucker Proxy
-SF-279: Tank Girl
+SF-278: Tank Girl
 
 ==== Rodger Bumpass ====
 163: The Iron Giant
@@ -646,6 +700,15 @@ SF-158: Moonraker
 SF-159: For Your Eyes Only
 SF-161: Octopussy
 SF-163: A View to a Kill
+
+==== Sergio Kato ====
+69: Suicide Squad
+81: True Lies
+SF-205: Austin Powers: International Man of Mystery
+SF-219: Terminator Genisys
+SF-238e: The Cowboy and the Frenchman
+555: Hail, Caesar!
+582: The Truman Show
 
 ==== Spencer Wilding ====
 59: Jupiter Ascending
@@ -701,14 +764,23 @@ SF-212: Terminator 2: Judgment Day
 470: Last Action Hero
 473: The 13th Warrior
 
-==== Timothy Dalton ====
-SF-64: Toy Story 3
-SF-65a: Toy Story of Terror
-SF-65b: Toy Story That Time Forgot
-SF-65c: Small Fry
-SF-65d: Hawaiian Vacation
-SF-65e: Partysaurus Rex
-SF-66: Toy Story 4
+==== Ted Grossman ====
+104: Indiana Jones and the Kingdom of the Crystal Skull
+511: The Sugarland Express
+512: Jaws
+515: Raiders of the Lost Ark
+516: E.T. the Extra-Terrestrial
+522: Indiana Jones and the Last Crusade
+523: Always
+
+==== Tim Rose ====
+36: Star Wars: Return of the Jedi
+37: Star Wars: The Force Awakens
+140: The Last Jedi
+SF-51: Return of the Jedi
+SF-55: The Force Awakens
+SF-57: The Last Jedi
+SF-293: Return to OZ
 
 ==== Tom Hiddleston ====
 106: War Horse
@@ -755,14 +827,14 @@ SF-99: Star Trek V: The Final Frontier
 SF-100: Star Trek VI: The Undiscovered Country
 SF-255: Star Trek: Generations
 
-==== Whoopi Goldberg ====
-SF-64: Toy Story 3
-405: Monkeybone
-SF-229: Teenage Mutant Ninja Turtles (2014)
-SF-255: Star Trek: Generations
-519: Blank Check LIVE! at Town Hall (2025)
-520: The Color Purple
-SF-264: Star Trek: Nemesis
+==== Wes Studi ====
+85: Avatar
+220: The Last of the Mohicans
+221: Heat
+SF-171: Street Fighter
+487: Dances
+SF-284: Mystery Men
+561: Avatar: Fire and Ash
 
 ==== Will Smith ====
 49: After Earth
