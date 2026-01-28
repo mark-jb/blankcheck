@@ -198,7 +198,10 @@ replacements = { "main": {
         "477": 33320,      # Millennium Actress
         "552": 44264,      # True Grit
         "94": 11831,      # Amistad
-        "548": 5516      # The Ladykillers
+        "548": 5516,      # The Ladykillers
+        "150": 337674,      # Elle
+        "157": 106143,      # I'll Do Anything
+        "387a": 10165      # Fear and Desire
     },
     "patreon": {
         "2": "1726",    # Iron Man
@@ -304,7 +307,10 @@ replacements = { "main": {
         "243": 12545,      # Jesus Christ Superstar
         "281": 11867,      # Barb Wire
         "289": 709,      # License to Kill
+        "291": 24961,      # The Wiz
         "293": 13155      # Return to OZ
+    },
+    "crit": {
     }
 }
 

@@ -120,6 +120,8 @@ with open(in_csv, mode='r') as csv_movielist:
         movie_dict = {}
         if row["feed"] == "main":
             ep_id = ep_num
+        elif row["feed"] == "crit":
+            ep_id = "CD-" + ep_num
         else:
             ep_id = "SF-" + ep_num
         movie_with_ep = ep_id + ": " + movie
