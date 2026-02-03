@@ -163,6 +163,8 @@ replacements = { "main": {
         "372": 12106,      # The Quick and The Dead
         "409": 9905,      # Shallow Grave
         "47": 8645,      # The Happening
+        "192": 257211,      # The Intern
+        "463": 25189,      # The Mirror Has Two Faces
         "523": 11352,      # Always
         "187": 9820,      # The Parent Trap
         "336": 1410,      # Dark Star
@@ -182,6 +184,7 @@ replacements = { "main": {
         "489": 2055,      # Open Range
         "64": 11068,      # Singles
         "81": 36955,      # True Lies
+        "131": 281,      # Strange Days
         "132": 13526,      # The Weight of Water
         "278": 24070,      # Mixed Nuts
         "287": 547016,      # The Old Guard
