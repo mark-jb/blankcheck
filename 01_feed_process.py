@@ -28,6 +28,8 @@ def add_feed(filename, shortform, dateformat):
         #print(date)
         ep = {}
         ep["date"] = date.isoformat()
+        if "Critical Darlings" in title.text:
+            ep["feed"] = 'crit'
         ep["feed"] = shortform
         ep["ep_num"] = str(ep_num)
         ep["title"] = title.text
