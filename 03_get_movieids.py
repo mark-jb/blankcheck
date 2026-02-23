@@ -95,6 +95,7 @@ replacements = { "main": {
         "233": 8392,   # My Neighbour Totoro
         "237": 129,    # Spirited Away
         "241": 12429,      # Ponyo on the Cliff
+        "242": 149870, # The Wind Rises
         "244c": 86209, # Fighting Mad
         "249": 11300,  # Something Wild
         "252": 274,  # Silence Of the Lambs
@@ -150,7 +151,7 @@ replacements = { "main": {
         "378": 559, # Spiderman 3
         "383": 10784,      # Cabaret
         "384": 27094,      # Lenny
-        "387a": 10165      # Fear and Desire
+        "387a": 10165,      # Fear and Desire
         "388": 247, # The Killing
         "390": 967,      # Spartacus
         "391": 802, # Lolita
@@ -202,13 +203,18 @@ replacements = { "main": {
         "546": 10778,      # The man who wasn't there
         "548": 5516,      # The Ladykillers
         "552": 44264,      # True Grit
-        "999": 1120368,      # Horizon: An American Saga - Chapter 2
         "600": 1368337,      # The Odyssey
+        "328": 16161,      # Baby Boy
+        "382": 42618,      # Sweet Charity
+        "424a": 32628,      # Three Ages
+        "999": 1120368,      # Horizon: An American Saga - Chapter 2
     },
     "patreon": {
         "2": "1726",    # Iron Man
         "3": "1927",    # Hulk
+        "4": 1724,      # The Incredible Hulk
         "8": "10195",   # Thor
+        "13": 24428,      # The Avengers
         "17": 62214,      # Frankenweenie
         "22": "118340", # Guardians Vol 1
         "25": "102899", # Ant-Man
@@ -220,11 +226,13 @@ replacements = { "main": {
         "48": "11",     # Star Wars
         "50": 1891,     # The Empire Strikes Back
         "51": "1892",   # Return of the Jedi
+        "53a": 636,      # THX-1138
         "55": "140607", # The Force Awakens
         "59": "136799", # Trolls
         "61": "9598",   # Babe
         "67": "954",    # Mission Impossible 1
         "69": "955",    # Mission Impossible 2
+        "71": 45602,      # Disappearing Acts
         "76": "348",    # Alien
         "78": "679",    # Aliens
         "80a": 10000070, # TftC: 1
@@ -234,12 +242,12 @@ replacements = { "main": {
         "105": "24021", # Twilight Eclipse
         "107": 72710,      # The Host
         "109": 2787,      # Pitch Black
-        "200": 714,      # Tomorrow Never Dies
+        "113": 31428,      # Someone's Watching Me!
         "115": "564",   # The Mummy
         "117": "40047", # Elvis
+        "120": "282035", # The Mummy 2017
         "121a": "9334",  # Body Bags
         "121b": "31578", # The Scorpion King
-        "120": "282035", # The Mummy 2017
         "122": "11395",  # the Santa Clause
         "126": "620",    # Ghostbusters
         "128": "2978",   # Ghostbusters 2
@@ -256,6 +264,7 @@ replacements = { "main": {
         "152": "414906", # The Batman
         "153": "363676", # Sully
         "155": "682",    # The Man with the Golden Gun
+        "162": 501170,      # Doctor Sleep
         "171": "11667",  # Street Fighter
         "172": "607",    # MIB
         "174": "608",    # MIB2
@@ -270,6 +279,8 @@ replacements = { "main": {
         "189": "299",    # Ocean's 11 (1960)
         "192": "161",    # Ocean's 11
         "194": 10000030, # Little Drummer Girl
+        "198": 710,      # GoldenEye
+        "200": 714,      # Tomorrow Never Dies
         "201": 10000110, # Fincher Music Videos
         "213": 10000090, # T2: 3-D
         "223": "1498", # TMNT 1
@@ -278,10 +289,15 @@ replacements = { "main": {
         "227": "1273", # TMNT 4 
         "229": "98566", # TMNT 5 
         "234": 15196,     # Clue
+        "236": 11849,      # Dungeons & Dragons
         "238d": 48847,      # The Amputee
         "238g": 10000207, # Dumbland
+        "238h": 44351,      # Rabbits
         "238i": 10000209, # Lady Blue Shanghai
+        "238c": 44510,      # The Grandmother
         "241": 10000052,  # Twin Peaks season 2
+        "242": 12545,      # Jesus Christ Superstar
+        "243": 12545,      # Jesus Christ Superstar
         "246": 9833,      # The Phantom of the Opera
         "247": 536869,    # Cats
         "250b": 10000301, # Night
@@ -292,25 +308,14 @@ replacements = { "main": {
         "260a": 10000304, # Twilight Zone: Kick the Can
         "260b": 10000305, # Amazing Stories: Ghost Train
         "260c": 10000306,  # Amazing Stories: The Mission
-        "277": 9495,      # The Crow
-        "280": 9482,      # Judge Dredd
-        "13": 24428,      # The Avengers
-        "162": 501170,      # Doctor Sleep
-        "198": 710,      # GoldenEye
-        "4": 1724,      # The Incredible Hulk
-        "71": 45602,      # Disappearing Acts
-        "53a": 636,      # THX-1138
-        "236": 11849,      # Dungeons & Dragons
-        "238c": 44510,      # The Grandmother
-        "242": 12545,      # Jesus Christ Superstar
         "267": 1924,     # Superman
         "275": 1061474,   # Superman 2025
-        "113": 31428,      # Someone's Watching Me!
-        "243": 12545,      # Jesus Christ Superstar
+        "277": 9495,      # The Crow
+        "280": 9482,      # Judge Dredd
         "281": 11867,      # Barb Wire
         "289": 709,      # License to Kill
         "291": 24961,      # The Wiz
-        "293": 13155      # Return to OZ
+        "293": 13155,      # Return to OZ
     },
     "crit": {
     }

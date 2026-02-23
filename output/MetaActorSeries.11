@@ -36,7 +36,7 @@ SF-152: The Batman
 309: The Witches
 322: Don Jon
 SF-196: Ocean's 8
-607: The Odyssey
+600: The Odyssey
 
 ==== Brad Pitt ====
 271: Happy Feet Two
@@ -49,7 +49,7 @@ SF-195: Ocean’s Thirteen
 448: The Curious Case of Benjamin Button
 485: Meet Joe Black
 550: Burn After Reading
-CD-16: F1
+CD-4: F1
 
 ==== Christian Bale ====
 117: Batman Begins
@@ -64,19 +64,6 @@ CD-16: F1
 SF-216: Terminator Salvation
 521: Empire of the Sun
 
-==== Desmond Llewelyn ====
-SF-155: The Man with the Golden Gun
-SF-156: The Spy Who Loved Me
-SF-158: Moonraker
-SF-159: For Your Eyes Only
-SF-161: Octopussy
-SF-163: A View to a Kill
-SF-198: GoldenEye
-SF-200: Tomorrow Never Dies
-SF-202: The World Is Not Enough
-SF-287: The Living Daylights
-SF-289: License to Kill
-
 ==== Giovanni Ribisi ====
 85: Avatar
 95: Saving Private Ryan
@@ -88,7 +75,7 @@ SF-289: License to Kill
 491: Horizon: An American Saga - Chapter 1
 501: Lost Highway
 561: Avatar: Fire and Ash
-590: Horizon: An American Saga – Chapter 2
+999: Horizon: An American Saga – Chapter 2
 
 ==== Gwyneth Paltrow ====
 SF-2: Iron Man
@@ -128,6 +115,19 @@ SF-65c: Small Fry
 SF-65d: Hawaiian Vacation
 SF-65e: Partysaurus Rex
 SF-66: Toy Story 4
+
+==== Kevin Costner ====
+53: Batman v Superman: Dawn of Justice
+374: For Love of the Game
+SF-148: Batman v Superman: Dawn of Justice - Ultimate Edition
+487: Dances
+488: The Postman
+489: Open Range
+SF-235: Waterworld
+491: Horizon: An American Saga - Chapter 1
+SF-260c: Amazing Stories: The Mission
+SF-274: Man of Steel
+999: Horizon: An American Saga – Chapter 2
 
 ==== Kyle MacLachlan ====
 147: Showgirls
@@ -191,8 +191,8 @@ SF-108: Breaking Dawn: Part 2
 SF-152: The Batman
 455: The Boy and the Heron
 CD-2: Marty Supreme
-569: Die My Love
-607: The Odyssey
+577: Die My Love
+600: The Odyssey
 
 ==== Simon Pegg ====
 37: Star Wars: The Force Awakens
