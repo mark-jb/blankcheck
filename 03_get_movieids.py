@@ -20,51 +20,73 @@ replacements = { "main": {
         "34": 11,      # Star Wars
         "35": 1891,   # Empire Strikes Back
         "37": 140607,  # The Force Awakens
+        "40b": 32911,      # Wide Awake
+        "43": 2675,      # Signs
         "45": 6947,   # The Village
+        "47": 8645,      # The Happening
+        "50": 298312,      # The Visit
         "52": 9303,   # Bound
         "54": 603,    # The Matrix
         "60": 10000040, # Sense8
         "62": 9749,   # Fletch
+        "64": 11068,      # Singles
         "68": 10000080,  # Denim Invasion
         "69": 297761, # Suicide Squad
         "72": 222936, # Aloha
         "73": 10000020, # Roadies
         "77": 679,    # Aliens
         "79": 280,    # T2
+        "81": 36955,      # True Lies
         "82": 597,    # Titanic
         "85": 19995,  # Avatar
+        "94": 11831,      # Amistad
         "102": 74,    # War of the Worlds
         "103": 612,   # Munich
         "107": 72976, # Lincoln
+        "109": 267935,      # The BFG
         "110": 2778,  # Clifford
         "111": 297762, # Wonder Woman
         "116": 320,    # Insomnia
         "122": 10000004, # Talking Maul
+        "124": 374720,      # Dunkirk
+        "129": 9491,      # Blue Steel
         "130": 1089,   # Point Break
+        "131": 281,      # Strange Days
+        "132": 13526,      # The Weight of Water
+        "136": 407448,      # Detroit
         "137": 141052, # Justice League
         "142": 12775,  # Flesh + Blood
         "143": 5548,  # Robert Cop
         "144": 861,   # Total Recall
+        "150": 337674,      # Elle
         "151": 15698, # Running Scared
+        "157": 106143,      # I'll Do Anything
         "170": 10000100, #aFamily Dog
         "171b": 9261,  # The Wedding Banquet
         "173": 4584,  # Sense and Sensibility
         "174a": 76492, # Hotel Transylvania
+        "176": 22267,      # Ride with the Devil
         "177": 146,   # Crouching Tiger Hidden Dragon
         "184": 30091,  # Chosen: The Hire
         "185": 2300,  # Space Jam
         "186": 332562, # A Star is Born
+        "187": 9820,      # The Parent Trap
+        "192": 257211,      # The Intern
+        "193": 427900,      # Home Again
         "197": 297802, # Aquaman
         "198": 268,   # Batman
         "200": 450465, # Glass
         "206": 869,   # Planet of the Apes
+        "209": 13885,      # Sweeney Todd: The Demon Barber of Fleet Street
         "210": 12155, # Alice in Wonderland
         "214": 329996, # Dumbo
         "217": 11524,  # Thief
         "219": 11454,  # Manhunter
+        "220": 9361,      # The Last of the Mohicans
         "221": 949,   # Heat
         "223": 8489,   # Ali
         "224": 1538,   # Collateral
+        "225": 82,      # Miami Vice
         "226a": 420818, # Lion King
         "226b": 536869, # Cats
         "227": 11322,  # Public Enemies
@@ -72,16 +94,21 @@ replacements = { "main": {
         "232": 10515,  # Castle in the Sky
         "233": 8392,   # My Neighbour Totoro
         "237": 129,    # Spirited Away
+        "241": 12429,      # Ponyo on the Cliff
         "244c": 86209, # Fighting Mad
         "249": 11300,  # Something Wild
         "252": 274,  # Silence Of the Lambs
         "254": 39437,  # Beloved
+        "257": 495764,      # Birds of Prey
         "258a": 982,   # Manchurian Candidate
         "258b": 14462, # Manchurian Candidate
         "264": 9659,  # Mad Max
         "273": 10000060, # 20,000 feet
+        "276": 41776,      # This Is My Life
+        "278": 24070,      # Mixed Nuts
         "279": 2928,  # Michael
         "286": 241771, # Beyond the Lights
+        "287": 547016,      # The Old Guard
         "297": 686 ,  # Contact
         "302": 17979, # Christmas Carol
         "303": 87502, # Flight
@@ -98,30 +125,43 @@ replacements = { "main": {
         "327c": 486131, # Shaft (2019)
         "331": 59965, # Abduction
         "333": 2778,  # Clifford
+        "336": 1410,      # Dark Star
         "337": 17814, # Assault on Precinct 13
         "338": 948,  # Halloween
         "339": 790,  # The Fog
         "341a": 1091, # The Thing
         "342": 8769, # Christine
+        "343": 9663,      # Starman
         "345": 8852,  # Prince of Darkness
         "346": 8337,  # They Live
         "349": 12122,  # Village of the Damned
+        "353": 45657,      # The Ward
         "355": 511809, # West Side Story
         "357": 123067, # Two Friends
+        "360": 713,      # The Piano
+        "362": 13787,      # Holy Smoke!
+        "367": 764,      # The Evil Dead
         "368": 21627,  # Crimewave
         "369": 765,  # Evil Dead II
+        "372": 12106,      # The Quick and The Dead
         "375": 2046, # The Gift
         "376": 557, # Spiderman
         "377": 558, # Spiderman 2
         "378": 559, # Spiderman 3
         "383": 10784,      # Cabaret
+        "384": 27094,      # Lenny
+        "387a": 10165      # Fear and Desire
         "388": 247, # The Killing
+        "390": 967,      # Spartacus
         "391": 802, # Lolita
         "393": 532639, # pinocchio
         "395": 935,    # Dr Strangelove
         "406": 76600,  # Avatar 2
+        "409": 9905,      # Shallow Grave
         "416": 13373,  # Millions
         "417": 1272,  # Sunshine
+        "420": 68727,      # Trance
+        "423": 515195,      # Yesterday
         "426b": 33015,  # Go West
         "427b": 961,    # The General
         "428a": 34847,  # College
@@ -133,12 +173,19 @@ replacements = { "main": {
         "447": 1949,  # Zodiac
         "450": 65754, # Dragon tatoo
         "453": 800158, # The Killer
+        "454": 3101,      # I Love You to Death
+        "456": 523607,      # Maestro
         "459": 19610, # A Star Is Born
+        "463": 25189,      # The Mirror Has Two Faces
         "472": 913,   # The Thomas Crown Affair 
         "474": 11535, # Rollerball 
+        "477": 33320,      # Millennium Actress
         "479": 4977,  # Paprika
         "481": 65066,  # Going in Style
         "482": 90,      # Beverly Hills Cop
+        "483": 453127,      # Midnight Run
+        "487": 581,      # Dances with Wolves
+        "489": 2055,      # Open Range
         "494": 841,     # Dune
         "495": 917496,   # Beetlejuice 2
         "497": 10000051, # Twin Peaks season 1
@@ -148,63 +195,15 @@ replacements = { "main": {
         "508": 10000055, # Twin Peaks the return 9-13
         "509": 10000056, # Twin Peaks the return 14-18
         "520": 873,      # The Color Purple
-        "534": 10642,      # Loser
-        "599": 537921,   # Fixed
-        "109": 267935,      # The BFG
-        "124": 374720,      # Dunkirk
-        "454": 3101,      # I Love You to Death
-        "487": 581,      # Dances with Wolves
-        "129": 9491,      # Blue Steel
-        "209": 13885,      # Sweeney Todd: The Demon Barber of Fleet Street
-        "257": 495764,      # Birds of Prey
-        "276": 41776,      # This Is My Life
-        "360": 713,      # The Piano
-        "367": 764,      # The Evil Dead
-        "372": 12106,      # The Quick and The Dead
-        "409": 9905,      # Shallow Grave
-        "47": 8645,      # The Happening
-        "192": 257211,      # The Intern
-        "463": 25189,      # The Mirror Has Two Faces
         "523": 11352,      # Always
-        "187": 9820,      # The Parent Trap
-        "336": 1410,      # Dark Star
-        "343": 9663,      # Starman
-        "353": 45657,      # The Ward
-        "362": 13787,      # Holy Smoke!
-        "390": 967,      # Spartacus
-        "420": 68727,      # Trance
-        "423": 515195,      # Yesterday
-        "43": 2675,      # Signs
-        "456": 523607,      # Maestro
-        "483": 453127,      # Midnight Run
-        "50": 298312,      # The Visit
-        "590": 1120368,      # Horizon: An American Saga - Chapter 2
+        "524": 879,      # Hook
+        "534": 10642,      # Loser
         "535": 1100988,      # 28 Years Later
         "546": 10778,      # The man who wasn't there
-        "489": 2055,      # Open Range
-        "64": 11068,      # Singles
-        "81": 36955,      # True Lies
-        "131": 281,      # Strange Days
-        "132": 13526,      # The Weight of Water
-        "278": 24070,      # Mixed Nuts
-        "287": 547016,      # The Old Guard
-        "607": 1368337,      # The Odyssey
-        "193": 427900,      # Home Again
-        "176": 22267,      # Ride with the Devil
-        "384": 27094,      # Lenny
-        "40b": 32911,      # Wide Awake
-        "524": 879,      # Hook
-        "136": 407448,      # Detroit
-        "220": 9361,      # The Last of the Mohicans
-        "225": 82,      # Miami Vice
-        "241": 12429,      # Ponyo on the Cliff
-        "477": 33320,      # Millennium Actress
-        "552": 44264,      # True Grit
-        "94": 11831,      # Amistad
         "548": 5516,      # The Ladykillers
-        "150": 337674,      # Elle
-        "157": 106143,      # I'll Do Anything
-        "387a": 10165      # Fear and Desire
+        "552": 44264,      # True Grit
+        "999": 1120368,      # Horizon: An American Saga - Chapter 2
+        "600": 1368337,      # The Odyssey
     },
     "patreon": {
         "2": "1726",    # Iron Man
