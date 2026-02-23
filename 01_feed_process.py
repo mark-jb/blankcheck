@@ -16,6 +16,7 @@ def add_feed(filename, shortform, dateformat):
     tree = ET.parse(filename)
     root = tree.getroot()
     ep_num=1
+    ep_num_crit=1
     items = root.findall('.//item')
     for episode in reversed(items):
         date = episode.find('.//pubDate')
@@ -27,12 +28,14 @@ def add_feed(filename, shortform, dateformat):
         date = date.replace(tzinfo=timezone.utc)
         #print(date)
         ep = {}
-        ep["date"] = date.isoformat()
-        if "Critical Darlings" in title.text:
-            ep["feed"] = 'crit'
         ep["feed"] = shortform
         ep["ep_num"] = str(ep_num)
+        ep["date"] = date.isoformat()
         ep["title"] = title.text
+        if "Critical Darlings" in title.text:
+            ep["feed"] = 'crit'
+            ep["ep_num"] = str(ep_num_crit)
+            ep_num_crit += 1
         ep_num += 1
         #print(ep)
         episodes.append(ep)

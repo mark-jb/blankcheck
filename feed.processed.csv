@@ -495,7 +495,7 @@ date,feed,ep_num,title
 2022-02-21T05:01:01+00:00,patreon,131,Ghostbusters: Afterlife
 2022-02-26T02:08:28+00:00,patreon,132,2022 MARCH MADNESS PREVIEW
 2022-02-27T05:00:00+00:00,main,364,Bright Star with Fran Hoepfner
-2022-03-01T06:16:10+00:00,patreon,133,The Matrix
+2022-03-01T06:16:10+00:00,patreon,133,The Matrix 
 2022-03-06T05:00:00+00:00,main,365,The Power of The Dog with Richard Lawson
 2022-03-11T05:00:32+00:00,patreon,134,Top of the Lake: China Girl with Alan Sepinwall
 2022-03-13T05:00:00+00:00,main,366,The Seventh Annual Blank Check Awards with Joe Reid
@@ -528,7 +528,7 @@ date,feed,ep_num,title
 2022-06-26T04:00:00+00:00,main,381,Doctor Strange in the Multiverse of Madness with Patrick Willems
 2022-06-26T17:01:01+00:00,patreon,147,Marvel Nerdfest
 2022-07-01T04:01:03+00:00,patreon,148,Batman v Superman: Dawn of Justice (Ultimate Edition)
-2022-07-01T04:01:27+00:00,patreon,149,Batman v Superman: Dawn of Justice - The Lost Episode (Remastered)
+2022-07-01T04:01:27+00:00,patreon,149,Batman v Superman: Dawn of Justice - The Lost Episode (Remastered) (Ad-Free)
 2022-07-03T04:00:00+00:00,main,382,Sweet Charity
 2022-07-10T04:00:00+00:00,main,383,Cabaret with Rachel Zegler
 2022-07-11T04:00:04+00:00,patreon,150,Liza with a Z with Marie Bardi
@@ -807,43 +807,69 @@ date,feed,ep_num,title
 2025-06-21T04:00:02+00:00,patreon,272,Superman IV: The Quest For Peace
 2025-06-22T04:00:00+00:00,main,535,28 Years Later
 2025-06-29T04:00:00+00:00,main,536,I Could Never Be Your Woman with Karen Chee
+2025-07-01T04:00:04+00:00,patreon,273,Superman Returns
 2025-07-06T04:00:00+00:00,main,537,Vamps with Caroline Framke
+2025-07-11T04:00:05+00:00,patreon,274,Man of Steel
 2025-07-13T04:00:00+00:00,main,538,Blood Simple with Ray Tintori & Jordan Fish
 2025-07-20T04:00:00+00:00,main,539,Raising Arizona with John Hodgman
+2025-07-21T04:00:06+00:00,patreon,275,Superman (2025) 
 2025-07-27T04:00:00+00:00,main,540,Miller's Crossing with Ari Aster
+2025-08-01T04:00:11+00:00,patreon,276,The Mask
 2025-08-03T04:00:00+00:00,main,541,Barton Fink with Chris Weitz
 2025-08-10T04:00:00+00:00,main,542,The Hudsucker Proxy with Mike Mitchell & Nick Wiger 
+2025-08-11T04:00:02+00:00,patreon,277,"KING RALPH - Blank Check LIVE! at Town Hall (June 6, 2025)"
 2025-08-17T04:00:00+00:00,main,543,Fargo with Zach Cregger
+2025-08-21T04:00:03+00:00,patreon,278,The Crow
 2025-08-24T04:00:00+00:00,main,544,The Big Lebowski with Seth Rogen
 2025-08-31T04:00:00+00:00,main,545,"O Brother, Where Art Thou? with Emily St. James"
+2025-09-01T04:00:10+00:00,patreon,279,Tank Girl
 2025-09-07T04:00:00+00:00,main,546,The Man Who Wasn't There with Jordan Hoffman
+2025-09-11T04:00:06+00:00,patreon,280,Fixed
 2025-09-14T04:00:00+00:00,main,547,Intolerable Cruelty with Katey Rich
 2025-09-21T04:00:00+00:00,main,548,The Ladykillers with Connor Ratliff
+2025-09-21T04:00:07+00:00,patreon,281,Judge Dredd
 2025-09-28T04:00:00+00:00,main,549,No Country for Old Men with Leslye Headland
+2025-10-01T04:00:09+00:00,patreon,282,Barb Wire
 2025-10-05T04:00:00+00:00,main,550,Burn After Reading with Fran Hoepfner
+2025-10-11T04:00:06+00:00,patreon,283,Spreadmaster’s Delight 3: Decade-of-Dreams Warriors
+2025-10-11T04:00:07+00:00,patreon,284,Spreadmaster’s Delight 3: Decade-of-Dreams Warriors (Bite-Free Version)
 2025-10-12T04:00:00+00:00,main,551,A Serious Man with Marc Maron
 2025-10-19T04:00:00+00:00,main,552,True Grit with Stavros Halkias
+2025-10-21T04:00:03+00:00,patreon,285,Spawn
 2025-10-26T04:00:00+00:00,main,553,A House of Dynamite
+2025-11-01T04:00:04+00:00,patreon,286,Mystery Men
 2025-11-02T04:00:00+00:00,main,554,Inside Llewyn Davis with Rachel Zegler
 2025-11-09T05:00:00+00:00,main,555,"Hail, Caesar! with Shirley Li"
+2025-11-11T05:00:08+00:00,patreon,287,The Bear and the Squirrel 4D with J.D. Amato
 2025-11-16T05:00:00+00:00,main,556,The Ballad of Buster Scruggs with Paul Scheer & Jason Mantzoukas
+2025-11-21T05:00:06+00:00,patreon,288,Dredd
 2025-11-23T05:00:00+00:00,main,557,The Tragedy of Macbeth with Dana Schwartz
 2025-11-30T05:00:00+00:00,main,558,Drive Away Dolls with mxmtoon
+2025-12-01T05:00:14+00:00,patreon,289,The Living Daylights
 2025-12-07T05:00:00+00:00,main,559,Honey Don't with Mattie Lubchansky
+2025-12-11T05:37:22+00:00,patreon,290,The Blank Check 10th Anniversary Special: Don’t Call It A Clip Show! (The Vault’s Been Closed for Years) - A Decade of Dreams and Repressed Memories
 2025-12-14T05:00:00+00:00,main,560,Ella McCay with Richard Lawson
 2025-12-21T05:00:00+00:00,main,561,Avatar: Fire and Ash
-2026-01-01T05:00:00+00:00,main,562, Introducing Critical Darlings
+2025-12-21T05:00:07+00:00,patreon,291,Licence to Kill
+2026-01-01T05:00:00+00:00,crit,1, Introducing Critical Darlings
+2026-01-01T05:00:14+00:00,patreon,292,The Wizard of Oz
 2026-01-04T05:00:00+00:00,main,563,Is This Thing On?
-2026-01-08T05:00:00+00:00,main,564,Critical Darlings: Marty Supreme And The Precursor Circuit with Griffin Newman
+2026-01-08T05:00:00+00:00,crit,2,Critical Darlings: Marty Supreme And The Precursor Circuit with Griffin Newman
 2026-01-11T05:00:00+00:00,main,565,No Other Choice
-2026-01-15T05:00:00+00:00,main,566, Critical Darlings: Hamnet And The History Of Oscar Villains with David Sims
+2026-01-11T05:00:04+00:00,patreon,293,The Wiz
+2026-01-15T05:00:00+00:00,crit,3, Critical Darlings: Hamnet And The History Of Oscar Villains with David Sims
 2026-01-18T05:00:00+00:00,main,567,Ratcatcher
-2026-01-22T20:44:00+00:00,main,568,Critical Darlings: The Oscar Nominations Recap (And Also Some Talk About F1)
+2026-01-21T05:00:07+00:00,patreon,294,28 Years Later: The Bone Temple
+2026-01-22T20:44:00+00:00,crit,4,Critical Darlings: The Oscar Nominations Recap (And Also Some Talk About F1)
 2026-01-25T05:00:00+00:00,main,569,Morvern Callar with Emily Yoshida
-2026-01-29T05:00:00+00:00,main,570,"Critical Darlings: Train Dreams, And Netflix’s Quest For Best Picture"
+2026-01-29T05:00:00+00:00,crit,5,"Critical Darlings: Train Dreams, And Netflix’s Quest For Best Picture"
 2026-02-01T05:00:00+00:00,main,571,Send Help
-2026-02-05T05:00:00+00:00,main,572,Critical Darlings: Bugonia And The (Oscar) Favourites with Marie Bardi-Salinas 
+2026-02-01T05:00:07+00:00,patreon,295,Return to Oz
+2026-02-05T05:00:00+00:00,crit,6,Critical Darlings: Bugonia And The (Oscar) Favourites with Marie Bardi-Salinas 
 2026-02-08T05:00:00+00:00,main,573,We Need To Talk About Kevin with Jia Tolentino
-2026-02-12T05:00:00+00:00,main,574,Critical Darlings: Frankenstein And The Craft Category Juggernauts with Bilge Ebiri
+2026-02-11T05:00:16+00:00,patreon,296,The Tenth Blank Check Mailbag
+2026-02-12T05:00:00+00:00,crit,7,Critical Darlings: Frankenstein And The Craft Category Juggernauts with Bilge Ebiri
 2026-02-15T05:00:00+00:00,main,575,You Were Never Really Here with Sean Clements
-2026-02-19T05:00:00+00:00,main,576,Critical Darlings: The Secret Agent And The Increasingly International Academy
+2026-02-19T05:00:00+00:00,crit,8,Critical Darlings: The Secret Agent And The Increasingly International Academy
+2026-02-21T05:00:14+00:00,patreon,297,Burger Report the Segment the Episode with Matt Johnson and Jay McCarrol 
+2026-02-22T05:00:00+00:00,main,577,Die My Love with Alison Willmore
