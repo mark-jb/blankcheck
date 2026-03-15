@@ -203,10 +203,11 @@ replacements = { "main": {
         "546": 10778,      # The man who wasn't there
         "548": 5516,      # The Ladykillers
         "552": 44264,      # True Grit
-        "600": 1368337,      # The Odyssey
+        "603": 1368337,      # The Odyssey
         "328": 16161,      # Baby Boy
         "382": 42618,      # Sweet Charity
         "424a": 32628,      # Three Ages
+        "591": 10443,   # Fearless
         "999": 1120368,      # Horizon: An American Saga - Chapter 2
     },
     "patreon": {
@@ -296,7 +297,6 @@ replacements = { "main": {
         "238i": 10000209, # Lady Blue Shanghai
         "238c": 44510,      # The Grandmother
         "241": 10000052,  # Twin Peaks season 2
-        "242": 12545,      # Jesus Christ Superstar
         "243": 12545,      # Jesus Christ Superstar
         "246": 9833,      # The Phantom of the Opera
         "247": 536869,    # Cats
@@ -316,6 +316,7 @@ replacements = { "main": {
         "289": 709,      # License to Kill
         "291": 24961,      # The Wiz
         "293": 13155,      # Return to OZ
+        "303": 9312,      # Mortal Kombat 1995
     },
     "crit": {
     }

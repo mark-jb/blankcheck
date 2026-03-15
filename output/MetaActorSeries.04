@@ -71,12 +71,6 @@ SF-264: Star Trek: Nemesis
 SF-50: The Empire Strikes Back
 SF-51: Return of the Jedi
 
-==== Albert Brooks ====
-153: Terms of Endearment
-154: Broadcast News
-157: I'll Do Anything
-560: Ella McCay
-
 ==== Albert Finney ====
 207: Big Fish
 SF-11: Corpse Bride
@@ -124,6 +118,12 @@ CD-6: Bugonia
 231: Nausicaä of the Valley of the Wind
 301: Beowulf
 379: Drag Me to Hell
+
+==== Allison Janney ====
+175: The Ice Storm
+213: Miss Peregrine's Home for Peculiar Children
+598: Finding Nemo
+601: Finding Dory
 
 ==== Amber Heard ====
 137: Justice League
@@ -179,11 +179,17 @@ SF-192: Ocean's Eleven
 SF-193: Ocean's Twelve
 SF-195: Ocean’s Thirteen
 
+==== Angus MacLane ====
+SF-65c: Small Fry
+SF-65d: Hawaiian Vacation
+SF-65e: Partysaurus Rex
+601: Finding Dory
+
 ==== Ann Dowd ====
 253: Philadelphia
 258b: The Manchurian Candidate
 268: Lorenzo's Oil
-591: Green Card
+590: Green Card
 
 ==== Anna Paquin ====
 66: Almost Famous
@@ -221,17 +227,23 @@ SF-46: Rogue One
 141: The Post
 550: Burn After Reading
 
-==== Arti Shah ====
-37: Star Wars: The Force Awakens
-88: Rogue One: A Star Wars Story
-SF-46: Rogue One
-SF-55: The Force Awakens
+==== Austin Pendleton ====
+94: Amistad
+463: The Mirror Has Two Faces
+598: Finding Nemo
+601: Finding Dory
 
 ==== Bae Doona ====
 58: Cloud Atlas
 59: Jupiter Ascending
 60: Sense8
 432: Sympathy for Mr. Vengeance
+
+==== Barbara Harris ====
+SF-61: Babe
+269: Babe: Pig in the City
+285: The Secret Life of Bees
+601: Finding Dory
 
 ==== Barbra Streisand ====
 459: A Star Is Born (1976)
@@ -275,29 +287,23 @@ SF-185: Escape from the Planet of the Apes
 302: A Christmas Carol
 524: Hook
 
+==== Bob Peterson ====
+164: The Incredibles
+SF-64: Toy Story 3
+598: Finding Nemo
+601: Finding Dory
+
 ==== Bokeem Woodbine ====
 SF-31: Spider-Man: Homecoming
 SF-107: The Host
 SF-112: Riddick
 SF-131: Ghostbusters: Afterlife
 
-==== Bonnie Hunt ====
-65: Jerry Maguire
-SF-64: Toy Story 3
-SF-65d: Hawaiian Vacation
-SF-66: Toy Story 4
-
 ==== Brad Bird ====
 164: The Incredibles
 166: Ratatouille
 169: Incredibles 2
 170: Family Dog - Amazing Stories
-
-==== Brad Garrett ====
-166: Ratatouille
-194b: Ralph Breaks the Internet
-235: Porco Rosso
-SF-230: Teenage Mutant Ninja Turtles: Out of the Shadows
 
 ==== Brad Kane ====
 148: Starship Troopers
@@ -419,12 +425,6 @@ SF-35: Avengers: Infinity War
 SF-131: Ghostbusters: Afterlife
 451: Gone Girl
 
-==== Cary-Hiroyuki Tagawa ====
-206: Planet of the Apes
-344: Big Trouble in Little China
-351: John Carpenter’s Vampires
-SF-289: The Living Daylights
-
 ==== Casey Siemaszko ====
 227: Public Enemies
 291: Back to the Future
@@ -436,12 +436,6 @@ SF-260c: Amazing Stories: The Mission
 SF-17: Frankenweenie
 403: The Nightmare Before Christmas
 495: Beetlejuice Beetlejuice
-
-==== Cavin Cornwall ====
-37: Star Wars: The Force Awakens
-140: The Last Jedi
-SF-55: The Force Awakens
-SF-57: The Last Jedi
 
 ==== Chadwick Boseman ====
 SF-26: Captain America: Civil War
@@ -496,6 +490,12 @@ SF-108: Breaking Dawn: Part 2
 347: Memoirs of an Invisible Man
 470: Last Action Hero
 529: National Lampoon's European Vacation
+
+==== Chin Han ====
+119: The Dark Knight
+SF-19: Captain America: The Winter Soldier
+SF-307: Mortal Kombat (2021)
+SF-307: Mortal Kombat II
 
 ==== Chris Coppola ====
 300: The Polar Express
@@ -566,7 +566,7 @@ SF-138: The Matrix Revolutions
 ==== Colman Domingo ====
 107: Lincoln
 558: Drive Away Dolls
-SF-297: Wicked: For Good
+SF-301: Wicked: For Good
 596: Disclosure Day
 
 ==== Common ====
@@ -574,6 +574,12 @@ SF-297: Wicked: For Good
 271: Happy Feet Two
 SF-196: Ocean's 8
 SF-216: Terminator Salvation
+
+==== Conan O'Brien ====
+67: Vanilla Sky
+282: Bewitched
+SF-151: The Lego Batman Movie
+633: Toy Story 5
 
 ==== Connie Nielsen ====
 111: Wonder Woman
@@ -595,8 +601,8 @@ SF-138: The Matrix Revolutions
 
 ==== Cynthia Erivo ====
 393: Pinocchio (2022)
-SF-296: Wicked
-SF-297: Wicked: For Good
+SF-300: Wicked
+SF-301: Wicked: For Good
 901: Children of Blood and Bone
 
 ==== Dan Castellaneta ====
@@ -633,13 +639,25 @@ SF-46: Rogue One
 254: Beloved
 286: Beyond the Lights
 520: The Color Purple
-588: Witness
+587: Witness
+
+==== Danny Huston ====
+111: Wonder Woman
+212: Big Eyes
+491: Horizon: An American Saga - Chapter 1
+999: Horizon: An American Saga – Chapter 2
 
 ==== Danny Sapani ====
 140: The Last Jedi
 SF-34: Black Panther
 SF-57: The Last Jedi
 420: Trance
+
+==== Daryl Sabara ====
+300: The Polar Express
+302: A Christmas Carol
+598: Finding Nemo
+600: John Carter
 
 ==== David Ankrum ====
 34: Star Wars: A New Hope
@@ -665,18 +683,6 @@ SF-192: Ocean's Eleven
 448: The Curious Case of Benjamin Button
 SF-237: Battleship
 
-==== David L. Lander ====
-289: Used Cars
-292: Who Framed Roger Rabbit
-SF-241: Twin Peaks (Season 2)
-514: 1941
-
-==== David Norfolk ====
-37: Star Wars: The Force Awakens
-88: Rogue One: A Star Wars Story
-SF-46: Rogue One
-SF-55: The Force Awakens
-
 ==== David Ogden Stiers ====
 46: Lady in the Water
 235: Porco Rosso
@@ -688,12 +694,6 @@ SF-53a: THX-1138
 56: The Matrix Revolutions
 SF-136: The Matrix Reloaded
 SF-138: The Matrix Revolutions
-
-==== David W. Collins ====
-37: Star Wars: The Force Awakens
-88: Rogue One: A Star Wars Story
-SF-46: Rogue One
-SF-55: The Force Awakens
 
 ==== Dawn Chubai ====
 23c: Fantastic Four: Rise of the Silver Surfer
@@ -725,6 +725,12 @@ SF-46: Rogue One
 284: Love & Basketball
 571: Send Help
 
+==== Dennis Keiffer ====
+SF-16: Iron Man 3
+257: Birds of Prey
+SF-146: Batman & Robin
+SF-305: Mortal Kombat: Annihilation
+
 ==== Denzel Washington ====
 253: Philadelphia
 258b: The Manchurian Candidate
@@ -748,6 +754,12 @@ SF-46: Rogue One
 439: Stoker
 447: Zodiac
 550: Burn After Reading
+
+==== Diane Keaton ====
+189: Something's Gotta Give
+SF-68: Hanging Up
+SF-271: Look Who's Talking Now
+601: Finding Dory
 
 ==== Diane Kruger ====
 308: Welcome to Marwen
@@ -791,6 +803,12 @@ SF-163: A View to a Kill
 457b: Aquaman and the Lost Kingdom
 555: Hail, Caesar!
 
+==== Don Amendolia ====
+202: Ed Wood
+497: Twin Peaks (Season 1)
+SF-241: Twin Peaks (Season 2)
+591: Fearless
+
 ==== Don Murray ====
 SF-186: Conquest of the Planet of the Apes
 506: Twin Peaks: The Return (Episodes 1-7)
@@ -833,6 +851,12 @@ SF-117: Elvis
 SF-129: Ghostbusters: Answer the Call
 SF-144: Batman Forever
 
+==== Ed O'Neill ====
+194a: Wreck-it Ralph
+194b: Ralph Breaks the Internet
+281: Lucky Numbers
+601: Finding Dory
+
 ==== Eddie Izzard ====
 SF-151: The Lego Batman Movie
 SF-193: Ocean's Twelve
@@ -851,12 +875,6 @@ SF-102: Twilight
 SF-103: New Moon
 SF-275: Superman (2025)
 
-==== Edie McClurg ====
-194a: Wreck-it Ralph
-234: Kiki's Delivery Service
-SF-68: Hanging Up
-311: The Little Mermaid
-
 ==== Edward Furlong ====
 79: Terminator 2: Judgement Day
 SF-212: Terminator 2: Judgment Day
@@ -874,6 +892,18 @@ SF-192: Ocean's Eleven
 SF-193: Ocean's Twelve
 SF-195: Ocean’s Thirteen
 SF-196: Ocean's 8
+
+==== Elsa Raven ====
+82: Titanic
+291: Back to the Future
+SF-260a: Twilight Zone: Kick the Can
+591: Fearless
+
+==== Elya Baskin ====
+377: Spider-Man 2
+378: Spider-Man 3
+SF-160: 2010: The Year We Make Contact
+SF-205: Austin Powers: International Man of Mystery
 
 ==== Embeth Davidtz ====
 335: Old
@@ -916,6 +946,12 @@ SF-180: Men in Black: International
 SF-55: The Force Awakens
 SF-82: Prometheus
 335: Old
+
+==== Eric Bana ====
+103: Munich
+178: Hulk
+SF-3: Hulk Live
+598: Finding Nemo
 
 ==== Eric Lloyd ====
 SF-122: The Santa Clause
@@ -969,7 +1005,7 @@ CD-2: Marty Supreme
 141: The Post
 462: The Prince of Tides
 CD-2: Marty Supreme
-591: Green Card
+590: Green Card
 
 ==== Frank Anello ====
 126: The Devil Wears Prada
@@ -1036,6 +1072,12 @@ SF-272: Superman IV: The Quest For Peace
 94: Amistad
 504: Mulholland Drive
 514: 1941
+
+==== Geoffrey Rush ====
+103: Munich
+547: Intolerable Cruelty
+SF-286: Mystery Men
+598: Finding Nemo
 
 ==== George 'Red' Schwartz ====
 247: Swing Shift
@@ -1143,7 +1185,7 @@ SF-235: Waterworld
 SF-110: F9
 SF-160: 2010: The Year We Make Contact
 SF-166: National Treasure: Book of Secrets
-589: The Mosquito Coast
+588: The Mosquito Coast
 
 ==== Henry Czerny ====
 175: The Ice Storm
@@ -1156,12 +1198,6 @@ SF-41: Spider-Man: Far From Home
 SF-75: Mission: Impossible - Fallout
 SF-180: Men in Black: International
 423: Yesterday
-
-==== Hugh Grant ====
-58: Cloud Atlas
-173: Sense and Sensibility
-457a: Wonka
-SF-251: Mickey Blue Eyes
 
 ==== I.M. Hobson ====
 347: Memoirs of an Invisible Man
@@ -1193,12 +1229,6 @@ SF-203: Die Another Day
 352: Ghosts of Mars
 SF-233: Teenage Mutant Ninja Turtles: Mutant Mayhem
 
-==== Ilya Baskin ====
-377: Spider-Man 2
-378: Spider-Man 3
-SF-160: 2010: The Year We Make Contact
-SF-205: Austin Powers: International Man of Mystery
-
 ==== Isaac Grand ====
 34: Star Wars: A New Hope
 36: Star Wars: Return of the Jedi
@@ -1216,6 +1246,12 @@ SF-113: Someone's Watching Me!
 SF-81: Alien: Resurrection
 498: Wild at Heart
 540: Miller's Crossing
+
+==== J.P. Manoux ====
+233: My Neighbor Totoro
+SF-192: Ocean's Eleven
+SF-206: Austin Powers: The Spy Who Shagged Me
+SF-266: Galaxy Quest
 
 ==== J.R. Horne ====
 471: Die Hard with a Vengeance
@@ -1307,7 +1343,7 @@ SF-57: The Last Jedi
 160: Spanglish
 SF-217: Die Hard 2: Die Harder
 
-==== James LeGros ====
+==== James Le Gros ====
 64: Singles
 128: Near Dark
 130: Point Break
@@ -1319,12 +1355,6 @@ SF-13: The Avengers
 451: Gone Girl
 452: Mank
 
-==== Jan Rabson ====
-241: Ponyo on the Cliff
-SF-62: Toy Story
-SF-63: Toy Story 2
-SF-64: Toy Story 3
-
 ==== Jane Busby ====
 35: Star Wars: The Empire Strikes Back
 36: Star Wars: Return of the Jedi
@@ -1334,8 +1364,8 @@ SF-51: Return of the Jedi
 ==== Jane Fowler ====
 209: Sweeney Todd: The Demon Barber of Fleet Street
 287: The Old Guard
-SF-296: Wicked
-SF-297: Wicked: For Good
+SF-300: Wicked
+SF-301: Wicked: For Good
 
 ==== Jane Lynch ====
 194a: Wreck-it Ralph
@@ -1395,7 +1425,7 @@ SF-140: The Matrix Resurrections
 302: A Christmas Carol
 SF-144: Batman Forever
 SF-276: The Mask
-593: The Truman Show
+592: The Truman Show
 
 ==== Jim Wise ====
 147: Showgirls
@@ -1497,7 +1527,7 @@ SF-253a: Something Evil
 47: The Happening
 SF-217: Die Hard 2: Die Harder
 SF-285: Spawn
-600: The Odyssey
+603: The Odyssey
 
 ==== John Mahon ====
 SF-83: Armageddon
@@ -1533,7 +1563,7 @@ SF-240: Ouija: Origin of Evil
 185: Space Jam
 203: Mars Attacks!
 501: Lost Highway
-593: The Truman Show
+592: The Truman Show
 
 ==== John Singleton ====
 323: Boyz n the Hood
@@ -1550,8 +1580,8 @@ SF-274: Man of Steel
 ==== Jon-Scott Clark ====
 226b: Cats
 SF-247: Cats
-SF-296: Wicked
-SF-297: Wicked: For Good
+SF-300: Wicked
+SF-301: Wicked: For Good
 
 ==== Jonathan Aris ====
 88: Rogue One: A Star Wars Story
@@ -1581,13 +1611,7 @@ SF-140: The Matrix Resurrections
 131: Strange Days
 327b: Shaft
 513: Close Encounters of the Third Kind
-588: Witness
-
-==== Josette Simon ====
-111: Wonder Woman
-216: Pokémon: Detective Pikachu
-309: The Witches
-SF-278: The Crow
+587: Witness
 
 ==== Jude Ciccolella ====
 101: The Terminal
@@ -1624,12 +1648,6 @@ SF-22: Guardians of the Galaxy
 SF-29: Guardians of the Galaxy Vol. 2
 SF-35: Avengers: Infinity War
 SF-40: Avengers: Endgame
-
-==== Karol Steele ====
-37: Star Wars: The Force Awakens
-165: Solo: A Star Wars Story
-SF-44: Solo
-SF-55: The Force Awakens
 
 ==== Kate Mara ====
 23d: Fant4stic
@@ -1691,12 +1709,6 @@ SF-87: Crocodile Dundee II
 330: Four Brothers
 SF-241: Twin Peaks (Season 2)
 
-==== Kenny-Lee Mbanefo ====
-37: Star Wars: The Force Awakens
-165: Solo: A Star Wars Story
-SF-44: Solo
-SF-55: The Force Awakens
-
 ==== Kerrigan Mahan ====
 230: The Castle of Cagliostro
 233: My Neighbor Totoro
@@ -1714,6 +1726,12 @@ SF-122: The Santa Clause
 SF-144: Batman Forever
 SF-174: Men in Black II
 SF-276: The Mask
+
+==== Kevin Spacey ====
+443: Se7en
+SF-207: Austin Powers in Goldmember
+SF-273: Superman Returns
+597: A Bug's Life
 
 ==== Kevin Sussman ====
 66: Almost Famous
@@ -1749,7 +1767,7 @@ SF-214: Terminator 3: Rise of the Machines
 74: Under Siege 2: Dark Territory
 143: RoboCop
 SF-100: Star Trek VI: The Undiscovered Country
-590: Dead Poets Society
+589: Dead Poets Society
 
 ==== Lanny Flaherty ====
 43: Signs
@@ -1761,7 +1779,7 @@ SF-235: Waterworld
 SF-174: Men in Black II
 497: Twin Peaks (Season 1)
 SF-241: Twin Peaks (Season 2)
-590: Dead Poets Society
+589: Dead Poets Society
 
 ==== Larry Ward ====
 34: Star Wars: A New Hope
@@ -1785,19 +1803,13 @@ SF-38: Captain Marvel
 268: Lorenzo's Oil
 SF-153: Sully
 SF-230: Teenage Mutant Ninja Turtles: Out of the Shadows
-593: The Truman Show
+592: The Truman Show
 
 ==== Lauren Sánchez Bezos ====
 23b: Fantastic Four
 23c: Fantastic Four: Rise of the Silver Surfer
 71: We Bought a Zoo
 445: Fight Club
-
-==== Laurence Mason ====
-97: A.I. Artificial Intelligence
-223: Ali
-227: Public Enemies
-SF-277: King Ralph
 
 ==== Laz Alonso ====
 85: Avatar
@@ -1817,11 +1829,23 @@ SF-71: Disappearing Acts
 272: Mad Max: Fury Road
 480: Furiosa
 
+==== Lee Unkrich ====
+SF-63: Toy Story 2
+SF-64: Toy Story 3
+597: A Bug's Life
+598: Finding Nemo
+
 ==== Leland Orser ====
 95: Saving Private Ryan
 SF-81: Alien: Resurrection
 350: Escape from L.A.
 443: Se7en
+
+==== Leo Lee ====
+297: Contact
+344: Big Trouble in Little China
+350: Escape from L.A.
+SF-303: Mortal Kombat (1995)
 
 ==== Leslie Stefanson ====
 42: Unbreakable
@@ -1857,7 +1881,7 @@ SF-185: Escape from the Planet of the Apes
 165: Solo: A Star Wars Story
 SF-44: Solo
 494: Dune
-587: The Year of Living Dangerously
+586: The Year of Living Dangerously
 
 ==== Linda Kozlowski ====
 SF-85: Crocodile Dundee
@@ -1979,17 +2003,17 @@ SF-269: Superman II
 SF-270: Superman III
 SF-272: Superman IV: The Quest For Peace
 
-==== Marina Hayter ====
-37: Star Wars: The Force Awakens
-165: Solo: A Star Wars Story
-SF-44: Solo
-SF-55: The Force Awakens
-
 ==== Marina Sirtis ====
 SF-255: Star Trek: Generations
 SF-258: Star Trek: First Contact
 SF-262: Star Trek: Insurrection
 SF-264: Star Trek: Nemesis
+
+==== Marjean Holden ====
+93: The Lost World: Jurassic Park
+351: John Carpenter’s Vampires
+352: Ghosts of Mars
+SF-305: Mortal Kombat: Annihilation
 
 ==== Mark Dodson ====
 36: Star Wars: Return of the Jedi
@@ -2032,6 +2056,12 @@ SF-164: National Treasure
 156: Ready Player One
 SF-55: The Force Awakens
 SF-194: The Little Drummer Girl
+
+==== Mark Strong ====
+135: Zero Dark Thirty
+417: Sunshine
+595: The Way Back
+600: John Carter
 
 ==== Mark Wahlberg ====
 47: The Happening
@@ -2138,8 +2168,8 @@ SF-40: Avengers: Endgame
 ==== Meesha Garbett ====
 226b: Cats
 SF-247: Cats
-SF-296: Wicked
-SF-297: Wicked: For Good
+SF-300: Wicked
+SF-301: Wicked: For Good
 
 ==== Mel Brooks ====
 174b: Hotel Transylvania 2
@@ -2213,6 +2243,12 @@ SF-205: Austin Powers: International Man of Mystery
 SF-206: Austin Powers: The Spy Who Shagged Me
 SF-207: Austin Powers in Goldmember
 
+==== Michael McShane ====
+232: Castle in the Sky
+236: Princess Mononoke
+314: Treasure Planet
+597: A Bug's Life
+
 ==== Michael Paul Chan ====
 217: Thief
 222: The Insider
@@ -2236,12 +2272,6 @@ SF-274: Man of Steel
 SF-50: The Empire Strikes Back
 515: Raiders of the Lost Ark
 522: Indiana Jones and the Last Crusade
-
-==== Michael Wincott ====
-131: Strange Days
-SF-81: Alien: Resurrection
-314: Treasure Planet
-SF-277: King Ralph
 
 ==== Michael York ====
 383: Cabaret
@@ -2296,12 +2326,6 @@ SF-183: Beneath the Planet of the Apes
 SF-185: Escape from the Planet of the Apes
 SF-186: Conquest of the Planet of the Apes
 SF-188: Battle for the Planet of the Apes
-
-==== Nathan Plant ====
-37: Star Wars: The Force Awakens
-88: Rogue One: A Star Wars Story
-SF-46: Rogue One
-SF-55: The Force Awakens
 
 ==== Nathaniel Lees ====
 55: The Matrix Reloaded
@@ -2358,12 +2382,6 @@ SF-230: Teenage Mutant Ninja Turtles: Out of the Shadows
 173: Sense and Sensibility
 
 ==== Orly Schuchmacher ====
-37: Star Wars: The Force Awakens
-88: Rogue One: A Star Wars Story
-SF-46: Rogue One
-SF-55: The Force Awakens
-
-==== Pablo Verdejo ====
 37: Star Wars: The Force Awakens
 88: Rogue One: A Star Wars Story
 SF-46: Rogue One
@@ -2531,6 +2549,12 @@ SF-28: Doctor Strange
 SF-50: The Empire Strikes Back
 493: The Elephant Man
 
+==== Rance Howard ====
+202: Ed Wood
+203: Mars Attacks!
+332: Joe Dirt
+591: Fearless
+
 ==== Ray Buffer ====
 81: True Lies
 178: Hulk
@@ -2542,6 +2566,12 @@ SF-3: Hulk Live
 SF-50: The Empire Strikes Back
 SF-156: The Spy Who Loved Me
 SF-267: Superman
+
+==== Ray Park ====
+1: Star Wars: The Phantom Menace
+165: Solo: A Star Wars Story
+SF-44: Solo
+SF-305: Mortal Kombat: Annihilation
 
 ==== Ray Winstone ====
 104: Indiana Jones and the Kingdom of the Crystal Skull
@@ -2669,18 +2699,6 @@ SF-53a: THX-1138
 508: Twin Peaks: The Return (Episodes 9-13)
 509: Twin Peaks: The Return (Episodes 14-18)
 
-==== Robert Strange ====
-37: Star Wars: The Force Awakens
-88: Rogue One: A Star Wars Story
-SF-46: Rogue One
-SF-55: The Force Awakens
-
-==== Roddy McDowall ====
-SF-182: Planet of the Apes
-SF-185: Escape from the Planet of the Apes
-SF-186: Conquest of the Planet of the Apes
-SF-188: Battle for the Planet of the Apes
-
 ==== Rolf Saxon ====
 95: Saving Private Ryan
 SF-67: Mission: Impossible
@@ -2726,8 +2744,8 @@ SF-241: Twin Peaks (Season 2)
 ==== Rufus Lacey ====
 226b: Cats
 SF-247: Cats
-SF-296: Wicked
-SF-297: Wicked: For Good
+SF-300: Wicked
+SF-301: Wicked: For Good
 
 ==== Rupert Reid ====
 55: The Matrix Reloaded
@@ -2747,17 +2765,11 @@ SF-46: Rogue One
 287: The Old Guard
 307: Allied
 
-==== Russi Taylor ====
-233: My Neighbor Totoro
-SF-61: Babe
-269: Babe: Pig in the City
-292: Who Framed Roger Rabbit
-
 ==== Ryan Hurst ====
 95: Saving Private Ryan
 488: The Postman
 548: The Ladykillers
-600: The Odyssey
+603: The Odyssey
 
 ==== Sam Elliott ====
 178: Hulk
@@ -2770,6 +2782,18 @@ SF-198: GoldenEye
 SF-200: Tomorrow Never Dies
 SF-202: The World Is Not Enough
 SF-203: Die Another Day
+
+==== Samantha Morton ====
+98: Minority Report
+569: Morvern Callar
+600: John Carter
+603: The Odyssey
+
+==== Sandeep Mohan ====
+88: Rogue One: A Star Wars Story
+140: The Last Jedi
+SF-46: Rogue One
+SF-57: The Last Jedi
 
 ==== Sarah Paulson ====
 141: The Post
@@ -2897,23 +2921,23 @@ SF-270: Superman III
 SF-50: The Empire Strikes Back
 SF-272: Superman IV: The Quest For Peace
 
+==== Stephanie Silva ====
+140: The Last Jedi
+165: Solo: A Star Wars Story
+SF-44: Solo
+SF-57: The Last Jedi
+
 ==== Stephen Stanton ====
 88: Rogue One: A Star Wars Story
 SF-46: Rogue One
 500b: Joker: Folie à Deux
-SF-296: Wicked
+SF-300: Wicked
 
 ==== Steve Valentine ====
 203: Mars Attacks!
 302: A Christmas Carol
 304: The Walk
 378: Spider-Man 3
-
-==== Steven James Griffiths ====
-37: Star Wars: The Force Awakens
-88: Rogue One: A Star Wars Story
-SF-46: Rogue One
-SF-55: The Force Awakens
 
 ==== Stewart Strauss ====
 506: Twin Peaks: The Return (Episodes 1-7)
@@ -2937,13 +2961,13 @@ SF-295: Return to Oz
 276: This Is My Life
 SF-252: Analyze That
 554: Inside Llewyn Davis
-588: Witness
+587: Witness
 
-==== Tadanobu Asano ====
-SF-8: Thor
-SF-18: Thor: The Dark World
-SF-32: Thor: Ragnarok
-SF-237: Battleship
+==== Talisa Soto ====
+SF-238e: The Cowboy and the Frenchman
+SF-289: The Living Daylights
+SF-303: Mortal Kombat (1995)
+SF-305: Mortal Kombat: Annihilation
 
 ==== Taylor Negron ====
 527: Fast Times at Ridgemont High
@@ -2961,7 +2985,7 @@ SF-46: Rogue One
 486: Gigli
 SF-270: Superman III
 580: The Cars That Ate Paris
-593: The Truman Show
+592: The Truman Show
 
 ==== Terry Richards ====
 35: Star Wars: The Empire Strikes Back
@@ -3004,6 +3028,12 @@ SF-206: Austin Powers: The Spy Who Shagged Me
 SF-7: What Men Want
 SF-37: Ant-Man and the Wasp
 327c: Shaft
+
+==== Tobias James-Samuels ====
+140: The Last Jedi
+165: Solo: A Star Wars Story
+SF-44: Solo
+SF-57: The Last Jedi
 
 ==== Togo Igawa ====
 57: Speed Racer
@@ -3052,12 +3082,6 @@ SF-241: Twin Peaks (Season 2)
 378: Spider-Man 3
 SF-192: Ocean's Eleven
 SF-193: Ocean's Twelve
-
-==== Topo Wresniwiro ====
-37: Star Wars: The Force Awakens
-SF-28: Doctor Strange
-SF-55: The Force Awakens
-381: Doctor Strange in the Multiverse of Madness
 
 ==== Treat Williams ====
 35: Star Wars: The Empire Strikes Back
@@ -3189,7 +3213,7 @@ SF-140: The Matrix Resurrections
 120: Inception
 297: Contact
 444: The Game
-593: The Truman Show
+592: The Truman Show
 
 ==== Yuri Lowenthal ====
 88: Rogue One: A Star Wars Story
@@ -3201,13 +3225,13 @@ SF-225: Paranoia Agent
 SF-31: Spider-Man: Homecoming
 SF-41: Spider-Man: Far From Home
 334: Space Jam: A New Legacy
-600: The Odyssey
+603: The Odyssey
 
 ==== Zhanè Samuels ====
 226b: Cats
 SF-247: Cats
-SF-296: Wicked
-SF-297: Wicked: For Good
+SF-300: Wicked
+SF-301: Wicked: For Good
 
 ==== Zoë Kravitz ====
 49: After Earth
