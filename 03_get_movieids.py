@@ -321,8 +321,10 @@ replacements = { "main": {
         "293": 13155,      # Return to OZ
         "303": 9312,      # Mortal Kombat 1995
         "278": 9495,      # The Crow
-
         "217": 1573,      # Die Hard 2: Die Harder
+        "360": 138,    # Dracula (1931)
+        "361": 11868,  # Dracula (1958)
+        "362": 33521,  # Dracula (1979)
     },
     "crit": {
     }
