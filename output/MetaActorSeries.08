@@ -36,7 +36,7 @@ SF-46: Rogue One
 SF-48: Star Wars
 401: Eyes Wide Shut
 SF-269: Superman II
-SF-280: Fixed
+SF-281: Judge Dredd
 587: Witness
 
 ==== Bill Farmer ====
@@ -99,6 +99,16 @@ SF-50: The Empire Strikes Back
 399: The Shining
 SF-267: Superman
 
+==== Cate Blanchett ====
+104: Indiana Jones and the Kingdom of the Crystal Skull
+SF-32: Thor: Ragnarok
+241: Ponyo on the Cliff
+375: The Gift
+401: Eyes Wide Shut
+SF-196: Ocean's 8
+448: The Curious Case of Benjamin Button
+668: The Aviator
+
 ==== Charles Dance ====
 SF-79: Alien3
 SF-129: Ghostbusters: Answer the Call
@@ -118,6 +128,26 @@ CD-7: Frankenstein
 SF-163: A View to a Kill
 SF-201: David Fincher Music Videos
 486: Gigli
+
+==== Ciarán Hinds ====
+103: Munich
+132: The Weight of Water
+137: Justice League
+225: Miami Vice
+SF-246: The Phantom of the Opera
+563: Is This Thing On?
+600: John Carter
+673: Silence
+
+==== Cliff Curtis ====
+48: The Last Airbender
+222: The Insider
+360: The Piano
+SF-162: Doctor Sleep
+406: Avatar: The Way of Water
+417: Sunshine
+561: Avatar: Fire and Ash
+666: Bringing Out the Dead
 
 ==== Dakota Fanning ====
 102: War of the Worlds
@@ -198,16 +228,6 @@ SF-48: Star Wars
 SF-50: The Empire Strikes Back
 SF-51: Return of the Jedi
 SF-60: The Rise of Skywalker
-
-==== Dick Miller ====
-76: The Terminator
-244b: Crazy Mama
-247: Swing Shift
-288: I Wanna Hold Your Hand
-289: Used Cars
-SF-143: Batman: Mask of the Phantasm
-SF-211: The Terminator
-514: 1941
 
 ==== Domhnall Gleeson ====
 37: Star Wars: The Force Awakens
@@ -409,16 +429,6 @@ SF-57: The Last Jedi
 SF-60: The Rise of Skywalker
 394: The Woman King
 
-==== John Paxton ====
-373: A Simple Plan
-376: Spider-Man
-377: Spider-Man 2
-378: Spider-Man 3
-379: Drag Me to Hell
-380: Oz the Great and Powerful
-SF-281: Judge Dredd
-SF-282: Barb Wire
-
 ==== John Travolta ====
 279: Michael
 281: Lucky Numbers
@@ -449,6 +459,16 @@ SF-55: The Force Awakens
 SF-57: The Last Jedi
 SF-60: The Rise of Skywalker
 
+==== Jorge Leon ====
+88: Rogue One: A Star Wars Story
+165: Solo: A Star Wars Story
+211: Dark Shadows
+SF-44: Solo
+SF-46: Rogue One
+287: The Old Guard
+SF-73: Mission: Impossible - Rogue Nation
+603: The Odyssey
+
 ==== Judi Dench ====
 213: Miss Peregrine's Home for Peculiar Children
 226b: Cats
@@ -458,6 +478,16 @@ SF-200: Tomorrow Never Dies
 SF-202: The World Is Not Enough
 SF-203: Die Another Day
 SF-247: Cats
+
+==== Justin Theroux ====
+140: The Last Jedi
+225: Miami Vice
+239: Joker
+SF-57: The Last Jedi
+495: Beetlejuice Beetlejuice
+504: Mulholland Drive
+505: Inland Empire
+SF-309: The Devil Wears Prada 2
 
 ==== Keegan-Michael Key ====
 168: Tomorrowland
@@ -519,26 +549,6 @@ SF-17: Frankenweenie
 SF-125: The Santa Clause 3
 457b: Aquaman and the Lost Kingdom
 
-==== Meryl Streep ====
-97: A.I. Artificial Intelligence
-126: The Devil Wears Prada
-141: The Post
-191: It's Complicated
-258b: The Manchurian Candidate
-261: Ricki and the Flash
-283: Julie & Julia
-295: Death Becomes Her
-
-==== Michael Badalucco ====
-277: Sleepless in Seattle
-278: Mixed Nuts
-280: You've Got Mail
-282: Bewitched
-SF-233: Teenage Mutant Ninja Turtles: Mutant Mayhem
-540: Miller's Crossing
-545: O Brother, Where Art Thou?
-546: The Man Who Wasn't There
-
 ==== Michael Dorn ====
 223: Ali
 SF-100: Star Trek VI: The Undiscovered Country
@@ -549,15 +559,25 @@ SF-258: Star Trek: First Contact
 SF-262: Star Trek: Insurrection
 SF-264: Star Trek: Nemesis
 
-==== Michelle Pfeiffer ====
+==== Michael Gough ====
+198: Batman
 201: Batman Returns
-211: Dark Shadows
-SF-37: Ant-Man and the Wasp
-SF-40: Avengers: Endgame
-251: Married to the Mob
-267: The Witches of Eastwick
-298: What Lies Beneath
-536: I Could Never Be Your Woman
+205: Sleepy Hollow
+SF-11: Corpse Bride
+210: Alice in Wonderland
+SF-144: Batman Forever
+SF-146: Batman & Robin
+663: The Age of Innocence
+
+==== Michael Stuhlbarg ====
+107: Lincoln
+141: The Post
+SF-28: Doctor Strange
+381: Doctor Strange in the Multiverse of Madness
+SF-177: Men in Black 3
+421: Steve Jobs
+551: A Serious Man
+671: Hugo
 
 ==== Mike Quinn ====
 36: Star Wars: Return of the Jedi
@@ -568,16 +588,6 @@ SF-51: Return of the Jedi
 SF-55: The Force Awakens
 SF-57: The Last Jedi
 SF-60: The Rise of Skywalker
-
-==== Mona Marshall ====
-174b: Hotel Transylvania 2
-174c: Hotel Transylvania 3
-194a: Wreck-it Ralph
-237: Spirited Away
-241: Ponyo on the Cliff
-SF-65e: Partysaurus Rex
-314: Treasure Planet
-477: Millennium Actress
 
 ==== Natalie Portman ====
 1: Star Wars: The Phantom Menace
@@ -629,16 +639,6 @@ SF-51: Return of the Jedi
 515: Raiders of the Lost Ark
 522: Indiana Jones and the Last Crusade
 
-==== Philip Harvey ====
-24: Star Wars: Revenge of the Sith
-88: Rogue One: A Star Wars Story
-111: Wonder Woman
-117: Batman Begins
-165: Solo: A Star Wars Story
-SF-44: Solo
-SF-46: Rogue One
-307: Allied
-
 ==== Pierce Brosnan ====
 203: Mars Attacks!
 SF-198: GoldenEye
@@ -689,6 +689,16 @@ SF-180: Men in Black: International
 420: Trance
 SF-242: Dungeons & Dragons: Honor Among Thieves
 
+==== Stanley Tucci ====
+101: The Terminal
+126: The Devil Wears Prada
+SF-9: Captain America: The First Avenger
+242: The Wind Rises
+283: Julie & Julia
+309: The Witches
+411: A Life Less Ordinary
+SF-309: The Devil Wears Prada 2
+
 ==== Stellan Skarsgård ====
 94: Amistad
 SF-8: Thor
@@ -728,6 +738,16 @@ SF-65d: Hawaiian Vacation
 SF-65e: Partysaurus Rex
 SF-66: Toy Story 4
 SF-289: The Living Daylights
+
+==== Tom Sizemore ====
+95: Saving Private Ryan
+129: Blue Steel
+130: Point Break
+131: Strange Days
+221: Heat
+506: Twin Peaks: The Return (Episodes 1-7)
+508: Twin Peaks: The Return (Episodes 9-13)
+666: Bringing Out the Dead
 
 ==== Tracey Walter ====
 198: Batman

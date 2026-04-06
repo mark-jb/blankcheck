@@ -108,6 +108,7 @@ replacements = { "main": {
         "276": 41776,      # This Is My Life
         "278": 24070,      # Mixed Nuts
         "279": 2928,  # Michael
+        "281": 10783,      # Lucky Numbers
         "286": 241771, # Beyond the Lights
         "287": 547016,      # The Old Guard
         "297": 686 ,  # Contact
@@ -208,6 +209,8 @@ replacements = { "main": {
         "382": 42618,      # Sweet Charity
         "424a": 32628,      # Three Ages
         "591": 10443,   # Fearless
+        "650": 42694,  # Who's that Knocking at my Door
+        "655": 12637,  # New York, New York
         "999": 1120368,      # Horizon: An American Saga - Chapter 2
     },
     "patreon": {
@@ -311,12 +314,15 @@ replacements = { "main": {
         "267": 1924,     # Superman
         "275": 1061474,   # Superman 2025
         "277": 9495,      # The Crow
-        "280": 9482,      # Judge Dredd
-        "281": 11867,      # Barb Wire
+        "281": 9482,      # Judge Dredd
+        "282": 11867,      # Barb Wire
         "289": 709,      # License to Kill
         "291": 24961,      # The Wiz
         "293": 13155,      # Return to OZ
         "303": 9312,      # Mortal Kombat 1995
+        "278": 9495,      # The Crow
+
+        "217": 1573,      # Die Hard 2: Die Harder
     },
     "crit": {
     }

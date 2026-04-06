@@ -79,6 +79,7 @@ parser.add_argument('--split', help='split into separate files by number', actio
 parser.add_argument('--tofile', help='output to file', action="store_true")
 parser.add_argument('--metadata', help='print metadata', action="store_true")
 parser.add_argument('--plain', help='plain output', action="store_true")
+parser.add_argument('--quiet', help='plain output', action="store_true")
 args = parser.parse_args()
 split_files = args.split
 
