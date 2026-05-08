@@ -212,6 +212,15 @@ replacements = { "main": {
         "650": 42694,  # Who's that Knocking at my Door
         "655": 12637,  # New York, New York
         "999": 1120368,      # Horizon: An American Saga - Chapter 2
+        "196": 4011,      # Beetlejuice
+        "335": 631843,      # Old
+        "465": 106,      # Predator
+        "475": 10782,      # Basic
+        "48": 10196,      # The Last Airbender
+        "490": 1032823,      # Trap
+        "512": 578,      # Jaws
+        "599": 39360,      # WALL-E
+        "662": 1598,      # Cape Fear
     },
     "patreon": {
         "2": "1726",    # Iron Man
@@ -316,15 +325,18 @@ replacements = { "main": {
         "277": 9495,      # The Crow
         "281": 9482,      # Judge Dredd
         "282": 11867,      # Barb Wire
-        "289": 709,      # License to Kill
-        "291": 24961,      # The Wiz
-        "293": 13155,      # Return to OZ
+        "291": 709,      # License to Kill
+        "293": 24961,      # The Wiz
+        "295": 13155,      # Return to OZ
         "303": 9312,      # Mortal Kombat 1995
         "278": 9495,      # The Crow
         "217": 1573,      # Die Hard 2: Die Harder
         "360": 138,    # Dracula (1931)
         "361": 11868,  # Dracula (1958)
         "362": 33521,  # Dracula (1979)
+        "238b": 44239,      # The Alphabet
+        "306": 1517969,      # The Plumber
+        "79": 8077,      # Alien³
     },
     "crit": {
     }

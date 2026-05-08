@@ -28,6 +28,8 @@ def print_actor(actor):
     if print_metadata:
         if args.pop:
             actor_title = actor_title + " " + str(actor["popularity"])
+        elif args.count:
+            actor_title = actor_title + " " + str(actor["count"])
         else:
             actor_title = actor_title + " " + str(actor["importance"])
     print_out(actor_title)
@@ -74,6 +76,7 @@ parser.add_argument('--main', help='only Main feed', action="store_true")
 parser.add_argument('--patreon', help='only Patreon feed', action="store_true")
 parser.add_argument('--importance', help='sort by importance', action="store_true")
 parser.add_argument('--alpha', help='sort by alphabetical (default)', action="store_true")
+parser.add_argument('--count', help='sort by count', action="store_true")
 parser.add_argument('--ignore', help='ignore actors in ignorelist', action="store_true")
 parser.add_argument('--split', help='split into separate files by number', action="store_true", default=False)
 parser.add_argument('--tofile', help='output to file', action="store_true")
@@ -121,12 +124,16 @@ actors = sorted(actorjson.values(), key=lambda k: k["name"])
 for actor in actors:
     combo_importance = round(actor["popularity"] * len(actor["movies_dict"]), 2)
     actor["importance"] = combo_importance
+    actor["count"] = len(actor["movies_dict"])
 if args.importance:
     print("Sorting by importance")
     actors = sorted(actors, key=lambda k: k["importance"]) 
 elif args.pop:
     print("Sorting by popularity")
     actors = sorted(actors, key=lambda k: k["popularity"]) 
+elif args.count:
+    print("Sorting by count")
+    actors = sorted(actors, key=lambda k: k["count"]) 
 #actors = sorted(actors, key=lambda k: k["popularity"]) 
 #print(actors)
 

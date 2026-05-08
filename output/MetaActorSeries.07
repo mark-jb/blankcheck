@@ -116,15 +116,6 @@ SF-166: National Treasure: Book of Secrets
 506: Twin Peaks: The Return (Episodes 1-7)
 508: Twin Peaks: The Return (Episodes 9-13)
 
-==== Bruce Boa ====
-35: Star Wars: The Empire Strikes Back
-SF-50: The Empire Strikes Back
-SF-161: Octopussy
-400: Full Metal Jacket
-SF-267: Superman
-SF-293: The Wiz
-SF-295: Return to Oz
-
 ==== Bruce McGill ====
 70: Elizabethtown
 107: Lincoln
@@ -142,6 +133,15 @@ SF-295: Return to Oz
 SF-138: The Matrix Revolutions
 580: The Cars That Ate Paris
 598: Finding Nemo
+
+==== CCH Pounder ====
+85: Avatar
+SF-71: Disappearing Acts
+SF-93b: Aladdin and the King of Thieves
+385: All That Jazz
+406: Avatar: The Way of Water
+561: Avatar: Fire and Ash
+SF-314: Robocop 3
 
 ==== Carel Struycken ====
 267: The Witches of Eastwick
@@ -233,15 +233,6 @@ SF-81: Alien: Resurrection
 533: Clueless
 538: Blood Simple
 
-==== Daniel von Bargen ====
-94: Amistad
-145: Basic Instinct
-252: Silence of the Lambs
-253: Philadelphia
-327b: Shaft
-488: The Postman
-545: O Brother, Where Art Thou?
-
 ==== Dave Bautista ====
 SF-22: Guardians of the Galaxy
 SF-29: Guardians of the Galaxy Vol. 2
@@ -259,6 +250,15 @@ SF-123: The Santa Clause 2
 436: Oppenheimer
 555: Hail, Caesar!
 556: The Ballad of Buster Scruggs
+
+==== Deep Roy ====
+36: Star Wars: Return of the Jedi
+206: Planet of the Apes
+207: Big Fish
+SF-11: Corpse Bride
+208: Charlie and the Chocolate Factory
+SF-51: Return of the Jedi
+SF-295: Return to Oz
 
 ==== Earl Boen ====
 76: The Terminator
@@ -296,15 +296,6 @@ SF-65e: Partysaurus Rex
 276: This Is My Life
 SF-66: Toy Story 4
 
-==== Gary Oldman ====
-117: Batman Begins
-119: The Dark Knight
-121: The Dark Knight Rises
-138: Lost in Space
-302: A Christmas Carol
-436: Oppenheimer
-452: Mank
-
 ==== Genevieve O'Reilly ====
 24: Star Wars: Revenge of the Sith
 55: The Matrix Reloaded
@@ -313,6 +304,15 @@ SF-66: Toy Story 4
 SF-46: Rogue One
 SF-136: The Matrix Reloaded
 SF-138: The Matrix Revolutions
+
+==== Guy Standeven ====
+36: Star Wars: Return of the Jedi
+SF-51: Return of the Jedi
+391: Lolita
+399: The Shining
+493: The Elephant Man
+518: Indiana Jones and the Temple of Doom
+SF-295: Return to Oz
 
 ==== Ian Whyte ====
 37: Star Wars: The Force Awakens
@@ -377,15 +377,6 @@ SF-305: Mortal Kombat: Annihilation
 350: Escape from L.A.
 560: Ella McCay
 
-==== Jeff Garlin ====
-250: The Rise of Skywalker
-SF-60: The Rise of Skywalker
-SF-64: Toy Story 3
-SF-65d: Hawaiian Vacation
-SF-66: Toy Story 4
-SF-206: Austin Powers: The Spy Who Shagged Me
-633: Toy Story 5
-
 ==== Jenette Goldstein ====
 77: Aliens
 79: Terminator 2: Judgement Day
@@ -421,6 +412,15 @@ CD-6: Bugonia
 258b: The Manchurian Candidate
 259: Rachel Getting Married
 261: Ricki and the Flash
+
+==== Joe Don Baker ====
+62: Fletch
+203: Mars Attacks!
+332: Joe Dirt
+SF-198: GoldenEye
+SF-200: Tomorrow Never Dies
+SF-289: The Living Daylights
+662: Cape Fear
 
 ==== Joe Morton ====
 53: Batman v Superman: Dawn of Justice
@@ -611,6 +611,15 @@ SF-281: Judge Dredd
 585: Gallipoli
 586: The Year of Living Dangerously
 
+==== Michael G. Wilson ====
+SF-156: The Spy Who Loved Me
+SF-158: Moonraker
+SF-161: Octopussy
+SF-163: A View to a Kill
+SF-202: The World Is Not Enough
+SF-203: Die Another Day
+SF-289: The Living Daylights
+
 ==== Michael Giacchino ====
 37: Star Wars: The Force Awakens
 88: Rogue One: A Star Wars Story
@@ -655,6 +664,24 @@ SF-61: Babe
 454: I Love You to Death
 460: Yentl
 663: The Age of Innocence
+
+==== Monica Bellucci ====
+55: The Matrix Reloaded
+56: The Matrix Revolutions
+SF-136: The Matrix Reloaded
+SF-138: The Matrix Revolutions
+495: Beetlejuice Beetlejuice
+509: Twin Peaks: The Return (Episodes 14-18)
+SF-363: Bram Stoker's Dracula
+
+==== Morgan Freeman ====
+94: Amistad
+102: War of the Worlds
+117: Batman Begins
+119: The Dark Knight
+121: The Dark Knight Rises
+443: Se7en
+SF-209: The Love Guru
 
 ==== Nick Nolte ====
 157: I'll Do Anything
@@ -845,6 +872,15 @@ SF-310: Mortal Kombat II
 522: Indiana Jones and the Last Crusade
 523: Always
 
+==== Tim Rose ====
+36: Star Wars: Return of the Jedi
+37: Star Wars: The Force Awakens
+140: The Last Jedi
+SF-51: Return of the Jedi
+SF-55: The Force Awakens
+SF-57: The Last Jedi
+SF-295: Return to Oz
+
 ==== Tom Hiddleston ====
 106: War Horse
 SF-8: Thor
@@ -853,15 +889,6 @@ SF-18: Thor: The Dark World
 SF-32: Thor: Ragnarok
 SF-35: Avengers: Infinity War
 SF-40: Avengers: Endgame
-
-==== Tom Kane ====
-30: Star Wars: The Clone Wars
-37: Star Wars: The Force Awakens
-88: Rogue One: A Star Wars Story
-140: The Last Jedi
-SF-46: Rogue One
-SF-55: The Force Awakens
-SF-57: The Last Jedi
 
 ==== Tommy Lee Jones ====
 107: Lincoln
@@ -916,3 +943,12 @@ SF-97: Star Trek IV: The Voyage Home
 SF-99: Star Trek V: The Final Frontier
 SF-100: Star Trek VI: The Undiscovered Country
 SF-255: Star Trek: Generations
+
+==== Winona Ryder ====
+196: Beetlejuice
+199: Edward Scissorhands
+SF-17: Frankenweenie
+SF-81: Alien: Resurrection
+495: Beetlejuice Beetlejuice
+SF-363: Bram Stoker's Dracula
+663: The Age of Innocence
