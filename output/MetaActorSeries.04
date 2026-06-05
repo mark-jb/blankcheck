@@ -107,6 +107,12 @@ SF-146: Batman & Robin
 537: Vamps
 CD-6: Bugonia
 
+==== Alicia Vela-Bailey ====
+85: Avatar
+406: Avatar: The Way of Water
+406: Avatar: The Way of Water
+561: Avatar: Fire and Ash
+
 ==== Alison Lohman ====
 207: Big Fish
 231: Nausicaä of the Valley of the Wind
@@ -116,8 +122,8 @@ CD-6: Bugonia
 ==== Allison Janney ====
 175: The Ice Storm
 213: Miss Peregrine's Home for Peculiar Children
-598: Finding Nemo
-601: Finding Dory
+597: Finding Nemo
+600: Finding Dory
 
 ==== Amber Heard ====
 137: Justice League
@@ -163,15 +169,9 @@ SF-195: Ocean’s Thirteen
 
 ==== Angie Bolling ====
 143: RoboCop
-SF-311: Robocop
-SF-312: Robocop 2
-SF-314: Robocop 3
-
-==== Angus MacLane ====
-SF-65c: Small Fry
-SF-65d: Hawaiian Vacation
-SF-65e: Partysaurus Rex
-601: Finding Dory
+SF-311: RoboCop
+SF-313: RoboCop 2
+SF-314: RoboCop 3
 
 ==== Ann Dowd ====
 253: Philadelphia
@@ -212,8 +212,8 @@ SF-46: Rogue One
 ==== Austin Pendleton ====
 94: Amistad
 463: The Mirror Has Two Faces
-598: Finding Nemo
-601: Finding Dory
+597: Finding Nemo
+600: Finding Dory
 
 ==== Bae Doona ====
 58: Cloud Atlas
@@ -225,7 +225,7 @@ SF-46: Rogue One
 SF-61: Babe
 269: Babe: Pig in the City
 285: The Secret Life of Bees
-601: Finding Dory
+600: Finding Dory
 
 ==== Barbra Streisand ====
 459: A Star Is Born (1976)
@@ -239,12 +239,6 @@ SF-241: Twin Peaks (Season 2)
 505: Inland Empire
 509: Twin Peaks: The Return (Episodes 14-18)
 
-==== Ben Burtt ====
-1: Star Wars: The Phantom Menace
-13: Star Wars: Attack of the Clones
-36: Star Wars: Return of the Jedi
-SF-51: Return of the Jedi
-
 ==== Bernard Lee ====
 SF-154: Live and Let Die
 SF-155: The Man with the Golden Gun
@@ -255,7 +249,7 @@ SF-158: Moonraker
 143: RoboCop
 202: Ed Wood
 451: Gone Girl
-SF-311: Robocop
+SF-311: RoboCop
 
 ==== Bill Pullman ====
 64: Singles
@@ -296,8 +290,8 @@ SF-214: Terminator 3: Rise of the Machines
 ==== Bob Peterson ====
 164: The Incredibles
 SF-64: Toy Story 3
-598: Finding Nemo
-601: Finding Dory
+597: Finding Nemo
+600: Finding Dory
 
 ==== Bokeem Woodbine ====
 SF-31: Spider-Man: Homecoming
@@ -321,7 +315,7 @@ SF-93b: Aladdin and the King of Thieves
 141: The Post
 253: Philadelphia
 484: Scent of a Woman
-SF-314: Robocop 3
+SF-314: RoboCop 3
 
 ==== Brandon Molale ====
 224: Collateral
@@ -575,17 +569,17 @@ SF-301: Wicked: For Good
 SF-196: Ocean's 8
 SF-216: Terminator Salvation
 
-==== Conan O'Brien ====
-67: Vanilla Sky
-282: Bewitched
-SF-151: The Lego Batman Movie
-633: Toy Story 5
-
 ==== Connie Nielsen ====
 111: Wonder Woman
 137: Justice League
 305: Wonder Woman 1984
 475: Basic
+
+==== Corey Hawkins ====
+SF-16: Iron Man 3
+557: The Tragedy of Macbeth
+602: The Odyssey
+603: Toy Story 5
 
 ==== Cornel West ====
 55: The Matrix Reloaded
@@ -620,8 +614,8 @@ SF-93a: The Return of Jafar
 ==== Dan O'Herlihy ====
 143: RoboCop
 SF-241: Twin Peaks (Season 2)
-SF-311: Robocop
-SF-312: Robocop 2
+SF-311: RoboCop
+SF-313: RoboCop 2
 
 ==== Daniel Cudmore ====
 SF-103: New Moon
@@ -668,8 +662,8 @@ SF-280: Fixed
 ==== Daryl Sabara ====
 300: The Polar Express
 302: A Christmas Carol
-598: Finding Nemo
-600: John Carter
+597: Finding Nemo
+599: John Carter
 
 ==== David Ankrum ====
 34: Star Wars: A New Hope
@@ -729,7 +723,7 @@ SF-105: Eclipse
 130: Point Break
 143: RoboCop
 498: Wild at Heart
-SF-311: Robocop
+SF-311: RoboCop
 
 ==== Dee Tails ====
 88: Rogue One: A Star Wars Story
@@ -777,7 +771,7 @@ SF-46: Rogue One
 189: Something's Gotta Give
 SF-68: Hanging Up
 SF-271: Look Who's Talking Now
-601: Finding Dory
+600: Finding Dory
 
 ==== Diane Kruger ====
 308: Welcome to Marwen
@@ -873,7 +867,13 @@ SF-144: Batman Forever
 194a: Wreck-it Ralph
 194b: Ralph Breaks the Internet
 281: Lucky Numbers
-601: Finding Dory
+600: Finding Dory
+
+==== Eddie Izzard ====
+SF-151: The Lego Batman Movie
+SF-193: Ocean's Twelve
+SF-195: Ocean’s Thirteen
+SF-286: Mystery Men
 
 ==== Edi Gathegi ====
 72: Aloha
@@ -951,7 +951,7 @@ SF-82: Prometheus
 103: Munich
 178: Hulk
 SF-3: Hulk Live
-598: Finding Nemo
+597: Finding Nemo
 
 ==== Eric Lloyd ====
 SF-122: The Santa Clause
@@ -975,7 +975,7 @@ SF-115: The Mummy (1999)
 144: Total Recall
 375: The Gift
 SF-144: Batman Forever
-SF-312: Robocop 2
+SF-313: RoboCop 2
 
 ==== Erin Kellyman ====
 165: Solo: A Star Wars Story
@@ -991,9 +991,9 @@ SF-40: Avengers: Endgame
 
 ==== Felton Perry ====
 143: RoboCop
-SF-311: Robocop
-SF-312: Robocop 2
-SF-314: Robocop 3
+SF-311: RoboCop
+SF-313: RoboCop 2
+SF-314: RoboCop 3
 
 ==== Flea ====
 SF-66: Toy Story 4
@@ -1089,7 +1089,7 @@ SF-272: Superman IV: The Quest For Peace
 103: Munich
 547: Intolerable Cruelty
 SF-286: Mystery Men
-598: Finding Nemo
+597: Finding Nemo
 
 ==== George 'Red' Schwartz ====
 247: Swing Shift
@@ -1181,12 +1181,6 @@ SF-131: Ghostbusters: Afterlife
 528: Johnny Dangerously
 656: Raging Bull
 
-==== Heidi Miller ====
-131: Strange Days
-203: Mars Attacks!
-221: Heat
-SF-235: Waterworld
-
 ==== Helen Mirren ====
 SF-110: F9
 SF-160: 2010: The Year We Make Contact
@@ -1204,6 +1198,12 @@ SF-162: Doctor Sleep
 SF-240: Ouija: Origin of Evil
 516: E.T. the Extra-Terrestrial
 667: Gangs of New York
+
+==== Himesh Patel ====
+306: teneT
+423: Yesterday
+602: The Odyssey
+603: Toy Story 5
 
 ==== Hiten Patel ====
 SF-41: Spider-Man: Far From Home
@@ -1292,7 +1292,7 @@ SF-272: Superman IV: The Quest For Peace
 ==== Jackie Earle Haley ====
 107: Lincoln
 211: Dark Shadows
-SF-315: Robocop (2014)
+SF-316: Robocop (2014)
 670: Shutter Island
 
 ==== Jacob Batalon ====
@@ -1312,12 +1312,6 @@ SF-186: Conquest of the Planet of the Apes
 SF-74: The Way of the Gun
 SF-251: Mickey Blue Eyes
 514: 1941
-
-==== James Cameron ====
-81: True Lies
-82: Titanic
-84a: Aliens of the Deep
-84b: Ghosts of the Abyss
 
 ==== James Cosmo ====
 111: Wonder Woman
@@ -1360,12 +1354,6 @@ SF-217: Die Hard 2: Die Harder
 313: Hercules
 351: John Carpenter’s Vampires
 664: Casino
-
-==== Jamie Harris ====
-118: The Prestige
-184: Chosen - The Hire
-355: West Side Story (2021)
-603: The Odyssey
 
 ==== Jamie McShane ====
 SF-8: Thor
@@ -1558,12 +1546,6 @@ SF-76: Alien
 SF-113: Someone's Watching Me!
 SF-250c: Night Gallery: Make Me Laugh
 SF-253a: Something Evil
-
-==== John Leguizamo ====
-47: The Happening
-SF-217: Die Hard 2: Die Harder
-SF-285: Spawn
-603: The Odyssey
 
 ==== John Mahon ====
 SF-83: Armageddon
@@ -1773,7 +1755,7 @@ SF-125: The Santa Clause 3
 443: Se7en
 SF-207: Austin Powers in Goldmember
 SF-273: Superman Returns
-597: A Bug's Life
+SF-315: A Bug's Life
 
 ==== Kevin Sussman ====
 66: Almost Famous
@@ -1862,14 +1844,14 @@ SF-71: Disappearing Acts
 ==== Lee Unkrich ====
 SF-63: Toy Story 2
 SF-64: Toy Story 3
-597: A Bug's Life
-598: Finding Nemo
+597: Finding Nemo
+SF-315: A Bug's Life
 
 ==== Leeza Gibbons ====
 143: RoboCop
 470: Last Action Hero
-SF-311: Robocop
-SF-312: Robocop 2
+SF-311: RoboCop
+SF-313: RoboCop 2
 
 ==== Leland Orser ====
 95: Saving Private Ryan
@@ -1961,6 +1943,12 @@ SF-150: Liza with a Z
 655: New York, New York
 657: The King of Comedy
 
+==== Logan Marshall-Green ====
+SF-31: Spider-Man: Homecoming
+SF-82: Prometheus
+602: The Odyssey
+603: Toy Story 5
+
 ==== Lois Chiles ====
 63: Say Anything…
 154: Broadcast News
@@ -1972,6 +1960,12 @@ SF-205: Austin Powers: International Man of Mystery
 SF-3: Hulk Live
 206: Planet of the Apes
 SF-216: Terminator Salvation
+
+==== Lori Richardson ====
+164: The Incredibles
+166: Ratatouille
+SF-65e: Partysaurus Rex
+598: WALL-E
 
 ==== Louis Ortiz ====
 445: Fight Club
@@ -2071,9 +2065,9 @@ SF-264: Star Trek: Nemesis
 
 ==== Mario Machado ====
 143: RoboCop
-SF-311: Robocop
-SF-312: Robocop 2
-SF-314: Robocop 3
+SF-311: RoboCop
+SF-313: RoboCop 2
+SF-314: RoboCop 3
 
 ==== Marjean Holden ====
 93: The Lost World: Jurassic Park
@@ -2085,7 +2079,7 @@ SF-305: Mortal Kombat: Annihilation
 143: RoboCop
 144: Total Recall
 514: 1941
-SF-311: Robocop
+SF-311: RoboCop
 
 ==== Mark Dodson ====
 36: Star Wars: Return of the Jedi
@@ -2120,7 +2114,7 @@ SF-164: National Treasure
 ==== Mark Rolston ====
 77: Aliens
 SF-78: Aliens
-SF-312: Robocop 2
+SF-313: RoboCop 2
 669: The Departed
 
 ==== Mark Rylance ====
@@ -2139,7 +2133,7 @@ SF-194: The Little Drummer Girl
 135: Zero Dark Thirty
 417: Sunshine
 595: The Way Back
-600: John Carter
+599: John Carter
 
 ==== Mark Winn ====
 81: True Lies
@@ -2313,7 +2307,7 @@ SF-207: Austin Powers in Goldmember
 232: Castle in the Sky
 236: Princess Mononoke
 314: Treasure Planet
-597: A Bug's Life
+SF-315: A Bug's Life
 
 ==== Michael Paul Chan ====
 217: Thief
@@ -2785,9 +2779,9 @@ SF-121b: Body Bags
 
 ==== Robert DoQui ====
 143: RoboCop
-SF-311: Robocop
-SF-312: Robocop 2
-SF-314: Robocop 3
+SF-311: RoboCop
+SF-313: RoboCop 2
+SF-314: RoboCop 3
 
 ==== Robert Duvall ====
 12: The Judge
@@ -2823,7 +2817,7 @@ SF-200: Tomorrow Never Dies
 143: RoboCop
 144: Total Recall
 482: Beverly Hills Cop
-SF-311: Robocop
+SF-311: RoboCop
 
 ==== Rose Byrne ====
 13: Star Wars: Attack of the Clones
@@ -2879,12 +2873,6 @@ SF-46: Rogue One
 287: The Old Guard
 307: Allied
 
-==== Ryan Hurst ====
-95: Saving Private Ryan
-488: The Postman
-548: The Ladykillers
-603: The Odyssey
-
 ==== Sam Elliott ====
 178: Hulk
 186: A Star Is Born
@@ -2896,12 +2884,6 @@ SF-198: GoldenEye
 SF-200: Tomorrow Never Dies
 SF-202: The World Is Not Enough
 SF-203: Die Another Day
-
-==== Samantha Morton ====
-98: Minority Report
-569: Morvern Callar
-600: John Carter
-603: The Odyssey
 
 ==== Sandeep Mohan ====
 88: Rogue One: A Star Wars Story
@@ -2945,6 +2927,12 @@ SF-53b: American Graffiti
 252: Silence of the Lambs
 468: The Hunt For Red October
 
+==== Sean Avery ====
+306: teneT
+436: Oppenheimer
+602: The Odyssey
+603: Toy Story 5
+
 ==== Sean Cronin ====
 1: Star Wars: The Phantom Menace
 SF-73: Mission: Impossible - Rogue Nation
@@ -2979,7 +2967,7 @@ SF-233: Teenage Mutant Ninja Turtles: Mutant Mayhem
 159: As Good as It Gets
 465: Predator
 468: The Hunt For Red October
-SF-314: Robocop 3
+SF-314: RoboCop 3
 
 ==== Shaobo Qin ====
 SF-192: Ocean's Eleven
@@ -2992,12 +2980,6 @@ SF-196: Ocean's 8
 432: Sympathy for Mr. Vengeance
 434: Sympathy for Lady Vengeance
 438: Thirst
-
-==== Shirley Henderson ====
-250: The Rise of Skywalker
-SF-60: The Rise of Skywalker
-410: Trainspotting
-422: T2 Trainspotting
 
 ==== Shirley MacLaine ====
 153: Terms of Endearment
@@ -3083,11 +3065,11 @@ SF-300: Wicked
 233: My Neighbor Totoro
 236: Princess Mononoke
 
-==== Suzy Eddie Izzard ====
-SF-151: The Lego Batman Movie
-SF-193: Ocean's Twelve
-SF-195: Ocean’s Thirteen
-SF-286: Mystery Men
+==== Susan Egan ====
+235: Porco Rosso
+237: Spirited Away
+313: Hercules
+SF-266: Galaxy Quest
 
 ==== Sylvia Kauders ====
 276: This Is My Life
@@ -3189,7 +3171,7 @@ SF-57: The Last Jedi
 219: Manhunter
 221: Heat
 470: Last Action Hero
-SF-312: Robocop 2
+SF-313: RoboCop 2
 
 ==== Tom Riis Farrell ====
 66: Almost Famous
@@ -3370,12 +3352,6 @@ SF-140: The Matrix Resurrections
 169: Incredibles 2
 SF-46: Rogue One
 SF-225: Paranoia Agent
-
-==== Zendaya ====
-SF-31: Spider-Man: Homecoming
-SF-41: Spider-Man: Far From Home
-334: Space Jam: A New Legacy
-603: The Odyssey
 
 ==== Zhanè Samuels ====
 226b: Cats

@@ -1,15 +1,4 @@
 
-==== Annie Potts ====
-170: Family Dog - Amazing Stories
-SF-62: Toy Story
-SF-63: Toy Story 2
-SF-66: Toy Story 4
-SF-126: Ghostbusters
-SF-128: Ghostbusters II
-SF-129: Ghostbusters: Answer the Call
-SF-131: Ghostbusters: Afterlife
-633: Toy Story 5
-
 ==== Anthony Mackie ====
 134: The Hurt Locker
 136: Detroit
@@ -40,8 +29,8 @@ CD-11: One Battle After Another
 235: Porco Rosso
 SF-62: Toy Story
 SF-63: Toy Story 2
-SF-311: Robocop
-597: A Bug's Life
+SF-311: RoboCop
+SF-315: A Bug's Life
 
 ==== Carlos Alazraqui ====
 238: Howl's Moving Castle
@@ -51,8 +40,8 @@ SF-311: Robocop
 SF-64: Toy Story 3
 SF-65c: Small Fry
 SF-65e: Partysaurus Rex
-597: A Bug's Life
-598: Finding Nemo
+597: Finding Nemo
+SF-315: A Bug's Life
 
 ==== Charles Dance ====
 SF-79: Alien3
@@ -106,7 +95,7 @@ SF-278: The Crow
 302: A Christmas Carol
 436: Oppenheimer
 452: Mank
-SF-315: Robocop (2014)
+SF-316: Robocop (2014)
 SF-363: Bram Stoker's Dracula
 
 ==== Gene Borkan ====
@@ -138,9 +127,9 @@ SF-63: Toy Story 2
 SF-64: Toy Story 3
 SF-65d: Hawaiian Vacation
 SF-66: Toy Story 4
-597: A Bug's Life
-598: Finding Nemo
-633: Toy Story 5
+597: Finding Nemo
+598: WALL-E
+SF-315: A Bug's Life
 
 ==== Jennifer Darling ====
 163: The Iron Giant
@@ -150,8 +139,19 @@ SF-66: Toy Story 4
 311: The Little Mermaid
 312: Aladdin
 314: Treasure Planet
-597: A Bug's Life
-598: Finding Nemo
+597: Finding Nemo
+SF-315: A Bug's Life
+
+==== Jim Ward ====
+235: Porco Rosso
+237: Spirited Away
+SF-64: Toy Story 3
+SF-65c: Small Fry
+SF-65e: Partysaurus Rex
+314: Treasure Planet
+376: Spider-Man
+597: Finding Nemo
+598: WALL-E
 
 ==== John Turturro ====
 SF-152: The Batman
@@ -163,6 +163,17 @@ SF-152: The Batman
 591: Fearless
 656: Raging Bull
 659: The Color of Money
+
+==== Jorge Leon ====
+88: Rogue One: A Star Wars Story
+165: Solo: A Star Wars Story
+211: Dark Shadows
+SF-44: Solo
+SF-46: Rogue One
+287: The Old Guard
+SF-73: Mission: Impossible - Rogue Nation
+602: The Odyssey
+603: Toy Story 5
 
 ==== Josh Brolin ====
 149: Hollow Man
@@ -185,6 +196,17 @@ SF-177: Men in Black 3
 SF-138: The Matrix Revolutions
 SF-227: TMNT
 SF-303: Mortal Kombat (1995)
+
+==== Lupita Nyong'o ====
+37: Star Wars: The Force Awakens
+140: The Last Jedi
+SF-34: Black Panther
+250: The Rise of Skywalker
+SF-55: The Force Awakens
+SF-57: The Last Jedi
+SF-60: The Rise of Skywalker
+602: The Odyssey
+603: Toy Story 5
 
 ==== Meryl Streep ====
 97: A.I. Artificial Intelligence
@@ -361,17 +383,6 @@ SF-241: Twin Peaks (Season 2)
 507: Twin Peaks: The Return (Episode 8)
 508: Twin Peaks: The Return (Episodes 9-13)
 509: Twin Peaks: The Return (Episodes 14-18)
-
-==== Teddy Newton ====
-164: The Incredibles
-166: Ratatouille
-167: Mission: Impossible – Ghost Protocol
-169: Incredibles 2
-SF-64: Toy Story 3
-SF-65c: Small Fry
-SF-65e: Partysaurus Rex
-SF-72: Mission: Impossible - Ghost Protocol
-SF-73: Mission: Impossible - Rogue Nation
 
 ==== Timothy Dalton ====
 SF-64: Toy Story 3

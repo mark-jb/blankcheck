@@ -219,8 +219,9 @@ replacements = { "main": {
         "48": 10196,      # The Last Airbender
         "490": 1032823,      # Trap
         "512": 578,      # Jaws
-        "599": 39360,      # WALL-E
+        "598": 10681,      # WALL-E
         "662": 1598,      # Cape Fear
+        "673": 68730,      # Silence
     },
     "patreon": {
         "2": "1726",    # Iron Man

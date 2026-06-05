@@ -1,14 +1,4 @@
 
-==== Alan Harris ====
-34: Star Wars: A New Hope
-35: Star Wars: The Empire Strikes Back
-36: Star Wars: Return of the Jedi
-SF-48: Star Wars
-SF-50: The Empire Strikes Back
-SF-51: Return of the Jedi
-399: The Shining
-SF-267: Superman
-
 ==== Ana Maria Quintana ====
 66: Almost Famous
 67: Vanilla Sky
@@ -39,6 +29,26 @@ SF-269: Superman II
 SF-281: Judge Dredd
 587: Witness
 
+==== Annie Potts ====
+170: Family Dog - Amazing Stories
+SF-62: Toy Story
+SF-63: Toy Story 2
+SF-66: Toy Story 4
+SF-126: Ghostbusters
+SF-128: Ghostbusters II
+SF-129: Ghostbusters: Answer the Call
+SF-131: Ghostbusters: Afterlife
+
+==== Anthony Molinari ====
+80b: Jack Reacher: Never Go Back
+SF-38: Captain Marvel
+SF-41: Spider-Man: Far From Home
+257: Birds of Prey
+306: teneT
+452: Mank
+602: The Odyssey
+603: Toy Story 5
+
 ==== Bill Murray ====
 72: Aloha
 87: The Man Who Knew Too Little
@@ -58,16 +68,6 @@ SF-50: The Empire Strikes Back
 SF-51: Return of the Jedi
 SF-60: The Rise of Skywalker
 SF-151: The Lego Batman Movie
-
-==== Blake Clark ====
-SF-64: Toy Story 3
-SF-65d: Hawaiian Vacation
-SF-66: Toy Story 4
-332: Joe Dirt
-SF-276: The Mask
-547: Intolerable Cruelty
-548: The Ladykillers
-633: Toy Story 5
 
 ==== Brian Herring ====
 37: Star Wars: The Force Awakens
@@ -116,7 +116,7 @@ SF-201: David Fincher Music Videos
 225: Miami Vice
 SF-246: The Phantom of the Opera
 563: Is This Thing On?
-600: John Carter
+599: John Carter
 673: Silence
 
 ==== Cliff Curtis ====
@@ -147,7 +147,7 @@ SF-196: Ocean's 8
 327b: Shaft
 488: The Postman
 545: O Brother, Where Art Thou?
-SF-314: Robocop 3
+SF-314: RoboCop 3
 
 ==== Danny Mann ====
 241: Ponyo on the Cliff
@@ -157,7 +157,7 @@ SF-61: Babe
 271: Happy Feet Two
 SF-64: Toy Story 3
 SF-65e: Partysaurus Rex
-598: Finding Nemo
+597: Finding Nemo
 
 ==== Dave Chapman ====
 37: Star Wars: The Force Awakens
@@ -238,16 +238,6 @@ SF-174: Men in Black II
 SF-240: Ouija: Origin of Evil
 SF-279: Tank Girl
 SF-286: Mystery Men
-
-==== Ernie Hudson ====
-SF-126: Ghostbusters
-SF-128: Ghostbusters II
-SF-129: Ghostbusters: Answer the Call
-SF-131: Ghostbusters: Afterlife
-506: Twin Peaks: The Return (Episodes 1-7)
-SF-277: King Ralph
-SF-278: The Crow
-633: Toy Story 5
 
 ==== Everett McGill ====
 74: Under Siege 2: Dark Territory
@@ -349,6 +339,16 @@ SF-84: Alien: Covenant
 419: 127 Hours
 556: The Ballad of Buster Scruggs
 
+==== James Remar ====
+166: Ratatouille
+298: What Lies Beneath
+329: 2 Fast 2 Furious
+436: Oppenheimer
+SF-281: Judge Dredd
+SF-305: Mortal Kombat: Annihilation
+602: The Odyssey
+603: Toy Story 5
+
 ==== Jeff Bennett ====
 SF-17: Frankenweenie
 231: Nausicaä of the Valley of the Wind
@@ -366,8 +366,8 @@ SF-64: Toy Story 3
 SF-65d: Hawaiian Vacation
 SF-66: Toy Story 4
 SF-206: Austin Powers: The Spy Who Shagged Me
-SF-314: Robocop 3
-633: Toy Story 5
+598: WALL-E
+SF-314: RoboCop 3
 
 ==== Jennifer Jason Leigh ====
 142: Flesh+Blood
@@ -388,16 +388,6 @@ SF-51: Return of the Jedi
 SF-156: The Spy Who Loved Me
 SF-159: For Your Eyes Only
 SF-161: Octopussy
-
-==== Jim Ward ====
-235: Porco Rosso
-237: Spirited Away
-SF-64: Toy Story 3
-SF-65c: Small Fry
-SF-65e: Partysaurus Rex
-314: Treasure Planet
-376: Spider-Man
-598: Finding Nemo
 
 ==== John Boyega ====
 37: Star Wars: The Force Awakens
@@ -438,16 +428,6 @@ SF-44: Solo
 SF-55: The Force Awakens
 SF-57: The Last Jedi
 SF-60: The Rise of Skywalker
-
-==== Jorge Leon ====
-88: Rogue One: A Star Wars Story
-165: Solo: A Star Wars Story
-211: Dark Shadows
-SF-44: Solo
-SF-46: Rogue One
-287: The Old Guard
-SF-73: Mission: Impossible - Rogue Nation
-603: The Odyssey
 
 ==== Judi Dench ====
 213: Miss Peregrine's Home for Peculiar Children
@@ -507,17 +487,7 @@ SF-65c: Small Fry
 SF-65d: Hawaiian Vacation
 SF-65e: Partysaurus Rex
 SF-66: Toy Story 4
-633: Toy Story 5
-
-==== Lupita Nyong'o ====
-37: Star Wars: The Force Awakens
-140: The Last Jedi
-SF-34: Black Panther
-250: The Rise of Skywalker
-SF-55: The Force Awakens
-SF-57: The Last Jedi
-SF-60: The Rise of Skywalker
-603: The Odyssey
+598: WALL-E
 
 ==== Martin Short ====
 110: Clifford
@@ -538,6 +508,16 @@ SF-255: Star Trek: Generations
 SF-258: Star Trek: First Contact
 SF-262: Star Trek: Insurrection
 SF-264: Star Trek: Nemesis
+
+==== Michael G. Wilson ====
+SF-156: The Spy Who Loved Me
+SF-158: Moonraker
+SF-161: Octopussy
+SF-163: A View to a Kill
+SF-202: The World Is Not Enough
+SF-203: Die Another Day
+SF-289: The Living Daylights
+SF-289: The Living Daylights
 
 ==== Michael Stuhlbarg ====
 107: Lincoln
@@ -589,6 +569,16 @@ SF-258: Star Trek: First Contact
 SF-262: Star Trek: Insurrection
 SF-264: Star Trek: Nemesis
 
+==== Paul Eiding ====
+163: The Iron Giant
+169: Incredibles 2
+235: Porco Rosso
+237: Spirited Away
+314: Treasure Planet
+597: Finding Nemo
+598: WALL-E
+SF-315: A Bug's Life
+
 ==== Paul Lazar ====
 251: Married to the Mob
 252: Silence of the Lambs
@@ -626,8 +616,8 @@ SF-241: Twin Peaks (Season 2)
 499: Twin Peaks: Fire Walk
 506: Twin Peaks: The Return (Episodes 1-7)
 509: Twin Peaks: The Return (Episodes 14-18)
-SF-311: Robocop
-SF-314: Robocop 3
+SF-311: RoboCop
+SF-314: RoboCop 3
 
 ==== Rodger Bumpass ====
 163: The Iron Giant
@@ -637,7 +627,7 @@ SF-63: Toy Story 2
 300: The Polar Express
 314: Treasure Planet
 340: Escape from New York
-597: A Bug's Life
+SF-315: A Bug's Life
 
 ==== Sam Witwer ====
 37: Star Wars: The Force Awakens
