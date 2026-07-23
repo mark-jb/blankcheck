@@ -204,13 +204,14 @@ replacements = { "main": {
         "546": 10778,      # The man who wasn't there
         "548": 5516,      # The Ladykillers
         "552": 44264,      # True Grit
-        "603": 1368337,      # The Odyssey
+        "590": 1368337,      # The Odyssey
         "328": 16161,      # Baby Boy
         "382": 42618,      # Sweet Charity
         "424a": 32628,      # Three Ages
         "591": 10443,   # Fearless
-        "650": 42694,  # Who's that Knocking at my Door
-        "655": 12637,  # New York, New York
+        "593a": 42694,  # Who's that Knocking at my Door
+        "597": 12637,   # New York, New York
+        "615": 68730,   # Silence
         "999": 1120368,      # Horizon: An American Saga - Chapter 2
         "196": 4011,      # Beetlejuice
         "335": 631843,      # Old
@@ -219,9 +220,16 @@ replacements = { "main": {
         "48": 10196,      # The Last Airbender
         "490": 1032823,      # Trap
         "512": 578,      # Jaws
-        "598": 10681,      # WALL-E
+        "587": 10681,      # WALL-E
         "662": 1598,      # Cape Fear
         "673": 68730,      # Silence
+        "126": 350,      # The Devil Wears Prada
+        "413": 1907,      # The Beach
+        "425b": 32318,      # The Navigator
+        "458": 365620,      # Ferrari
+        "537": 73935,      # Vamps
+        "580": 10443,      # Fearless
+        "576": 9281,       # Witness
     },
     "patreon": {
         "2": "1726",    # Iron Man
@@ -244,6 +252,7 @@ replacements = { "main": {
         "55": "140607", # The Force Awakens
         "59": "136799", # Trolls
         "61": "9598",   # Babe
+        "62": "862",    # Toy Story
         "67": "954",    # Mission Impossible 1
         "69": "955",    # Mission Impossible 2
         "71": 45602,      # Disappearing Acts
@@ -329,15 +338,21 @@ replacements = { "main": {
         "291": 709,      # License to Kill
         "293": 24961,      # The Wiz
         "295": 13155,      # Return to OZ
-        "303": 9312,      # Mortal Kombat 1995
+        "302": 9312,      # Mortal Kombat 1995
         "278": 9495,      # The Crow
         "217": 1573,      # Die Hard 2: Die Harder
         "360": 138,    # Dracula (1931)
         "361": 11868,  # Dracula (1958)
         "362": 33521,  # Dracula (1979)
         "238b": 44239,      # The Alphabet
-        "306": 1517969,      # The Plumber
+        "305": 1517969,      # The Plumber
         "79": 8077,      # Alien³
+        "311b": 9447, # Babe Pig in the City LIVE
+        "316": 1576, # Resident Evil 2002
+        "324": 173897, # Resident Evil The Final Chapter
+        "327": 1423191, # Resident Evil 2026
+        "299": 402431,      # Wicked
+        "321": 35791,      # Resident Evil: Afterlife
     },
     "crit": {
     }

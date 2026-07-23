@@ -36,7 +36,8 @@ def add_feed(filename, shortform, dateformat):
             ep["feed"] = 'crit'
             ep["ep_num"] = str(ep_num_crit)
             ep_num_crit += 1
-        ep_num += 1
+        else:
+            ep_num += 1
         #print(ep)
         episodes.append(ep)
 

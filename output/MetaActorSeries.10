@@ -9,19 +9,7 @@ SF-57: The Last Jedi
 SF-60: The Rise of Skywalker
 458: Ferrari
 554: Inside Llewyn Davis
-673: Silence
-
-==== Alan Harris ====
-1: Star Wars: The Phantom Menace
-34: Star Wars: A New Hope
-35: Star Wars: The Empire Strikes Back
-36: Star Wars: Return of the Jedi
-SF-48: Star Wars
-SF-50: The Empire Strikes Back
-SF-51: Return of the Jedi
-399: The Shining
-SF-267: Superman
-SF-289: The Living Daylights
+615: Silence
 
 ==== Anthony Hopkins ====
 94: Amistad
@@ -35,6 +23,18 @@ SF-69: Mission: Impossible II
 493: The Elephant Man
 SF-363: Bram Stoker's Dracula
 
+==== Brad Pitt ====
+271: Happy Feet Two
+307: Allied
+SF-192: Ocean's Eleven
+SF-193: Ocean's Twelve
+SF-195: Ocean’s Thirteen
+443: Se7en
+445: Fight Club
+448: The Curious Case of Benjamin Button
+485: Meet Joe Black
+550: Burn After Reading
+
 ==== Bradley Cooper ====
 72: Aloha
 186: A Star Is Born
@@ -45,7 +45,7 @@ SF-40: Avengers: Endgame
 456: Maestro
 SF-242: Dungeons & Dragons: Honor Among Thieves
 SF-275: Superman (2025)
-563: Is This Thing On?
+562: Is This Thing On?
 
 ==== Carrie-Anne Moss ====
 54: The Matrix
@@ -80,8 +80,8 @@ SF-131: Ghostbusters: Afterlife
 SF-143: Batman: Mask of the Phantasm
 SF-211: The Terminator
 514: 1941
-655: New York, New York
-658: After Hours
+597: New York, New York
+600: After Hours
 
 ==== Don Rickles ====
 SF-62: Toy Story
@@ -93,7 +93,7 @@ SF-65c: Small Fry
 SF-65d: Hawaiian Vacation
 SF-65e: Partysaurus Rex
 SF-66: Toy Story 4
-664: Casino
+606: Casino
 
 ==== Grace Zabriskie ====
 12: The Judge
@@ -119,17 +119,29 @@ SF-70: Mission: Impossible III
 SF-207: Austin Powers in Goldmember
 548: The Ladykillers
 
+==== Gwyneth Paltrow ====
+SF-2: Iron Man
+SF-6: Iron Man 2
+SF-13: The Avengers
+SF-16: Iron Man 3
+SF-31: Spider-Man: Homecoming
+SF-35: Avengers: Infinity War
+SF-40: Avengers: Endgame
+443: Se7en
+SF-207: Austin Powers in Goldmember
+524: Hook
+
 ==== Harvey Keitel ====
 360: The Piano
 362: Holy Smoke!
 SF-164: National Treasure
 SF-166: National Treasure: Book of Secrets
-650: Who's That Knocking at My Door
-652: Mean Streets
-653: Alice Doesn't Live Here Anymore
-654: Taxi Driver
-660: The Last Temptation of Christ
-674: The Irishman
+593a: Who's That Knocking at My Door
+594: Mean Streets
+595: Alice Doesn't Live Here Anymore
+596: Taxi Driver
+602: The Last Temptation of Christ
+616: The Irishman
 
 ==== Helena Bonham Carter ====
 206: Planet of the Apes
@@ -165,7 +177,7 @@ SF-241: Twin Peaks (Season 2)
 203: Mars Attacks!
 267: The Witches of Eastwick
 399: The Shining
-669: The Departed
+611: The Departed
 
 ==== Jada Pinkett Smith ====
 55: The Matrix Reloaded
@@ -179,17 +191,17 @@ SF-138: The Matrix Revolutions
 SF-140: The Matrix Resurrections
 SF-177: Men in Black 3
 
-==== Jared Harris ====
-46: Lady in the Water
-107: Lincoln
-138: Lost in Space
-220: The Last of the Mohicans
-307: Allied
-353: The Ward
-SF-193: Ocean's Twelve
-448: The Curious Case of Benjamin Button
-553: A House of Dynamite
-676: What Happens at Night
+==== Jeff Pidgeon ====
+164: The Incredibles
+SF-62: Toy Story
+SF-63: Toy Story 2
+SF-64: Toy Story 3
+SF-65d: Hawaiian Vacation
+SF-66: Toy Story 4
+586: Finding Nemo
+587: WALL-E
+SF-314: A Bug's Life
+592: Toy Story 5
 
 ==== Jeremy Renner ====
 134: The Hurt Locker
@@ -202,6 +214,18 @@ SF-40: Avengers: Endgame
 SF-72: Mission: Impossible - Ghost Protocol
 SF-73: Mission: Impossible - Rogue Nation
 SF-175: 28 Weeks Later
+
+==== John Turturro ====
+SF-152: The Batman
+405: Monkeybone
+540: Miller's Crossing
+541: Barton Fink
+544: The Big Lebowski
+545: O Brother, Where Art Thou?
+580: Fearless
+591: In The Blink of an Eye
+598: Raging Bull
+601: The Color of Money
 
 ==== Johnny Depp ====
 51: The Buried Secret of M. Night Shyamalan
@@ -287,6 +311,30 @@ SF-60: The Rise of Skywalker
 306: teneT
 SF-207: Austin Powers in Goldmember
 
+==== Mona Marshall ====
+174b: Hotel Transylvania 2
+174c: Hotel Transylvania 3
+194a: Wreck-it Ralph
+237: Spirited Away
+241: Ponyo on the Cliff
+SF-65e: Partysaurus Rex
+314: Treasure Planet
+477: Millennium Actress
+SF-280: Fixed
+592: Toy Story 5
+
+==== Naomi Watts ====
+113: The Book of Henry
+269: Babe: Pig in the City
+SF-238h: Rabbits
+504: Mulholland Drive
+505: Inland Empire
+506: Twin Peaks: The Return (Episodes 1-7)
+508: Twin Peaks: The Return (Episodes 9-13)
+509: Twin Peaks: The Return (Episodes 14-18)
+SF-279: Tank Girl
+SF-311b: Babe: Pig in the City at The 28th Wisconsin Film Festival
+
 ==== Nicole Kidman ====
 197: Aquaman
 270: Happy Feet
@@ -320,8 +368,8 @@ SF-63: Toy Story 2
 312: Aladdin
 314: Treasure Planet
 315: The Princess and the Frog
-597: Finding Nemo
-SF-315: A Bug's Life
+586: Finding Nemo
+SF-314: A Bug's Life
 
 ==== Rick Avery ====
 117: Batman Begins
@@ -335,6 +383,18 @@ SF-25: Ant-Man
 SF-174: Men in Black II
 531: Look Who's Talking Too
 
+==== Robert Pattinson ====
+306: teneT
+SF-102: Twilight
+SF-103: New Moon
+SF-105: Eclipse
+SF-106: Breaking Dawn – Part 1
+SF-108: Breaking Dawn: Part 2
+SF-152: The Batman
+455: The Boy and the Heron
+569: Die My Love
+590: The Odyssey
+
 ==== Stephen Root ====
 SF-87: Crocodile Dundee II
 SF-204: The Empty Man
@@ -343,9 +403,9 @@ SF-204: The Empty Man
 549: No Country for Old Men
 556: The Ballad of Buster Scruggs
 557: The Tragedy of Macbeth
-597: Finding Nemo
-600: Finding Dory
-SF-314: RoboCop 3
+586: Finding Nemo
+SF-313: RoboCop 3
+589: Finding Dory
 
 ==== Teddy Newton ====
 164: The Incredibles
@@ -357,7 +417,7 @@ SF-65c: Small Fry
 SF-65e: Partysaurus Rex
 SF-72: Mission: Impossible - Ghost Protocol
 SF-73: Mission: Impossible - Rogue Nation
-598: WALL-E
+587: WALL-E
 
 ==== Tilda Swinton ====
 67: Vanilla Sky
@@ -369,7 +429,7 @@ SF-40: Avengers: Endgame
 453: The Killer
 550: Burn After Reading
 555: Hail, Caesar!
-573: We Need To Talk About Kevin
+567: We Need To Talk About Kevin
 
 ==== Tony Shalhoub ====
 161: How Do You Know
