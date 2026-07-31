@@ -332,7 +332,6 @@ replacements = { "main": {
         "260c": 10000306,  # Amazing Stories: The Mission
         "267": 1924,     # Superman
         "275": 1061474,   # Superman 2025
-        "277": 9495,      # The Crow
         "281": 9482,      # Judge Dredd
         "282": 11867,      # Barb Wire
         "291": 709,      # License to Kill
