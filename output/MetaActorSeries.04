@@ -261,13 +261,13 @@ SF-289: The Living Daylights
 144: Total Recall
 SF-214: Terminator 3: Rise of the Machines
 470: Last Action Hero
-604: Cape Fear
+605: Cape Fear
 
 ==== Bo Dietl ====
 276: This Is My Life
-603: Goodfellas
-614: The Wolf of Wall Street
-616: The Irishman
+604: Goodfellas
+620: The Wolf of Wall Street
+622: The Irishman
 
 ==== Bob Hoskins ====
 279: Michael
@@ -333,7 +333,7 @@ SF-196: Ocean's 8
 203: Mars Attacks!
 523: Always
 546: The Man Who Wasn't There
-611: The Departed
+616: The Departed
 
 ==== Brian Vernel ====
 37: Star Wars: The Force Awakens
@@ -387,7 +387,7 @@ SF-115: The Mummy (1999)
 23a: The Fantastic Four
 445: Fight Club
 SF-291: Licence to Kill
-606: Casino
+607: Casino
 
 ==== Carl Gottlieb ====
 512: Jaws
@@ -435,7 +435,7 @@ SF-40: Avengers: Endgame
 42: Unbreakable
 SF-229: Teenage Mutant Ninja Turtles (2014)
 553: A House of Dynamite
-611: The Departed
+616: The Departed
 
 ==== Charles Bartlett ====
 SF-61: Babe
@@ -614,8 +614,8 @@ SF-3: Hulk Live
 ==== Daniel Day-Lewis ====
 107: Lincoln
 220: The Last of the Mohicans
-605: The Age of Innocence
-609: Gangs of New York
+606: The Age of Innocence
+614: Gangs of New York
 
 ==== Daniel Eghan ====
 88: Rogue One: A Star Wars Story
@@ -663,7 +663,7 @@ SF-138: The Matrix Revolutions
 118: The Prestige
 499: Twin Peaks: Fire Walk
 509: Twin Peaks: The Return (Episodes 14-18)
-602: The Last Temptation of Christ
+603: The Last Temptation of Christ
 
 ==== David Byrd ====
 110: Clifford
@@ -797,11 +797,17 @@ SF-163: A View to a Kill
 457b: Aquaman and the Lost Kingdom
 555: Hail, Caesar!
 
+==== Don Amendolia ====
+202: Ed Wood
+497: Twin Peaks (Season 1)
+SF-241: Twin Peaks (Season 2)
+580: Fearless
+
 ==== Don Calfa ====
 151: Running Scared
 SF-241: Twin Peaks (Season 2)
 514: 1941
-597: New York, New York
+598: New York, New York
 
 ==== Don Murray ====
 SF-186: Conquest of the Planet of the Apes
@@ -809,11 +815,11 @@ SF-186: Conquest of the Planet of the Apes
 508: Twin Peaks: The Return (Episodes 9-13)
 509: Twin Peaks: The Return (Episodes 14-18)
 
-==== Donna Keegan ====
-143: RoboCop
-580: Fearless
-SF-310: RoboCop (1987)
-591: In The Blink of an Eye
+==== Donald Mustard ====
+250: The Rise of Skywalker
+SF-60: The Rise of Skywalker
+356: The Matrix Resurrections
+SF-140: The Matrix Resurrections
 
 ==== Douglas Smith ====
 SF-219: Terminator Genisys
@@ -869,6 +875,12 @@ SF-193: Ocean's Twelve
 SF-195: Ocean’s Thirteen
 SF-196: Ocean's 8
 
+==== Elsa Raven ====
+82: Titanic
+291: Back to the Future
+SF-260a: Twilight Zone: Kick the Can
+580: Fearless
+
 ==== Elya Baskin ====
 377: Spider-Man 2
 378: Spider-Man 3
@@ -886,12 +898,6 @@ SF-205: Austin Powers: International Man of Mystery
 215: Assassin's Creed
 SF-28: Doctor Strange
 SF-46: Rogue One
-
-==== Emi Tabata ====
-120: Inception
-598: Raging Bull
-615: Silence
-616: The Irishman
 
 ==== Emily Stofle ====
 SF-238i: Lady Blue Shanghai
@@ -1005,7 +1011,7 @@ SF-119: The Mummy: Tomb of the Dragon Emperor
 218: The Keep
 SF-245: Evita
 SF-289: The Living Daylights
-613: Hugo
+618: Hugo
 
 ==== Gareth Edwards ====
 88: Rogue One: A Star Wars Story
@@ -1049,6 +1055,12 @@ SF-286: Mystery Men
 472: The Thomas Crown Affair (1999)
 474: Rollerball
 
+==== George Memmoli ====
+SF-228b: Hot Tomorrows
+SF-317e: American Boy
+595: Mean Streets
+598: New York, New York
+
 ==== George Sasaki ====
 195: Pee-wee's Big Adventure
 SF-91: Star Trek II: The Wrath of Khan
@@ -1089,7 +1101,7 @@ SF-100: Star Trek VI: The Undiscovered Country
 109: The BFG
 121: The Dark Knight Rises
 215: Assassin's Creed
-613: Hugo
+618: Hugo
 
 ==== Grand L. Bush ====
 296: Forrest Gump
@@ -1119,7 +1131,7 @@ SF-131: Ghostbusters: Afterlife
 388: The Killing
 390: Spartacus
 528: Johnny Dangerously
-598: Raging Bull
+599: Raging Bull
 
 ==== Helen Mirren ====
 SF-110: F9
@@ -1137,7 +1149,7 @@ SF-67: Mission: Impossible
 SF-162: Doctor Sleep
 SF-240: Ouija: Origin of Evil
 516: E.T. the Extra-Terrestrial
-609: Gangs of New York
+614: Gangs of New York
 
 ==== Hiten Patel ====
 SF-41: Spider-Man: Far From Home
@@ -1161,7 +1173,7 @@ SF-177: Men in Black 3
 166: Ratatouille
 SF-76: Alien
 411: A Life Less Ordinary
-610: The Aviator
+615: The Aviator
 
 ==== Ice Cube ====
 323: Boyz n the Hood
@@ -1187,12 +1199,6 @@ SF-81: Alien: Resurrection
 498: Wild at Heart
 540: Miller's Crossing
 
-==== J.P. Manoux ====
-233: My Neighbor Totoro
-SF-192: Ocean's Eleven
-SF-206: Austin Powers: The Spy Who Shagged Me
-SF-266: Galaxy Quest
-
 ==== J.R. Horne ====
 471: Die Hard with a Vengeance
 545: O Brother, Where Art Thou?
@@ -1204,6 +1210,12 @@ SF-266: Galaxy Quest
 147: Showgirls
 SF-241: Twin Peaks (Season 2)
 546: The Man Who Wasn't There
+
+==== Jack O'Connell ====
+458: Ferrari
+535: 28 Years Later
+SF-294: 28 Years Later: The Bone Temple
+611: Ink
 
 ==== Jack Walsh ====
 SF-53a: THX-1138
@@ -1221,7 +1233,7 @@ SF-272: Superman IV: The Quest For Peace
 107: Lincoln
 211: Dark Shadows
 SF-315: Robocop (2014)
-612: Shutter Island
+617: Shutter Island
 
 ==== Jacob Batalon ====
 SF-31: Spider-Man: Homecoming
@@ -1229,11 +1241,11 @@ SF-35: Avengers: Infinity War
 SF-40: Avengers: Endgame
 SF-41: Spider-Man: Far From Home
 
-==== Jama Smith ====
-580: Fearless
-580: Fearless
-591: In The Blink of an Eye
-591: In The Blink of an Eye
+==== Jake Gyllenhaal ====
+179: Brokeback Mountain
+SF-41: Spider-Man: Far From Home
+447: Zodiac
+619: Remain
 
 ==== James Bacon ====
 SF-182: Planet of the Apes
@@ -1275,7 +1287,7 @@ SF-217: Die Hard 2: Die Harder
 297: Contact
 313: Hercules
 351: John Carpenter’s Vampires
-606: Casino
+607: Casino
 
 ==== Jamie Harris ====
 118: The Prestige
@@ -1377,7 +1389,7 @@ SF-140: The Matrix Resurrections
 58: Cloud Atlas
 104: Indiana Jones and the Kingdom of the Crystal Skull
 SF-272: Superman IV: The Quest For Peace
-609: Gangs of New York
+614: Gangs of New York
 
 ==== Jim Carrey ====
 302: A Christmas Carol
@@ -1410,16 +1422,16 @@ SF-50: The Empire Strikes Back
 427b: The General
 
 ==== Joe Pesci ====
-598: Raging Bull
-603: Goodfellas
-606: Casino
-616: The Irishman
+599: Raging Bull
+604: Goodfellas
+607: Casino
+622: The Irishman
 
 ==== Joe Spinell ====
 245b: Last Embrace
 246: Melvin and Howard
 251: Married to the Mob
-596: Taxi Driver
+597: Taxi Driver
 
 ==== Joel Kramer ====
 79: Terminator 2: Judgement Day
@@ -1448,8 +1460,8 @@ SF-295: Return to Oz
 ==== John Cenatiempo ====
 239: Joker
 329: 2 Fast 2 Furious
-611: The Departed
-616: The Irishman
+616: The Departed
+622: The Irishman
 
 ==== John Cothran ====
 323: Boyz n the Hood
@@ -1520,8 +1532,8 @@ SF-240: Ouija: Origin of Evil
 ==== John Rue ====
 108: Bridge of Spies
 141: The Post
-611: The Departed
-616: The Irishman
+616: The Departed
+622: The Irishman
 
 ==== John Singleton ====
 323: Boyz n the Hood
@@ -1575,7 +1587,7 @@ SF-364: Dracula 2000
 376: Spider-Man
 SF-177: Men in Black 3
 SF-252: Analyze That
-603: Goodfellas
+604: Goodfellas
 
 ==== Jude Ciccolella ====
 101: The Terminal
@@ -1593,7 +1605,7 @@ SF-241: Twin Peaks (Season 2)
 131: Strange Days
 278: Mixed Nuts
 SF-74: The Way of the Gun
-604: Cape Fear
+605: Cape Fear
 
 ==== Justin Chon ====
 SF-102: Twilight
@@ -1612,12 +1624,6 @@ SF-40: Avengers: Endgame
 179: Brokeback Mountain
 SF-6: Iron Man 2
 419: 127 Hours
-
-==== Kate McKinnon ====
-SF-65a: Toy Story of Terror
-SF-129: Ghostbusters: Answer the Call
-423: Yesterday
-589: Finding Dory
 
 ==== Katie Holmes ====
 117: Batman Begins
@@ -1677,7 +1683,7 @@ SF-276: The Mask
 SF-123: The Santa Clause 2
 SF-125: The Santa Clause 3
 500a: Goodrich
-606: Casino
+607: Casino
 
 ==== Kevin Spacey ====
 443: Se7en
@@ -1802,8 +1808,8 @@ SF-81: Alien: Resurrection
 ==== Leo Burmester ====
 78: The Abyss
 154: Broadcast News
-602: The Last Temptation of Christ
-609: Gangs of New York
+603: The Last Temptation of Christ
+614: Gangs of New York
 
 ==== Leo Lee ====
 297: Contact
@@ -1886,8 +1892,8 @@ SF-252: Analyze That
 ==== Liza Minnelli ====
 383: Cabaret
 SF-150: Liza with a Z
-597: New York, New York
-599: The King of Comedy
+598: New York, New York
+600: The King of Comedy
 
 ==== Lois Chiles ====
 63: Say Anything…
@@ -1947,7 +1953,7 @@ SF-245: Evita
 88: Rogue One: A Star Wars Story
 SF-28: Doctor Strange
 SF-46: Rogue One
-618: What Happens at Night
+624: What Happens at Night
 
 ==== Malcolm McDowell ====
 397: A Clockwork Orange
@@ -1974,10 +1980,10 @@ SF-121a: The Scorpion King
 SF-136: The Matrix Reloaded
 
 ==== Margo Winkler ====
-597: New York, New York
-599: The King of Comedy
-600: After Hours
-603: Goodfellas
+598: New York, New York
+600: The King of Comedy
+601: After Hours
+604: Goodfellas
 
 ==== Margot Kidder ====
 SF-267: Superman
@@ -1989,7 +1995,7 @@ SF-272: Superman IV: The Quest For Peace
 258b: The Manchurian Candidate
 259: Rachel Getting Married
 SF-204: The Empty Man
-616: The Irishman
+622: The Irishman
 
 ==== Marina Sirtis ====
 SF-255: Star Trek: Generations
@@ -2049,7 +2055,7 @@ SF-164: National Treasure
 77: Aliens
 SF-78: Aliens
 SF-312: RoboCop 2
-611: The Departed
+616: The Departed
 
 ==== Mark Rylance ====
 108: Bridge of Spies
@@ -2091,7 +2097,7 @@ SF-25: Ant-Man
 380: Oz the Great and Powerful
 SF-174: Men in Black II
 SF-207: Austin Powers in Goldmember
-614: The Wolf of Wall Street
+620: The Wolf of Wall Street
 
 ==== Martin Landau ====
 202: Ed Wood
@@ -2127,7 +2133,7 @@ SF-136: The Matrix Reloaded
 94: Amistad
 123: Interstellar
 297: Contact
-614: The Wolf of Wall Street
+620: The Wolf of Wall Street
 
 ==== Matthew Modine ====
 121: The Dark Knight Rises
@@ -2295,7 +2301,7 @@ SF-280: Fixed
 179: Brokeback Mountain
 380: Oz the Great and Powerful
 402: The Fabelmans
-612: Shutter Island
+617: Shutter Island
 
 ==== Mike Dopud ====
 167: Mission: Impossible – Ghost Protocol
@@ -2439,19 +2445,13 @@ SF-273: Superman Returns
 202: Ed Wood
 SF-66: Toy Story 4
 501: Lost Highway
-608: Bringing Out the Dead
+609: Bringing Out the Dead
 
 ==== Patricia Tallman ====
 110: Clifford
 333: Clifford 2: Hyper-Clifford
 371: Army of Darkness
 SF-205: Austin Powers: International Man of Mystery
-
-==== Patrick Kennedy ====
-103: Munich
-106: War Horse
-250: The Rise of Skywalker
-SF-60: The Rise of Skywalker
 
 ==== Paul Brooke ====
 36: Star Wars: Return of the Jedi
@@ -2518,6 +2518,12 @@ SF-174: Men in Black II
 166: Ratatouille
 SF-65a: Toy Story of Terror
 SF-65c: Small Fry
+
+==== Peter Weller ====
+143: RoboCop
+SF-310: RoboCop (1987)
+SF-312: RoboCop 2
+610: The Adventures of Cliff Booth
 
 ==== Peter Whitman ====
 SF-156: The Spy Who Loved Me
@@ -2591,6 +2597,12 @@ SF-28: Doctor Strange
 SF-50: The Empire Strikes Back
 493: The Elephant Man
 
+==== Rance Howard ====
+202: Ed Wood
+203: Mars Attacks!
+332: Joe Dirt
+580: Fearless
+
 ==== Ray Buffer ====
 81: True Lies
 178: Hulk
@@ -2649,7 +2661,7 @@ SF-51: Return of the Jedi
 205: Sleepy Hollow
 SF-269: Superman II
 SF-277: King Ralph
-613: Hugo
+618: Hugo
 
 ==== Rick Ducommun ====
 100: Blank Check
@@ -2697,7 +2709,7 @@ SF-202: The World Is Not Enough
 SF-121b: Body Bags
 350: Escape from L.A.
 352: Ghosts of Mars
-594: Mean Streets
+595: Mean Streets
 
 ==== Robert DoQui ====
 143: RoboCop
@@ -2723,23 +2735,23 @@ SF-53a: THX-1138
 508: Twin Peaks: The Return (Episodes 9-13)
 509: Twin Peaks: The Return (Episodes 14-18)
 
+==== Robert Uricola ====
+594a: Who's That Knocking at My Door
+SF-317a: What's a Nice Girl Like You Doing in a Place Like This?
+SF-317b: It's Not Just You Murray
+599: Raging Bull
+
 ==== Robin Bartlett ====
 73: Roadies
 402: The Fabelmans
 554: Inside Llewyn Davis
-612: Shutter Island
-
-==== Robin Pearson Rose ====
-188: What Women Want
-189: Something's Gotta Give
-580: Fearless
-591: In The Blink of an Eye
+617: Shutter Island
 
 ==== Roger Ashton-Griffiths ====
 361: The Portrait of a Lady
 364: Bright Star
 SF-277: King Ralph
-609: Gangs of New York
+614: Gangs of New York
 
 ==== Rolf Saxon ====
 95: Saving Private Ryan
@@ -2825,6 +2837,12 @@ SF-46: Rogue One
 SF-3: Hulk Live
 544: The Big Lebowski
 
+==== Sam Rockwell ====
+SF-6: Iron Man 2
+SF-223: Teenage Mutant Ninja Turtles
+SF-266: Galaxy Quest
+612: Ray Gunn
+
 ==== Samantha Bond ====
 SF-198: GoldenEye
 SF-200: Tomorrow Never Dies
@@ -2873,6 +2891,12 @@ SF-48: Star Wars
 SF-53a: THX-1138
 SF-53b: American Graffiti
 
+==== Scott Caan ====
+SF-192: Ocean's Eleven
+SF-193: Ocean's Twelve
+SF-195: Ocean’s Thirteen
+610: The Adventures of Cliff Booth
+
 ==== Scott Glenn ====
 218: The Keep
 244c: Fighting Mad
@@ -2901,7 +2925,7 @@ SF-233: Teenage Mutant Ninja Turtles: Mutant Mayhem
 239: Joker
 355: West Side Story (2021)
 378: Spider-Man 3
-616: The Irishman
+622: The Irishman
 
 ==== Shane Black ====
 159: As Good as It Gets
@@ -2969,12 +2993,6 @@ SF-270: Superman III
 SF-50: The Empire Strikes Back
 SF-272: Superman IV: The Quest For Peace
 
-==== Stephanie Erb ====
-148: Starship Troopers
-281: Lucky Numbers
-580: Fearless
-591: In The Blink of an Eye
-
 ==== Stephanie Silva ====
 140: The Last Jedi
 165: Solo: A Star Wars Story
@@ -2989,21 +3007,15 @@ SF-299: Wicked
 
 ==== Steve Routman ====
 554: Inside Llewyn Davis
-614: The Wolf of Wall Street
-616: The Irishman
-617: Killers of the Flower Moon
+620: The Wolf of Wall Street
+622: The Irishman
+623: Killers of the Flower Moon
 
 ==== Steve Valentine ====
 203: Mars Attacks!
 302: A Christmas Carol
 304: The Walk
 378: Spider-Man 3
-
-==== Steven Culp ====
-SF-19: Captain America: The Winter Soldier
-404: James and the Giant Peach
-580: Fearless
-591: In The Blink of an Eye
 
 ==== Steven Wright ====
 269: Babe: Pig in the City
@@ -3050,7 +3062,7 @@ SF-304: Mortal Kombat: Annihilation
 ==== Tatanka Means ====
 SF-107: The Host
 491: Horizon: An American Saga - Chapter 1
-617: Killers of the Flower Moon
+623: Killers of the Flower Moon
 999: Horizon: An American Saga – Chapter 2
 
 ==== Taylor Negron ====
@@ -3135,7 +3147,13 @@ SF-312: RoboCop 2
 66: Almost Famous
 277: Sleepless in Seattle
 484: Scent of a Woman
-608: Bringing Out the Dead
+609: Bringing Out the Dead
+
+==== Tom Waits ====
+SF-286: Mystery Men
+556: The Ballad of Buster Scruggs
+SF-363: Bram Stoker's Dracula
+612: Ray Gunn
 
 ==== Tom Willett ====
 246: Melvin and Howard
@@ -3221,12 +3239,6 @@ SF-55: The Force Awakens
 277: Sleepless in Seattle
 278: Mixed Nuts
 
-==== Victor Magnotta ====
-593a: Who's That Knocking at My Door
-596: Taxi Driver
-598: Raging Bull
-600: After Hours
-
 ==== Victor Rivers ====
 94: Amistad
 178: Hulk
@@ -3287,12 +3299,6 @@ SF-78: Aliens
 229: Blackhat
 SF-69: Mission: Impossible II
 
-==== William Newman ====
-374: For Love of the Game
-577: The Mosquito Coast
-580: Fearless
-591: In The Blink of an Eye
-
 ==== Wolf Kahler ====
 111: Wonder Woman
 218: The Keep
@@ -3304,12 +3310,6 @@ SF-69: Mission: Impossible II
 SF-25: Ant-Man
 334: Space Jam: A New Legacy
 SF-288: Dredd
-
-==== Yahya Abdul-Mateen II ====
-197: Aquaman
-356: The Matrix Resurrections
-SF-140: The Matrix Resurrections
-457b: Aquaman and the Lost Kingdom
 
 ==== Yuji Okumoto ====
 120: Inception

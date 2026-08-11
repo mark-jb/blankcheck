@@ -208,10 +208,8 @@ replacements = { "main": {
         "328": 16161,      # Baby Boy
         "382": 42618,      # Sweet Charity
         "424a": 32628,      # Three Ages
-        "591": 10443,   # Fearless
-        "593a": 42694,  # Who's that Knocking at my Door
-        "597": 12637,   # New York, New York
-        "615": 68730,   # Silence
+        "580": 10443,   # Fearless
+        "598": 12637,   # New York, New York
         "999": 1120368,      # Horizon: An American Saga - Chapter 2
         "196": 4011,      # Beetlejuice
         "335": 631843,      # Old
@@ -221,8 +219,9 @@ replacements = { "main": {
         "490": 1032823,      # Trap
         "512": 578,      # Jaws
         "587": 10681,      # WALL-E
-        "662": 1598,      # Cape Fear
-        "673": 68730,      # Silence
+        "605": 1598,      # Cape Fear
+        "594a": 42694,      # Whos that knocking at my door
+        "621": 68730,      # Silence
         "126": 350,      # The Devil Wears Prada
         "413": 1907,      # The Beach
         "425b": 32318,      # The Navigator
@@ -340,10 +339,12 @@ replacements = { "main": {
         "302": 9312,      # Mortal Kombat 1995
         "278": 9495,      # The Crow
         "217": 1573,      # Die Hard 2: Die Harder
+        "288": 49049,     # Dredd
         "360": 138,    # Dracula (1931)
         "361": 11868,  # Dracula (1958)
         "362": 33521,  # Dracula (1979)
         "238b": 44239,      # The Alphabet
+        "317e": 33470,      # American Boy
         "305": 1517969,      # The Plumber
         "79": 8077,      # Alien³
         "311b": 9447, # Babe Pig in the City LIVE

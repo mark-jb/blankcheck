@@ -15,7 +15,7 @@ SF-121a: The Scorpion King
 SF-195: Ocean’s Thirteen
 484: Scent of a Woman
 486: Gigli
-616: The Irishman
+622: The Irishman
 
 ==== Albert Brooks ====
 153: Terms of Endearment
@@ -24,7 +24,7 @@ SF-195: Ocean’s Thirteen
 560: Ella McCay
 586: Finding Nemo
 589: Finding Dory
-596: Taxi Driver
+597: Taxi Driver
 
 ==== Amy Adams ====
 53: Batman v Superman: Dawn of Justice
@@ -68,8 +68,8 @@ SF-16: Iron Man 3
 304: The Walk
 SF-209: The Love Guru
 526: Schindler's List
-612: Shutter Island
-613: Hugo
+617: Shutter Island
+618: Hugo
 
 ==== Benedict Cumberbatch ====
 106: War Horse
@@ -160,24 +160,6 @@ SF-241: Twin Peaks (Season 2)
 506: Twin Peaks: The Return (Episodes 1-7)
 508: Twin Peaks: The Return (Episodes 9-13)
 509: Twin Peaks: The Return (Episodes 14-18)
-
-==== Catherine Scorsese ====
-593a: Who's That Knocking at My Door
-594: Mean Streets
-599: The King of Comedy
-603: Goodfellas
-604: Cape Fear
-605: The Age of Innocence
-606: Casino
-
-==== Charles Scorsese ====
-598: Raging Bull
-599: The King of Comedy
-600: After Hours
-601: The Color of Money
-603: Goodfellas
-604: Cape Fear
-605: The Age of Innocence
 
 ==== Charlton Heston ====
 81: True Lies
@@ -350,15 +332,6 @@ SF-72: Mission: Impossible - Ghost Protocol
 405: Monkeybone
 448: The Curious Case of Benjamin Button
 
-==== Isabella Rossellini ====
-169: Incredibles 2
-295: Death Becomes Her
-SF-80c: Tales from the Crypt: You, Murderer
-496: Blue Velvet
-498: Wild at Heart
-580: Fearless
-591: In The Blink of an Eye
-
 ==== Jack Kehler ====
 130: Point Break
 SF-174: Men in Black II
@@ -415,12 +388,12 @@ SF-314: A Bug's Life
 
 ==== Jeff Bridges ====
 SF-2: Iron Man
+SF-41: Spider-Man: Far From Home
 343: Starman
 463: The Mirror Has Two Faces
 544: The Big Lebowski
 552: True Grit
 580: Fearless
-591: In The Blink of an Eye
 
 ==== Jenette Goldstein ====
 77: Aliens
@@ -456,7 +429,7 @@ SF-236: Dungeons & Dragons
 SF-198: GoldenEye
 SF-200: Tomorrow Never Dies
 SF-289: The Living Daylights
-604: Cape Fear
+605: Cape Fear
 
 ==== Joe Morton ====
 53: Batman v Superman: Dawn of Justice
@@ -491,8 +464,8 @@ SF-314: A Bug's Life
 SF-22: Guardians of the Galaxy
 374: For Love of the Game
 567: We Need To Talk About Kevin
-609: Gangs of New York
-610: The Aviator
+614: Gangs of New York
+615: The Aviator
 
 ==== John Cannon ====
 34: Star Wars: A New Hope
@@ -510,7 +483,7 @@ SF-269: Superman II
 SF-80c: Tales from the Crypt: You, Murderer
 385: All That Jazz
 SF-160: 2010: The Year We Make Contact
-617: Killers of the Flower Moon
+623: Killers of the Flower Moon
 
 ==== John Paxton ====
 373: A Simple Plan
@@ -539,23 +512,14 @@ SF-67: Mission: Impossible
 SF-164: National Treasure
 SF-166: National Treasure: Book of Secrets
 
-==== Jorge Leon ====
-88: Rogue One: A Star Wars Story
-165: Solo: A Star Wars Story
-211: Dark Shadows
-SF-44: Solo
-SF-46: Rogue One
-287: The Old Guard
-SF-73: Mission: Impossible - Rogue Nation
-
 ==== Joseph P. Reidy ====
 SF-252: Analyze That
-606: Casino
-608: Bringing Out the Dead
-609: Gangs of New York
-610: The Aviator
-611: The Departed
-612: Shutter Island
+607: Casino
+609: Bringing Out the Dead
+614: Gangs of New York
+615: The Aviator
+616: The Departed
+617: Shutter Island
 
 ==== Julene Renee ====
 82: Titanic
@@ -591,7 +555,7 @@ SF-309: Mortal Kombat II
 SF-55: The Force Awakens
 335: Old
 500b: Joker: Folie à Deux
-607: Kundun
+608: Kundun
 
 ==== Kirk Thornton ====
 174b: Hotel Transylvania 2
@@ -636,7 +600,7 @@ SF-65a: Toy Story of Terror
 283: Julie & Julia
 SF-177: Men in Black 3
 554: Inside Llewyn Davis
-616: The Irishman
+622: The Irishman
 
 ==== Marion Cotillard ====
 120: Inception
@@ -663,7 +627,7 @@ SF-55: The Force Awakens
 SF-128: Ghostbusters II
 494: Dune
 SF-281: Judge Dredd
-612: Shutter Island
+617: Shutter Island
 
 ==== Mel Gibson ====
 43: Signs
@@ -735,7 +699,7 @@ SF-3: Hulk Live
 268: Lorenzo's Oil
 462: The Prince of Tides
 569: Die My Love
-604: Cape Fear
+605: Cape Fear
 
 ==== Oscar Isaac ====
 37: Star Wars: The Force Awakens
@@ -767,11 +731,11 @@ SF-271: Look Who's Talking Now
 ==== Paul Herman ====
 221: Heat
 SF-252: Analyze That
-601: The Color of Money
-602: The Last Temptation of Christ
-603: Goodfellas
-606: Casino
-616: The Irishman
+602: The Color of Money
+603: The Last Temptation of Christ
+604: Goodfellas
+607: Casino
+622: The Irishman
 
 ==== Paul Kasey ====
 88: Rogue One: A Star Wars Story
@@ -843,7 +807,7 @@ SF-279: Tank Girl
 513: Close Encounters of the Third Kind
 SF-260b: Amazing Stories: Ghost Train
 523: Always
-602: The Last Temptation of Christ
+603: The Last Temptation of Christ
 
 ==== Roger Moore ====
 SF-154: Live and Let Die
@@ -885,10 +849,10 @@ SF-23: Avengers: Age of Ultron
 99: Catch Me If You Can
 141: The Post
 201: Batman Returns
-612: Shutter Island
-614: The Wolf of Wall Street
-616: The Irishman
-617: Killers of the Flower Moon
+617: Shutter Island
+620: The Wolf of Wall Street
+622: The Irishman
+623: Killers of the Flower Moon
 
 ==== Steven Spielberg ====
 67: Vanilla Sky
@@ -915,7 +879,7 @@ SF-32: Thor: Ragnarok
 SF-237: Battleship
 SF-306: Mortal Kombat (2021)
 SF-309: Mortal Kombat II
-615: Silence
+621: Silence
 
 ==== Tara Strong ====
 61: The Animatrix
@@ -974,11 +938,11 @@ SF-255: Star Trek: Generations
 ==== Welker White ====
 276: This Is My Life
 578: Dead Poets Society
-603: Goodfellas
-614: The Wolf of Wall Street
-616: The Irishman
-617: Killers of the Flower Moon
-618: What Happens at Night
+604: Goodfellas
+620: The Wolf of Wall Street
+622: The Irishman
+623: Killers of the Flower Moon
+624: What Happens at Night
 
 ==== Wes Studi ====
 85: Avatar
@@ -1013,5 +977,5 @@ SF-255: Star Trek: Generations
 SF-17: Frankenweenie
 SF-81: Alien: Resurrection
 495: Beetlejuice Beetlejuice
+606: The Age of Innocence
 SF-363: Bram Stoker's Dracula
-605: The Age of Innocence
