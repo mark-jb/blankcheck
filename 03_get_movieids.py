@@ -340,9 +340,9 @@ replacements = { "main": {
         "278": 9495,      # The Crow
         "217": 1573,      # Die Hard 2: Die Harder
         "288": 49049,     # Dredd
-        "360": 138,    # Dracula (1931)
-        "361": 11868,  # Dracula (1958)
-        "362": 33521,  # Dracula (1979)
+        "327": 138,    # Dracula (1931)
+        "328": 11868,  # Dracula (1958)
+        "330": 33521,  # Dracula (1979)
         "238b": 44239,      # The Alphabet
         "317e": 33470,      # American Boy
         "305": 1517969,      # The Plumber
@@ -350,9 +350,11 @@ replacements = { "main": {
         "311b": 9447, # Babe Pig in the City LIVE
         "316": 1576, # Resident Evil 2002
         "324": 173897, # Resident Evil The Final Chapter
-        "327": 1423191, # Resident Evil 2026
+        "326b": 1423191, # Resident Evil 2026
         "299": 402431,      # Wicked
         "321": 35791,      # Resident Evil: Afterlife
+        "323a": 10000401,  # Amazing Stories: Mirror Mirror
+        "323b": 10000402,  # New York Stories: Life Lessons
     },
     "crit": {
     }
