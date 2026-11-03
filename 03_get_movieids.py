@@ -229,6 +229,10 @@ replacements = { "main": {
         "537": 73935,      # Vamps
         "580": 10443,      # Fearless
         "576": 9281,       # Witness
+        "510": 839,      # Duel
+        "584": 49009,      # The Way Back
+        "607": 524,      # Casino
+        "619": 1425859,  # Remain
     },
     "patreon": {
         "2": "1726",    # Iron Man
@@ -350,7 +354,7 @@ replacements = { "main": {
         "311b": 9447, # Babe Pig in the City LIVE
         "316": 1576, # Resident Evil 2002
         "324": 173897, # Resident Evil The Final Chapter
-        "326b": 1423191, # Resident Evil 2026
+        "325b": 1423191, # Resident Evil 2026
         "299": 402431,      # Wicked
         "321": 35791,      # Resident Evil: Afterlife
         "323a": 10000401,  # Amazing Stories: Mirror Mirror
